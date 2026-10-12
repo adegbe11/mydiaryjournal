@@ -1,0 +1,93 @@
+{
+  "slug": "prayer-journal-template",
+  "keyword": "prayer journal template",
+  "type": "template",
+  "title": "Free Prayer Journal Template (Fill In Online or Print)",
+  "description": "A free prayer journal template you can fill in online and print or save as a PDF. Sections for scripture, praise, prayer requests and answered prayers.",
+  "h1": "Free prayer journal template",
+  "crumb": "Prayer journal template",
+  "card": "Fill in online or print",
+  "eyebrow": "Prayer journal",
+  "intro": "Fill in this prayer journal template right here, then print it or save it as a PDF. It has a place for the verse you read, what you are thankful for, the people you are praying for, and the prayers God has answered.",
+  "template": {
+    "key": "prayer-journal",
+    "name": "My prayer journal",
+    "fields": [
+      {"label": "Scripture I read today", "hint": "Psalm 23, Philippians 4:6...", "lines": 2},
+      {"label": "What God showed me", "hint": "One thing that stood out to me", "lines": 3},
+      {"label": "Thank you, Lord, for", "hint": "1.  2.  3.", "lines": 3},
+      {"label": "I am praying for", "hint": "Names and needs", "lines": 4},
+      {"label": "Help me with", "hint": "What I am carrying today", "lines": 3},
+      {"label": "Answered prayers", "hint": "What God did, and when", "lines": 2}
+    ]
+  },
+  "related": ["prayer-journal-prompts", "how-to-start-a-prayer-journal", "prayer-journal-examples", "prayer-journal-acts", "prayer-journal-ideas", "prayer-journal-for-women"],
+  "sections": [
+    {
+      "h2": "What is in this prayer journal template",
+      "blocks": [
+        {"p": "Each part of the page has one job. Together they walk you through a simple time of prayer from start to finish."},
+        {"ul": [
+          "**Scripture I read today.** Write the reference of the passage you read, so you can find it again.",
+          "**What God showed me.** One sentence about what stood out. It does not have to be deep.",
+          "**Thank you, Lord, for.** Three things you are thankful for. Starting with thanks changes the tone of the whole prayer.",
+          "**I am praying for.** The names of people and what they need. This becomes your prayer list.",
+          "**Help me with.** Your own worries and needs, said plainly.",
+          "**Answered prayers.** When God answers, write it here with the date. This is the part you will treasure later."
+        ]}
+      ]
+    },
+    {
+      "h2": "How to use it",
+      "blocks": [
+        {"steps": [
+          {"name": "Find a quiet five minutes", "text": "Morning before the house wakes up, a lunch break, or just before bed. Keep it short so you come back tomorrow."},
+          {"name": "Read a short passage", "text": "A psalm, a few verses from a gospel, or the verse of the week. Write the reference at the top."},
+          {"name": "Fill in each section in order", "text": "Thank Him first, then pray for others, then bring your own needs. Write the way you talk."},
+          {"name": "Print it or keep it here", "text": "Your answers save in this browser on this device. Use Print to keep a paper copy in a binder."},
+          {"name": "Look back each month", "text": "Read your old pages and move answered prayers into the last section. It builds faith to see what God has done."}
+        ]},
+        {"verse": "Philippians 4:6"}
+      ]
+    },
+    {
+      "h2": "A filled in example",
+      "blocks": [
+        {"p": "Here is how one page might look. Yours can be shorter."},
+        {"example": {"label": "Prayer journal", "date": "Monday, October 6", "title": "Dear Lord,", "text": "Scripture: Psalm 46:1-3\nYou showed me that You are near even when things shake.\nThank You for rest, for my sister's call, for sunshine.\nPraying for: Mum's surgery Thursday. Daniel at his new school.\nHelp me with: worry about money this month.\nAnswered: Sarah got the job! (Oct 2)"}}
+      ]
+    },
+    {
+      "h2": "Tips for printing your template",
+      "blocks": [
+        {"ul": [
+          "Use **Print**, then choose **Save as PDF** to keep a digital copy, or print on regular paper.",
+          "Print a few blank pages at once and keep them in a binder with dividers for each month.",
+          "Card stock makes pages last longer if you carry them in your Bible.",
+          "Leave the answered prayers section blank at first and fill it in over the following weeks."
+        ]},
+        {"tip": "Want a page for a specific person or need? Try the [prayer journal for your husband](/prayer-journal-for-husband/), [prayers for your children](/prayer-journal-for-your-children/), or the [ACTS prayer journal](/prayer-journal-acts/)."}
+      ]
+    },
+    {
+      "h2": "Other ways to set up a prayer journal",
+      "blocks": [
+        {"p": "This template follows a simple order: read, thank, ask, remember. Some people prefer other methods."},
+        {"ul": [
+          "**ACTS.** Adoration, Confession, Thanksgiving, Supplication. See the [ACTS prayer journal](/prayer-journal-acts/).",
+          "**SOAP.** Scripture, Observation, Application, Prayer. Good if your prayer time starts in the Bible.",
+          "**A prayer list by day.** Pray for family on Monday, church on Tuesday and so on. See [prayer journal ideas](/prayer-journal-ideas/).",
+          "**Letters to God.** No sections at all, just write to Him like a letter."
+        ]},
+        {"p": "If you would like a guided year of prayer, the [Prayer Journal for Women](/prayer-journal-for-women/) app gives you a Bible verse, reflection and prayer page every week."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Is this prayer journal template free?", "a": "Yes. You can fill it in online, print it, or save it as a PDF for free. There is no sign up and no email needed."},
+    {"q": "Where are my answers saved?", "a": "Your answers are saved in your browser on this device only. They are not sent to us. If you clear your browser data they will be removed, so print or save a PDF of pages you want to keep."},
+    {"q": "What should I write in a prayer journal?", "a": "Start with a verse you read, then write what you are thankful for, who you are praying for and what you need help with. When God answers, write it down with the date. Our [prayer journal prompts](/prayer-journal-prompts/) can help on days when words do not come."},
+    {"q": "How do I make a printable prayer journal?", "a": "Fill in this template or leave it blank, press Print, and choose your printer or Save as PDF. Print several blank copies and keep them in a binder or folder."},
+    {"q": "How often should I use a prayer journal?", "a": "There is no rule. Many people write a short entry every day, others once a week. A few honest lines often is better than a long entry now and then."}
+  ]
+}

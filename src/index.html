@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free Online Diary: Private, No Sign Up · My Diary Journal</title>
+<meta name="description" content="Write in a free online diary that feels like paper. Private, no sign up, saved on your own device. Lock it with a password PIN, print any page or save it as a PDF.">
+<link rel="canonical" href="https://mydiaryjournal.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="My Diary Journal">
+<meta property="og:title" content="Free Online Diary · My Diary Journal">
+<meta property="og:description" content="A free, private online diary that feels like paper. No sign up.">
+<meta property="og:url" content="https://mydiaryjournal.com/">
+<meta property="og:image" content="https://mydiaryjournal.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FBF6EF">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="preload" href="/assets/dancing_script.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/assets/caveat.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="/assets/site.css?v=11">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"WebSite","name":"My Diary Journal","url":"https://mydiaryjournal.com/"},
+{"@type":"Organization","name":"My Diary Journal","url":"https://mydiaryjournal.com/","logo":"https://mydiaryjournal.com/assets/app-icon.webp"},
+{"@type":"WebApplication","name":"My Diary Journal","url":"https://mydiaryjournal.com/","applicationCategory":"LifestyleApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"A free, private online diary. No sign up. Pages are saved on your own device."},
+{"@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"Is this online diary really free?","acceptedAnswer":{"@type":"Answer","text":"Yes. The diary is free to use with no sign up, no account and no ads in the diary."}},
+{"@type":"Question","name":"Is my online diary private?","acceptedAnswer":{"@type":"Answer","text":"Your pages are saved in your web browser on your own device. They are not sent to us or stored on a server, so we cannot read them."}},
+{"@type":"Question","name":"Can I put a password on my diary?","acceptedAnswer":{"@type":"Answer","text":"Yes. Tap Lock to set a PIN. The diary will ask for it each time it opens on this device. The PIN keeps the diary closed on a shared computer. It is not encryption, so keep your device itself locked too."}},
+{"@type":"Question","name":"Can I use my diary on another phone or computer?","acceptedAnswer":{"@type":"Answer","text":"Pages stay on the device and browser where you wrote them. There is no syncing, which is part of what keeps them private. Print a page or save it as a PDF to keep a copy anywhere."}},
+{"@type":"Question","name":"What happens if I clear my browser?","acceptedAnswer":{"@type":"Answer","text":"Clearing your browser data or using a private window removes saved pages. Print or save a PDF of pages you want to keep for good."}}
+]}
+]}
+</script>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="My Diary Journal home">
+      <svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><g fill="#E0909E"><ellipse cx="32" cy="18" rx="9" ry="13"/><ellipse cx="32" cy="46" rx="9" ry="13"/><ellipse cx="18" cy="32" rx="13" ry="9"/><ellipse cx="46" cy="32" rx="13" ry="9"/></g><circle cx="32" cy="32" r="6" fill="#D9A441"/></svg>
+      <span class="script">My Diary Journal</span>
+    </a>
+    <nav class="main" aria-label="Main">
+      <a href="/diary/">Diary</a>
+      <a href="/journal-prompts/">Journal prompts</a>
+      <a href="/prayer-journal/">Prayer journal</a>
+      <a href="/journal-template/">Templates</a>
+    </nav>
+    <details class="menu"><summary aria-label="Menu"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"/></svg></summary><nav aria-label="Menu"><a href="/diary/">Diary</a><a href="/journal-prompts/">Journal prompts</a><a href="/prayer-journal/">Prayer journal</a><a href="/journal-template/">Templates</a></nav></details>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Free online diary</div>
+        <h1>Your private online diary</h1>
+        <p class="lead">Write about your day on a page that feels like paper. No sign up.</p>
+        <ul class="ticks">
+          <li><svg width="26" height="26" viewBox="0 0 26 26"><path d="M4 14c3 2 5 5 6 7 3-7 7-12 12-17" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Saved on your own device</li>
+          <li><svg width="26" height="26" viewBox="0 0 26 26"><path d="M4 14c3 2 5 5 6 7 3-7 7-12 12-17" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Lock it with a PIN</li>
+          <li><svg width="26" height="26" viewBox="0 0 26 26"><path d="M4 14c3 2 5 5 6 7 3-7 7-12 12-17" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Print or save as PDF</li>
+        </ul>
+      </div>
+
+      <div class="paper diary" id="write" data-kind="diary">
+        <div class="spine"></div>
+        <div class="margin"></div>
+        <div class="ribbon" aria-hidden="true"></div>
+        <div class="tape" style="--c: var(--tape-sage); top:-16px; left:38%; transform: rotate(-3deg)"></div>
+        <div class="page-head"><span class="eyebrow">Today</span><span class="hand date"></span></div>
+        <input class="page-title" placeholder="Dear diary," aria-label="Page title">
+        <p class="diary-prompt hand" hidden style="font-size:24px; color: var(--soft); margin: 2px 0 6px"></p>
+        <textarea class="lined" rows="8" placeholder="What happened today?" aria-label="Write your diary entry"></textarea>
+        <div class="bar"></div>
+        <div class="pages"></div>
+      </div>
+    </section>
+  </div>
+
+  <section class="block">
+    <div class="wrap">
+      <div class="eyebrow">Start with a page</div>
+      <h2>What do you want to write?</h2>
+      <div class="cards">
+        <a class="card" href="/daily-diary/" data-start="My day" data-hint="Today I felt ___ because ___"><div class="tape" style="--c: var(--tape-rose); transform: rotate(-3deg)"></div><h3>Daily diary</h3><p>What happened today?</p></a>
+        <a class="card" href="/gratitude-journal/" data-start="Thank you for" data-hint="1.&#10;2.&#10;3."><div class="tape" style="--c: var(--tape-sage); transform: rotate(2deg)"></div><h3>Gratitude journal</h3><p>Three good things</p></a>
+        <a class="card" href="/dream-journal/" data-start="Last night I dreamed" data-hint="Where was I? Who was there? How did I feel when I woke up?"><div class="tape" style="--c: var(--tape-gold); transform: rotate(-2deg)"></div><h3>Dream journal</h3><p>Before you forget it</p></a>
+        <a class="card" href="/mood-journal/" data-start="How I feel" data-hint="Right now I feel... It started when..."><div class="tape" style="--c: var(--tape-gold); transform: rotate(3deg)"></div><h3>Mood journal</h3><p>Name how you feel</p></a>
+        <a class="card" href="/one-line-a-day-journal/" data-start="One line" data-hint="One line about today."><div class="tape" style="--c: var(--tape-rose); transform: rotate(-2deg)"></div><h3>One line a day</h3><p>Just one sentence</p></a>
+        <a class="card" href="/prayer-journal-template/" data-start="Dear Lord," data-hint="Thank you for... Please help... I trust you with..."><div class="tape" style="--c: var(--tape-sage); transform: rotate(2deg)"></div><h3>Prayer journal</h3><p>Talk to God on paper</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" style="padding-top: 8px">
+    <div class="wrap narrow prose">
+      <div class="eyebrow">How it works</div>
+      <h2 style="margin-top:8px">A free online diary that stays private</h2>
+      <p>Most online diaries ask you to make an account, then keep your writing on their servers. This one does not. Your pages are saved in your own web browser on the device you are using, so nothing you write is sent to us. There is no sign up, no email and no password to remember unless you choose a PIN.</p>
+      <ol class="steps">
+        <li><strong>Start writing</strong>Type a title and write on the lines. Each page is dated for you.</li>
+        <li><strong>It saves as you type</strong>Close the tab and come back later. Your page is still there on this device.</li>
+        <li><strong>Find old pages</strong>Tap My pages to see everything you have written, newest first.</li>
+        <li><strong>Lock it if you share a computer</strong>Tap Lock and choose a PIN. The diary asks for it each time it opens.</li>
+        <li><strong>Keep a copy</strong>Tap Print to print a page or save it as a PDF.</li>
+      </ol>
+
+      <h2>What to write in your diary</h2>
+      <p>Write what happened, how it made you feel, and one thing you want to remember. Three sentences is a real diary entry. If you get stuck, try our <a href="/diary-ideas/">diary ideas</a>, <a href="/journal-prompts/">journal prompts</a> or <a href="/diary-entry-examples/">diary entry examples</a>. New to this? Read <a href="/how-to-write-a-diary/">how to write a diary</a>.</p>
+
+      <h2>Questions people ask</h2>
+      <div class="faq">
+        <details><summary>Is this online diary really free?</summary><div><p>Yes. The diary is free to use with no sign up, no account and no ads in the diary.</p></div></details>
+        <details><summary>Is my online diary private?</summary><div><p>Your pages are saved in your web browser on your own device. They are not sent to us or stored on a server, so we cannot read them.</p></div></details>
+        <details><summary>Can I put a password on my diary?</summary><div><p>Yes. Tap Lock to set a PIN. The diary will ask for it each time it opens on this device. The PIN keeps the diary closed on a shared computer. It is not encryption, so keep your device itself locked too. See <a href="/private-diary-with-lock/">private diary with lock</a>.</p></div></details>
+        <details><summary>Can I use my diary on another phone or computer?</summary><div><p>Pages stay on the device and browser where you wrote them. There is no syncing, which is part of what keeps them private. Print a page or save it as a PDF to keep a copy anywhere.</p></div></details>
+        <details><summary>What happens if I clear my browser?</summary><div><p>Clearing your browser data or using a private window removes saved pages. Print or save a PDF of pages you want to keep for good.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" style="padding-top: 24px">
+    <div class="wrap">
+      <div class="app">
+        <div>
+          <div class="eyebrow">Our Android app</div>
+          <h2>Prayer Journal for Women</h2>
+          <p>52 weeks of Bible verses, reflection and prayer. A prayer list, answered prayers and a page for every day.</p>
+          <div class="row">
+            <a class="play" href="/prayer-journal-for-women/">
+              <svg width="22" height="24" viewBox="0 0 22 24" aria-hidden="true"><path d="M1 1l12 11L1 23c-.6-.3-1-1-1-1.7V2.7C0 2 .4 1.3 1 1z" fill="#34A853"/><path d="M17 8l-4 4 4 4 4-2.3c1.2-.7 1.2-2.7 0-3.4z" fill="#FBBC04"/><path d="M1 1l12 11 4-4L3.2.4C2.4-.1 1.6 0 1 1z" fill="#4285F4"/><path d="M13 12L1 23c.6.6 1.4.7 2.2.3L17 16z" fill="#EA4335"/></svg>
+              <span><small>Coming soon on</small>Google Play</span>
+            </a>
+            <a href="/prayer-journal-for-women/">See the app</a>
+          </div>
+        </div>
+        <div class="phones">
+          <div class="phone a"><div class="tape" style="--c: var(--tape-sage); transform: rotate(4deg)"></div><img src="/assets/app-home.webp" alt="Prayer Journal for Women home screen with this week's Bible verse" width="540" height="1212" loading="lazy"></div>
+          <div class="phone b"><div class="tape" style="--c: var(--tape-gold); transform: rotate(-3deg)"></div><img src="/assets/app-prayers.webp" alt="Prayer list with pinned and ongoing prayers" width="540" height="1212" loading="lazy"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="wrap">
+      <div class="links">
+        <div>
+          <h3>Diary</h3>
+          <ul>
+            <li><a href="/how-to-write-a-diary/">How to write a diary</a></li>
+            <li><a href="/diary-entry-examples/">Diary entry examples</a></li>
+            <li><a href="/diary-ideas/">Diary ideas</a></li>
+            <li><a href="/diary-template/">Diary template</a></li>
+            <li><a href="/diary/">All diary guides</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Journal</h3>
+          <ul>
+            <li><a href="/journal-prompts/">Journal prompts</a></li>
+            <li><a href="/what-to-write-in-a-journal/">What to write in a journal</a></li>
+            <li><a href="/how-to-start-a-journal/">How to start a journal</a></li>
+            <li><a href="/journal-ideas/">Journal ideas</a></li>
+            <li><a href="/journal/">All journal guides</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Prayer journal</h3>
+          <ul>
+            <li><a href="/prayer-journal-prompts/">Prayer journal prompts</a></li>
+            <li><a href="/prayer-journal-template/">Prayer journal template</a></li>
+            <li><a href="/how-to-start-a-prayer-journal/">How to start a prayer journal</a></li>
+            <li><a href="/bible-journal/">Bible journal</a></li>
+            <li><a href="/prayer-journal/">All prayer journal guides</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span class="script">My Diary Journal</span>
+    <span>© 2026 My Diary Journal<a href="/about/">About</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></span>
+  </div>
+</footer>
+<script src="/assets/site.js?v=11" defer></script>
+</body>
+</html>

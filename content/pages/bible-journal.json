@@ -1,0 +1,117 @@
+{
+  "slug": "bible-journal",
+  "keyword": "bible journal",
+  "type": "template",
+  "title": "Bible Journal: Free Template, Ideas and Examples",
+  "description": "What a Bible journal is, a free Bible journal template to fill in and print, 12 Bible journal ideas, two filled examples, and tips for beginners.",
+  "h1": "Bible journal: free template, ideas and examples",
+  "crumb": "Bible journal",
+  "card": "Study and write the Word",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "A **Bible journal** is a notebook where you write about what you read in Scripture: the passage, what it means, questions you have, and how it applies to your life. Fill in the free Bible journal template below, then print it or save it as a PDF.",
+  "template": {
+    "key": "bible-journal",
+    "name": "My Bible journal",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Passage", "hint": "Book, chapter and verses", "lines": 1},
+      {"label": "What happens or what is said", "hint": "Summary in my own words", "lines": 3},
+      {"label": "Key verse", "hint": "The verse I want to remember", "lines": 2},
+      {"label": "What I learn about God", "hint": "His character, His promises", "lines": 3},
+      {"label": "Questions I have", "hint": "Words, people or ideas to look up", "lines": 2},
+      {"label": "How I will live this out", "hint": "This week I will...", "lines": 2},
+      {"label": "Prayer", "hint": "Lord,", "lines": 3}
+    ]
+  },
+  "related": ["how-to-journal-the-bible", "bible-journal-prompts", "devotional-journal", "bible-journal-questions-for-kids", "faith-journal", "art-journal-ideas"],
+  "sections": [
+    {
+      "h2": "What is a Bible journal?",
+      "blocks": [
+        {"p": "A Bible journal is any notebook, binder or page where you respond in writing to what you read in the Bible. Some people mean a written study notebook. Others mean a journaling Bible with wide margins where they draw and write next to the verses. Both are Bible journaling."},
+        {"p": "Writing slows you down. Instead of reading a chapter and forgetting it by lunch, you stop to ask what it says, what it means and what it asks of you. Over months, your Bible journal becomes a record of what God has taught you through His Word."},
+        {"verse": "Psalm 119:11"}
+      ]
+    },
+    {
+      "h2": "How to use this Bible journal template",
+      "blocks": [
+        {"steps": [
+          {"name": "Choose a passage", "text": "Pick a short section, 5 to 20 verses. A gospel, a psalm or a short letter like Philippians is a good place to start."},
+          {"name": "Read it twice", "text": "Once for the big picture, then slowly to notice details. Write the reference at the top."},
+          {"name": "Summarize in your own words", "text": "Two or three sentences. If you can explain it simply, you understand it."},
+          {"name": "Pick a key verse", "text": "Write the reference of the verse you most want to remember."},
+          {"name": "Look for God", "text": "Write what the passage shows about who God is or what He does."},
+          {"name": "Write your questions", "text": "Note words or people you want to look up later in a study Bible or dictionary."},
+          {"name": "Apply and pray", "text": "Write one way you will live this out, then a short prayer. Print the page or keep it here."}
+        ]},
+        {"p": "Want a shorter method? SOAP (Scripture, Observation, Application, Prayer) is explained step by step in [how to journal the Bible](/how-to-journal-the-bible/)."}
+      ]
+    },
+    {
+      "h2": "Bible journal examples",
+      "blocks": [
+        {"h3": "A study style page"},
+        {"example": {"label": "Bible journal", "date": "Saturday, October 4", "title": "Philippians 4:4-9", "text": "Summary: Paul says rejoice, pray instead of worry, think on good.\nKey verse: Philippians 4:8\nAbout God: He gives a peace that guards my heart and mind.\nQuestion: what does \"moderation\" mean here? Look it up.\nThis week: when I start worrying, I will pray and list 3 good things.\nLord, guard my mind when I lie awake at night."}},
+        {"h3": "A short page for a busy day"},
+        {"example": {"label": "Bible journal", "date": "Monday, October 6", "title": "Psalm 23", "text": "God is my shepherd. He leads, feeds, restores and stays.\nI am anxious about this week. He is already in it.\nLord, lead me beside still waters today."}},
+        {"p": "For more ideas of what real pages look like, see [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    },
+    {
+      "h2": "Bible journal ideas",
+      "blocks": [
+        {"ul": [
+          "**Read one book start to finish.** Mark, James and Ruth are short and great for beginners.",
+          "**Verse mapping.** Take one verse and write notes around it: key words, cross references, context and a prayer.",
+          "**Character study.** Pick a person like Ruth, David or Peter and journal on their story over a few weeks.",
+          "**Names of God.** Study one name each week, like Shepherd, Provider or Rock.",
+          "**Promise list.** Keep a running page of promises you find, with the reference for each.",
+          "**Questions page.** Collect questions as you read and write answers when you find them.",
+          "**Sermon notes.** Journal on Sunday's passage during the week.",
+          "**Psalm prayers.** Rewrite a psalm as your own prayer.",
+          "**Draw a key word.** Hand letter or doodle one word from the passage, then write what it means.",
+          "**Color coding.** Use one color for God's promises, one for commands and one for questions.",
+          "**Memory verse card.** Copy the key verse onto a card and carry it for a week.",
+          "**Map the story.** Draw a simple timeline or map of where the events happen."
+        ]},
+        {"tip": "Creative Bible journaling with art is lovely, but it is optional. Words alone make a full and faithful Bible journal. For art ideas, see [art journal ideas](/art-journal-ideas/)."},
+        {"verse": "2 Timothy 3:16-17"}
+      ]
+    },
+    {
+      "h2": "What you need to start Bible journaling",
+      "blocks": [
+        {"ul": [
+          "A Bible you can understand. Many people like a translation that reads easily for daily study.",
+          "A notebook, a printed template, or this page on your phone or computer.",
+          "A pen you like, and highlighters if you enjoy color coding.",
+          "Optional: a study Bible or Bible dictionary for your questions.",
+          "Optional: a reading plan, so you always know what to read next."
+        ]},
+        {"p": "That is all. You do not need special supplies. For questions to get you writing, see our [Bible journal prompts](/bible-journal-prompts/). For kids, try [Bible journal questions for kids](/bible-journal-questions-for-kids/)."}
+      ]
+    },
+    {
+      "h2": "Tips for Bible journaling beginners",
+      "blocks": [
+        {"ul": [
+          "Start small: a few verses a day is better than a whole book once.",
+          "Read the whole chapter around a verse so you do not miss the meaning.",
+          "Ask what it meant to the first readers before asking what it means for you.",
+          "Write the date on every page.",
+          "Do not worry about neat handwriting or pretty pages.",
+          "Look back after a month and notice what God has been teaching you."
+        ]},
+        {"p": "Our Android app [Prayer Journal for Women](/prayer-journal-for-women/) has a ready made SOAP Bible study page and a weekly verse with the whole chapter to read, in the KJV or WEB. It is coming soon on Google Play."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a Bible journal?", "a": "A Bible journal is a notebook or page where you write about what you read in Scripture. You note the passage, summarize it, write what it shows about God, list questions, and apply it to your life with a prayer. Some people also draw or letter verses in a journaling Bible with wide margins."},
+    {"q": "How do I start a Bible journal for beginners?", "a": "Pick a short book like Mark or James. Each day, read a few verses twice, then fill in a simple page: summary, key verse, what you learn about God, a question, one application and a prayer. The free template above follows that order."},
+    {"q": "What do you write in a Bible journal?", "a": "Write the passage reference, a short summary, a key verse, what it shows about God, any questions, how you will apply it, and a prayer. You can also add cross references, word studies or drawings. Short entries are fine."},
+    {"q": "Do I need a journaling Bible to Bible journal?", "a": "No. A journaling Bible has wide margins for notes and art, but any Bible and any notebook work. Many people prefer a separate notebook so they have more room to write."},
+    {"q": "What is the difference between a Bible journal and a prayer journal?", "a": "A Bible journal focuses on studying and understanding Scripture. A prayer journal focuses on talking to God: thanks, requests and answered prayers. Many people read and journal on the Bible first, then pray on the same page."}
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "slug": "how-to-journal-the-bible",
+  "keyword": "how to journal the bible",
+  "type": "article",
+  "title": "How to Journal the Bible: SOAP Method and 5 Easy Ways",
+  "description": "How to journal the Bible step by step: the SOAP method with a free fill-in template and example, plus 5 other simple methods and tips for beginners.",
+  "h1": "How to journal the Bible: the SOAP method and other simple ways",
+  "crumb": "How to journal the Bible",
+  "card": "SOAP and simple methods",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "To journal the Bible, read a short passage, write down the verse that stands out, note what it says and means, decide how it applies to your life, and finish with a prayer. That is the **SOAP method**: Scripture, Observation, Application, Prayer. Use the free SOAP template below to try it now.",
+  "template": {
+    "key": "how-to-journal-the-bible",
+    "name": "My SOAP Bible study",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Today's reading",
+        "hint": "John 15:1-11",
+        "lines": 1
+      },
+      {
+        "label": "S: Scripture",
+        "hint": "The verse that stood out (reference, or copy it out)",
+        "lines": 2
+      },
+      {
+        "label": "O: Observation",
+        "hint": "What does it say? What do I notice about God and people?",
+        "lines": 4
+      },
+      {
+        "label": "A: Application",
+        "hint": "What does it mean for my life this week?",
+        "lines": 3
+      },
+      {
+        "label": "P: Prayer",
+        "hint": "Lord, help me...",
+        "lines": 3
+      }
+    ]
+  },
+  "related": [
+    "bible-journal",
+    "bible-journal-prompts",
+    "devotional-journal",
+    "prayer-journal-acts",
+    "how-to-start-a-prayer-journal",
+    "how-to-journal"
+  ],
+  "sections": [
+    {
+      "h2": "Bible journal how to: the SOAP method step by step",
+      "blocks": [
+        {
+          "p": "SOAP is the easiest method to start with because it has only four parts and works on any passage. Each letter is a box on your page."
+        },
+        {
+          "steps": [
+            {
+              "name": "Read the passage",
+              "text": "Choose a short passage, about 5 to 15 verses. Read it twice, slowly. If you use a reading plan, use today's reading."
+            },
+            {
+              "name": "S is for Scripture",
+              "text": "Pick the one verse that stood out most. Write the reference. Many people also copy it out by hand, because writing it helps you remember it."
+            },
+            {
+              "name": "O is for Observation",
+              "text": "Write what you notice. What is happening? Who is speaking, and to whom? What words repeat? What does it show about God? Stay with what the text actually says."
+            },
+            {
+              "name": "A is for Application",
+              "text": "Ask how this truth touches your life right now. Is there something to believe, to stop, to start, or to thank God for? Make it specific to this week."
+            },
+            {
+              "name": "P is for Prayer",
+              "text": "Turn it into a short prayer. Thank God for what you learned and ask Him to help you live it out."
+            }
+          ]
+        },
+        {
+          "tip": "Observation is the step most people rush. Try to write at least three things you notice before you move to Application. It keeps you from making the verse say something it does not."
+        },
+        {
+          "verse": "Psalm 119:18"
+        }
+      ]
+    },
+    {
+      "h2": "A SOAP Bible journal example",
+      "blocks": [
+        {
+          "example": {
+            "label": "SOAP study",
+            "date": "Wednesday, October 1",
+            "title": "John 15:1-11",
+            "text": "S: John 15:5\nO: Jesus is the vine, we are the branches. \"Abide\" repeats\nmany times. Fruit comes from staying connected, not trying hard.\nA: I try to be patient in my own strength and fail by 9 a.m.\nThis week I will start the day with five minutes in John 15.\nP: Jesus, help me stay close to You today. Grow fruit in me."
+          }
+        },
+        {
+          "p": "Notice how short it is. A SOAP page can take ten minutes. If you want more questions for the Observation step, use our [Bible journal prompts](/bible-journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "Other simple ways to journal the Bible",
+      "blocks": [
+        {
+          "p": "SOAP is not the only way. Try these and keep the one that fits you."
+        },
+        {
+          "table": {
+            "head": [
+              "Method",
+              "How it works",
+              "Best for"
+            ],
+            "rows": [
+              [
+                "**Three questions**",
+                "What does it say? What does it mean? What will I do?",
+                "Beginners and busy days"
+              ],
+              [
+                "**Verse mapping**",
+                "Write one verse in the middle of the page. Around it, note key words, context, cross references and a prayer.",
+                "Going deep on one verse"
+              ],
+              [
+                "**Head, heart, hands**",
+                "Head: what I learn. Heart: what I feel and believe. Hands: what I will do.",
+                "People who like a simple three part page"
+              ],
+              [
+                "**Pray the passage**",
+                "Rewrite the passage line by line as your own prayer.",
+                "Psalms and letters"
+              ],
+              [
+                "**Story notes**",
+                "Who, what, where, when, why, and what it shows about God.",
+                "Bible stories and the Gospels"
+              ],
+              [
+                "**Creative journaling**",
+                "Hand letter a key word or draw a simple picture next to your notes.",
+                "Visual learners. See [art journal ideas](/art-journal-ideas/)."
+              ]
+            ]
+          }
+        },
+        {
+          "p": "You can also pray after your study with the four part [ACTS prayer journal](/prayer-journal-acts/): Adoration, Confession, Thanksgiving and Supplication."
+        }
+      ]
+    },
+    {
+      "h2": "How to journal as a Christian",
+      "blocks": [
+        {
+          "p": "Bible journaling is one part of journaling as a Christian. A Christian journal can also hold your prayers, your thanks, your questions and your story. The key difference from other journaling is that you are not only talking to yourself. You are listening to God through His Word and talking back to Him."
+        },
+        {
+          "ul": [
+            "**Start with Scripture.** Let God's Word set the topic before your feelings do.",
+            "**Write honestly.** God already knows what is in your heart.",
+            "**Pray on paper.** Turn what you read into a prayer.",
+            "**Record answers.** Date the prayers God answers so you can remember His faithfulness.",
+            "**Keep a rhythm.** A few minutes most days is better than long sessions now and then."
+          ]
+        },
+        {
+          "p": "For questions to write about, see [Christian journal prompts](/christian-journal-prompts/). For a daily page, try the [devotional journal](/devotional-journal/)."
+        }
+      ]
+    },
+    {
+      "h2": "How to journal to God",
+      "blocks": [
+        {
+          "p": "Journaling to God means writing your prayers like letters to Him. It is one of the simplest ways to start."
+        },
+        {
+          "ol": [
+            "**Begin with Dear God or Lord.** A greeting reminds you who you are writing to.",
+            "**Tell Him what is on your heart.** Write like you are talking to a loving father or a close friend. Plain words are best.",
+            "**Bring in a verse.** Add the reference of a verse you read today and what it means to you.",
+            "**Thank Him and ask Him.** List a few thanks and a few requests, for yourself and others.",
+            "**Leave room for answers.** Leave a line at the bottom to write how He answers, with the date."
+          ]
+        },
+        {
+          "verse": "Psalm 62:8"
+        },
+        {
+          "p": "Want more structure? See [how to start a prayer journal](/how-to-start-a-prayer-journal/)."
+        }
+      ]
+    },
+    {
+      "h2": "What you need and where to start reading",
+      "blocks": [
+        {
+          "ul": [
+            "A Bible you understand. Read in a translation that is clear to you.",
+            "A notebook, a printed [Bible journal template](/bible-journal/), or the SOAP page at the top of this page.",
+            "A pen. Highlighters are nice but optional.",
+            "Ten minutes and a quiet spot."
+          ]
+        },
+        {
+          "h3": "Good places to start"
+        },
+        {
+          "ul": [
+            "**Mark.** A short, fast moving gospel about Jesus.",
+            "**Psalms.** One psalm a day for prayer journaling.",
+            "**James.** Five short chapters, very practical.",
+            "**Philippians.** Four chapters of joy and encouragement.",
+            "**John 1 to 3.** Who Jesus is, in His own words and in the words of others."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Common Bible journaling mistakes",
+      "blocks": [
+        {
+          "ul": [
+            "**Reading too much at once.** A whole book in a sitting leaves little room to think. Choose a few verses.",
+            "**Skipping the context.** A single verse can sound different once you read the chapter around it.",
+            "**Jumping straight to me.** Ask what the passage meant to its first readers before asking what it means for you.",
+            "**Waiting for the perfect notebook.** Any paper works. So does the free page at the top of this guide.",
+            "**Giving up after a missed week.** Start again with today's reading. God is not keeping score of your streak.",
+            "**Making it only study.** End with prayer, so your reading turns into time with God, not just notes."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips to keep Bible journaling",
+      "blocks": [
+        {
+          "ul": [
+            "Read the chapter around any verse you journal on so you keep it in context.",
+            "Write the date at the top of every page.",
+            "Do not aim for pretty. Aim for honest and regular.",
+            "Keep a running list of questions to look up in a study Bible.",
+            "Review your pages each month and circle what God keeps teaching you.",
+            "If you miss days, start again today. There is nothing to catch up on."
+          ]
+        },
+        {
+          "p": "Our Android app [Prayer Journal for Women](/prayer-journal-for-women/) has a ready made SOAP Bible study page and a weekly verse with the whole chapter, in the KJV or WEB. It is coming soon on Google Play."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the SOAP method of Bible journaling?",
+      "a": "SOAP stands for Scripture, Observation, Application and Prayer. You read a passage and write down one verse that stood out (Scripture), note what it says and shows about God (Observation), decide how it applies to your life (Application), and finish with a short prayer (Prayer)."
+    },
+    {
+      "q": "How do beginners journal the Bible?",
+      "a": "Start with a short book like Mark or James. Read a few verses each day, then answer three questions: What does it say? What does it mean? What will I do? End with a one line prayer. The SOAP template on this page walks you through it."
+    },
+    {
+      "q": "Do I copy the whole verse in a Bible journal?",
+      "a": "You can. Copying a verse by hand helps many people remember it. On busy days, writing just the reference is fine. What matters most is thinking about what the verse says and responding to God."
+    },
+    {
+      "q": "How long should Bible journaling take?",
+      "a": "Ten to fifteen minutes is a good daily goal. Some days you will only have five, and that is fine. A short, regular time with God's Word is worth more than a long session you rarely do."
+    },
+    {
+      "q": "What is the difference between Bible journaling and a devotional?",
+      "a": "A devotional is usually a short reading written by someone else, often with a verse and a thought. Bible journaling is your own written response to Scripture. Many people read a devotional and then journal on the verse it uses."
+    },
+    {
+      "q": "Can I journal the Bible on my phone?",
+      "a": "Yes. The SOAP page at the top of this page works on a phone and saves in your browser on that device. You can also print it or save it as a PDF."
+    }
+  ]
+}

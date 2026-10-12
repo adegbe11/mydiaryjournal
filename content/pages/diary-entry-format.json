@@ -1,0 +1,369 @@
+{
+  "slug": "diary-entry-format",
+  "keyword": "diary entry format",
+  "type": "template",
+  "title": "Diary Entry Format: Layout, Rules and Examples",
+  "description": "The diary entry format taught in schools: date, day and time, Dear Diary, body, closing and signature. Fill it in online, print it, and see marked examples.",
+  "h1": "Diary entry format: layout, rules and examples",
+  "crumb": "Diary entry format",
+  "card": "The layout schools use",
+  "eyebrow": "Diary guides",
+  "intro": "The standard diary entry format has six parts: the **date**, the **day and time**, the salutation **Dear Diary**, the **body** written in the first person, a short **closing** thought, and your **signature**. Fill in the format below to practice, then print it or save it as a PDF.",
+  "template": {
+    "key": "diary-entry-format",
+    "name": "Dear Diary,",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Day and time",
+        "hint": "Saturday, 9:30 pm",
+        "lines": 1
+      },
+      {
+        "label": "Opening line",
+        "hint": "One sentence about your mood or your day",
+        "lines": 2
+      },
+      {
+        "label": "What happened",
+        "hint": "The main event, in order, in the past tense",
+        "lines": 5
+      },
+      {
+        "label": "How I felt",
+        "hint": "Your feelings and why",
+        "lines": 4
+      },
+      {
+        "label": "Closing thought",
+        "hint": "What you learned, hope or plan to do next",
+        "lines": 2
+      },
+      {
+        "label": "Signature",
+        "hint": "Your name",
+        "lines": 1
+      }
+    ]
+  },
+  "related": [
+    "how-to-write-a-diary-entry",
+    "diary-entry-examples",
+    "diary-template",
+    "diary-entry-topics",
+    "diary-template-kids",
+    "how-to-write-a-diary"
+  ],
+  "sections": [
+    {
+      "h2": "The diary entry format, part by part",
+      "blocks": [
+        {
+          "p": "This is the format most schools teach for diary writing. CBSE and many other school boards use this same basic layout in English writing tasks. Teachers and exam papers can differ on small points, such as where the time goes, so follow your own teacher's version if it is different."
+        },
+        {
+          "table": {
+            "head": [
+              "Part",
+              "Position",
+              "Example",
+              "Tip"
+            ],
+            "rows": [
+              [
+                "Date",
+                "Top left",
+                "14 March 2026",
+                "Write it in full, not 14/3"
+              ],
+              [
+                "Day",
+                "With the date",
+                "Saturday",
+                "Some formats put it on the same line"
+              ],
+              [
+                "Time",
+                "With the date or below",
+                "9:30 pm",
+                "Evening is most natural"
+              ],
+              [
+                "Salutation",
+                "Next line",
+                "Dear Diary,",
+                "Followed by a comma"
+              ],
+              [
+                "Body",
+                "Main part",
+                "Two or three paragraphs",
+                "First person, past tense"
+              ],
+              [
+                "Closing",
+                "End of body",
+                "I hope tomorrow is better.",
+                "One or two sentences"
+              ],
+              [
+                "Signature",
+                "Bottom",
+                "Riya",
+                "Use the name in the question"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Diary format layout",
+      "blocks": [
+        {
+          "p": "Here is how the parts sit on the page. Copy this shape into your notebook or exam paper."
+        },
+        {
+          "example": {
+            "label": "Diary format",
+            "date": "Date: 14 March 2026\nDay and time: Saturday, 9:30 pm",
+            "title": "Dear Diary,",
+            "text": "[Opening: one line about your mood or the day]\n[Paragraph 1: what happened, in order]\n[Paragraph 2: how you felt and why]\n[Closing: a final thought, lesson or plan]\n[Signature: your name]"
+          }
+        },
+        {
+          "tip": "Some teachers ask you to write the date, day and time on three separate lines at the top left. Others accept them on one line. Both are common. Check which one your class uses."
+        }
+      ]
+    },
+    {
+      "h2": "What goes in the body of a diary entry",
+      "blocks": [
+        {
+          "p": "The body is where most of your marks come from. A strong body has three moves:"
+        },
+        {
+          "ol": [
+            "**Set the scene.** Start with one sentence that shows your mood. \"Today was the most nerve-wracking day of the term.\"",
+            "**Tell the event.** Who, what, where and when, in order, in the past tense. Pick the important details.",
+            "**Reflect.** How did it make you feel, and why? What did you learn? What will you do next?"
+          ]
+        },
+        {
+          "h3": "Tenses in a diary entry"
+        },
+        {
+          "table": {
+            "head": [
+              "Use",
+              "Tense",
+              "Example"
+            ],
+            "rows": [
+              [
+                "What happened",
+                "Simple past",
+                "We reached the museum at ten."
+              ],
+              [
+                "Feelings right now",
+                "Simple present",
+                "I feel so proud."
+              ],
+              [
+                "Things that just finished",
+                "Present perfect",
+                "I have never laughed so much."
+              ],
+              [
+                "Plans",
+                "Future",
+                "I will practice every day."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Diary entry format example",
+      "blocks": [
+        {
+          "p": "**Question:** You are Riya. You visited an old age home with your school's social service club. Write a diary entry in about 120 words."
+        },
+        {
+          "example": {
+            "label": "Sample answer",
+            "date": "14 March 2026, Saturday, 9:30 pm",
+            "title": "Dear Diary,",
+            "text": "Today I learned more than I ever have in a classroom.\nOur club visited the Sunrise old age home this morning.\nWe sang songs, served lunch and played carrom with the residents.\nA lady named Mrs. Das told me stories about her school days.\nShe held my hand when we left and asked if we would come back.\nI felt happy and a little sad at the same time.\nThey have so much love and so few visitors.\nI have decided to visit once a month with my family.\nRiya"
+          }
+        },
+        {
+          "h3": "Why this follows the format"
+        },
+        {
+          "ul": [
+            "Date, day and time at the top.",
+            "Salutation **Dear Diary,** on its own line.",
+            "An opening line that sets the mood.",
+            "The event in order, in the past tense, with real details.",
+            "Clear feelings: happy, a little sad.",
+            "A closing decision and the signature from the question."
+          ]
+        },
+        {
+          "p": "For more worked answers, see [how to write a diary entry](/how-to-write-a-diary-entry/) and our 14 [diary entry examples](/diary-entry-examples/)."
+        }
+      ]
+    },
+    {
+      "h2": "Diary format for younger children",
+      "blocks": [
+        {
+          "p": "Younger students use a simpler version of the same format. A date, Dear Diary, a few sentences about one thing that happened, how it felt, and their name."
+        },
+        {
+          "example": {
+            "label": "Year 2 diary",
+            "date": "Monday, 4 May",
+            "title": "Dear Diary,",
+            "text": "Today I went to the park with Grandma.\nI went down the big slide by myself.\nI felt brave and happy.\nWe had ice cream on the way home.\nLove, Sam"
+          }
+        },
+        {
+          "p": "There is a printable version made for young writers on our [diary template for kids](/diary-template-kids/) page, and more help on the [diary for kids](/diary-for-kids/) page."
+        }
+      ]
+    },
+    {
+      "h2": "Diary format vs letter format",
+      "blocks": [
+        {
+          "p": "Students often mix up diary writing and letter writing because both are personal. The format is different, and using letter parts in a diary entry can cost marks."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Diary entry",
+              "Informal letter"
+            ],
+            "rows": [
+              [
+                "Written to",
+                "Yourself or your diary",
+                "Another person"
+              ],
+              [
+                "Top of page",
+                "Date, day and time",
+                "Sender's address and date"
+              ],
+              [
+                "Greeting",
+                "Dear Diary,",
+                "Dear Grandma,"
+              ],
+              [
+                "Content",
+                "Your own day and feelings",
+                "News and questions for the reader"
+              ],
+              [
+                "Ending",
+                "Closing thought and your name",
+                "Yours lovingly, or similar, and your name"
+              ],
+              [
+                "Who reads it",
+                "Only you",
+                "The person you send it to"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Keep the diary entry private in tone. You are not telling someone else your news. You are thinking out loud about your own day. That is why feelings and reflection matter so much in this format."
+        },
+        {
+          "h3": "Diary format for a personal diary"
+        },
+        {
+          "p": "Outside school, the format is much looser. Many people keep only the date and then write freely. Some use bullet points, some write a single line, and some never write Dear Diary at all. The school format is a good habit, though, because the date and a closing thought make old entries easier to understand later. For more on personal diaries, read [how to write a diary](/how-to-write-a-diary/)."
+        }
+      ]
+    },
+    {
+      "h2": "Diary entry format checklist",
+      "blocks": [
+        {
+          "p": "Before you hand in your diary entry, check each point:"
+        },
+        {
+          "ul": [
+            "Date, day and time are at the top left.",
+            "Dear Diary is on its own line with a comma.",
+            "Written in the first person (I, me, my).",
+            "Events are in the past tense.",
+            "Feelings are clearly named.",
+            "There is a closing thought or plan.",
+            "The signature matches the name in the question.",
+            "It is close to the word limit.",
+            "No letter parts like an address or Yours sincerely."
+          ]
+        },
+        {
+          "tip": "Need a topic to practice? Pick one from our 120 [diary entry topics](/diary-entry-topics/), fill in the format at the top of this page, then print it."
+        }
+      ]
+    },
+    {
+      "h2": "How to use this diary format template",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Write the date in the top box",
+              "text": "Use the full date, like 14 March 2026."
+            },
+            {
+              "name": "Fill in each part in order",
+              "text": "Day and time, opening, what happened, how you felt, closing and signature."
+            },
+            {
+              "name": "Read it through",
+              "text": "Check your tenses and word count."
+            },
+            {
+              "name": "Print or save it",
+              "text": "Press Print or save as PDF. Your answers also stay saved in this browser on this device."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the correct format of a diary entry?",
+      "a": "The correct format has the date, day and time at the top left, followed by the salutation Dear Diary. Then comes the body, written in the first person, telling what happened and how you felt. End with a closing thought and your signature. This is the format taught in most schools."
+    },
+    {
+      "q": "Where do you write the date in a diary entry?",
+      "a": "Write the date at the top left of the page, usually with the day and time on the same line or just below. Write the date in full, such as 14 March 2026, rather than using only numbers. Some teachers want the date, day and time on separate lines, so follow your class format."
+    },
+    {
+      "q": "Is the time necessary in a diary entry?",
+      "a": "In many school formats, including the one commonly used for CBSE English, the date, day and time are all expected at the top. In a personal diary the time is optional. If you are writing for an exam, include it to be safe."
+    },
+    {
+      "q": "What is the diary entry format for class 6?",
+      "a": "Class 6 uses the same basic format: date, day and time, Dear Diary, a body of about 100 to 120 words in the first person, a closing line and your name. The topics are usually everyday events like a school trip, a festival or a birthday."
+    },
+    {
+      "q": "Should a diary entry have a title?",
+      "a": "Usually no. A school diary entry starts with the date and Dear Diary, not a title. In a personal diary you can add a title if you like it. Some teachers allow a short heading, so check their instructions. For exams, it is safest to leave it out."
+    }
+  ]
+}

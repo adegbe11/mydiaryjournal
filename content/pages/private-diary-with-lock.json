@@ -1,0 +1,324 @@
+{
+  "slug": "private-diary-with-lock",
+  "keyword": "private diary with lock",
+  "type": "tool",
+  "title": "Private Diary with Lock: Free PIN Diary Online",
+  "description": "A free private diary with lock. Set a PIN, write in your browser with no sign up, and keep pages on your device. See what the lock does and does not do.",
+  "h1": "Private diary with lock",
+  "crumb": "Private diary with lock",
+  "card": "Lock it with a PIN",
+  "eyebrow": "Write online",
+  "intro": "This is a free **private diary with a lock**. Write on the page below, then tap **Lock** and choose a PIN of at least 4 digits. Next time the diary opens in this browser, it asks for your PIN first. There is no sign up, and your pages stay on your own device.",
+  "writer": {
+    "title": "Dear diary,",
+    "hint": "This is just for you. Tap Lock below to set a PIN.",
+    "kind": "private-diary-with-lock"
+  },
+  "related": [
+    "secret-diary",
+    "diary-app",
+    "online-journal-free",
+    "daily-diary",
+    "diary-for-women",
+    "how-to-write-a-diary"
+  ],
+  "sections": [
+    {
+      "h2": "How to lock your private diary",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Write your first page",
+              "text": "Type in the diary at the top of this page. It saves on its own a moment after you stop typing."
+            },
+            {
+              "name": "Tap Lock",
+              "text": "The Lock button sits under the page, next to Print."
+            },
+            {
+              "name": "Choose a PIN",
+              "text": "Use at least 4 digits, up to 8. Pick something you will remember but others will not guess. Avoid your birthday or 1234."
+            },
+            {
+              "name": "Open it with your PIN",
+              "text": "From now on, when the diary loads in this browser, a lock screen covers it until the right PIN is typed."
+            },
+            {
+              "name": "Lock it again when you step away",
+              "text": "Tap Lock any time to close the diary before you leave the computer."
+            }
+          ]
+        },
+        {
+          "tip": "There is no way to reset a forgotten PIN from the site, because we never see it. Choose a PIN you will remember, and save PDFs of pages you care about."
+        }
+      ]
+    },
+    {
+      "h2": "What the diary lock does, and what it does not",
+      "blocks": [
+        {
+          "p": "A lock should come with honest labels. Here is ours."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Yes or no",
+              "What it means"
+            ],
+            "rows": [
+              [
+                "Hides the diary on a shared computer",
+                "Yes",
+                "A sibling, roommate or coworker who opens this site sees the lock screen, not your pages."
+              ],
+              [
+                "Stores your PIN as plain text",
+                "No",
+                "Only a scrambled version of the PIN (a hash) is kept, never the PIN itself."
+              ],
+              [
+                "Encrypts your diary pages",
+                "No",
+                "The pages are stored in the browser as they are. Someone with technical skill and access to the device could read them."
+              ],
+              [
+                "Sends your pages to us",
+                "No",
+                "Everything stays in this browser on this device."
+              ],
+              [
+                "Protects you if your device is left open and someone knows computers",
+                "Not fully",
+                "Use a passcode on the device itself for that."
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Think of the PIN like the little key on a paper diary. It keeps honest people out and gives you peace of mind. It is not a bank vault. For real protection, also lock your phone or computer with its own passcode, and do not leave it signed in where others can use it."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in a diary app with lock",
+      "blocks": [
+        {
+          "p": "Diary apps describe their locks in many ways: passcode, PIN, pattern, fingerprint, face recognition, encryption. They are not all the same thing. Here is what each one really means, so you can choose with open eyes."
+        },
+        {
+          "table": {
+            "head": [
+              "Lock type",
+              "What it does",
+              "Good for"
+            ],
+            "rows": [
+              [
+                "PIN or passcode",
+                "Hides the diary behind a code when it opens",
+                "Shared family computers and tablets"
+              ],
+              [
+                "Pattern",
+                "Same idea as a PIN, drawn with a finger",
+                "Phones"
+              ],
+              [
+                "Fingerprint or face",
+                "Uses the lock built into your phone",
+                "Quick opening on your own phone"
+              ],
+              [
+                "Encryption",
+                "Scrambles the words so they cannot be read without a key",
+                "Strong protection if the device or a server is reached by someone else"
+              ],
+              [
+                "Device lock",
+                "Your phone or computer's own passcode",
+                "Protecting everything on the device, including any diary"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "This diary uses a PIN. It does not use encryption, and we say so plainly. For most people writing at home, a PIN plus a locked device is enough. If you write about things that could put you at risk if someone found them, use a tool that clearly offers encryption, or keep those thoughts on paper somewhere safe."
+        },
+        {
+          "h3": "Other questions to ask any private diary"
+        },
+        {
+          "ul": [
+            "Does it need an account, and where are my pages stored?",
+            "Can I delete a page for good?",
+            "Can I get my pages out as a PDF or file?",
+            "What happens if I forget the PIN?",
+            "Are there ads or trackers in the app?"
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a private diary",
+      "blocks": [
+        {
+          "p": "A diary is only useful if you can be fully honest in it. If you are worried someone will read it, you start writing for them instead of for you. A lock takes that worry away."
+        },
+        {
+          "ul": [
+            "**Say what you really feel.** Anger, a crush, a fear you have not told anyone. It is safer on the page than stuck in your head.",
+            "**Sort out a hard day.** Writing it down in order often makes a problem feel smaller and clearer.",
+            "**Remember your life.** Small daily notes become a record you will love reading years from now.",
+            "**Have one place that is only yours.** On a family computer or a shared tablet, that matters."
+          ]
+        },
+        {
+          "p": "Not sure what to write first? See [how to write a diary](/how-to-write-a-diary/) or browse [diary ideas](/diary-ideas/)."
+        }
+      ]
+    },
+    {
+      "h2": "Private diary vs secret diary with lock and key",
+      "blocks": [
+        {
+          "p": "A paper diary with a lock and key is still lovely, especially as a gift. Here is how it compares with a PIN diary you write online."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Paper diary with lock and key",
+              "This online private diary"
+            ],
+            "rows": [
+              [
+                "Cost",
+                "The price of the diary",
+                "Free"
+              ],
+              [
+                "Lock",
+                "Small key, easy to pick",
+                "PIN of 4 to 8 digits, not encryption"
+              ],
+              [
+                "If you lose the key or PIN",
+                "Break the lock",
+                "No reset, so pick a PIN you will remember"
+              ],
+              [
+                "Where it lives",
+                "In a drawer",
+                "In this browser on this device"
+              ],
+              [
+                "Copy",
+                "One book",
+                "Print or Save as PDF"
+              ],
+              [
+                "Writing",
+                "By hand",
+                "Type on lined paper style pages"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "For younger writers who love the idea of a secret diary, see our [secret diary](/secret-diary/) page with ideas and a lockable page."
+        }
+      ]
+    },
+    {
+      "h2": "Managing your pages: delete, print and back up",
+      "blocks": [
+        {
+          "ul": [
+            "**Delete a page.** Tap My pages, then Delete next to the page. You will be asked to confirm. A deleted page cannot be brought back.",
+            "**Print a page.** Tap Print. Only that page prints, with its date and title.",
+            "**Save a PDF.** In the print window, choose Save as PDF. Keep the file somewhere private, like a folder with its own password.",
+            "**Open it like an app.** Add the site to your home screen and it gets its own icon. The PIN lock still applies when it opens."
+          ]
+        },
+        {
+          "tip": "Clearing this site's data in your browser removes your PIN and all your pages together. Save PDFs first if you ever plan to do that."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a diary app with password safe",
+      "blocks": [
+        {
+          "p": "If you use this page or any diary app with a lock or password, these habits keep your words private."
+        },
+        {
+          "ol": [
+            "**Lock the device too.** A passcode on your phone or computer protects everything, including your diary.",
+            "**Do not write in a private or incognito window.** Pages written there disappear when the window closes.",
+            "**Use your own browser profile.** On a family computer, a separate profile or user account keeps your diary apart from everyone else's.",
+            "**Lock before you walk away.** Tap Lock when you finish, not just when you leave the room.",
+            "**Keep a backup you control.** Print a page or save a PDF. Store the PDFs somewhere private.",
+            "**Skip passwords and account numbers.** A diary is for feelings and memories, not secrets that someone could misuse."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Ideas for your first private diary entry",
+      "blocks": [
+        {
+          "p": "The first page is the hardest. Here are a few ways in."
+        },
+        {
+          "ul": [
+            "Write about something you have never told anyone, even a small thing.",
+            "Describe today from the moment you woke up, like a movie.",
+            "Write a letter to someone you cannot talk to right now. You do not have to send it.",
+            "List five things that made you smile this week.",
+            "Write what you hope your life looks like one year from today."
+          ]
+        },
+        {
+          "example": {
+            "label": "Private diary",
+            "date": "Sunday, October 5",
+            "title": "Dear diary,",
+            "text": "I finally said no to the extra shift.\nMy stomach was in knots, but she just said okay.\nWhy do I always think people will be angry?\nI want to remember this feeling. It was easy."
+          }
+        },
+        {
+          "p": "For more, see [diary entry examples](/diary-entry-examples/) and our [daily diary](/daily-diary/) page."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a free private diary with a lock?",
+      "a": "Yes. This page is a free private diary with a PIN lock. There is no sign up and no account. Write your page, tap Lock, and set a PIN of at least 4 digits. After that, the diary asks for your PIN whenever it opens in this browser. Your pages stay on your device."
+    },
+    {
+      "q": "Is the PIN lock the same as encryption?",
+      "a": "No. The PIN keeps the diary closed on a shared computer, so someone opening the site sees a lock screen. Your pages are not encrypted, though. Someone with technical skill and access to your device could still read the stored text. Protect your device with its own passcode for stronger privacy."
+    },
+    {
+      "q": "What if I forget my diary PIN?",
+      "a": "We cannot reset it, because we never see your PIN or your pages. Clearing this site's data in your browser removes the PIN, but it also removes all your diary pages. That is why it helps to pick a PIN you will remember and to save PDFs of pages you want to keep."
+    },
+    {
+      "q": "Can someone else read my private diary?",
+      "a": "We cannot, because your pages never leave your browser. Someone using your device could see the lock screen, but not your pages without the PIN, unless they have the technical skill to look in the browser's storage. Lock your device, use your own browser profile, and tap Lock when you finish."
+    },
+    {
+      "q": "Does the lock work on my other devices?",
+      "a": "No. The PIN and your pages are kept in this browser on this device only. There is no account and no syncing. If you also write on another phone or computer, it keeps its own separate pages, and you can set a separate PIN there."
+    },
+    {
+      "q": "Can I delete pages from my private diary?",
+      "a": "Yes. Open My pages and tap Delete next to any page. The diary asks you to confirm, because a deleted page is gone for good from this browser. If you want to keep a copy before deleting, tap Print and choose Save as PDF first."
+    }
+  ]
+}

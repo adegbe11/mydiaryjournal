@@ -1,0 +1,335 @@
+{
+  "slug": "travel-journal",
+  "keyword": "travel journal",
+  "type": "template",
+  "title": "Travel Journal: Free Template, Ideas and 30 Prompts",
+  "description": "A free travel journal template for each day of your trip, online or printed. Plus a filled example, travel journal ideas and 30 prompts to remember it all.",
+  "h1": "Travel journal: a free daily template, ideas and prompts",
+  "crumb": "Travel journal",
+  "card": "Remember every trip",
+  "eyebrow": "Journal types",
+  "intro": "A travel journal is a record of a trip: where you went, what you saw, ate and felt, written while it is fresh. Fill in the free travel journal template below for each day of your trip, then print it or save it as a PDF. Below you will find an example, ideas and 30 travel journal prompts.",
+  "template": {
+    "key": "travel-journal",
+    "name": "My travel journal",
+    "eyebrow": "Day and date",
+    "fields": [
+      {
+        "label": "Where I am",
+        "hint": "City, town, or the road between",
+        "lines": 1
+      },
+      {
+        "label": "Weather and first impressions",
+        "hint": "Hot and sticky, quiet streets, smells like bread...",
+        "lines": 2
+      },
+      {
+        "label": "What we did today",
+        "hint": "Places, walks, rides, wrong turns",
+        "lines": 4
+      },
+      {
+        "label": "Best thing I ate or drank",
+        "hint": "Name it, and where",
+        "lines": 1
+      },
+      {
+        "label": "People I met",
+        "hint": "A shop owner, a fellow traveler, a guide",
+        "lines": 2
+      },
+      {
+        "label": "Favorite moment",
+        "hint": "The one I will tell people about",
+        "lines": 2
+      },
+      {
+        "label": "Something I want to remember",
+        "hint": "A word, a sound, a feeling",
+        "lines": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a travel journal?",
+      "blocks": [
+        {
+          "p": "A travel journal is a diary you keep while you travel. Each day you write down where you went, what you did and how it felt. Many people add tickets, maps, receipts, photos and little drawings. It works for big trips abroad, road trips, weekend getaways and even day trips close to home."
+        },
+        {
+          "p": "Photos show what a place looked like. A travel journal holds everything else: the smell of the market, the joke a waiter told, how nervous you felt on the first night. Years later, those details are often what you treasure most."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a travel journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Remember the small things.** Names, tastes and funny moments fade fast once you are home.",
+            "**Slow down.** Writing for ten minutes makes you notice more of where you are.",
+            "**Make sense of new experiences.** Travel can be tiring and surprising. Writing helps you sort through it.",
+            "**Keep a useful record.** Restaurant names, prices and tips help you plan your next trip or help a friend.",
+            "**Make a keepsake.** A finished travel journal is something to share with family or read again on a rainy day."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a travel journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Start before you leave",
+              "text": "Write one page about where you are going, why, and what you hope for. It is fun to compare with the last page."
+            },
+            {
+              "name": "Pick a time each day",
+              "text": "Over breakfast or before bed works well. Ten minutes is enough."
+            },
+            {
+              "name": "Fill in the daily template",
+              "text": "Where you are, what you did, the best food, people you met and your favorite moment."
+            },
+            {
+              "name": "Collect bits as you go",
+              "text": "Keep a small envelope for tickets, labels and receipts. Tape them in later."
+            },
+            {
+              "name": "Write the senses",
+              "text": "What did it sound, smell and taste like? These details bring a place back to life."
+            },
+            {
+              "name": "Write a last page",
+              "text": "On the way home, write what surprised you, what you learned and what you would do again."
+            }
+          ]
+        },
+        {
+          "tip": "Traveling light? Fill in the template on your phone each evening, then print the pages when you get home and add your tickets and photos."
+        }
+      ]
+    },
+    {
+      "h2": "Travel journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled travel journal page from one day of a trip."
+        },
+        {
+          "example": {
+            "label": "Travel journal",
+            "date": "Day 3, Wednesday, June 11",
+            "title": "Lisbon",
+            "text": "Hot, bright, tiled walls everywhere. Steep hills!\nTook the old yellow tram up to the castle, then got lost\non the way down (in a good way).\nBest bite: a warm custard tart, still crackly on top.\nMet a lady selling sardine tins who told us where to eat.\nFavorite moment: watching the sunset from a viewpoint\nwith a guitar player nearby.\nRemember: the sound of the tram bell."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Travel journal ideas",
+      "blocks": [
+        {
+          "ul": [
+            "**Map page.** Draw or tape in a map and mark everywhere you went.",
+            "**Ticket collage.** Glue in train tickets, museum stubs and labels. See [junk journal ideas](/junk-journal-ideas/) for more.",
+            "**Food list.** Every new dish you tried, with a star rating.",
+            "**Packing list.** What you used and what you never touched. Handy for next time.",
+            "**Budget page.** Daily spending, so you know what the trip really cost.",
+            "**Overheard phrases.** Words in the local language you learned.",
+            "**Sketches.** A doorway, a cup, a view. Simple drawings count. Ideas in [art journal ideas](/art-journal-ideas/).",
+            "**Pressed leaves or flowers.** Where it is allowed, a small pressed leaf is a lovely keepsake.",
+            "**Family entries.** Let kids or travel partners write one line each night.",
+            "**Postcard to yourself.** Write it on the last day and tape it in when you get home."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Travel journal prompts",
+      "blocks": [
+        {
+          "p": "On days when you are tired or stuck, pick one of these travel journal prompts:"
+        },
+        {
+          "ol": [
+            "What was my very first impression when I arrived?",
+            "What smell will remind me of this place?",
+            "Describe the view from where I am sitting right now.",
+            "What is the best thing I ate today, and who was I with?",
+            "What surprised me most about how people live here?",
+            "What went wrong today, and what was funny about it later?",
+            "Who did I talk to today, and what did they tell me?",
+            "What is something here that I wish we had at home?",
+            "What made me feel out of my comfort zone?",
+            "What sound kept coming back today?",
+            "If I lived here, what would my normal Tuesday look like?",
+            "What did I buy, and why did I choose it?",
+            "Which moment would I want to relive?",
+            "What did I learn about the history of this place?",
+            "How did I feel on the first night compared with tonight?",
+            "What do the streets look like at night?",
+            "What would I tell a friend who is visiting next month?",
+            "What was the hardest part of today?",
+            "What made me laugh?",
+            "What am I grateful for on this trip so far?",
+            "Describe a stranger I noticed, without a name.",
+            "What colors do I see most here?",
+            "What did I expect that turned out to be wrong?",
+            "What did travel teach me about myself today?",
+            "What is one thing I want to do tomorrow?",
+            "What did I miss about home today, if anything?",
+            "What was the best surprise of the trip?",
+            "Which place would I go back to first?",
+            "What will I do differently on my next trip?",
+            "How do I feel now that it is almost over?"
+          ]
+        },
+        {
+          "p": "For more ideas, see our [journal prompts](/journal-prompts/) list and [gratitude journal](/gratitude-journal/) page."
+        }
+      ]
+    },
+    {
+      "h2": "Travel journal styles",
+      "blocks": [
+        {
+          "p": "There is no one way to keep a travel journal. Choose a style, or mix a few."
+        },
+        {
+          "table": {
+            "head": [
+              "Style",
+              "What it looks like",
+              "Best for"
+            ],
+            "rows": [
+              [
+                "Daily log",
+                "Short notes each day using the template above",
+                "Busy trips and first time journalers"
+              ],
+              [
+                "Storytelling",
+                "Longer entries that tell the day like a story",
+                "People who love to write"
+              ],
+              [
+                "Scrapbook",
+                "Tickets, photos and labels with short captions",
+                "Visual memory keepers"
+              ],
+              [
+                "Sketchbook",
+                "Quick drawings with a few words",
+                "Artists and slow travelers"
+              ],
+              [
+                "Envelope",
+                "Pockets of keepsakes with a note on each",
+                "Kids and collectors"
+              ],
+              [
+                "Planner",
+                "Plans, bookings and budget, plus a daily note",
+                "Organized travelers"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Before you go: planning pages",
+      "blocks": [
+        {
+          "p": "A few pages before the trip make the journal more useful and more fun to read later:"
+        },
+        {
+          "ul": [
+            "**Trip overview.** Where, when, who, and why this trip.",
+            "**Hopes list.** Places to see, foods to try, things to do.",
+            "**Bookings.** Flight times, hotel names and check in times. Keep passport numbers and passwords out of your journal in case it is lost.",
+            "**Packing list.** Tick it off as you pack, then mark what you never used.",
+            "**Budget.** A simple daily amount and a line for each day.",
+            "**Useful phrases.** Hello, thank you, please and excuse me in the local language."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Travel journal for kids",
+      "blocks": [
+        {
+          "p": "A travel journal keeps kids busy on long rides and helps them remember the trip. Keep it simple:"
+        },
+        {
+          "ul": [
+            "One drawing and one sentence each day.",
+            "A \"best thing, worst thing, funny thing\" list at bedtime.",
+            "A place to glue tickets, leaves and stickers.",
+            "A bingo page: spot a red car, a dog, a bridge, a new food.",
+            "A postcard to themselves on the last day."
+          ]
+        },
+        {
+          "p": "For more kid friendly writing ideas, see [journal prompts for kids](/journal-prompts-for-kids/) and [diary entry about summer vacation](/diary-entry-about-summer-vacation/)."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a trip journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Write a little, often.** Short notes every day beat one long catch up at home.",
+            "**Use bullet points when tired.** Five quick lines still bring the day back later.",
+            "**Bring tape and a glue stick.** For tickets and labels you collect.",
+            "**Be honest.** The rainy, lost, grumpy days make great memories too.",
+            "**Keep your journal safe.** Pages you fill in here are saved in this browser on this device, so print or save a PDF before you clear your browser."
+          ]
+        },
+        {
+          "p": "Want a free page for each day? Use our [online journal](/online-journal-free/) or print [printable journal pages](/printable-journal-pages/) before you go. More layouts are on the [journal page ideas](/journal-page-ideas/) page."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you write in a travel journal?",
+      "a": "Write where you are, what you did, what you ate, who you met and your favorite moment of the day. Add details for your senses, like sounds and smells, plus anything funny or surprising. Many people also tape in tickets, maps and receipts to make the pages feel alive."
+    },
+    {
+      "q": "How do I start a travel journal?",
+      "a": "Start before you leave with a page about where you are going and what you hope for. Then set aside ten minutes each day of the trip, often at breakfast or bedtime. Use the free template on this page or a small notebook, and bring tape for tickets."
+    },
+    {
+      "q": "What should be on the first page of a travel journal?",
+      "a": "Many people put the trip name, dates and who is going on the first page. You can add a map, a short list of things you hope to see, and a note about how you feel before leaving. It is fun to read this page again when you get home."
+    },
+    {
+      "q": "Should I write my travel journal during the trip or after?",
+      "a": "During the trip is best, because details fade fast. Even a few bullet points each night are enough. You can add photos, tickets and longer notes once you get home. If you missed a few days, write them as soon as you can."
+    },
+    {
+      "q": "What can I put in a travel journal besides writing?",
+      "a": "Tickets, maps, receipts, labels, postcards, photos, sketches, pressed leaves where allowed, and lists of food or new words you learned. Kids can add their own drawings. A small envelope taped inside the back cover is handy for collecting things as you go, so nothing gets lost."
+    },
+    {
+      "q": "What kind of notebook is best for a travel journal?",
+      "a": "Pick something small and light enough to carry every day, with a sturdy cover. A pocket at the back is handy for tickets. If you like to glue things in, choose thicker paper. If you prefer to travel light, fill in the online template on your phone and print the pages when you get home."
+    }
+  ],
+  "related": [
+    "journal-ideas",
+    "junk-journal-ideas",
+    "art-journal-ideas",
+    "journal-prompts",
+    "gratitude-journal",
+    "printable-journal-pages"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "prayer-journal-acts",
+  "keyword": "prayer journal acts",
+  "type": "template",
+  "title": "Prayer Journal ACTS Method: Free Template and Example",
+  "description": "Use the ACTS prayer journal method: Adoration, Confession, Thanksgiving, Supplication. Free fill-in template, a filled example, and prompts for each part.",
+  "h1": "ACTS prayer journal: Adoration, Confession, Thanksgiving, Supplication",
+  "crumb": "ACTS prayer journal",
+  "card": "Pray in four simple parts",
+  "eyebrow": "Prayer journal",
+  "intro": "An **ACTS prayer journal** walks you through four parts of prayer in order: **Adoration** (praise God for who He is), **Confession** (admit your sin), **Thanksgiving** (thank Him for what He has done) and **Supplication** (ask for what you and others need). Fill in the template below, then print it or keep it here.",
+  "template": {
+    "key": "prayer-journal-acts",
+    "name": "My ACTS prayer",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Scripture", "hint": "The verse or passage I read", "lines": 2},
+      {"label": "A: Adoration", "hint": "Lord, You are... (who God is)", "lines": 3},
+      {"label": "C: Confession", "hint": "Forgive me for...", "lines": 3},
+      {"label": "T: Thanksgiving", "hint": "Thank You for... (what God has done)", "lines": 3},
+      {"label": "S: Supplication for others", "hint": "Names and needs", "lines": 3},
+      {"label": "S: Supplication for me", "hint": "Please help me with...", "lines": 3}
+    ]
+  },
+  "related": ["prayer-journal-template", "prayer-journal-prompts", "how-to-start-a-prayer-journal", "prayer-journal-examples", "prayer-journal-for-women", "devotional-journal"],
+  "sections": [
+    {
+      "h2": "What the ACTS prayer method means",
+      "blocks": [
+        {"p": "ACTS is a simple order for prayer that many churches teach. Each letter stands for one kind of prayer. Going through them in order keeps your prayer time balanced, so it is not only a list of requests."},
+        {"table": {
+          "head": ["Letter", "Part", "What you do", "Starter line"],
+          "rows": [
+            ["A", "Adoration", "Praise God for who He is: His love, power, holiness, patience", "Lord, You are..."],
+            ["C", "Confession", "Tell God honestly where you have done wrong", "Father, I am sorry that..."],
+            ["T", "Thanksgiving", "Thank God for specific things He has done and given", "Thank You for..."],
+            ["S", "Supplication", "Ask God humbly for what others and you need", "Please..."]
+          ]
+        }},
+        {"p": "The difference between Adoration and Thanksgiving trips many people up. **Adoration** is about who God is, even if nothing went right today. **Thanksgiving** is about what He did, like a safe trip or a kind word from a friend."},
+        {"verse": "Psalm 100:4"}
+      ]
+    },
+    {
+      "h2": "How to use the ACTS prayer journal template",
+      "blocks": [
+        {"steps": [
+          {"name": "Read a short passage", "text": "A psalm is a great place to start because the psalms are full of praise, confession, thanks and requests. Write the reference in the Scripture box."},
+          {"name": "Adoration: write one or two lines of praise", "text": "Pick a word that describes God from what you just read, like faithful, holy or near. Write why that matters to you."},
+          {"name": "Confession: be specific and brief", "text": "Name the actual thing, not just \"I messed up.\" Then write one line remembering that God forgives when we confess."},
+          {"name": "Thanksgiving: list at least three things", "text": "Include one big thing and one tiny thing. Small thanks train your eyes to see God's care in ordinary days."},
+          {"name": "Supplication: pray for others first", "text": "Write names and needs. Then bring your own needs. Keep it honest and simple."},
+          {"name": "Print or keep it", "text": "Your page saves in this browser on this device. Use Print or Save as PDF to keep it in a binder or tuck it in your Bible."}
+        ]},
+        {"verse": "1 John 1:9"}
+      ]
+    },
+    {
+      "h2": "ACTS prayer journal example",
+      "blocks": [
+        {"p": "Here is one filled in page. It took about ten minutes to write."},
+        {"example": {"label": "ACTS prayer", "date": "Tuesday, October 7", "title": "Psalm 103:1-5", "text": "A: Lord, You are patient and kind. You remember I am dust.\nC: I was short with my sister and blamed her. I am sorry.\nT: Thank You for a quiet night, for the job lead, for rain.\nS: Heal Grandpa's knee. Give Mia friends at her new school.\nS: Help me apologize to my sister today, and mean it."}},
+        {"tip": "Notice the confession leads straight into an action in the last line. Prayer often turns into a next step."}
+      ]
+    },
+    {
+      "h2": "ACTS prayer prompts for each part",
+      "blocks": [
+        {"h3": "Adoration prompts"},
+        {"ul": [
+          "Which name of God do I need most this week: Shepherd, Father, Rock, Healer?",
+          "What did I notice in nature today that shows God's greatness?",
+          "Write a line of praise for God's patience with people, including me.",
+          "What does it mean to me that God never changes?",
+          "Describe God's kindness in one sentence, as if telling a child."
+        ]},
+        {"h3": "Confession prompts"},
+        {"ul": [
+          "Where did my words hurt someone this week?",
+          "What have I been putting ahead of God lately?",
+          "Is there a habit I keep hiding? Name it plainly.",
+          "Where have I been unkind in my thoughts, even if I said nothing?",
+          "What did I know I should do but did not?"
+        ]},
+        {"h3": "Thanksgiving prompts"},
+        {"ul": [
+          "Name three people who made my week better.",
+          "What prayer did God answer this month?",
+          "What is one ordinary thing I would miss if it were gone?",
+          "Where did I see God provide for me when money or time was tight?",
+          "What hard thing taught me something good?"
+        ]},
+        {"h3": "Supplication prompts"},
+        {"ul": [
+          "Who is sick, grieving or struggling right now?",
+          "What do my church and its leaders need this week?",
+          "Which decision do I need wisdom for?",
+          "What do I need for my body, my mind and my faith today?",
+          "Who is hard for me to love, and what can I ask God to do for them?"
+        ]},
+        {"p": "Need more? See our full list of [prayer journal prompts](/prayer-journal-prompts/)."}
+      ]
+    },
+    {
+      "h2": "ACTS prayer journal ideas",
+      "blocks": [
+        {"ul": [
+          "**One letter per day.** Spend Monday on Adoration, Tuesday on Confession and so on, then a full ACTS page on Friday.",
+          "**Color code it.** Underline each part in a different color so you can scan your pages later.",
+          "**Keep a running Supplication list.** When a request is answered, move it to Thanksgiving with the date.",
+          "**Pray a psalm in ACTS order.** Pull one line from the psalm for each letter.",
+          "**Use it with your family.** Each person says one sentence for each letter at dinner.",
+          "**Pair it with the Lord's Prayer.** Notice how it starts with praise, includes forgiveness and asks for daily needs."
+        ]},
+        {"verse": "Matthew 6:9-13"},
+        {"p": "The ACTS order also works with other journaling methods. Many people read using [SOAP](/how-to-journal-the-bible/) and then pray using ACTS. For a less structured page, try the general [prayer journal template](/prayer-journal-template/)."}
+      ]
+    },
+    {
+      "h2": "Tips for ACTS journaling",
+      "blocks": [
+        {"ul": [
+          "Keep each part short. Two lines each is enough on busy days.",
+          "Do not skip Confession because it is uncomfortable. It is often where peace comes from.",
+          "Write Supplication for others before yourself. It keeps the heart wide.",
+          "Read old pages once a month and mark answered prayers.",
+          "If you miss a day, start with today. No catching up required."
+        ]},
+        {"p": "Our Android app [Prayer Journal for Women](/prayer-journal-for-women/) has a ready made ACTS prayer page, plus a prayer page every week where you thank Him, confess, ask and trust Him. It is coming soon on Google Play."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What does ACTS stand for in prayer?", "a": "ACTS stands for Adoration, Confession, Thanksgiving and Supplication. Adoration is praising God for who He is. Confession is admitting sin. Thanksgiving is thanking Him for what He has done. Supplication is asking Him for what you and others need. Together they make a balanced prayer that is not only requests."},
+    {"q": "What is the difference between adoration and thanksgiving?", "a": "Adoration praises God for who He is, such as faithful, holy or loving, no matter what happened today. Thanksgiving thanks Him for things He has done, like an answered prayer, a meal or a friend. One looks at His character, the other at His gifts."},
+    {"q": "How do you write an ACTS prayer?", "a": "Write a line or two for each letter in order. Start with praise for who God is. Confess one specific thing. Thank Him for at least three things. Then ask for what others need and what you need. Our free template above has a box for each part so you can fill it in and print it."},
+    {"q": "Is the ACTS prayer method in the Bible?", "a": "The letters ACTS are not in the Bible. They are a teaching tool. But each part is found all through Scripture, especially in the Psalms, and the Lord's Prayer in Matthew 6 includes praise, forgiveness and requests for daily needs."},
+    {"q": "How long should an ACTS prayer take?", "a": "As long as you like. A short ACTS prayer can take two minutes, a written one around ten to fifteen. Many people do a quick spoken one on busy days and a full written page once or twice a week."}
+  ]
+}

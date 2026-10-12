@@ -1,0 +1,313 @@
+{
+  "slug": "gratitude-journal",
+  "keyword": "gratitude journal",
+  "type": "template",
+  "title": "Gratitude Journal: Free Page, Example and How To",
+  "description": "Start a gratitude journal today. Fill in a free gratitude page online, print it as a PDF, see a real example, and learn simple ways to make the habit stick.",
+  "h1": "Gratitude journal: a free page to fill in, plus how to keep one",
+  "crumb": "Gratitude journal",
+  "card": "Three good things",
+  "eyebrow": "Journal types",
+  "intro": "A gratitude journal is a notebook or page where you write down things you are thankful for, usually three to five each day. Use the free page below to write today's list, then print it or save it as a PDF. Below that you will find an example, ideas and tips to keep going.",
+  "template": {
+    "key": "gratitude-journal",
+    "name": "My gratitude journal",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Today I am thankful for",
+        "hint": "1.  2.  3.",
+        "lines": 3
+      },
+      {
+        "label": "A small moment I almost missed",
+        "hint": "The smell of coffee, a kind text...",
+        "lines": 2
+      },
+      {
+        "label": "A person I am grateful for, and why",
+        "hint": "Name, and one thing they did",
+        "lines": 3
+      },
+      {
+        "label": "Something good about me today",
+        "hint": "I kept my temper, I tried something new...",
+        "lines": 2
+      },
+      {
+        "label": "Something I am looking forward to",
+        "hint": "Big or small",
+        "lines": 2
+      },
+      {
+        "label": "How I feel now",
+        "hint": "One or two words",
+        "lines": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a gratitude journal?",
+      "blocks": [
+        {
+          "p": "A gratitude journal is a simple record of the good things in your life. Each day, or a few times a week, you write down what you are thankful for. Some people call it \"three good things\" or \"counting your blessings.\""
+        },
+        {
+          "p": "It is not about pretending life is perfect. Hard days still happen. A gratitude journal just asks you to look for the good that is also there, even on a rough day. Over time, many people find they start to notice good things more often, even when they are not writing."
+        },
+        {
+          "p": "You can keep one in any notebook, in a [daily journal](/daily-journal/), or right here on this page. The page above saves in your browser on this device, so you can come back to it."
+        }
+      ]
+    },
+    {
+      "h2": "Gratitude journal benefits",
+      "blocks": [
+        {
+          "p": "Research in positive psychology has looked at gratitude writing for years. The results are encouraging but modest. Here is what people often report, in plain terms:"
+        },
+        {
+          "ul": [
+            "**You notice more good things.** Writing them down trains your attention to look for them.",
+            "**A small lift in mood.** Many people feel a bit calmer or more hopeful after writing, especially at night.",
+            "**A kinder view of others.** Naming what someone did for you can make you feel closer to them.",
+            "**A record to read later.** On a bad day, reading old pages reminds you that good days do come.",
+            "**A quick habit.** It takes two to five minutes, so it is easy to keep up."
+          ]
+        },
+        {
+          "tip": "Gratitude journaling is a helpful habit, not a cure. If you are feeling low for a long time, talking to a doctor or counselor is a good step. Our [journal prompts for mental health](/journal-prompts-for-mental-health/) are another gentle place to start."
+        }
+      ]
+    },
+    {
+      "h2": "How to start a gratitude journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Pick where you will write",
+              "text": "A small notebook by your bed, your phone, or the free page at the top of this page. Choose whatever you will actually open."
+            },
+            {
+              "name": "Choose a time",
+              "text": "Night works well for many people because you can look back over the whole day. Morning works too. Tie it to something you already do, like brushing your teeth."
+            },
+            {
+              "name": "Write three things",
+              "text": "Start with three. Make them specific. \"My sister drove me to work when my car would not start\" is better than \"family.\""
+            },
+            {
+              "name": "Add why",
+              "text": "One short line about why it mattered makes the moment stick. Why did it help? How did it feel?"
+            },
+            {
+              "name": "Keep it short and keep going",
+              "text": "Two minutes a day is plenty. If you miss a day, just write the next one. There is no streak to break."
+            },
+            {
+              "name": "Read back once a month",
+              "text": "Flip through your old pages. You will often find small moments you had already forgotten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Gratitude journal example",
+      "blocks": [
+        {
+          "p": "Here is how a real page might look. Notice that the items are small and specific. That is what makes them feel real."
+        },
+        {
+          "example": {
+            "label": "Gratitude journal",
+            "date": "Tuesday, March 4",
+            "title": "Today I am thankful for,",
+            "text": "1. The bus driver who waited when I was running late.\n2. Leftover soup, so I did not have to cook.\n3. A long call with Grandma. She laughed a lot.\nA moment I almost missed: sun on the kitchen floor at 4 pm.\nGood about me: I asked for help at work instead of stressing.\nLooking forward to: Saturday morning with no alarm.\nHow I feel now: calm, a little tired."
+          }
+        },
+        {
+          "p": "For more sample pages across many journal types, see our [journal examples](/journal-examples/)."
+        }
+      ]
+    },
+    {
+      "h2": "Gratitude journal ideas when you feel stuck",
+      "blocks": [
+        {
+          "p": "Some days it is hard to think of anything. Try one of these angles:"
+        },
+        {
+          "ul": [
+            "**Your senses.** Something you saw, heard, tasted, smelled or touched today that was pleasant.",
+            "**Your body.** Legs that walked you to the store, hands that cooked dinner, a good night's sleep.",
+            "**Your home.** Hot water, a soft blanket, a door that locks, a favorite mug.",
+            "**People.** Someone who helped you, made you laugh, or simply said hello.",
+            "**Things that went right.** The traffic was light, the printer worked, the bread was fresh.",
+            "**Lessons.** Something hard that taught you something useful.",
+            "**The past.** A memory you are glad to have, or a person who shaped you.",
+            "**Nature.** Rain on the window, a bird, a tree changing color.",
+            "**Tiny wins.** You drank water, you replied to that email, you went to bed on time."
+          ]
+        },
+        {
+          "p": "Want a longer list? Our [gratitude journal prompts](/gratitude-journal-prompts/) page has dozens of specific questions you can answer right on the page."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a gratitude journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Go for depth, not length.** One thing written with detail can mean more than ten quick words.",
+            "**Avoid repeats.** Try not to write the same three things every day. Looking for new ones is part of the habit.",
+            "**Include people.** Gratitude about people tends to feel warmer than gratitude about things.",
+            "**Tell someone.** Now and then, send a short thank you note to a person from your list.",
+            "**Do not force it.** On a very hard day, one small thing is enough. Writing \"I made it through today\" counts.",
+            "**Try a weekly page.** Some people find a longer entry once or twice a week feels fresher than a short one every day."
+          ]
+        },
+        {
+          "p": "If you want a place to write more than lists, our [online journal](/online-journal-free/) lets you keep free pages in your browser. You can also add gratitude to a [one line a day journal](/one-line-a-day-journal/) or a [morning journal](/morning-journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "Ways to set up a gratitude journal",
+      "blocks": [
+        {
+          "p": "There is no single right format. Pick the one that feels easiest, and change it if it gets stale."
+        },
+        {
+          "table": {
+            "head": [
+              "Style",
+              "How it works",
+              "Good for"
+            ],
+            "rows": [
+              [
+                "Three good things",
+                "Write three good things from today and why they happened",
+                "Beginners and busy days"
+              ],
+              [
+                "One deep entry",
+                "Pick one thing and write a full paragraph about it",
+                "People who find lists repetitive"
+              ],
+              [
+                "Gratitude letter",
+                "Write a letter to someone thanking them, whether or not you send it",
+                "Feeling closer to people"
+              ],
+              [
+                "Photo a day",
+                "Take one photo of something you are thankful for and add a caption",
+                "Visual people"
+              ],
+              [
+                "Gratitude jar",
+                "Write on small slips of paper and read them at the end of the year",
+                "Families and kids"
+              ],
+              [
+                "Weekly review",
+                "Once a week, list the best moments from the last seven days",
+                "People who prefer less often"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "You can also add a gratitude line to other journals. Many people end a [mood journal](/mood-journal/) or a [prayer journal](/prayer-journal/) entry with one thing they are thankful for."
+        }
+      ]
+    },
+    {
+      "h2": "Gratitude journal for kids, teens and couples",
+      "blocks": [
+        {
+          "h3": "For kids"
+        },
+        {
+          "p": "Keep it simple and fun. Ask \"What made you smile today?\" at bedtime and let them draw or write one thing. A family gratitude jar on the kitchen table works well too. See our [journal prompts for kids](/journal-prompts-for-kids/) for more ideas."
+        },
+        {
+          "h3": "For teens"
+        },
+        {
+          "p": "Teens often prefer privacy and a phone. A short list at night in a private notes page or our [online diary](/) is enough. Prompts about friends, music and small wins feel more real than big questions. Try [journal prompts for teens](/journal-prompts-for-teens/)."
+        },
+        {
+          "h3": "For couples"
+        },
+        {
+          "p": "Share a notebook and each write one thing you appreciated about the other person this week. Read them together on Sunday. It is a simple way to notice the good in each other on busy weeks."
+        }
+      ]
+    },
+    {
+      "h2": "Common gratitude journal mistakes",
+      "blocks": [
+        {
+          "ul": [
+            "**Writing the same list every day.** \"Family, health, home\" gets stale fast. Look for something new and specific.",
+            "**Using it to hide hard feelings.** Gratitude sits next to sadness, it does not replace it. You can write both.",
+            "**Making it a chore.** If daily feels heavy, switch to three times a week.",
+            "**Comparing yourself to others.** \"At least I am not as bad off as them\" is not really gratitude. Focus on what is good in your own life.",
+            "**Never looking back.** Rereading old pages is one of the best parts. Set a reminder once a month."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Gratitude journal PDF and printing",
+      "blocks": [
+        {
+          "p": "To make a gratitude journal PDF, fill in the page at the top, or leave it blank, then press **Print or save as PDF**. In the print window, choose Save as PDF to keep a digital copy, or pick your printer for paper pages."
+        },
+        {
+          "p": "Print a week of blank pages at a time and keep them in a folder or binder. For more designs, see our [printable journal pages](/printable-journal-pages/) and the [journal template](/journal-template/) collection."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you write in a gratitude journal?",
+      "a": "Write a few things you are thankful for that day, and add a short reason for each. Be specific. Small things count, like a warm shower or a kind word from a coworker. You can also write about people, lessons from hard moments, and things you are looking forward to."
+    },
+    {
+      "q": "How many things should I write in a gratitude journal?",
+      "a": "Three is a common starting point because it is quick and easy. Some people write five. What matters more is detail. One thing written with care, including why it mattered to you, often feels more meaningful than a long list written in a hurry."
+    },
+    {
+      "q": "Is it better to write in a gratitude journal in the morning or at night?",
+      "a": "Either works. At night you can look back over the whole day, and many people find it helps them wind down before sleep. In the morning it can set a hopeful tone for the day ahead. Pick the time you are most likely to keep."
+    },
+    {
+      "q": "Do I have to write in my gratitude journal every day?",
+      "a": "No. Some people write daily, others two or three times a week. A few thoughtful entries a week can feel fresher than rushing through the same list every night. If you miss days, just pick it up again. There is nothing to catch up on."
+    },
+    {
+      "q": "What if I cannot think of anything to be grateful for?",
+      "a": "Start very small. Clean water, a bed, a song you like, or simply getting through the day all count. You can also use a prompt, such as naming one person who helped you this year. On very hard days, one line is enough."
+    },
+    {
+      "q": "Is a gratitude journal the same as a diary?",
+      "a": "Not quite. A diary usually records everything that happened in your day, good and bad. A gratitude journal focuses only on what you are thankful for. Many people keep both, or add a short gratitude list at the end of a normal diary entry. Our [diary vs journal](/diary-vs-journal/) guide explains the difference in more detail."
+    }
+  ],
+  "related": [
+    "gratitude-journal-prompts",
+    "daily-journal",
+    "one-line-a-day-journal",
+    "journal-template",
+    "self-care-journal-prompts",
+    "morning-journal-prompts"
+  ]
+}

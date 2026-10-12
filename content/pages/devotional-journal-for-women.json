@@ -1,0 +1,152 @@
+{
+  "slug": "devotional-journal-for-women",
+  "keyword": "devotional journal for women",
+  "type": "article",
+  "title": "Devotional Journal for Women: Free Page and 40 Prompts",
+  "description": "A devotional journal for women: a free page to fill in and print, a 7 day plan, 40 prompts for busy seasons, a filled example, and ideas for men too.",
+  "h1": "Devotional journal for women",
+  "crumb": "Devotional journal for women",
+  "card": "Quiet time, written down",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "A **devotional journal for women** gives you a simple page for your quiet time: a verse, what it shows you about God, how it touches your life this week, and a prayer. Start with the free page below. It takes about ten minutes and you can print it or save it as a PDF.",
+  "template": {
+    "key": "devotional-journal-for-women",
+    "name": "My quiet time",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Verse or passage", "hint": "Proverbs 3:5-6, Luke 10:38-42...", "lines": 2},
+      {"label": "What God is like in this passage", "hint": "He is...", "lines": 3},
+      {"label": "Where this meets my life right now", "hint": "At home, at work, in my heart", "lines": 3},
+      {"label": "One thing I will do or believe today", "hint": "Today I will...", "lines": 2},
+      {"label": "My prayer", "hint": "Lord,", "lines": 4},
+      {"label": "Small gifts I noticed", "hint": "1.  2.  3.", "lines": 2}
+    ]
+  },
+  "related": ["devotional-journal", "prayer-journal-for-women", "christian-journal-prompts", "bible-journal-prompts", "prayer-journal-for-moms", "journal-prompts-for-women"],
+  "sections": [
+    {
+      "h2": "What a devotional journal for women is",
+      "blocks": [
+        {"p": "A devotional journal is the page you write on during your time with God. You read a short passage, think about it, and respond in writing. A devotional journal for women shapes those questions around the real life of a woman: the people she cares for, the roles she carries, and the quiet battles she does not always talk about."},
+        {"p": "It is not a test of how spiritual you are. Some days you will write a full page. Some days you will write one line at a red light before school pickup. Both count. For the general method, see our [devotional journal](/devotional-journal/) guide."},
+        {"verse": "Luke 10:41-42"}
+      ]
+    },
+    {
+      "h2": "A 7 day devotional journal plan for busy women",
+      "blocks": [
+        {"p": "Use one passage for the whole week. Spend about ten minutes a day. If you miss a day, skip it and keep going."},
+        {"steps": [
+          {"name": "Day 1: Read and copy", "text": "Read the passage twice. Copy the one verse that stands out most at the top of the page."},
+          {"name": "Day 2: Look for God", "text": "Write what this passage shows about who God is. Look for words that describe Him or how He acts."},
+          {"name": "Day 3: Look at the people", "text": "Who is in the passage? What were they feeling or facing? Where do you see yourself in them?"},
+          {"name": "Day 4: Make it personal", "text": "Write where this truth meets your life this week: a relationship, a worry, a decision or a habit."},
+          {"name": "Day 5: Pray it back", "text": "Turn the passage into a prayer. Use its words and ideas, then add your own."},
+          {"name": "Day 6: Pray for others", "text": "Who else needs this truth? Write their names and pray it for them."},
+          {"name": "Day 7: Rest and remember", "text": "Read your week's pages. Write one sentence you want to carry into next week."}
+        ]},
+        {"h3": "Passages that work well for a week"},
+        {"ul": ["Psalm 23", "Proverbs 3:1-12", "Isaiah 40:28-31", "Matthew 6:25-34", "Luke 10:38-42", "John 15:1-11", "Philippians 4:4-9", "Colossians 3:12-17"]}
+      ]
+    },
+    {
+      "h2": "Devotional journal prompts for women",
+      "blocks": [
+        {"p": "Use these when the passage feels hard to start or you want a fresh angle. Write the prompt in the box called \"Where this meets my life right now.\" For many more, see [Christian journal prompts for women](/christian-journal-prompts/)."},
+        {"h3": "Your walk with God"},
+        {"ul": [
+          "What does my quiet time look like right now, honestly? What would I like it to look like?",
+          "Which truth about God have I known for years but struggle to believe on hard days?",
+          "Where in this passage do I feel God's gentleness toward me?",
+          "What is God asking me to stop doing, and what is He asking me to start?",
+          "What did I pray for a year ago? How has He answered?",
+          "If I could ask God one question today, what would it be?",
+          "Which woman in the Bible do I relate to most this season, and why?",
+          "Where have I seen God's faithfulness in the last seven days?",
+          "What part of my life have I not invited Him into yet?",
+          "What would it look like to spend one hour with Jesus like Mary did?"
+        ]},
+        {"h3": "Your heart and your worth"},
+        {"ul": [
+          "What words do I use about myself that God would never use about me?",
+          "Where am I trying to earn love that is already given?",
+          "What am I comparing myself to lately, and how is it changing my mood?",
+          "What would I tell my younger self about how God sees her?",
+          "When did I last feel truly rested, and what made it different?",
+          "What fear has been making my choices for me this month?",
+          "Which strength has God given me that I tend to hide?",
+          "What do I need to forgive myself for, now that God has forgiven me?",
+          "What does beauty that comes from the inside look like in my daily life?",
+          "How can I treat my body this week as a gift from God?"
+        ]},
+        {"h3": "The people you love"},
+        {"ul": [
+          "Who needs my patience this week, and what makes it hard to give?",
+          "What prayer have I been praying for my family the longest?",
+          "Is there a friendship God is asking me to repair or to grow?",
+          "Who in my life is carrying something heavy without saying so?",
+          "How can I serve someone at home in a way they would notice?",
+          "Which older woman has shaped my faith? What did she teach me?",
+          "Which younger woman could I encourage this month?",
+          "Where do I need to set a kind but firm limit with someone?",
+          "What blessing would I speak over each person in my home tonight?",
+          "Whom have I been avoiding, and what would Jesus do?"
+        ]},
+        {"h3": "Work, calling and seasons"},
+        {"ul": [
+          "What season of life am I in, and what is God teaching me in it?",
+          "Where am I serving out of love, and where out of guilt?",
+          "What dream have I set down that I want to talk to God about?",
+          "How can I honor God in my work this week, paid or unpaid?",
+          "What is one thing I can say no to so I can say yes to God?",
+          "What has this busy season taught me about my limits?",
+          "Where do I need wisdom for a decision this month?",
+          "What is God providing for me right now that I have overlooked?",
+          "How can my home, table or schedule bless someone outside my family?",
+          "What do I want people to remember about my faith one day?"
+        ]}
+      ]
+    },
+    {
+      "h2": "A filled devotional journal page",
+      "blocks": [
+        {"example": {"label": "Quiet time", "date": "Monday, October 6", "title": "Luke 10:38-42", "text": "God here: Jesus is gentle with Martha. He is not angry.\nMy life: I am Martha this month. Lists, meals, work, no rest.\nToday I will sit for ten minutes before I open my email.\nLord, I am tired. Teach me the one thing that is needed.\nGifts: a hug from Noah, a sunny window, leftovers for dinner."}},
+        {"p": "Short and honest is the goal. More sample pages are in [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    },
+    {
+      "h2": "Devotional journal for men",
+      "blocks": [
+        {"p": "This same page works just as well for men. The method does not change: read, notice God, apply, pray. Men often like a shorter page with one clear action. Try writing only three lines: the verse, one thing it says, and one thing to do today."},
+        {"ul": [
+          "Where is God asking me to lead with humility this week?",
+          "What am I carrying alone that I should bring to God and a trusted friend?",
+          "How can I protect time with my family from work this week?",
+          "Where do I need courage to do what is right?",
+          "What does faithfulness look like in my job tomorrow?"
+        ]},
+        {"p": "For more, see the [prayer journal for men](/prayer-journal-for-men/)."}
+      ]
+    },
+    {
+      "h2": "Tips to keep your devotional journal going",
+      "blocks": [
+        {"ul": [
+          "**Tie it to something you already do.** Morning coffee, the school run, lunch break or bedtime.",
+          "**Keep everything together.** Bible, pen and journal in one basket, or this page saved on your phone's home screen.",
+          "**Lower the bar.** One verse and one line is a win.",
+          "**Read with a friend.** Pick the same passage and text each other one thing you learned.",
+          "**Look back monthly.** Mark answered prayers and lessons you do not want to forget."
+        ]},
+        {"p": "If you want a guided year, our Android app [Prayer Journal for Women](/prayer-journal-for-women/) gives you a Bible verse each week (KJV or WEB), the whole chapter, a reflection with three questions and a prayer page. It also has a daily page and a prayer list with reminders. No ads, no account, and it is coming soon on Google Play."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a devotional journal for women?", "a": "It is a journal for a woman's daily or weekly quiet time with God. Each page has room for a Bible passage, what it shows about God, how it applies to her life, and a prayer. Many also include gratitude and a place for answered prayers."},
+    {"q": "How do I start a devotional journal?", "a": "Pick one short passage, like a psalm or a few verses from a gospel. Read it twice. Write the verse that stood out, what it shows about God, how it meets your life, and a short prayer. Do this for ten minutes a day. The free page above walks you through each step."},
+    {"q": "What is a good devotional for women to start with?", "a": "The Bible itself is the best place to start. Psalm 23, Luke 10:38-42, Proverbs 3 and Philippians 4 are gentle, clear passages. Spend a week on each one using the 7 day plan on this page before moving on."},
+    {"q": "How much time should a devotional journal take?", "a": "Ten minutes is a good target, but five is fine on busy days. What matters most is showing up regularly. Many women find a short daily time and a longer weekend time works well for their season."},
+    {"q": "Can men use a devotional journal too?", "a": "Yes. The method is the same for anyone: read, notice what it shows about God, apply it, and pray. Men often prefer a short three line page with one clear action for the day. The free template on this page works for men too."}
+  ]
+}

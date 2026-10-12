@@ -1,0 +1,314 @@
+{
+  "slug": "reading-journal",
+  "keyword": "reading journal",
+  "type": "template",
+  "title": "Reading Journal: Free Template, Ideas and Prompts",
+  "description": "A free reading journal template to log every book you read. Fill it in online or print it, see a filled example, and get reading journal ideas and prompts.",
+  "h1": "Reading journal: a free template for every book you read",
+  "crumb": "Reading journal",
+  "card": "Every book I read",
+  "eyebrow": "Journal types",
+  "intro": "A reading journal is a place to record the books you read and what you thought of them. Fill in the free reading journal template below with the title, your rating, favorite lines and your thoughts. Then print it or keep it saved in this browser.",
+  "template": {
+    "key": "reading-journal",
+    "name": "My reading journal",
+    "eyebrow": "Finished on",
+    "fields": [
+      {
+        "label": "Title and author",
+        "hint": "Book title, by...",
+        "lines": 1
+      },
+      {
+        "label": "Genre, format and pages",
+        "hint": "Mystery, paperback, 320 pages",
+        "lines": 1
+      },
+      {
+        "label": "My rating",
+        "hint": "Out of 5 stars",
+        "lines": 1
+      },
+      {
+        "label": "What it was about",
+        "hint": "Two or three sentences, no spoilers needed",
+        "lines": 3
+      },
+      {
+        "label": "Favorite line or moment",
+        "hint": "A short line and its page number",
+        "lines": 2
+      },
+      {
+        "label": "What I thought",
+        "hint": "What worked, what did not, how it made me feel",
+        "lines": 4
+      },
+      {
+        "label": "Who I would recommend it to",
+        "hint": "My sister, anyone who loves slow romance...",
+        "lines": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a reading journal?",
+      "blocks": [
+        {
+          "p": "A reading journal, sometimes called a book journal, is a notebook where you keep track of what you read. Each book gets its own page with the basics, a rating and your thoughts. Many reading journals also hold a want to read list, reading goals and favorite quotes."
+        },
+        {
+          "p": "Readers keep them for different reasons. Some want to remember what they read. Some love having a record of a whole year of books. Students use them to prepare for essays and class discussions. Book club members use them to bring notes to meetings."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a reading journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Remember more.** Writing a short summary and your thoughts helps a book stay with you longer.",
+            "**Think more deeply.** Putting a reaction into words often shows you what you really thought.",
+            "**Find your taste.** Over time you will see which authors, genres and styles you love most.",
+            "**Never lose a good quote.** Your favorite lines are all in one place.",
+            "**Track goals.** Count books, pages or genres if you like a challenge.",
+            "**Easy recommendations.** When a friend asks for a good book, your journal has the answer."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How to use this reading journal template",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Start a page when you start a book",
+              "text": "Fill in the title, author and format. Add the date you start, then the date you finish at the top."
+            },
+            {
+              "name": "Collect lines as you read",
+              "text": "Keep a bookmark or sticky note for page numbers of lines you love. Copy your favorite at the end."
+            },
+            {
+              "name": "Write a short summary",
+              "text": "Two or three sentences in your own words. This is the part that helps you remember the book years later."
+            },
+            {
+              "name": "Write what you thought",
+              "text": "Did you love it, hate it, or feel unsure? Why? Which character or moment stuck with you?"
+            },
+            {
+              "name": "Rate it and recommend it",
+              "text": "Give it stars and name who would enjoy it. Ratings help you compare books later."
+            },
+            {
+              "name": "Print or save",
+              "text": "Press Print or save as PDF to keep a copy in a binder with your other book pages."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Reading journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled reading journal page. It does not have to be long to be useful."
+        },
+        {
+          "example": {
+            "label": "Reading journal",
+            "date": "Finished Sunday, August 3",
+            "title": "A quiet novel about a lighthouse",
+            "text": "Literary fiction, paperback, 280 pages. Rating: 4 of 5.\nAbout: a woman takes over her late father's lighthouse\nand slowly learns who he really was.\nFavorite moment: the storm chapter, p. 192.\nThought: slow start, but the last third made me cry.\nI wanted more of the brother's story.\nRecommend to: Mom, and anyone who likes quiet books."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Reading journal ideas",
+      "blocks": [
+        {
+          "p": "Beyond a page per book, try adding some of these to your reading journal:"
+        },
+        {
+          "ul": [
+            "**Want to read list.** A running list of books you hear about, with who recommended them.",
+            "**Bookshelf tracker.** Draw a shelf and color in a spine for each book you finish. Ideas in [bullet journal ideas](/bullet-journal-ideas/).",
+            "**Yearly goals.** Number of books, new genres, or authors from other countries.",
+            "**Quote collection.** A few pages just for lines you love.",
+            "**Monthly wrap up.** Books finished, favorite of the month, and one you gave up on.",
+            "**Character notes.** For long books or series, a list of names and who is who.",
+            "**Book club page.** Questions to ask, and what others said.",
+            "**Did not finish list.** It is fine to stop a book. Note why, so you learn your taste.",
+            "**Aesthetic pages.** Covers, colors and doodles. See [journal ideas aesthetic](/journal-ideas-aesthetic/)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Reading journal prompts",
+      "blocks": [
+        {
+          "p": "Use these reading journal prompts when you want to write more than a rating:"
+        },
+        {
+          "ol": [
+            "Which character would I most like to have dinner with, and what would I ask them?",
+            "What did I expect from this book, and how was it different?",
+            "Which moment made me stop reading and think?",
+            "Did the ending feel right? How would I have ended it?",
+            "What did this book teach me, about the world or about myself?",
+            "Which other book does this remind me of, and why?",
+            "What question would I ask the author?",
+            "How did I feel when I closed the book for the last time?",
+            "Would I read it again? What would I notice the second time?",
+            "If this book were a season, which one would it be?"
+          ]
+        },
+        {
+          "p": "For more writing questions, see [reflective journal prompts](/reflective-journal-prompts/) and our big list of [journal prompts](/journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "Pages to add to a reading journal",
+      "blocks": [
+        {
+          "p": "Most printed reading journals have the same core pages. You can set these up in any notebook or print extra copies of the template above."
+        },
+        {
+          "table": {
+            "head": [
+              "Page",
+              "What goes on it"
+            ],
+            "rows": [
+              [
+                "To be read list",
+                "Books you want to read, who recommended them, where you heard about them"
+              ],
+              [
+                "Book log",
+                "Every book you finish in one list: title, author, date, rating"
+              ],
+              [
+                "Book review pages",
+                "One page per book, like the template above"
+              ],
+              [
+                "Favorite quotes",
+                "Short lines you love, with the book and page"
+              ],
+              [
+                "Did not finish",
+                "Books you put down and why"
+              ],
+              [
+                "Lending log",
+                "Who borrowed which book and when, so you get it back"
+              ],
+              [
+                "Reading goals",
+                "Yearly and monthly goals, and how you are doing"
+              ],
+              [
+                "Series tracker",
+                "Which book in a series you are up to"
+              ],
+              [
+                "Year in review",
+                "Top books, favorite author, best surprise"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "The commonplace book: an old idea",
+      "blocks": [
+        {
+          "p": "Readers have kept notebooks of quotes and thoughts for centuries. These were often called commonplace books. People copied lines they wanted to remember, then added their own thoughts underneath. In the 1800s, the British educator Charlotte Mason encouraged students to keep one."
+        },
+        {
+          "p": "You can borrow the idea. Keep a few pages at the back of your reading journal just for lines that made you stop. Under each, write one sentence about why it mattered to you. Over the years it becomes a book of ideas that shaped you."
+        }
+      ]
+    },
+    {
+      "h2": "Reading journal for students and kids",
+      "blocks": [
+        {
+          "p": "Teachers often ask students to keep a reading journal or reading log. A simple student entry can include:"
+        },
+        {
+          "ul": [
+            "Title, author and pages read today.",
+            "A two sentence summary of what happened.",
+            "One new word and what it means.",
+            "A prediction: what will happen next?",
+            "A connection: does this remind me of my life, another book or something in the news?",
+            "A question I still have."
+          ]
+        },
+        {
+          "p": "For younger kids, drawing a favorite scene and writing one sentence is plenty. See [journal prompts for kids](/journal-prompts-for-kids/) and [journal examples for students](/journal-examples-for-students/)."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a book journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Write within a day of finishing.** Your feelings about the ending are clearest right then.",
+            "**Keep it short when you are busy.** Title, rating and one sentence is still worth keeping.",
+            "**Be honest.** It is your journal, not a public review.",
+            "**Avoid copying long passages.** A line or two is enough to remember the feeling.",
+            "**Review at year end.** Pick your top five books and write why."
+          ]
+        },
+        {
+          "p": "Students can find sample entries in [journal examples for students](/journal-examples-for-students/). For more layouts, see our [journal template](/journal-template/) page."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you put in a reading journal?",
+      "a": "For each book, write the title, author, dates, format and a rating. Add a short summary in your own words, a favorite line or moment, your thoughts, and who you would recommend it to. Many readers also add a want to read list, yearly goals and a page of favorite quotes."
+    },
+    {
+      "q": "How do I start a reading journal?",
+      "a": "Choose a notebook or use the free template on this page. Set up a want to read list and one page for each book. Fill in the basics when you start a book and finish the page within a day of reading the last chapter, while your thoughts are fresh."
+    },
+    {
+      "q": "What is the point of a reading journal?",
+      "a": "It helps you remember what you read, think more about it, and see your reading taste over time. It also keeps your favorite lines in one place and makes it easy to recommend books to friends. Many readers simply enjoy looking back at a year of books."
+    },
+    {
+      "q": "Is a reading journal the same as a book review?",
+      "a": "Not quite. A book review is written for other people and usually avoids spoilers. A reading journal is private, so you can include spoilers, mixed feelings and personal memories the book brought up. Your journal entry can become the start of a review if you want to share one."
+    },
+    {
+      "q": "What are good reading journal prompts?",
+      "a": "Try questions like: Which moment made me stop and think? Did the ending feel right? Which character would I like to meet? What did I expect, and how was the book different? What would I ask the author? Short honest answers work best."
+    },
+    {
+      "q": "What is a TBR list in a reading journal?",
+      "a": "TBR stands for to be read. It is a list of books you want to read next. Many readers keep it at the front of their reading journal, with notes on who recommended each book. When you finish a book, you can pick the next one from your TBR list instead of searching."
+    }
+  ],
+  "related": [
+    "journal-prompts",
+    "reflective-journal-prompts",
+    "bullet-journal-ideas",
+    "journal-ideas-aesthetic",
+    "journal-examples-for-students",
+    "journal-template"
+  ]
+}

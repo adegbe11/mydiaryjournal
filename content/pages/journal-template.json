@@ -1,0 +1,111 @@
+{
+  "slug": "journal-template",
+  "keyword": "journal template",
+  "type": "template",
+  "title": "Free Journal Template (Fill In Online, Print or PDF)",
+  "description": "A free daily journal template you can fill in online, then print or save as a PDF. Mood, priorities, what happened, gratitude, lessons and tomorrow.",
+  "h1": "Free journal template: fill in, print or save as PDF",
+  "crumb": "Journal template",
+  "card": "Daily page to fill in",
+  "eyebrow": "Templates",
+  "intro": "This free journal template is a simple daily page you can fill in right here, then print or save as a PDF. It has space for how you feel, your top priorities, what happened, what you are grateful for, what you learned and a note for tomorrow. It takes about five minutes.",
+  "template": {
+    "key": "journal-template",
+    "name": "My daily journal",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Today I feel", "hint": "One word and why", "lines": 2},
+      {"label": "My top 3 for today", "hint": "1.  2.  3.", "lines": 3},
+      {"label": "What happened today", "hint": "The main things, in a few lines", "lines": 5},
+      {"label": "I am grateful for", "hint": "Small things count", "lines": 3},
+      {"label": "What I learned", "hint": "About work, people or myself", "lines": 2},
+      {"label": "Tomorrow I want to", "hint": "One thing to do or try", "lines": 2}
+    ]
+  },
+  "related": ["printable-journal-pages", "diary-template", "journal-page-ideas", "daily-journal", "journal-ideas", "prayer-journal-template"],
+  "sections": [
+    {
+      "h2": "What is in this free journal template",
+      "blocks": [
+        {"p": "The page follows the shape of a day: how you start, what you plan, what happens, and what you take with you. Each box has one job."},
+        {"ul": [
+          "**Today I feel.** One word and a reason. Naming a feeling is often the first step to handling it.",
+          "**My top 3 for today.** Three priorities, not a full to do list. If you only did these, the day would be a good one.",
+          "**What happened today.** The main events, like a short diary entry.",
+          "**I am grateful for.** Two or three things. Specific beats general: \"my sister picked up the kids\" instead of \"family\".",
+          "**What I learned.** One lesson, small or big.",
+          "**Tomorrow I want to.** One thing to carry into the next day, so each page connects to the next."
+        ]}
+      ]
+    },
+    {
+      "h2": "How to use the journal template",
+      "blocks": [
+        {"steps": [
+          {"name": "Fill in the date", "text": "Tap the line at the top of the page and type today's date."},
+          {"name": "Do the top half in the morning", "text": "Write how you feel and your top three. It takes one minute."},
+          {"name": "Do the rest at night", "text": "Fill in what happened, what you are grateful for, what you learned and tomorrow."},
+          {"name": "Print or save as PDF", "text": "Press Print or save as PDF. Choose your printer, or choose Save as PDF to keep a digital copy."},
+          {"name": "Clear and start again", "text": "Press Clear for a fresh page tomorrow. Your answers save in this browser on this device until you clear them."}
+        ]},
+        {"tip": "Want to keep many days in one place? Our [online journal](/online-journal-free/) saves every page on your device with no sign up."}
+      ]
+    },
+    {
+      "h2": "A filled in journal template example",
+      "blocks": [
+        {"p": "Here is how one day might look. Short answers are fine."},
+        {"example": {"label": "Daily journal", "date": "Thursday, March 20", "title": "My daily journal", "text": "Today I feel: hopeful. The sun is finally out.\nTop 3: finish the report, call the bank, walk at lunch.\nWhat happened: report done by 2pm. Bank call took 40 minutes.\nGrateful for: Mia's text, warm coffee, a seat on the train.\nLearned: I work better with my phone in another room.\nTomorrow: start the day with the hardest task."}}
+      ]
+    },
+    {
+      "h2": "Journal template ideas: other pages to try",
+      "blocks": [
+        {"p": "This daily page fits most people. If you want something different, try one of these layouts on blank paper, or see our [printable journal pages](/printable-journal-pages/)."},
+        {"table": {
+          "head": ["Template", "Sections", "Best for"],
+          "rows": [
+            ["Gratitude page", "Three good things, one person to thank, best moment", "Feeling more positive"],
+            ["Weekly review", "Wins, struggles, lessons, next week", "Busy people"],
+            ["Mood page", "Mood score, triggers, what helped", "Understanding feelings"],
+            ["Goal page", "Goal, why it matters, first three steps, deadline", "Planning"],
+            ["Classic diary", "Date, Dear diary, what happened", "Remembering days"],
+            ["Prayer page", "Verse, thanks, requests, answered prayers", "Faith journaling"]
+          ]
+        }},
+        {"p": "We have ready to fill versions of some of these: the [diary template](/diary-template/), the [prayer journal template](/prayer-journal-template/), and a [gratitude journal](/gratitude-journal/) guide. For kids there is a [diary template for kids](/diary-template-kids/)."}
+      ]
+    },
+    {
+      "h2": "Journal template PDF, Word and Google Docs",
+      "blocks": [
+        {"p": "There is no file to download. The page itself is the template."},
+        {"ul": [
+          "**PDF.** Press Print or save as PDF, then pick Save as PDF as the printer. You can save it blank or filled in.",
+          "**Word.** Open a new document and type the six headings from this page, with a few empty lines under each. Save it as your own template.",
+          "**Google Docs.** Do the same in a new Google Doc. Make a copy of the doc each day, or add a new date heading at the top each morning."
+        ]},
+        {"p": "A paper copy works well too. Print a stack of blank pages and keep them in a binder or clipboard by your bed."}
+      ]
+    },
+    {
+      "h2": "Tips for using a journal template every day",
+      "blocks": [
+        {"ul": [
+          "Leave a box empty if you have nothing for it. The template is a guide, not a test.",
+          "Keep answers short. Two lines in each box is plenty.",
+          "Read back your pages at the end of the month. The \"What I learned\" lines are often the most useful.",
+          "If a box never feels right, change it. Swap \"What I learned\" for \"A funny moment\" if that suits you better.",
+          "Running out of things to write? Try our [journal prompts](/journal-prompts/) or [journal page ideas](/journal-page-ideas/)."
+        ]}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Is this journal template free?", "a": "Yes. You can fill it in online, print it and save it as a PDF for free. There is no sign up and no email needed."},
+    {"q": "Where are my answers saved?", "a": "Your answers are saved in your browser on this device only. They are not sent anywhere. If you clear your browser data they will be gone, so print or save a PDF of pages you want to keep."},
+    {"q": "What should a daily journal template include?", "a": "A date, how you feel, your top priorities, what happened, what you are grateful for, what you learned and a note for tomorrow. That covers planning, remembering and reflecting in about five minutes."},
+    {"q": "How do I make my own journal template?", "a": "Choose four to six questions you want to answer each day, write them as headings with space under each, and keep the order the same every time. You can do this in a notebook, Word or Google Docs. Our [journal page ideas](/journal-page-ideas/) list has many layouts to borrow."},
+    {"q": "Can I print the journal template?", "a": "Yes. Press the Print button and choose your printer, or choose Save as PDF. Print several blank copies at once and keep them in a binder."}
+  ]
+}

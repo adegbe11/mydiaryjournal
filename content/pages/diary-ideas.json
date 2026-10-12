@@ -1,0 +1,196 @@
+{
+  "slug": "diary-ideas",
+  "keyword": "diary ideas",
+  "type": "prompts",
+  "title": "Diary Ideas: 90 Things to Write About Today",
+  "description": "90 diary ideas to write about today: your day, people, memories, school, lists and creative pages. Pick one and write it in the free online diary right here.",
+  "h1": "Diary ideas: 90 things to write about",
+  "crumb": "Diary ideas",
+  "card": "90 things to write today",
+  "eyebrow": "Diary ideas",
+  "intro": "The best diary ideas are small and specific: one moment from today, one person, one memory, one list. Below are 90 diary entry ideas sorted by theme, from your day and your people to school, lists and creative pages. Press **Write** on any idea and it opens in the diary at the top of this page.",
+  "writer": {"title": "Dear diary,", "hint": "Pick an idea below, or just write about today", "kind": "diary-ideas"},
+  "related": ["diary-entry-topics", "how-to-write-a-diary", "diary-entry-examples", "diary-ideas-for-girls", "journal-ideas", "journal-prompts"],
+  "sections": [
+    {
+      "h2": "How to use these diary ideas",
+      "blocks": [
+        {"p": "Do not try to answer a whole list. Pick **one idea** that makes you think \"oh, I have something to say about that\" and write until you run out. Five lines is a real diary entry."},
+        {"ul": [
+          "**Short on time?** Use the ideas in the lists section. A list takes two minutes.",
+          "**Bad day?** Go to the ideas about yourself. Writing what you feel often makes it lighter.",
+          "**Nothing happened today?** Use the memory ideas. Your past is full of stories.",
+          "**Writing for school?** The student section has diary ideas that work well for class."
+        ]},
+        {"starters": [
+          {"name": "Three lines about today", "text": "What happened, how it felt, what you want to remember.", "title": "Today in three lines", "hint": "1. What happened\n2. How I felt\n3. What I want to remember"},
+          {"name": "A letter to someone", "text": "Write to a person you are thinking about. You never have to send it.", "title": "Dear ...", "hint": "There is something I never told you..."},
+          {"name": "A list", "text": "Ten small things that made you smile this week.", "title": "Small good things", "hint": "1.\n2.\n3."}
+        ]}
+      ]
+    },
+    {
+      "h2": "Diary ideas to write about your day",
+      "blocks": [
+        {"prompts": [
+          "The first thing you thought about when you woke up this morning, and why.",
+          "The best ten minutes of today. Where were you and who was there?",
+          "Something someone said today that you keep thinking about.",
+          "What you ate today, and which meal was the best.",
+          "A moment today when you felt a little proud of yourself.",
+          "Something that annoyed you today. Was it really about that, or something else?",
+          "The weather today and how it changed your mood.",
+          "A small thing you noticed today that most people would miss.",
+          "What you would do differently if you could replay today.",
+          "Who you talked to the most today, and what you talked about.",
+          "Something that made you laugh today, even a little.",
+          "How tired or awake you feel right now, and what caused it."
+        ], "start": 1}
+      ]
+    },
+    {
+      "h2": "Diary entry ideas about the people in your life",
+      "blocks": [
+        {"prompts": [
+          "The friend you can call at any hour. Write about the day you knew they were that kind of friend.",
+          "Something your mom, dad or the person who raised you always says. What does it mean to you now?",
+          "A person you miss. Describe one ordinary afternoon you spent together.",
+          "Someone you had a falling out with. Tell the story from their side.",
+          "A teacher, coach or boss who changed how you see yourself.",
+          "The funniest person you know. Write down a joke or moment you never want to forget.",
+          "A stranger who was kind to you once.",
+          "Who you would invite to dinner tonight, alive or not, and what you would ask them.",
+          "Someone you admire but have never told. What would you say?",
+          "A sibling, cousin or neighbor you grew up with. What do you remember first?",
+          "A person who is going through a hard time right now. How could you help?",
+          "The way you are different around different people."
+        ], "start": 13}
+      ]
+    },
+    {
+      "h2": "Diary ideas to write about yourself",
+      "blocks": [
+        {"p": "For a whole page on this, see [how to write a diary about myself](/how-to-write-a-diary-about-myself/)."},
+        {"prompts": [
+          "Three words your best friend would use to describe you, and whether you agree.",
+          "Something you are secretly good at.",
+          "A fear you have that would surprise people.",
+          "What a perfect ordinary Saturday looks like for you, hour by hour.",
+          "A habit you want to start and the tiny first step you could take tomorrow.",
+          "What you worry about most right now. Write it all out, then write what you would tell a friend with the same worry.",
+          "A rule you live by, and where you learned it.",
+          "Something you changed your mind about this year.",
+          "What makes you feel calm. Be specific about the place, sound or smell.",
+          "Where you want to be one year from today.",
+          "A compliment you received that you still remember.",
+          "What you need more of right now: rest, fun, people, quiet or something else?"
+        ], "start": 25}
+      ]
+    },
+    {
+      "h2": "Memory diary ideas",
+      "blocks": [
+        {"prompts": [
+          "Your earliest memory. What can you see, hear and smell?",
+          "The house or apartment you grew up in. Walk through it room by room.",
+          "A birthday you will never forget, good or bad.",
+          "The first time you felt truly grown up.",
+          "A trip, even a short one, that stayed with you.",
+          "A song that takes you straight back to one moment.",
+          "The best present you ever gave someone.",
+          "A time you got in trouble as a kid. Was it worth it?",
+          "A meal from your childhood that you would love to eat again.",
+          "The scariest thing you have ever done.",
+          "A day you were brave without knowing it.",
+          "A favorite toy, book or show from when you were small."
+        ], "start": 37}
+      ]
+    },
+    {
+      "h2": "Diary ideas for students",
+      "blocks": [
+        {"p": "These work for a school diary assignment or your own private diary. For the layout teachers ask for, see the [diary entry format](/diary-entry-format/), and for even more school topics see our list of [diary entry topics](/diary-entry-topics/)."},
+        {"prompts": [
+          "Your first day at a new school or new class. What did you expect and what really happened?",
+          "The subject you love and the one you dread. Why?",
+          "A test you studied hard for. How did it go?",
+          "A group project where something went wrong.",
+          "Lunch break today: who you sat with and what you talked about.",
+          "A school trip or field day you still remember.",
+          "Something a teacher said that stuck with you.",
+          "A day you helped a classmate, or a classmate helped you.",
+          "The last day before a long holiday.",
+          "A sports match, concert or competition you took part in.",
+          "What you want to be when you grow up, and what changed your mind before.",
+          "A rule at school you think should change, and what you would put in its place.",
+          "The best and worst part of this school week.",
+          "A book you read for school that you actually liked."
+        ], "start": 49}
+      ]
+    },
+    {
+      "h2": "Creative diary ideas",
+      "blocks": [
+        {"prompts": [
+          "Write today as if it were the first page of a novel about you.",
+          "A letter to yourself ten years from now. What do you hope has changed?",
+          "A letter to your younger self on their worst day.",
+          "Describe your room to someone who will never see it.",
+          "Write a conversation between you and your pet, or a pet you would love to have.",
+          "If today had a soundtrack, list the songs and say why each one fits.",
+          "Write the story of an object on your desk. Where has it been?",
+          "Invent a holiday and describe how you would celebrate it.",
+          "Write about today from the point of view of your shoes.",
+          "Your dream from last night, as much as you remember.",
+          "Describe the view from your window in five different moods.",
+          "A short poem about the last time you were happy, even if it does not rhyme.",
+          "If you could live one day in any year in history, which would it be?"
+        ], "start": 63}
+      ]
+    },
+    {
+      "h2": "Lists to keep in your diary",
+      "blocks": [
+        {"p": "Lists are perfect for busy days and make fun pages to read back later. For page layouts and doodles, see [journal page ideas](/journal-page-ideas/)."},
+        {"prompts": [
+          "Ten small things that made you happy this week.",
+          "Places you want to visit before you turn the next big age.",
+          "Movies and shows you want to watch next.",
+          "Books you have loved, with one line about each.",
+          "Things you are grateful for that cost nothing.",
+          "Songs on repeat this month.",
+          "Things you are proud of this year.",
+          "Foods you want to learn to cook.",
+          "Things that always cheer you up.",
+          "Questions you would love answered.",
+          "Your favorite words and why you like them.",
+          "Goals for this month, big and small.",
+          "Things you would tell a new friend about yourself.",
+          "What you want to do less of and more of.",
+          "Things you never want to forget about this year."
+        ], "start": 76}
+      ]
+    },
+    {
+      "h2": "Tips for keeping your diary going",
+      "blocks": [
+        {"ul": [
+          "**Write the date every time.** Even a short entry becomes a time capsule.",
+          "**Keep it small.** Three lines most days beats a long entry once a month.",
+          "**Tie it to a habit.** Write right after brushing your teeth at night or with your morning drink.",
+          "**Do not fix spelling.** Nobody is grading this diary.",
+          "**Mix it up.** Use one idea about your day, then one memory, then a list. Variety stops it from feeling like homework.",
+          "**Read back once a month.** You will be surprised how much you forgot."
+        ]},
+        {"tip": "New to keeping a diary? Start with our guide on [how to write a diary](/how-to-write-a-diary/), or see real [diary entry examples](/diary-entry-examples/) to get a feel for it. If you want deeper questions, try our [journal prompts](/journal-prompts/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What should I write in my diary?", "a": "Write what happened today, how you felt about it, and one thing you want to remember. On days when nothing happened, write about a memory, a person, a worry, or make a list. There is no wrong subject. A diary is your private space, so anything that is on your mind counts."},
+    {"q": "What are some good diary entry ideas for students?", "a": "Good ideas for students include your first day at a new school, a test result, a school trip, a sports match, a fight with a friend, a favorite teacher, and the last day before the holidays. Pick an event with a clear feeling attached so your entry has something to say."},
+    {"q": "How do I make my diary interesting?", "a": "Use specific details like names, smells, sounds and exact words people said. Mix entry types: a story one day, a list the next, a letter on another. Add the weather, a quote, or a small drawing. Interesting diaries are honest diaries, so write what you really think."},
+    {"q": "What do I write in my diary if nothing happened?", "a": "Write about something small, like a meal, a song or a thought you had in the shower. Or use a memory idea: your earliest memory, your childhood home, a favorite birthday. You can also write a list of things you are grateful for. Quiet days make good entries too."},
+    {"q": "How long should a diary entry be?", "a": "As long as you like. A few lines is enough for a personal diary. For school, many teachers ask for about 100 to 150 words, so check your assignment. Writing a little most days builds the habit better than writing pages once in a while."}
+  ]
+}

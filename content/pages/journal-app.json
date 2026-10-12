@@ -1,0 +1,317 @@
+{
+  "slug": "journal-app",
+  "keyword": "journal app",
+  "type": "tool",
+  "title": "Journal App: Free Journaling App, No Download",
+  "description": "A free journal app that works in any phone or computer browser. No download or sign up, prompts, a PIN lock, and Print or Save as PDF.",
+  "h1": "Free journal app that works in your browser",
+  "crumb": "Journal app",
+  "card": "Journal on any device",
+  "eyebrow": "Write online",
+  "intro": "This free **journal app** works in the browser on your phone or computer, so there is nothing to download and no account to create. Write freely or start from a prompt card. Pages save on your own device, you can lock them with a PIN, and you can print or save any entry as a PDF.",
+  "writer": {
+    "title": "Today I am thinking about",
+    "hint": "Write freely, or tap a card below to start with a prompt.",
+    "kind": "journal-app"
+  },
+  "related": [
+    "diary-app",
+    "online-journal-free",
+    "digital-journal",
+    "daily-journal",
+    "journal-prompts",
+    "how-to-journal"
+  ],
+  "sections": [
+    {
+      "h2": "Start a journaling session",
+      "blocks": [
+        {
+          "p": "Tap a card. The journal app at the top opens a new page with a title and a question to get you going."
+        },
+        {
+          "starters": [
+            {
+              "name": "Morning pages",
+              "text": "Clear your head before the day",
+              "title": "Morning pages",
+              "hint": "Write whatever comes, without stopping, for five minutes..."
+            },
+            {
+              "name": "Evening review",
+              "text": "Close the day kindly",
+              "title": "Evening review",
+              "hint": "What went well today? What would I do differently?"
+            },
+            {
+              "name": "Gratitude",
+              "text": "Three things, specific",
+              "title": "Thankful for",
+              "hint": "1. \n2. \n3. "
+            },
+            {
+              "name": "Untangle a worry",
+              "text": "Get it out of your head",
+              "title": "What is bothering me",
+              "hint": "What happened, how I feel, what I can control..."
+            },
+            {
+              "name": "Decision",
+              "text": "Think on paper",
+              "title": "Should I...",
+              "hint": "Reasons for... Reasons against... What my gut says..."
+            },
+            {
+              "name": "Goal check",
+              "text": "Small steps this week",
+              "title": "This week's goal",
+              "hint": "My goal is... One step I will take tomorrow is..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A free journal app with no download",
+      "blocks": [
+        {
+          "p": "This is a web app. Instead of installing it from an app store, you open it in Safari, Chrome, Edge or Firefox. The journal page is ready the moment it loads."
+        },
+        {
+          "ul": [
+            "**Free.** No trial, no paywall, no premium plan.",
+            "**No account.** No email or password. You start writing right away.",
+            "**Private by design.** Entries are saved in your browser on this device, not on our servers.",
+            "**Lock.** A PIN keeps the journal closed on a shared computer. It is a privacy screen, not encryption.",
+            "**Keep your pages.** Print an entry, or choose Save as PDF to keep a file.",
+            "**Add it to your home screen.** In Safari tap Share, then Add to Home Screen. In Chrome on Android, open the menu and tap Install app or Add to Home screen. It gets its own icon."
+          ]
+        },
+        {
+          "tip": "There is no syncing between devices. A journal you keep on your phone stays on your phone. Choose one device for your journal if you want every entry in one place."
+        },
+        {
+          "h3": "What it does not do"
+        },
+        {
+          "p": "To be clear: there are no photos, voice notes, search, reminders or sync here. You get a calm page that saves as you type, a list of your pages with Delete, a PIN lock, prompts, and Print or Save as PDF. For many people that is exactly enough."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in a journaling app",
+      "blocks": [
+        {
+          "p": "A journaling app holds your most honest thoughts, so pick one carefully. These are the questions that matter most."
+        },
+        {
+          "table": {
+            "head": [
+              "Question",
+              "What a good answer looks like",
+              "Our answer"
+            ],
+            "rows": [
+              [
+                "Where are entries stored?",
+                "Clearly explained, in plain words",
+                "In your browser, on your device"
+              ],
+              [
+                "Can I lock it?",
+                "A lock, and honesty about how strong it is",
+                "PIN lock, not encryption"
+              ],
+              [
+                "Do I need an account?",
+                "Only if you need sync",
+                "No account"
+              ],
+              [
+                "Can I get my words out?",
+                "Export, print or PDF",
+                "Print or Save as PDF"
+              ],
+              [
+                "Are there ads?",
+                "None near your writing",
+                "No ads in the journal"
+              ],
+              [
+                "Does it help me write?",
+                "Prompts or templates when you are stuck",
+                "Prompt cards and hundreds of prompts on the site"
+              ],
+              [
+                "Does it sync?",
+                "Yes, if you write on many devices",
+                "No"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Be wary of any journal app that is vague about where your entries go. If an app needs an account, read how it stores and uses your writing before you share anything personal."
+        }
+      ]
+    },
+    {
+      "h2": "Types of journaling apps",
+      "blocks": [
+        {
+          "p": "Journal apps are not all built for the same job. Knowing the main types helps you pick the right one, or see that a simple page is all you need."
+        },
+        {
+          "table": {
+            "head": [
+              "Type",
+              "What it does",
+              "Good for"
+            ],
+            "rows": [
+              [
+                "Blank page journal",
+                "A clean page and a date",
+                "Free writing, diaries, morning pages"
+              ],
+              [
+                "Guided journal",
+                "Asks you questions each day",
+                "Beginners and busy people"
+              ],
+              [
+                "Mood tracker",
+                "A mood score or color each day, with a chart",
+                "Spotting patterns in how you feel"
+              ],
+              [
+                "Photo journal",
+                "Pictures with short captions",
+                "Travel, family, memories"
+              ],
+              [
+                "Habit and goal journal",
+                "Checklists and streaks",
+                "Building routines"
+              ],
+              [
+                "Faith journal",
+                "Verses, prayers and answered prayers",
+                "Prayer and Bible study"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "This journal app is a blank page journal with guided starts. Use the cards above, or open any of our prompt lists and tap Write on a question. For mood tracking, try our [mood journal](/mood-journal/). For prayer, our Android app [Prayer Journal for Women](/prayer-journal-for-women/) is coming soon on Google Play."
+        }
+      ]
+    },
+    {
+      "h2": "How to use this online journal app",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Open the page",
+              "text": "Bookmark it or add it to your home screen so it is one tap away."
+            },
+            {
+              "name": "Pick a starting point",
+              "text": "Write freely, tap a prompt card above, or use a prompt from our [journal prompts](/journal-prompts/) list."
+            },
+            {
+              "name": "Write for five minutes",
+              "text": "Set a timer if it helps. Keep going even if it feels messy."
+            },
+            {
+              "name": "Let it save",
+              "text": "The page saves itself a moment after you stop typing. Tap New page tomorrow."
+            },
+            {
+              "name": "Look back",
+              "text": "Tap My pages once a week to reread. Patterns show up fast. Tap Delete next to any page you do not want to keep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Ways to use a journal app",
+      "blocks": [
+        {
+          "p": "A journal app is just a blank page. These are some of the most helpful ways people fill it."
+        },
+        {
+          "ul": [
+            "**Daily check-in.** Three quick questions every evening. See our [daily journal](/daily-journal/).",
+            "**Gratitude.** Three specific good things each day. See [gratitude journal](/gratitude-journal/).",
+            "**Mood tracking.** A word for your mood and why. See [mood journal](/mood-journal/).",
+            "**Morning pages.** Five minutes of free writing before the day starts. See [morning journal prompts](/morning-journal-prompts/).",
+            "**One line a day.** One sentence, every day, for a year. See [one line a day journal](/one-line-a-day-journal/).",
+            "**Prayer.** Thanks, requests and answered prayers. See [prayer journal](/prayer-journal/)."
+          ]
+        },
+        {
+          "example": {
+            "label": "Journal app entry",
+            "date": "Wednesday, October 8",
+            "title": "Evening review",
+            "text": "Went well: I asked for help with the report.\nHard: I snapped at Jo when I was tired.\nTomorrow: apologize, and eat lunch away from my desk.\nMood: tired but hopeful."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Journaling app tips that help you stick with it",
+      "blocks": [
+        {
+          "ol": [
+            "**Make it tiny.** Promise yourself two sentences. You will often write more.",
+            "**Attach it to a habit.** Journal right after brushing your teeth or after your first coffee.",
+            "**Same device every time.** Your entries stay together and the habit feels steady.",
+            "**Skip the perfect words.** Nobody reads this but you.",
+            "**Back up monthly.** Save your favorite entries as PDFs.",
+            "**Be kind about missed days.** Just write today. Do not try to catch up."
+          ]
+        },
+        {
+          "p": "One more tip: decide what to do with old entries. Some people keep everything. Others save a monthly PDF and then delete the pages they do not need, so My pages stays short and easy to scroll. Both are fine. What matters is that you feel safe writing honestly, knowing you choose what stays."
+        },
+        {
+          "p": "New to journaling? Start with [how to journal](/how-to-journal/) or [journaling prompts for beginners](/journaling-prompts-for-beginners/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best free journal app?",
+      "a": "The best free journal app is one you will actually open, that keeps your writing private, and that lets you keep a copy. This one is free with no account or ads, saves entries on your device, has a PIN lock and lets you print or save PDFs. If you need sync across devices, choose an app with an account instead."
+    },
+    {
+      "q": "Is there a journal app with no sign up?",
+      "a": "Yes. This journal app needs no sign up, email or password. Open the page and start writing. Your entries are saved in your browser on this device. Because there is no account, nothing syncs to other devices, so keep your journal on the device you use most."
+    },
+    {
+      "q": "Can I use this journal app on iPhone and Android?",
+      "a": "Yes. It works in Safari on iPhone and iPad and in Chrome or other browsers on Android. It is not in an app store. To open it like an app, add it to your home screen from the browser's Share or menu button, and it gets its own icon. Each device keeps its own entries."
+    },
+    {
+      "q": "Are journaling apps private?",
+      "a": "Some are more private than others. Apps with accounts store your writing on their servers, so read their privacy policy. This journal app keeps entries in your browser, and we cannot see them. The PIN lock hides the journal on shared devices but is not encryption, so lock your device too."
+    },
+    {
+      "q": "Is there a journal app I can use on my computer?",
+      "a": "Yes. This journal app works in any modern browser on Windows, Mac, Linux or Chromebook. Open the page in Chrome, Edge, Safari or Firefox and write. In Chrome or Edge you can install it from the address bar so it opens in its own window with an icon. Entries stay on that computer."
+    },
+    {
+      "q": "Is journaling on an app as good as paper?",
+      "a": "Both work. Paper can feel slower and more personal, and some people remember more when they write by hand. An app is faster, always with you, and easy to keep up with. The best one is the one you use most often. You can also print app entries to keep on paper."
+    },
+    {
+      "q": "Can I delete entries in this journal app?",
+      "a": "Yes. Tap My pages and press Delete next to the entry. You will be asked to confirm, and the entry is then removed from this browser for good. If you might want it later, print it or save it as a PDF before you delete it."
+    }
+  ]
+}

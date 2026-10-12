@@ -1,0 +1,44 @@
+{
+  "slug": "about",
+  "type": "plain",
+  "title": "About My Diary Journal: A Free, Private Diary",
+  "description": "My Diary Journal is a free private online diary with journal prompts, templates and guides. Your pages stay on your own device. No sign up and no ads.",
+  "h1": "About My Diary Journal",
+  "crumb": "About",
+  "eyebrow": "About",
+  "intro": "My Diary Journal is a free place to write. It is a private online diary that feels like paper, plus prompts, templates and plain guides to help you keep writing.",
+  "sections": [
+    {
+      "h2": "What we believe",
+      "blocks": [
+        {
+          "p": "Writing things down helps people remember, heal, pray and grow. It should be simple, private and free. You should not need an account to write about your own life."
+        }
+      ]
+    },
+    {
+      "h2": "How the diary works",
+      "blocks": [
+        {
+          "p": "Your pages are saved in your web browser on your own device. We do not have a server that stores your writing, so we cannot read it. You can print any page or save it as a PDF, and lock the diary with a PIN on shared computers."
+        }
+      ]
+    },
+    {
+      "h2": "Our app",
+      "blocks": [
+        {
+          "p": "We also make [Prayer Journal for Women](/prayer-journal-for-women/), an Android app with 52 weeks of Bible verses, reflection and prayer."
+        }
+      ]
+    },
+    {
+      "h2": "Contact",
+      "blocks": [
+        {
+          "p": "Questions or ideas: AseinCollins@gmail.com"
+        }
+      ]
+    }
+  ]
+}

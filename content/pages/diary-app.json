@@ -1,0 +1,324 @@
+{
+  "slug": "diary-app",
+  "keyword": "diary app",
+  "type": "tool",
+  "title": "Diary App: Free, No Download, No Sign Up",
+  "description": "A free diary app that runs in your browser on any phone or computer. No download, account or ads. PIN lock, Print or Save as PDF, pages kept on your device.",
+  "h1": "Free diary app in your browser",
+  "crumb": "Diary app",
+  "card": "No download needed",
+  "eyebrow": "Write online",
+  "intro": "This is a free **diary app** that runs in your web browser, so there is nothing to download and no account to make. It works on iPhone, Android, Windows, Mac and Chromebook. Your pages are saved on your own device, you can lock the diary with a PIN, and you can print any page or save it as a PDF.",
+  "writer": {
+    "title": "Dear diary,",
+    "hint": "What happened today? Your page saves as you type.",
+    "kind": "diary-app"
+  },
+  "related": [
+    "journal-app",
+    "online-journal-free",
+    "private-diary-with-lock",
+    "daily-diary",
+    "secret-diary",
+    "how-to-write-a-diary"
+  ],
+  "sections": [
+    {
+      "h2": "An online diary app with nothing to install",
+      "blocks": [
+        {
+          "p": "Most people looking for a diary app expect to visit an app store. This one is a web app instead. You open the page, and the diary is already there. That means:"
+        },
+        {
+          "ul": [
+            "**No download.** It is not in any app store. Nothing is installed, and it takes no space on your phone.",
+            "**No sign up.** No email, no password, no profile.",
+            "**No ads.** There are no ads on the diary page.",
+            "**Works on any device with a browser.** Phone, tablet, laptop or desktop."
+          ]
+        },
+        {
+          "tip": "Each device keeps its own pages. There is no account, so nothing syncs between your phone and your computer. Pick the device you write on most."
+        }
+      ]
+    },
+    {
+      "h2": "How to add the diary app to your home screen",
+      "blocks": [
+        {
+          "p": "You can make this page open like an app with one tap. Open it in your browser, then follow the steps for your device."
+        },
+        {
+          "h3": "iPhone and iPad"
+        },
+        {
+          "ol": [
+            "Open this page in Safari.",
+            "Tap the Share button.",
+            "Tap **Add to Home Screen**, then Add."
+          ]
+        },
+        {
+          "h3": "Android"
+        },
+        {
+          "ol": [
+            "Open this page in Chrome.",
+            "Tap the three dot menu.",
+            "Tap **Add to Home screen** (on some phones it says Install app), then Add."
+          ]
+        },
+        {
+          "h3": "Diary app for Windows and Mac"
+        },
+        {
+          "ul": [
+            "**Windows:** In Chrome or Edge, click the install icon in the address bar, or open the browser menu and choose to install the app. It gets its own window and icon.",
+            "**Mac:** In Safari, use File, then Add to Dock on recent versions. In Chrome, use the install option in the address bar or menu. A bookmark works everywhere."
+          ]
+        },
+        {
+          "p": "It installs as My Diary Journal with its own icon and opens in its own window, without the browser bars. Your pages from that browser are all there in My pages."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in a diary app",
+      "blocks": [
+        {
+          "p": "There are many diary apps, free and paid. Before you trust one with your private thoughts, check these six things."
+        },
+        {
+          "table": {
+            "head": [
+              "What to check",
+              "Why it matters",
+              "This diary app"
+            ],
+            "rows": [
+              [
+                "Privacy",
+                "Your diary is the most private thing you write",
+                "Pages stay in your browser. We never see them."
+              ],
+              [
+                "Lock",
+                "Keeps others out on a shared device",
+                "PIN lock. Not encryption."
+              ],
+              [
+                "Account",
+                "Accounts mean your words live on a server",
+                "No account at all"
+              ],
+              [
+                "Export",
+                "You should be able to keep your own pages",
+                "Print or Save as PDF"
+              ],
+              [
+                "Ads",
+                "Ads beside private writing feel wrong",
+                "No ads in the diary"
+              ],
+              [
+                "Sync",
+                "Handy if you write on many devices",
+                "No sync. One device per diary."
+              ]
+            ]
+          }
+        },
+        {
+          "p": "If syncing across devices is the most important thing for you, choose an app with an account and read its privacy policy carefully. If you want something simple and private that starts in seconds, this one fits."
+        }
+      ]
+    },
+    {
+      "h2": "Diary app features: what this one has and does not have",
+      "blocks": [
+        {
+          "p": "Popular diary apps add many extras. Some are useful, some you may never touch. Here is an honest list so you know what you get here before you start."
+        },
+        {
+          "table": {
+            "head": [
+              "Feature",
+              "Here?",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Dated pages that save as you type",
+                "Yes",
+                "No save button needed"
+              ],
+              [
+                "List of all your pages",
+                "Yes",
+                "My pages, newest first"
+              ],
+              [
+                "Delete a page",
+                "Yes",
+                "With a confirm step"
+              ],
+              [
+                "PIN lock",
+                "Yes",
+                "Privacy screen, not encryption"
+              ],
+              [
+                "Print and Save as PDF",
+                "Yes",
+                "One page at a time"
+              ],
+              [
+                "Prompts and ideas",
+                "Yes",
+                "Hundreds across the site, with a Write button"
+              ],
+              [
+                "Home screen icon",
+                "Yes",
+                "Install from your browser"
+              ],
+              [
+                "Photos, voice notes, stickers",
+                "No",
+                "Words only"
+              ],
+              [
+                "Search and calendar view",
+                "No",
+                "Scroll My pages instead"
+              ],
+              [
+                "Sync and cloud backup",
+                "No",
+                "No account, so nothing leaves your device"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "If you need photos, mood charts and sync on every device, a feature heavy app is a better match. If you want a calm page that feels like paper and asks nothing of you, start writing above."
+        }
+      ]
+    },
+    {
+      "h2": "Diary apps free vs paid",
+      "blocks": [
+        {
+          "p": "Free diary apps often make money from ads, from a paid upgrade, or from data. Paid apps usually add cloud backup, photos, search and sync. Neither is wrong. Ask yourself what you need."
+        },
+        {
+          "ul": [
+            "**Need just a page and a pen?** A free diary app like this one is enough.",
+            "**Need photos, voice notes and sync on five devices?** A paid app with an account may be worth it.",
+            "**Need it for a child?** Simple and ad free matters more than features. See [diary for kids](/diary-for-kids/)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A diary app for kids, teens and adults",
+      "blocks": [
+        {
+          "p": "Because there is no account, no chat and no ads, this diary app is a simple choice for a child or teen who wants a private place to write. Parents can add the icon to a family tablet, and each child can use their own browser profile so their pages stay separate."
+        },
+        {
+          "ul": [
+            "**Kids** like the prompt cards and short pages. See [diary for kids](/diary-for-kids/).",
+            "**Teens** often want the PIN lock most. See [secret diary](/secret-diary/).",
+            "**Adults** use it for a daily record or a quick evening check-in. See [daily diary](/daily-diary/) and [diary for women](/diary-for-women/)."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How this diary app works",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Write",
+              "text": "Tap the page at the top and start. Add a title, or keep Dear diary. Today's date is filled in for you."
+            },
+            {
+              "name": "It saves itself",
+              "text": "A moment after you stop typing, the page says Saved. There is no save button to forget."
+            },
+            {
+              "name": "New page each day",
+              "text": "Tap New page for a fresh, dated entry."
+            },
+            {
+              "name": "Read old pages",
+              "text": "Tap My pages to see every page you have written on this site in this browser. Tap Delete next to a page to remove it."
+            },
+            {
+              "name": "Lock and print",
+              "text": "Tap Lock to set a PIN. Tap Print to print the page or save it as a PDF."
+            }
+          ]
+        },
+        {
+          "p": "Need more lock details? Our [private diary with lock](/private-diary-with-lock/) page explains exactly what the PIN does."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a diary on your phone",
+      "blocks": [
+        {
+          "ol": [
+            "**Put the icon on your first home screen.** If you see it, you will use it.",
+            "**Write at the same moment each day.** On the bus home, in bed, or with your morning coffee.",
+            "**Keep it short.** Three lines a day beats one long page a month. Try a [one line a day journal](/one-line-a-day-journal/) if you are very busy.",
+            "**Use a prompt when you are stuck.** Browse [diary ideas](/diary-ideas/) or [diary entry topics](/diary-entry-topics/).",
+            "**Do not write in private browsing.** Those pages vanish when you close the tab.",
+            "**Save a PDF once a month.** It is your backup, and a nice way to look back."
+          ]
+        },
+        {
+          "example": {
+            "label": "Phone diary",
+            "date": "Monday, October 6",
+            "title": "Dear diary,",
+            "text": "Rain again. Forgot my umbrella, of course.\nLunch with Dad. He told the same fishing story.\nI laughed anyway. I want to remember his face.\nEarly night."
+          }
+        },
+        {
+          "p": "Once the habit sticks, look back. Open My pages on a quiet Sunday and read a few weeks at once. Most people are surprised by how much they had forgotten, and how much has changed. That moment is the real reward of keeping a diary."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a free diary app with no ads?",
+      "a": "Yes. This diary app is free and has no ads inside the diary. It runs in your browser, so you do not download anything or make an account. Write, lock it with a PIN, and print or save pages as PDFs. Your pages are kept on your own device."
+    },
+    {
+      "q": "Do I need to download this diary app?",
+      "a": "No. It is a web app, so it is not in any app store. Open the page in Safari, Chrome, Edge or Firefox and start writing. To use it like an app, add it to your home screen from the browser's Share or menu button. It gets its own icon."
+    },
+    {
+      "q": "Is there a diary app for Windows or Mac?",
+      "a": "This diary works on Windows and Mac in any modern browser. Open the page in Chrome, Edge, Safari or Firefox. To open it like an app, install it from Chrome or Edge, or add it to the Dock from Safari on a Mac. Pages written on your computer stay on that computer."
+    },
+    {
+      "q": "Does the diary app sync between my phone and computer?",
+      "a": "No. There is no account, so nothing is stored on a server and nothing syncs. Each browser on each device keeps its own pages. If you want everything in one place, choose one device to write on, and save PDFs to back up pages."
+    },
+    {
+      "q": "What is the most private diary app?",
+      "a": "The most private choices keep your pages on your device, need no account, and are honest about their lock. This diary does all three: pages stay in your browser, there is no sign up, and the PIN lock is clearly a privacy screen, not encryption. Locking your device adds more protection."
+    },
+    {
+      "q": "Can I add photos to this diary app?",
+      "a": "No. This diary is for writing only, so you cannot attach photos, voice notes or stickers. That keeps it simple and keeps everything stored in your browser. If you want photos in your diary, print your pages and add pictures by hand, or use an app built for photo journaling."
+    }
+  ]
+}

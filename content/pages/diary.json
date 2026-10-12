@@ -1,0 +1,36 @@
+{
+  "slug": "diary",
+  "hub": "diary",
+  "type": "hub",
+  "title": "Diary: Free Online Diary, Ideas and How to Write One",
+  "description": "Everything for keeping a diary: a free private online diary, diary ideas, how to write a diary entry, examples, templates and diaries for kids and teens.",
+  "h1": "Diary",
+  "crumb": "Diary",
+  "eyebrow": "Diary guides",
+  "intro": "Keep a diary right here in your browser, or learn how. Below you will find our free online diary tools, ideas for what to write, diary entry examples and formats, and diaries for kids, girls, teens and women.",
+  "card": "Write, learn and get ideas",
+  "sections": [
+    {
+      "h2": "Why keep a diary",
+      "blocks": [
+        {
+          "p": "A diary is the simplest way to remember your life. A few lines a day turn into a record of where you were, who you loved and how you grew. Writing things down also helps you calm a busy mind and notice how you really feel."
+        },
+        {
+          "p": "You do not need a fancy notebook. Our [free online diary](/) works on any phone or computer, with no sign up, and keeps your pages on your own device."
+        }
+      ]
+    },
+    {
+      "h2": "Start here",
+      "blocks": [
+        {
+          "p": "New to keeping a diary? Read [how to write a diary](/how-to-write-a-diary/), look at a few [diary entry examples](/diary-entry-examples/), then open the [online diary](/) and write three sentences about today. Stuck on what to say? Our [diary ideas](/diary-ideas/) and [diary entry topics](/diary-entry-topics/) have hundreds of starting points."
+        },
+        {
+          "p": "Students will find the [diary entry format](/diary-entry-format/) taught in schools, plus model entries for common topics like a rainy day, a birthday or the first day at school. Parents can start with the [diary for kids](/diary-for-kids/) and the printable [diary template for kids](/diary-template-kids/)."
+        }
+      ]
+    }
+  ]
+}

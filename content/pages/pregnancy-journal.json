@@ -1,0 +1,308 @@
+{
+  "slug": "pregnancy-journal",
+  "keyword": "pregnancy journal",
+  "type": "template",
+  "title": "Pregnancy Journal: Free Weekly Page, Ideas and Prompts",
+  "description": "A free pregnancy journal page to fill in each week, online or printed. Plus a gentle example, pregnancy journal ideas and prompts, and a letter to your baby.",
+  "h1": "Pregnancy journal: a free weekly page, ideas and prompts",
+  "crumb": "Pregnancy journal",
+  "card": "Week by week, for you both",
+  "eyebrow": "Journal types",
+  "intro": "A pregnancy journal is a place to write down how you feel, what is changing and what you hope for, week by week. Fill in the free weekly pregnancy journal page below, then print it or keep it saved in this browser. You will also find an example, ideas and prompts.",
+  "template": {
+    "key": "pregnancy-journal",
+    "name": "My pregnancy journal",
+    "eyebrow": "Week and date",
+    "fields": [
+      {
+        "label": "How I am feeling this week",
+        "hint": "Tired, excited, nervous, hungry...",
+        "lines": 3
+      },
+      {
+        "label": "Changes I noticed",
+        "hint": "Cravings, sleep, first flutters, a growing bump",
+        "lines": 3
+      },
+      {
+        "label": "Appointment notes",
+        "hint": "What we heard and saw, what was said",
+        "lines": 2
+      },
+      {
+        "label": "Questions for my doctor or midwife",
+        "hint": "Write them down so I remember to ask",
+        "lines": 2
+      },
+      {
+        "label": "Getting ready",
+        "hint": "Names we like, things for the nursery, plans",
+        "lines": 2
+      },
+      {
+        "label": "A note to my baby",
+        "hint": "Dear little one,",
+        "lines": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a pregnancy journal?",
+      "blocks": [
+        {
+          "p": "A pregnancy journal is a diary of your pregnancy. You write about how you feel, what is changing, your appointments and your hopes for the baby. Some people write every week, some only at big moments like the first scan or the first kick."
+        },
+        {
+          "p": "There is no one right way to keep one. A first pregnancy, a rainbow baby, twins, a surrogacy journey or a partner's view all make beautiful pregnancy journals. Partners can keep one too, or add their own pages to yours."
+        },
+        {
+          "p": "Many families later give the journal to the child as a gift. Others keep it private as a record of a season they never want to forget."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a pregnancy journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Remember the details.** Nine months goes quickly, and small moments blur together.",
+            "**A place for big feelings.** Joy, worry and wonder can all sit on the same page.",
+            "**Keep questions in one place.** Writing questions down before appointments makes it easier to ask them.",
+            "**Notice how you are doing.** Looking back at a few weeks can show if you are more tired or low than usual, which is useful to mention to your care team.",
+            "**A keepsake for your child.** Your words may mean a great deal to them one day."
+          ]
+        },
+        {
+          "tip": "This journal is for memories and wellbeing, not medical advice. For any question about your health or your baby's, please talk to your doctor or midwife. If you feel very low, anxious or not like yourself during or after pregnancy, reach out to them too. You do not have to wait for your next appointment."
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a pregnancy journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Choose a rhythm",
+              "text": "Once a week is popular because pregnancy is counted in weeks. Pick the same day each week, like Sunday evening."
+            },
+            {
+              "name": "Start where you are",
+              "text": "It does not matter if you begin at 8 weeks or 30. Write a first page about how you found out, and go from there."
+            },
+            {
+              "name": "Fill in the weekly page",
+              "text": "How you feel, changes you noticed, appointment notes, questions, and plans."
+            },
+            {
+              "name": "Write a note to your baby",
+              "text": "Even one line. These little letters are often the most loved part of a pregnancy journal."
+            },
+            {
+              "name": "Add keepsakes",
+              "text": "Scan pictures, bump photos, a list of names, or cards from friends."
+            },
+            {
+              "name": "Keep going after the birth",
+              "text": "Write a birth story while it is fresh, then carry on in a [baby journal](/baby-journal/)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Pregnancy journal example",
+      "blocks": [
+        {
+          "p": "Here is one gentle example of a weekly page."
+        },
+        {
+          "example": {
+            "label": "Pregnancy journal",
+            "date": "Week 22, Sunday, February 9",
+            "title": "This week,",
+            "text": "Feeling: more energy, finally! Still need a nap most days.\nChanges: I felt you move for sure on Tuesday night.\nAppointment: heard your heartbeat again, so fast and strong.\nAsk the midwife: is my back ache normal? Best sleep position?\nGetting ready: we painted the little room a soft green.\nDear little one, your dad sings to you every night.\nWe cannot wait to meet you."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Pregnancy journal ideas",
+      "blocks": [
+        {
+          "ul": [
+            "**How we found out.** The day, the test, the first person you told.",
+            "**Bump photos.** One photo each week or month, in the same spot.",
+            "**Cravings and dislikes.** A funny list to share with your child one day.",
+            "**Name list.** Names you loved, names you crossed off, and why.",
+            "**Firsts.** First scan, first flutter, first kick someone else felt.",
+            "**Letters from family.** Ask grandparents, siblings or friends to write a page.",
+            "**Partner pages.** Your partner's thoughts, hopes and worries in their own words.",
+            "**Plans and wishes.** Ideas for the birth and the first weeks, to talk through with your care team.",
+            "**Nesting list.** What you are getting ready, and who helped.",
+            "**Birth story.** Written in the first days or weeks after, while the memory is fresh."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Pregnancy journal prompts",
+      "blocks": [
+        {
+          "p": "Use these pregnancy journal prompts on weeks when you are not sure what to write:"
+        },
+        {
+          "ol": [
+            "How did I feel the moment I found out?",
+            "Who did I tell first, and how did they react?",
+            "What am I most looking forward to about meeting you?",
+            "What is one worry I want to write down and set aside for now?",
+            "What did I eat way too much of this week?",
+            "What do I hope you get from me, and from your other parent?",
+            "What songs am I playing a lot right now?",
+            "What does a normal day look like for me at this stage?",
+            "What kind of parent do I hope to be?",
+            "What do I want to remember about this season of my life?",
+            "Who is helping me most right now?",
+            "What is happening in the world as you grow?",
+            "What do I want to tell you about our family?",
+            "How has my body surprised me?",
+            "What does home feel like as we wait for you?"
+          ]
+        },
+        {
+          "p": "For more gentle writing ideas, see our [self care journal prompts](/self-care-journal-prompts/) and [journal prompts for women](/journal-prompts-for-women/)."
+        }
+      ]
+    },
+    {
+      "h2": "Pregnancy journal ideas by trimester",
+      "blocks": [
+        {
+          "h3": "First trimester"
+        },
+        {
+          "ul": [
+            "How you found out, and who you told first.",
+            "How you felt in those early weeks, including tired days.",
+            "Your first appointment and any scan pictures.",
+            "Early hopes and worries."
+          ]
+        },
+        {
+          "h3": "Second trimester"
+        },
+        {
+          "ul": [
+            "Bump photos and how your body is changing.",
+            "The first flutters, and the first time someone else felt a kick.",
+            "Names you are thinking about.",
+            "Getting the nursery or a corner of your room ready."
+          ]
+        },
+        {
+          "h3": "Third trimester"
+        },
+        {
+          "ul": [
+            "What a normal day feels like now.",
+            "Your wishes for the birth, to talk through with your care team.",
+            "What is in your hospital or birth bag.",
+            "Letters to your baby as the day gets closer."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Practical pages to add",
+      "blocks": [
+        {
+          "p": "Many pregnancy journals mix memories with helpful practical pages. Keep these at the front or back:"
+        },
+        {
+          "ul": [
+            "**Key dates.** Your due date and appointment dates.",
+            "**Contacts.** Your doctor, midwife, hospital or birth center, and who to call.",
+            "**Appointment notes.** What was checked, what was said, and next steps.",
+            "**Questions list.** A running list to take to each appointment.",
+            "**Baby's movements.** If your care team asks you to pay attention to movements, follow their advice, and call them straight away if you notice a change.",
+            "**Birth wishes.** Your preferences, to discuss with your care team.",
+            "**Bag checklist.** For you, your partner and the baby."
+          ]
+        },
+        {
+          "tip": "Your journal is a helpful place to keep notes, but always follow the advice of your doctor or midwife. If something feels wrong, call them. You never need to wait to write it down first."
+        }
+      ]
+    },
+    {
+      "h2": "Pages for partners and family",
+      "blocks": [
+        {
+          "p": "A pregnancy journal does not have to be written by one person. Partners, co-parents, grandparents and siblings can all add something."
+        },
+        {
+          "ul": [
+            "A partner's letter to the baby each month.",
+            "Grandparents writing about the day they heard the news.",
+            "Big brother or sister drawing what they think the baby looks like.",
+            "Friends writing wishes on a page at a baby shower.",
+            "For adoptive or surrogacy families, notes from the waiting months and the people who helped."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips for a pregnancy diary you will treasure",
+      "blocks": [
+        {
+          "ul": [
+            "**Keep it short on tired weeks.** One sentence is fine. Some weeks will just be \"so tired.\"",
+            "**Write the hard parts too, if you want.** Honest pages are often the most meaningful.",
+            "**Date every page.** Add the week number as well as the date.",
+            "**Keep your phone notes handy.** Jot things down during the week and copy them in on your journal day.",
+            "**Print and save.** Pages here save only in this browser on this device. Press Print or save as PDF to keep them safe."
+          ]
+        },
+        {
+          "p": "If faith is part of your life, a [prayer journal for moms](/prayer-journal-for-moms/) can sit nicely alongside your pregnancy journal. You can also keep longer entries in our private [online diary](/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you write in a pregnancy journal?",
+      "a": "Write how you feel each week, changes you notice, notes from appointments, questions for your doctor or midwife, plans for the baby, and a short note to your little one. Many people add bump photos, scan pictures, name lists and a birth story after the baby arrives."
+    },
+    {
+      "q": "When should I start a pregnancy journal?",
+      "a": "Any time. Some people start the day they find out, others in the second or third trimester. If you start later, write a first page about how you found out and what the early weeks were like. It is never too late to begin."
+    },
+    {
+      "q": "How often should I write in a pregnancy journal?",
+      "a": "Once a week is popular because pregnancy is counted in weeks, and it keeps the habit easy. You can also write only at big moments, like scans and first kicks. A few lines are enough. The goal is to capture memories, not to fill every page."
+    },
+    {
+      "q": "Can a partner keep a pregnancy journal?",
+      "a": "Yes. Partners can keep their own journal or add pages to a shared one. Their hopes, worries and memories of appointments and firsts give a second view of the same story. Many families love reading both sides years later, and children often treasure hearing from each parent."
+    },
+    {
+      "q": "What can I do with a pregnancy journal after the baby is born?",
+      "a": "Many parents keep it as a family keepsake and give it to their child when they are older. You can add the birth story at the end and carry on writing in a baby journal to record the first year."
+    },
+    {
+      "q": "What are good pregnancy journal prompts?",
+      "a": "Try prompts like: How did I feel the moment I found out? What am I most looking forward to? What do I hope you get from our family? What songs am I playing a lot right now? What do I want to remember about this season? Short honest answers make the most meaningful pages."
+    }
+  ],
+  "related": [
+    "baby-journal",
+    "prayer-journal-for-moms",
+    "journal-prompts-for-women",
+    "self-care-journal-prompts",
+    "gratitude-journal",
+    "journal-template"
+  ]
+}

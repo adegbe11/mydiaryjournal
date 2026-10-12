@@ -1,0 +1,144 @@
+{
+  "slug": "prayer-journal-for-your-future-husband",
+  "keyword": "prayer journal for your future husband",
+  "type": "template",
+  "title": "Prayer Journal for Your Future Husband (Free Page)",
+  "description": "A free prayer journal for your future husband: a fill-in page, prayer points by area of life, letter ideas and prompts for your own heart while you wait.",
+  "h1": "Prayer journal for your future husband",
+  "crumb": "Future husband prayers",
+  "card": "Pray for him before you meet",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for your future husband is a place to pray for the man you may marry before you know who he is, and to pray for your own heart while you wait. Use the fill-in page below, then the prayer points and prompts sorted by area of his life and yours.",
+  "template": {
+    "key": "prayer-journal-for-your-future-husband",
+    "name": "Praying for my future husband",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Verse I am praying", "hint": "Proverbs 3:5-6, Psalm 37:4...", "lines": 2},
+      {"label": "Lord, wherever he is today", "hint": "His faith, his safety, his day", "lines": 3},
+      {"label": "The man I pray he becomes", "hint": "Character, kindness, honesty", "lines": 2},
+      {"label": "Our future marriage", "hint": "Friendship, faith, family, timing", "lines": 2},
+      {"label": "Prepare my heart", "hint": "Where I need to grow, heal or trust", "lines": 3},
+      {"label": "A note to him", "hint": "Dear future husband,", "lines": 3}
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why pray for your future husband now",
+      "blocks": [
+        {"p": "If you hope to marry, you can start praying for that man today. He is already somewhere living his life, facing his own battles and choices. Your prayers can cover him long before you meet."},
+        {"p": "This kind of journal also does something for you. It turns waiting into something active. It keeps your hope in God instead of in a dating app or a timeline. And it helps you grow into the woman you want to be, whether marriage comes soon, later, or not at all."},
+        {"verse": "Psalm 37:4-5"},
+        {"tip": "A prayer journal is not a promise from God that you will marry by a certain date. It is a way to trust Him with your desires and your future. Some women find peace in a single season, and that is a good gift too."}
+      ]
+    },
+    {
+      "h2": "Prayer points for your future husband by area of life",
+      "blocks": [
+        {"h3": "His faith"},
+        {"ul": [
+          "That he would know Jesus personally and love Him more than anything.",
+          "That he would grow in God's Word and in prayer.",
+          "That he would have godly men around him to sharpen him."
+        ]},
+        {"h3": "His character"},
+        {"ul": [
+          "That he would be honest, humble and kind.",
+          "That he would be patient and slow to anger.",
+          "That he would keep his word and take responsibility for his choices."
+        ]},
+        {"h3": "His purity and choices"},
+        {"ul": [
+          "For strength to resist temptation and guard his heart.",
+          "For healing from past mistakes and freedom from shame.",
+          "For wisdom in his friendships and relationships now."
+        ]},
+        {"h3": "His work, purpose and provision"},
+        {"ul": [
+          "That he would find work he is good at and do it well.",
+          "For wisdom with money, debt and planning.",
+          "That he would know his calling and follow it."
+        ]},
+        {"h3": "His family and past"},
+        {"ul": [
+          "For healing from any hurt in his family growing up.",
+          "For good relationships with his parents and siblings.",
+          "That he would learn what a loving husband and father looks like."
+        ]},
+        {"h3": "His health and safety"},
+        {"ul": [
+          "For protection in his travel, work and daily life.",
+          "For good health in body and mind.",
+          "For peace in hard seasons and people to support him."
+        ]},
+        {"h3": "Your future marriage"},
+        {"ul": [
+          "That you would be best friends who serve God together.",
+          "That your families would welcome the marriage.",
+          "For God's timing, and peace while you wait.",
+          "That you would recognize him, and he would recognize you, when the time comes."
+        ]},
+        {"verse": "Proverbs 3:5-6"}
+      ]
+    },
+    {
+      "h2": "Prayers for your own heart while you wait",
+      "blocks": [
+        {"p": "A good prayer journal for your future husband has as many prayers for you as for him. Here are prompts for your own heart."},
+        {"ol": [
+          "Where am I impatient with God's timing? Tell Him honestly.",
+          "What wounds from past relationships do I need God to heal?",
+          "What kind of wife do I want to be? Ask God to grow those qualities now.",
+          "Am I looking to a man to give me something only God can give?",
+          "What would it look like to enjoy this season fully?",
+          "What red flags have I ignored before? Ask for wisdom and courage.",
+          "Which friendships help me grow, and which pull me away from God?",
+          "What do I need to forgive myself for?",
+          "What dreams do I have for my life, apart from marriage?",
+          "Write a prayer of trust: Even if Your answer is not yet, I will trust You."
+        ]},
+        {"verse": "Song of Solomon 2:7"}
+      ]
+    },
+    {
+      "h2": "How to use this future husband prayer journal",
+      "blocks": [
+        {"steps": [
+          {"name": "Pick one area a day", "text": "Pray through his faith on Monday, his character on Tuesday, and so on. A different focus keeps it from feeling repetitive."},
+          {"name": "Fill in the page", "text": "Write a verse, a prayer for him today, and a prayer for your own heart."},
+          {"name": "Write him a short note", "text": "Some women write a few lines to their future husband each week. It is a sweet record to share later, or to keep private."},
+          {"name": "Date everything", "text": "Years from now you may look back and see how God was working long before you met."},
+          {"name": "Print or save", "text": "Your page saves on this device. Print a copy for a binder or save it as a PDF."}
+        ]}
+      ]
+    },
+    {
+      "h2": "Example: a letter to my future husband",
+      "blocks": [
+        {"example": {"label": "Dear future husband", "date": "Sunday, September 7", "title": "Dear future husband,", "text": "I prayed for you today. I hope you are safe and sleeping well.\nI asked God to give you good friends and a brave heart.\nI am learning to be patient. It is harder than it sounds.\nI hope we laugh a lot and pray together.\nWhoever you are, I am cheering for you.\nSee you when God says it is time."}},
+        {"p": "You can see more styles in our [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    },
+    {
+      "h2": "Tips for praying for your future husband",
+      "blocks": [
+        {"ul": [
+          "**Keep God at the center.** The goal is to know God more, not to make a wish list.",
+          "**Avoid writing a checklist.** Pray for character, not height, job title or looks.",
+          "**Pray for yourself as much as for him.** You are getting ready too.",
+          "**Share with a friend.** Ask a trusted friend or mentor to pray with you sometimes.",
+          "**Use the waiting well.** Serve, learn, build friendships and grow in faith now."
+        ]},
+        {"p": "After you marry, you can move to the [prayer journal for your husband](/prayer-journal-for-husband/). For a guided year of prayer, the [Prayer Journal for Women](/prayer-journal-for-women/) Android app has weekly verses, reflections, a prayer list and an answered prayers list. It is coming soon on Google Play. You can also find more [prayer journal prompts](/prayer-journal-prompts/) and [journal prompts for women](/journal-prompts-for-women/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "How do I pray for my future husband?", "a": "Pray for his faith, character, purity, work, family, health and safety, and for your future marriage. Pray for God's timing and for your own heart while you wait. Writing these prayers in a journal helps you stay consistent and see how your prayers grow over time."},
+    {"q": "Is it biblical to pray for a future spouse?", "a": "The Bible tells us to bring every request to God with thanks, and that includes the desire to marry. Praying for a future spouse is a way of trusting God with that hope. It works best when you hold the request with open hands and seek God more than the gift."},
+    {"q": "What should I write to my future husband?", "a": "Write short letters with prayers you prayed for him, what you are learning, and hopes for your marriage. Keep them honest and kind. Some women give these letters as a wedding gift. Others keep them private as a record of their own growth."},
+    {"q": "What if I never get married?", "a": "Your prayers are not wasted. The prayers for your own heart, faith and character still matter, and God hears every one. Many women find that praying through this season brings peace and a stronger faith whatever the outcome. Singleness can be a full and good life."},
+    {"q": "Can I print this future husband prayer journal page?", "a": "Yes. Fill it in online or leave it blank, then press Print or save it as a PDF. What you type also saves in this browser on this device, with no account."}
+  ],
+  "related": ["prayer-journal-for-husband", "prayer-journal-for-women", "prayer-journal-prompts", "prayer-journal-template", "prayer-journal-examples", "journal-prompts-for-women"]
+}

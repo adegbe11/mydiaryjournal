@@ -1,0 +1,169 @@
+{
+  "slug": "reflective-journal-prompts",
+  "keyword": "reflective journal prompts",
+  "type": "prompts",
+  "title": "Reflective Journal Prompts: 70 Questions to Think Deeper",
+  "description": "70 reflective journal prompts and questions for adults. Look back on events, spot your patterns, learn from choices and decide what to do next. Free to use.",
+  "h1": "Reflective journal prompts to help you think deeper",
+  "crumb": "Reflective prompts",
+  "card": "Look back, learn more",
+  "eyebrow": "Journal prompts",
+  "intro": "Reflective journal prompts are questions that help you look back at something that happened, understand why it happened, and decide what to do next. A simple way to reflect is to ask three questions: What happened? Why does it matter? What will I do now? The 70 prompts below follow that idea for events, habits, work, choices and your life as a whole.",
+  "writer": {"title": "Looking back,", "hint": "Choose a prompt and be honest with yourself...", "kind": "reflective-journal-prompts"},
+  "sections": [
+    {
+      "h2": "How to write a reflective journal entry",
+      "blocks": [
+        {"p": "Reflection is more than describing your day. It means asking why, noticing your part, and pulling out a lesson you can use. Schools, nursing programs and workplaces often teach a simple three part model for this."},
+        {"table": {
+          "head": ["Step", "Question", "Example"],
+          "rows": [
+            ["What?", "What happened, in plain facts?", "I lost my temper in the team meeting."],
+            ["So what?", "Why does it matter? What did I feel and learn?", "I was tired and felt ignored. I care about being heard."],
+            ["Now what?", "What will I do differently?", "Next time I will say I need a minute, then speak calmly."]
+          ]
+        }},
+        {"example": {"label": "Reflective entry", "date": "Thursday, May 8", "title": "The meeting", "text": "What: I snapped at Dan when he cut me off.\nSo what: I was running on four hours of sleep.\nI also felt like my idea did not count.\nNow what: I will tell Dan I was short with him.\nAnd I will ask to finish my point next time."}},
+        {"p": "For a full guide with templates, see our page on the [reflective journal](/reflective-journal/)."}
+      ]
+    },
+    {
+      "h2": "Reflective journal questions about one event",
+      "blocks": [
+        {"p": "Pick one moment from the past week that stuck with you. Work through these in order, or choose the two or three that fit best."},
+        {"prompts": [
+          "Describe one event from this week in plain facts, as if a camera recorded it.",
+          "What was my part in how that event went?",
+          "What was I thinking right before things changed?",
+          "What did I feel, and when did the feeling start?",
+          "What did I assume about the other person that I did not check?",
+          "Why does this moment still stand out to me?",
+          "What does this event show me about what I care about?",
+          "Have I been in a situation like this before? What repeated?",
+          "What went well that I want to keep doing?",
+          "What would I do differently if it happened again tomorrow?",
+          "What is one specific step I will take because of what I learned?",
+          "Who could give me a different view of what happened?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts to reflect on a week or month",
+      "blocks": [
+        {"prompts": [
+          "What took most of my energy this month, and did it deserve it?",
+          "Which plan from this week fell apart, and why?",
+          "What did I spend money on this month that I am glad about, and what do I regret?",
+          "Which day this week felt the longest, and what made it heavy?",
+          "What did I start this month that I want to keep going?",
+          "Who did I see most this week? How did I feel after time with them?",
+          "What did I avoid this week?",
+          "What is one thing I noticed about myself this month that I had not seen before?",
+          "Which of my habits helped me this week, and which got in the way?",
+          "What did I read, watch or hear this month that changed my mind about something?",
+          "What did this month ask of me that I did not expect?",
+          "What do I want to carry into next month, and what do I want to leave behind?"
+        ], "start": 13}
+      ]
+    },
+    {
+      "h2": "Reflective prompts about patterns and habits",
+      "blocks": [
+        {"p": "Patterns are easier to see on paper than in your head. Read back over a few weeks of answers and look for repeats."},
+        {"prompts": [
+          "What do I tend to do when I feel stuck? Does it work?",
+          "What kind of situations make me go quiet?",
+          "What do I reach for, like my phone or a snack, when I feel uncomfortable?",
+          "Which time of day am I at my best, and what do I usually do with it?",
+          "What do I complain about most often? What does that tell me?",
+          "When do I say yes when I mean no?",
+          "What do I do first when I get good news? Who do I tell?",
+          "What kind of mistakes do I keep making?",
+          "What do I do on a free Saturday when nobody needs me?",
+          "Which thoughts show up again and again before I fall asleep?",
+          "What makes me impatient, and what is usually underneath it?",
+          "Which habit would my closest friend say I should change?"
+        ], "start": 25}
+      ]
+    },
+    {
+      "h2": "Reflective journal prompts for work and school",
+      "blocks": [
+        {"p": "These work well for students, teachers, nurses and anyone asked to keep a reflective log. For more, see our [journal examples for students](/journal-examples-for-students/) and [what to write in a work journal](/what-to-write-in-a-work-journal/)."},
+        {"prompts": [
+          "What did I learn this week that I could teach someone else?",
+          "Which task did I enjoy even though it was hard?",
+          "What feedback did I get recently, and how did I react to it inside?",
+          "Where did I play it safe at work or school when I could have spoken up?",
+          "What skill would make the biggest difference to my work in the next six months?",
+          "Which project am I proud of, and what exactly did I do well?",
+          "What part of my work feels meaningful, and what part feels empty?",
+          "How do I act when I do not know the answer?",
+          "Who have I learned the most from this year, and what did they do?",
+          "What would I change about how I study or work if no one was watching?",
+          "When did I last lose track of time doing something? What was it?",
+          "What part of my job would I keep even if every job paid the same?"
+        ], "start": 37}
+      ]
+    },
+    {
+      "h2": "Prompts to reflect on choices and decisions",
+      "blocks": [
+        {"prompts": [
+          "What is a decision I made a year ago that shaped where I am today?",
+          "Which choice am I putting off, and what am I waiting for?",
+          "When I made my last big decision, did I trust my gut or the facts?",
+          "What decision would I make if I knew no one would judge me?",
+          "Which past choice do I still second guess? What did I know at the time?",
+          "What are the real options in front of me right now? List them all.",
+          "Who do I let make decisions for me, and is that okay?",
+          "What would I regret not trying in five years?",
+          "What is one decision that looked small but turned out big?",
+          "How do I want to make decisions in the future?"
+        ], "start": 49}
+      ]
+    },
+    {
+      "h2": "Reflective journal prompts for adults: looking at your life",
+      "blocks": [
+        {"p": "These are bigger questions. Take one per sitting and give it time. If you want to go further, try our [journal prompts for self discovery](/journal-prompts-for-self-discovery/) or [journal prompts on values](/journal-prompts-values/)."},
+        {"prompts": [
+          "How have my priorities changed in the last five years?",
+          "What did I believe at 20 that I no longer believe?",
+          "What part of my life feels most like me right now?",
+          "Which relationship has taught me the most about myself?",
+          "What do I want more of in my everyday life? What do I want less of?",
+          "What does home mean to me now?",
+          "When was the last time I changed my mind about something big?",
+          "What am I still trying to prove, and to whom?",
+          "What would a good next year look like, in a few honest lines?",
+          "What hard season of my life am I grateful for now?",
+          "How do I usually spend my weekends, and what does that say about me?",
+          "What question about my life do I keep avoiding?"
+        ], "start": 59}
+      ]
+    },
+    {
+      "h2": "Tips for better reflection",
+      "blocks": [
+        {"ul": [
+          "**Write facts before feelings.** Describe what happened first. It keeps you honest about the difference between what happened and what you think it meant.",
+          "**Always ask why twice.** The first answer is usually the easy one. The second is often the true one.",
+          "**Finish with an action.** Reflection without a next step is just remembering. End every entry with one thing you will try.",
+          "**Read back once a month.** Your old entries show patterns you cannot see day to day.",
+          "**Be fair to yourself.** Notice what you did well, not only what went wrong.",
+          "**Keep it private.** Honest reflection needs a safe place. Our [free online diary](/) keeps pages in your own browser."
+        ]},
+        {"p": "For lighter daily questions, see our [daily journal prompts](/daily-journal-prompts/), or browse the full list of [journal prompts](/journal-prompts/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What are good reflective journal questions?", "a": "Good reflective questions ask what happened, why it matters, and what you will do next. Examples: What was my part in how this went? What did I assume that I did not check? What would I do differently tomorrow? Questions that ask why and what next lead to more learning than questions that only ask what happened."},
+    {"q": "How do you start a reflective journal entry?", "a": "Start with the facts. Write a few sentences about what happened as if you were describing it to someone who was not there. Then write how you felt and why it matters to you. End with one thing you learned and one step you will take."},
+    {"q": "What is the difference between a diary and a reflective journal?", "a": "A diary records what happened. A reflective journal asks why it happened and what you learned from it. Many people mix the two by writing a few lines about the day and then answering one reflective question at the end."},
+    {"q": "How often should I write in a reflective journal?", "a": "Once or twice a week is enough for most people. Some students and professionals write after every class, shift or project. What matters most is reflecting soon after an event, while the details are still fresh, and reading back every few weeks."},
+    {"q": "What is the What, So what, Now what model?", "a": "It is a simple three step way to reflect that is often taught in schools and training programs. What asks you to describe the event. So what asks why it matters and what you learned. Now what asks what you will do differently next time."}
+  ],
+  "related": ["reflective-journal", "journal-prompts-for-self-growth", "journal-prompts-values", "journal-prompts-for-self-discovery", "journal-examples-for-students", "journal-prompts"]
+}

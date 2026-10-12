@@ -1,0 +1,182 @@
+{
+  "slug": "therapy-journal-prompts",
+  "keyword": "therapy journal prompts",
+  "type": "prompts",
+  "title": "70 Therapy Journal Prompts (Before and After Sessions)",
+  "description": "70 therapy journal prompts for before and after sessions, between appointments and tracking progress, plus a simple therapy journal template you can use.",
+  "h1": "70 therapy journal prompts",
+  "crumb": "Therapy prompts",
+  "card": "Get more from each session",
+  "eyebrow": "Journal prompts",
+  "intro": "**Therapy journal prompts** help you prepare for counseling sessions, remember what came up and keep working between appointments. Below are 70 prompts for before a session, after a session, the days in between and tracking your progress, plus a simple therapy journal template. Write privately in the diary at the top of this page.",
+  "writer": {"title": "Before my next session", "hint": "What do I want to talk about this week?", "kind": "therapy-journal-prompts"},
+  "sections": [
+    {
+      "h2": "How to therapy journal",
+      "blocks": [
+        {"p": "A therapy journal is a notebook you keep alongside counseling. It is not homework you can fail. It is a way to catch thoughts and feelings as they happen so you do not lose them by the time your next session comes around."},
+        {"steps": [
+          {"name": "Before the session.", "text": "Spend five minutes writing what is on your mind and what you want to bring up. Many people forget their main point once they sit down."},
+          {"name": "Right after the session.", "text": "Write what stood out, any insight, and anything your therapist suggested you try."},
+          {"name": "Between sessions.", "text": "Note moments that connect to what you talked about: a trigger, a win, an old pattern showing up."},
+          {"name": "Bring it with you.", "text": "You can read from your journal in session or just use it to jog your memory. You decide what to share."}
+        ]},
+        {"tip": "These prompts are meant to **support** therapy, not replace it. If you do not have a therapist yet and are struggling, a doctor can help you find one. If you are in crisis, contact local emergency services. In the US, call or text **988**."}
+      ]
+    },
+    {
+      "h2": "Therapy journal prompts to use before a session",
+      "blocks": [
+        {"prompts": [
+          "What is the main thing I want to talk about this week?",
+          "What has been bothering me since my last session?",
+          "Is there something I have been avoiding bringing up? What makes it hard to say?",
+          "How would I rate my week from one to ten, and why?",
+          "What went better than expected since we last met?",
+          "What question do I want to ask my therapist?",
+          "Did I try anything we talked about last time? How did it go?",
+          "What feeling has been strongest this week?",
+          "Is there anything about therapy itself I want to discuss, like pace or approach?",
+          "If I only had five minutes in session, what would I spend them on?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts to write after a therapy session",
+      "blocks": [
+        {"prompts": [
+          "What was the most important thing that came up today?",
+          "Did anything surprise me about what I said or felt?",
+          "What did my therapist say that I want to remember?",
+          "How do I feel right now, compared to when I walked in?",
+          "What is one thing I want to try before the next session?",
+          "Was there something I wanted to say but did not? Write it here.",
+          "Which part of the session felt uncomfortable? Why might that be?",
+          "What do I want to keep thinking about this week?",
+          "What do I want to pick up next time?",
+          "What do I need to take care of myself after this session?"
+        ], "start": 11}
+      ]
+    },
+    {
+      "h2": "Therapy journal prompts for between sessions",
+      "blocks": [
+        {"prompts": [
+          "Describe a moment this week when an old pattern showed up. What happened before it?",
+          "When did I notice myself reacting the way we talked about?",
+          "What did I do differently this week, even a little?",
+          "What thought kept repeating today? Where did I first learn it?",
+          "Which coping skill did I use, and did it help?",
+          "What triggered a strong feeling, and how strong was it from one to ten?",
+          "What would I tell my therapist about today if I could call right now?",
+          "Who did I set a boundary with, or wish I had?",
+          "What did I do today that took care of my future self?",
+          "Which moment this week felt most like the person I am working toward?"
+        ], "start": 21}
+      ]
+    },
+    {
+      "h2": "Prompts based on a thought record",
+      "blocks": [
+        {"p": "Many therapists use a thought record, an exercise from cognitive behavioral therapy (CBT). Walk through these in order when something upsets you."},
+        {"prompts": [
+          "What happened? Describe the situation in plain facts, like a camera would.",
+          "What was the first thought that went through my mind?",
+          "What did I feel, and how strong was it from zero to one hundred?",
+          "What facts support that thought?",
+          "What facts do not fit that thought?",
+          "Is there a more balanced way to see the situation?",
+          "How strong is the feeling now, from zero to one hundred?",
+          "What would I like to do next time this happens?"
+        ], "start": 31}
+      ]
+    },
+    {
+      "h2": "Therapy journal prompts for understanding yourself",
+      "blocks": [
+        {"p": "These are good topics to write about at home and bring into session. For more, see [journal prompts for self-discovery](/journal-prompts-for-self-discovery/) and [shadow work journal prompts](/shadow-work-journal-prompts/)."},
+        {"prompts": [
+          "What brought me to therapy in the first place? Has that changed?",
+          "What do I hope my life looks like when I no longer need therapy?",
+          "Which relationship in my life do I most want to understand better?",
+          "Which story about myself would I like to look at more closely in session?",
+          "What did I learn about feelings in the home I grew up in?",
+          "When do I feel most like the real me? Least like it?",
+          "What do I tend to minimize when I talk about my life?",
+          "What am I afraid will happen if I really change?",
+          "Which of my needs feel hard to say out loud?",
+          "What does feeling safe with another person look like for me?",
+          "What story about my past do I tell most often? Is there another way to tell it?",
+          "What do I want to understand about why I react the way I do?"
+        ], "start": 39}
+      ]
+    },
+    {
+      "h2": "Prompts for tracking progress in therapy",
+      "blocks": [
+        {"prompts": [
+          "What can I do now that felt impossible when I started therapy?",
+          "Which of my goals has moved forward? Which feels stuck?",
+          "What do I notice about myself that I did not notice a few months ago?",
+          "How have my relationships changed since I started?",
+          "What tools or skills have I learned that I use without thinking now?",
+          "What setback taught me something?",
+          "What do I want to focus on in the next three months?",
+          "How would I describe my progress to a friend?",
+          "What has therapy shown me about my strengths?",
+          "What would I tell myself on my first day of therapy?",
+          "What small change has made the biggest difference?",
+          "How do I want to keep growing after therapy ends?",
+          "What am I most thankful to myself for doing in therapy?",
+          "What still feels hard, and is that okay for now?",
+          "What do I want my therapist to know about how far I have come?",
+          "What does a good week look like for me now compared to before?",
+          "What habit have I kept up that I am proud of?",
+          "If I wrote my progress as a headline, what would it say?",
+          "What part of me feels more at peace than it used to?",
+          "What do I want to celebrate before my next session?"
+        ], "start": 51}
+      ]
+    },
+    {
+      "h2": "Therapy journal template",
+      "blocks": [
+        {"p": "Use this simple layout for each week. Write it in the diary above or print this page."},
+        {"table": {
+          "head": ["Part", "What to write"],
+          "rows": [
+            ["Date and session number", "So you can see your progress over time"],
+            ["Mood this week", "A number from one to ten and one word"],
+            ["What I want to talk about", "One to three topics, most important first"],
+            ["Key takeaway", "The one thing to remember from the session"],
+            ["What I will try", "A skill, exercise or change before next time"],
+            ["Between-session notes", "Triggers, wins, patterns, questions"]
+          ]
+        }},
+        {"example": {"label": "Therapy journal example", "date": "Wednesday, October 1", "title": "Session 6", "text": "Mood: 5. Tired and on edge.\nTalk about: the fight with my sister. Why I go silent.\nTakeaway: I shut down when I feel blamed. It is old.\nTry: say 'I need a minute' instead of walking away.\nNotes: did it once on Sunday. Felt awkward but it worked."}},
+        {"p": "For more on mental health writing, see [journal prompts for mental health](/journal-prompts-for-mental-health/) and [how to journal for mental health](/how-to-journal-for-mental-health/). A [mood journal](/mood-journal/) is also useful to bring to sessions."}
+      ]
+    },
+    {
+      "h2": "Tips for a therapy journal",
+      "blocks": [
+        {"ul": [
+          "**Tell your therapist you journal.** They may suggest prompts or exercises that fit what you are working on.",
+          "**You do not have to share everything.** Your journal is yours. Share what you want.",
+          "**Write soon after sessions.** Insights fade fast. Even three lines in the car or on the bus help.",
+          "**Keep it private.** This diary saves only in your browser on this device. Print or save as PDF if you want to bring a copy.",
+          "**Be gentle on tough weeks.** Some weeks you will write a lot, other weeks nothing. Both are fine."
+        ]},
+        {"p": "You may also like [journal prompts for anxiety](/journal-prompts-for-anxiety/), [healing journal prompts](/healing-journal-prompts/) and [reflective journal prompts](/reflective-journal-prompts/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a therapy journal?", "a": "A therapy journal is a notebook or diary you keep alongside counseling. You use it to prepare for sessions, write down what you learned afterward and notice thoughts and patterns between appointments. It helps you get more out of each session because you remember what mattered instead of trying to recall it on the spot."},
+    {"q": "What should I write in my therapy journal?", "a": "Write what you want to talk about, how your week went, strong feelings and what set them off, insights from sessions, and anything your therapist suggested you try. You can also write questions for your therapist. The prompts and template above give you a simple structure."},
+    {"q": "Should I show my journal to my therapist?", "a": "That is up to you. Some people read parts aloud, others just use it to remember their points. Your journal is private and you choose what to share. Many therapists welcome it because it shows them what happens between sessions, but you are never required to hand it over."},
+    {"q": "Can journaling replace therapy?", "a": "No. Journaling is a helpful habit, but a trained therapist can offer things a journal cannot, like feedback, support and proven treatment. Many people use both together. If cost is a barrier, ask a doctor about low-cost options. If you are in crisis, contact emergency services, or call or text 988 in the US."},
+    {"q": "How often should I write in a therapy journal?", "a": "A short entry before and after each session is a good start. Between sessions, write when something important happens or a few times a week. Even a two-minute note about a trigger or a win is useful. Consistency matters more than length."}
+  ],
+  "related": ["journal-prompts-for-mental-health", "journal-prompts-for-anxiety", "how-to-journal-for-mental-health", "healing-journal-prompts", "shadow-work-journal-prompts", "mood-journal"]
+}

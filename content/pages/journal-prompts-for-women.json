@@ -1,0 +1,172 @@
+{
+  "slug": "journal-prompts-for-women",
+  "keyword": "journal prompts for women",
+  "type": "prompts",
+  "title": "Journal Prompts for Women: 73 Questions for Real Life",
+  "description": "73 journal prompts for women about who you are now, your body, work and money, the mental load, friendship, rest and boundaries, and your next chapter.",
+  "h1": "Journal prompts for women",
+  "crumb": "Prompts for women",
+  "card": "Questions just for you",
+  "eyebrow": "Journal prompts",
+  "intro": "Journal prompts for women are questions that help you check in with yourself, beyond all the roles you play for other people. Pick one that speaks to you today, give yourself ten quiet minutes, and write honestly. Below are 73 prompts on identity, body, work and money, the mental load, friendship, rest and what comes next.",
+  "writer": {"title": "Just for me,", "hint": "Pick a question and take ten minutes for yourself...", "kind": "journal-prompts-for-women"},
+  "sections": [
+    {
+      "h2": "How to use these journal prompts",
+      "blocks": [
+        {"p": "Many women spend the whole day thinking about everyone else. A journal is ten minutes that belong only to you. You do not need a perfect notebook or a quiet house. You just need one honest question."},
+        {"ul": [
+          "**Pick by feeling.** Tired? Go to rest and boundaries. Restless? Try the next chapter.",
+          "**Write in short bursts.** Five to ten minutes is enough. Stop when you hit something true.",
+          "**Write in your own words.** Nobody is grading this. Messy is fine.",
+          "**Keep it private.** Our [free online diary](/) saves pages in your browser with no account, so you can be honest."
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts about who you are now",
+      "blocks": [
+        {"prompts": [
+          "Who am I when I am not taking care of anyone else?",
+          "What parts of the girl I used to be do I still carry with me?",
+          "What do I love about the woman I am becoming?",
+          "What role do I play most days, and which role do I wish I played more?",
+          "What am I tired of apologizing for?",
+          "What compliment would mean the most to me right now?",
+          "What is one opinion I hold strongly that I rarely say out loud?",
+          "Which woman in my life shaped me most, and how?",
+          "What do I want the younger women around me to learn from watching me?",
+          "What does feeling at home in myself look like?",
+          "Which season of life am I in, and what does it need from me?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Journal prompts for women about body and health",
+      "blocks": [
+        {"p": "Be gentle with these. The goal is to listen to your body, not judge it."},
+        {"prompts": [
+          "What is one thing my body did for me this week that I want to thank it for?",
+          "How do I talk about my body when no one is listening?",
+          "When do I feel most comfortable in my own skin?",
+          "What does my body need this month: more sleep, more movement, more care or more food?",
+          "How does my cycle or my stage of life affect my energy and mood? What do I notice?",
+          "What health appointment have I been putting off?",
+          "What did the women in my family teach me about bodies and food?",
+          "What kind of movement makes me feel strong, not punished?",
+          "What would change if I stopped waiting to like my body before living fully?",
+          "What outfit makes me feel like myself, and why?"
+        ], "start": 12}
+      ]
+    },
+    {
+      "h2": "Prompts about work, money and ambition",
+      "blocks": [
+        {"prompts": [
+          "What do I really want from my work right now?",
+          "When did I last ask for what I am worth? What happened?",
+          "Where do I downplay my skills?",
+          "What does financial safety look like for me, in numbers and in feelings?",
+          "What did I learn about money growing up?",
+          "What would I go after at work if I trusted that I was qualified enough?",
+          "Who are the women whose careers I admire, and what can I learn from them?",
+          "What is one money goal for this year?",
+          "Where do I say yes to extra work that no one notices?",
+          "What does ambition mean to me, and is it a word I am comfortable with?",
+          "What would I do with one free, fully paid week?"
+        ], "start": 22}
+      ]
+    },
+    {
+      "h2": "Journal prompts women can use for the mental load",
+      "blocks": [
+        {"p": "The mental load is all the remembering, planning and worrying you do for other people. Writing it down is the first step to sharing it."},
+        {"prompts": [
+          "List everything I am keeping track of for other people right now.",
+          "Which of those tasks could someone else take on?",
+          "What do I do for others that I wish someone would do for me?",
+          "When did I last ask for help without explaining why I needed it?",
+          "What is one thing I can stop doing perfectly?",
+          "Who checks on me?",
+          "What does guilt sound like in my head, and is it fair?",
+          "Where do I feel stretched thin, and what would loosen it?",
+          "What is one task I can drop this week without anything bad happening?",
+          "Which household or family task do I do because no one else will?",
+          "What does support look like to me, in specific actions?"
+        ], "start": 33}
+      ]
+    },
+    {
+      "h2": "Prompts about friendship and other women",
+      "blocks": [
+        {"prompts": [
+          "Which friend makes me feel most like myself?",
+          "What friendship have I let slip that I want to rebuild?",
+          "What did I learn from a friendship that ended?",
+          "What kind of friend am I in this season of life?",
+          "Which woman do I admire but have never told? What would I say?",
+          "Where do I feel competition with other women, and where does it come from?",
+          "What is the best advice another woman ever gave me?",
+          "Who are the women I could call at 2 a.m.?",
+          "What do I want my friendships to feel like in ten years?",
+          "How can I show up for a friend this week?"
+        ], "start": 44}
+      ]
+    },
+    {
+      "h2": "Prompts about rest and boundaries",
+      "blocks": [
+        {"p": "For more on this, see our [self-care journal prompts](/self-care-journal-prompts/)."},
+        {"prompts": [
+          "What does real rest look like for me, not just stopping?",
+          "Which boundary am I proud of keeping?",
+          "Where do I need a boundary but feel afraid to set it?",
+          "What would I say if I did not worry about being liked?",
+          "How do I feel when I say no? Where did I learn that?",
+          "What drains me that I keep calling fine?",
+          "What would an hour just for me look like this week?",
+          "Who respects my time, and who does not?",
+          "What permission do I need to give myself right now?",
+          "What is one way I can protect my peace this week?"
+        ], "start": 54}
+      ]
+    },
+    {
+      "h2": "Journal prompts for your next chapter",
+      "blocks": [
+        {"prompts": [
+          "What do I want the next ten years of my life to hold?",
+          "What dream did I put on hold, and is it time to pick it back up?",
+          "What adventure do I want to have before my next big birthday?",
+          "What kind of older woman do I want to be?",
+          "What do I want to leave behind for the people I love, big or small?",
+          "What would I start if I was not worried about my age?",
+          "What do I want to learn just for me?",
+          "Where do I want to live, and what draws me there?",
+          "What would make my life feel more like mine?",
+          "Write a letter from me five years from now. What does she want me to know?"
+        ], "start": 64}
+      ]
+    },
+    {
+      "h2": "Tips for women who want to journal more",
+      "blocks": [
+        {"ul": [
+          "**Protect ten minutes.** Early morning or after the house goes quiet both work. Try our [morning journal prompts](/morning-journal-prompts/) or [journal prompts before bed](/journal-prompts-before-bed/).",
+          "**Lower the bar.** One honest paragraph beats a perfect page you never write.",
+          "**Write what you cannot say yet.** A journal is a safe place to practice a hard conversation first.",
+          "**Read back each month.** Patterns in your energy, mood and needs show up over time.",
+          "**Be kind to yourself.** If a prompt brings up something heavy, try some [self-love journal prompts](/self-love-journal-prompts/) next."
+        ]},
+        {"p": "If your faith is part of your daily life, you might like a [prayer journal for women](/prayer-journal-for-women/). Our Android app **Prayer Journal for Women** has 52 weeks of Bible verses, reflection and prayer, a prayer list and daily pages, with no ads and no account. It is coming soon on Google Play. You may also like our [diary for women](/diary-for-women/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What should women journal about?", "a": "Anything that is on your mind, but especially the things you rarely make time for: how you really feel, what you need, your body, your work, your friendships and your dreams. Many women spend most of the day focused on others, so prompts that turn the focus back to you are a good place to start."},
+    {"q": "How do I start journaling as a busy woman?", "a": "Keep it tiny. Pick one prompt and write for five minutes, either before everyone wakes up or after the house goes quiet. Keep your journal somewhere easy to reach. A short entry three times a week is a real habit. You can always write more later."},
+    {"q": "What are good self reflection questions for women?", "a": "Good questions are honest and specific. Try: Who am I when I am not taking care of anyone else? What am I tired of apologizing for? What drains me that I keep calling fine? Questions like these help you notice what you need and what you want to change."},
+    {"q": "Can journaling help with stress?", "a": "It can help many people. Writing down what is on your mind can make it feel more manageable, and research on expressive writing has found it can help some people handle stress. Journaling is not a replacement for professional care. If stress feels overwhelming, talk to a doctor or counselor."}
+  ],
+  "related": ["diary-for-women", "prayer-journal-for-women", "self-care-journal-prompts", "self-love-journal-prompts", "journal-prompts-on-relationships", "journal-prompts"]
+}

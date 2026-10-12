@@ -1,0 +1,304 @@
+{
+  "slug": "dream-journal",
+  "keyword": "dream journal",
+  "type": "template",
+  "title": "Dream Journal: Free Template, Example and Ideas",
+  "description": "Keep a dream journal with a free template to fill in online or print. See a filled example, learn how to remember more dreams, and get dream journal ideas.",
+  "h1": "Dream journal: a free template and how to keep one",
+  "crumb": "Dream journal",
+  "card": "Write it before it fades",
+  "eyebrow": "Journal types",
+  "intro": "A dream journal is a place to write down your dreams as soon as you wake up, before they fade. Fill in the free dream journal template below with the dream, how it felt, any symbols and your waking thoughts. Then print it or keep it saved in this browser.",
+  "template": {
+    "key": "dream-journal",
+    "name": "My dream journal",
+    "eyebrow": "Night of",
+    "fields": [
+      {
+        "label": "Dream title",
+        "hint": "Give it a short name, like The flooded school",
+        "lines": 1
+      },
+      {
+        "label": "The dream",
+        "hint": "Write what happened in the present tense. Places, people, what you did.",
+        "lines": 6
+      },
+      {
+        "label": "How I felt in the dream",
+        "hint": "Scared, happy, lost, calm...",
+        "lines": 2
+      },
+      {
+        "label": "Symbols and details",
+        "hint": "Colors, animals, objects, numbers, words",
+        "lines": 2
+      },
+      {
+        "label": "Waking thoughts",
+        "hint": "How I feel now, and any link to my real life",
+        "lines": 3
+      },
+      {
+        "label": "Sleep notes",
+        "hint": "Bedtime, wake time, lucid? recurring?",
+        "lines": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a dream journal?",
+      "blocks": [
+        {
+          "p": "A dream journal, also called a dream diary, is a record of the dreams you remember. You keep it close to your bed and write in it right after you wake up. Over weeks and months it becomes a collection of your night life: strange stories, repeated places, people from your past and feelings you did not expect."
+        },
+        {
+          "p": "You do not need to believe dreams have hidden meanings to enjoy keeping one. Some people do it for fun, some for creative ideas, and some because they want to understand recurring dreams. All of those are good reasons."
+        }
+      ]
+    },
+    {
+      "h2": "Dream journal benefits",
+      "blocks": [
+        {
+          "p": "Here is what keeping a dream journal can do for you, kept honest and simple:"
+        },
+        {
+          "ul": [
+            "**Better dream recall.** Most people forget dreams within minutes. Writing them down regularly tends to help you remember more of them over time.",
+            "**Spot patterns.** You may notice the same place, person or feeling showing up again and again.",
+            "**Notice your feelings.** Dreams often carry the mood of your days. A run of stressful dreams can be a hint to look at what is weighing on you.",
+            "**Ideas for stories and art.** Writers and artists often find odd, vivid images in their dreams worth keeping.",
+            "**A first step toward lucid dreaming.** People who try lucid dreaming usually start by recording dreams, so they learn to recognize when they are dreaming."
+          ]
+        },
+        {
+          "tip": "Dream meanings are not settled science. Treat any interpretation as a question to think about, not an answer. If nightmares are often waking you up or troubling you, it is worth talking to a doctor."
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a dream journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Keep it by your bed",
+              "text": "A notebook and pen on the nightstand, or your phone with this page bookmarked. If it is across the room, you will not use it."
+            },
+            {
+              "name": "Set an intention at night",
+              "text": "As you fall asleep, tell yourself, \"I will remember my dreams.\" It sounds simple, but many people find it helps."
+            },
+            {
+              "name": "Lie still when you wake",
+              "text": "Before you move or check your phone, stay still with your eyes closed and replay the dream. Moving quickly can make it vanish."
+            },
+            {
+              "name": "Write keywords first",
+              "text": "Jot down a few words: places, people, the main feeling. Then fill in the story while it is still fresh."
+            },
+            {
+              "name": "Write in the present tense",
+              "text": "\"I am walking through a house with no doors\" pulls back more detail than \"I was walking.\""
+            },
+            {
+              "name": "Add a title and date",
+              "text": "A short title makes old dreams easy to find and compare."
+            },
+            {
+              "name": "Review every few weeks",
+              "text": "Read back through your entries and note anything that repeats. Highlight recurring symbols or places."
+            }
+          ]
+        },
+        {
+          "p": "Do not worry if you only remember a scrap, like a color or a single feeling. Write that down. Fragments count, and recall often grows with practice."
+        }
+      ]
+    },
+    {
+      "h2": "Dream journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled dream journal page so you can see how much detail is helpful."
+        },
+        {
+          "example": {
+            "label": "Dream journal",
+            "date": "Night of Friday, May 9",
+            "title": "The flooded school",
+            "text": "I am back at my old high school but the halls are full of water.\nI swim to my locker and cannot remember the code.\nMy friend Ana is there, but she is a child again.\nFelt: panicky, then oddly calm when the water got warm.\nSymbols: water, locked locker, numbers I can't read.\nWaking thoughts: big deadline Monday. Maybe the locker\nis the project I feel locked out of?\nSleep: 11:30 pm to 6:45 am. Not lucid."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Dream journal ideas",
+      "blocks": [
+        {
+          "p": "Once you have a few entries, try these ideas to get more out of your dream journal:"
+        },
+        {
+          "ul": [
+            "**Sketch it.** A quick drawing of a strange room or creature can hold more than words. See our [art journal ideas](/art-journal-ideas/) for inspiration.",
+            "**Keep a symbol index.** At the back of your journal, list repeating symbols and the dates they showed up.",
+            "**Rate the dream.** Give each one a mood score from 1 to 5, or a color, so you can see patterns at a glance.",
+            "**Mark recurring dreams.** Use a star or the letter R so you can find them quickly.",
+            "**Note what happened the day before.** A line about the day before can explain a lot.",
+            "**Track lucid moments.** Mark any time you knew you were dreaming.",
+            "**Write the ending you wanted.** For bad dreams, some people find it calming to rewrite how the dream ends.",
+            "**Pull story ideas.** Keep a list of dream images you might use in writing."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Questions to ask about a dream",
+      "blocks": [
+        {
+          "p": "If you want to reflect on a dream, these questions can help. There are no right answers."
+        },
+        {
+          "ol": [
+            "What was the strongest feeling in the dream?",
+            "Where have I felt that same feeling in real life lately?",
+            "Who was in the dream, and what do they mean to me?",
+            "What was I trying to do, and what got in the way?",
+            "Has this place or symbol shown up before?",
+            "If this dream were a message to me, what would it say?",
+            "What would I change about the dream if I could?"
+          ]
+        },
+        {
+          "p": "For more reflection questions, try our [reflective journal prompts](/reflective-journal-prompts/) or the [journal prompts before bed](/journal-prompts-before-bed/)."
+        }
+      ]
+    },
+    {
+      "h2": "Dream journal formats: paper, phone or voice",
+      "blocks": [
+        {
+          "table": {
+            "head": [
+              "Format",
+              "Pros",
+              "Cons"
+            ],
+            "rows": [
+              [
+                "Paper notebook",
+                "Quick, no screen light, easy to sketch",
+                "Hard to write in the dark"
+              ],
+              [
+                "Phone or browser",
+                "Searchable, always with you",
+                "Screen light can wake you up more"
+              ],
+              [
+                "Voice memo",
+                "Fastest way to catch a dream half asleep",
+                "You need to type it up later"
+              ],
+              [
+                "Drawing",
+                "Captures images words miss",
+                "Harder to search later"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Many people mix them: a quick voice memo at 3 am, then a full written entry in the morning. If you use your phone, turn the brightness down at night. The template on this page saves in your browser, so you can fill it in on your phone in the morning."
+        }
+      ]
+    },
+    {
+      "h2": "Common dream themes to watch for",
+      "blocks": [
+        {
+          "p": "These themes show up for many people. Note them in your journal when they appear. What they mean for you is personal, so use them as starting points for questions, not answers."
+        },
+        {
+          "ul": [
+            "**Being chased.** Ask: what am I avoiding right now?",
+            "**Falling.** Ask: where do I feel out of control?",
+            "**Teeth falling out.** Ask: am I worried about how others see me?",
+            "**Being late or unprepared.** Very common around deadlines, exams or big changes.",
+            "**Flying.** Often feels joyful. Note what you were flying away from or toward.",
+            "**Old homes or schools.** Ask: what was happening in my life then, and does it echo now?",
+            "**Water.** Calm or stormy water often matches the mood of the dream.",
+            "**People who have died.** These dreams can be comforting or painful. Writing them down can be part of grief. See [grief journal prompts](/grief-journal-prompts/) if that helps."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Recurring dreams and nightmares",
+      "blocks": [
+        {
+          "p": "A dream journal makes recurring dreams easy to spot. Mark them with an R, then look at what was happening in your waking life each time. Many people find recurring dreams show up during stress and fade when life calms down."
+        },
+        {
+          "p": "For bad dreams, some people find it helps to write the dream down, then write a new, calmer ending while awake. Writing it out can make it feel less scary. Keep a gentle bedtime routine and use [journal prompts before bed](/journal-prompts-before-bed/) to empty your mind before sleep."
+        },
+        {
+          "tip": "If nightmares are frequent, keep you from sleeping, or are linked to a frightening event, please talk to a doctor. Support is available, and a dream journal can be useful to bring along."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for remembering more dreams",
+      "blocks": [
+        {
+          "ul": [
+            "Get enough sleep. Long, regular sleep gives you more dream time.",
+            "Wake gently if you can. A soft alarm is easier on dream memory than a loud one.",
+            "Write something every morning, even \"No dream remembered.\" It keeps the habit alive.",
+            "Avoid checking your phone first thing. Messages push the dream right out of your head.",
+            "Be patient. It can take a week or two before recall picks up."
+          ]
+        },
+        {
+          "p": "Prefer typing? Our [online journal](/online-journal-free/) works in any browser, and you can print or save a [dream journal template](/journal-template/) as a PDF."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do you start a dream journal?",
+      "a": "Put a notebook or your phone next to your bed. When you wake, lie still and replay the dream, then write keywords and the main feeling first. Fill in the story after. Add a date and a short title. Even if you only remember a fragment, write it down, because recall usually improves with practice."
+    },
+    {
+      "q": "Is it good to keep a dream journal?",
+      "a": "For most people, yes. It is a gentle, creative habit that can help you remember more dreams and notice patterns in your feelings. Some people find it brings up worries they had not noticed. If dreams are distressing you or nightmares wake you often, talking to a doctor is a good idea."
+    },
+    {
+      "q": "What should I write in a dream journal?",
+      "a": "Write the story of the dream, the places and people in it, how you felt, any symbols like animals or colors, and your thoughts after waking. Adding what happened the day before and your sleep times can help you spot links between your dreams and your daily life."
+    },
+    {
+      "q": "Why can't I remember my dreams?",
+      "a": "Dream memories fade fast, often within minutes of waking. Moving around, checking your phone or rushing out of bed can wipe them away. Short sleep, alarms and stress can also make recall harder. Keeping a journal by the bed and lying still when you first wake often helps."
+    },
+    {
+      "q": "Can a dream journal help with lucid dreaming?",
+      "a": "Many people who practice lucid dreaming start with a dream journal. Writing dreams down helps you learn your common dream signs, like a certain place or something odd that keeps happening. Spotting those signs while dreaming is how some people realize they are in a dream."
+    },
+    {
+      "q": "Should I write my dream journal in the morning or at night?",
+      "a": "Write in the morning, as soon as you wake, because dreams fade within minutes. If you wake in the night after a vivid dream, jot a few keywords or record a voice memo, then fill in the full entry in the morning. At night, before sleep, you can write the date and an intention to remember."
+    }
+  ],
+  "related": [
+    "journal-prompts-before-bed",
+    "reflective-journal-prompts",
+    "art-journal-ideas",
+    "journal-template",
+    "mood-journal",
+    "online-journal-free"
+  ]
+}

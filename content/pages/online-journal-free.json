@@ -1,0 +1,299 @@
+{
+  "slug": "online-journal-free",
+  "keyword": "online journal free",
+  "type": "tool",
+  "title": "Online Journal Free: Write Privately, No Sign Up",
+  "description": "A free online journal you can use right now. No sign up, no account, pages saved on your device, a PIN lock, and Print or Save as PDF when you want a copy.",
+  "h1": "Free online journal",
+  "crumb": "Online journal free",
+  "card": "Start writing in seconds",
+  "eyebrow": "Write online",
+  "intro": "This is a **free online journal** you can write in right now. There is no sign up and no account. Your pages save as you type and stay in this browser on this device, and you can print any page or save it as a PDF.",
+  "writer": {
+    "title": "Today's journal",
+    "hint": "Write what is on your mind. It saves as you type.",
+    "kind": "online-journal-free"
+  },
+  "related": [
+    "diary-app",
+    "journal-app",
+    "digital-journal",
+    "daily-journal",
+    "private-diary-with-lock",
+    "journal-prompts"
+  ],
+  "sections": [
+    {
+      "h2": "Pick a page to start",
+      "blocks": [
+        {
+          "p": "Not sure what to write? Tap a card and the journal above opens a new page with a title and a hint. You can change anything."
+        },
+        {
+          "starters": [
+            {
+              "name": "Brain dump",
+              "text": "Empty your head onto the page",
+              "title": "Brain dump",
+              "hint": "Everything I am thinking about right now, in any order..."
+            },
+            {
+              "name": "Three good things",
+              "text": "Small wins from today",
+              "title": "Three good things",
+              "hint": "1. \n2. \n3. "
+            },
+            {
+              "name": "What is worrying me",
+              "text": "Name it so it shrinks",
+              "title": "What is worrying me",
+              "hint": "The thing on my mind is... The worst that could happen is... What I can do is..."
+            },
+            {
+              "name": "Plan for tomorrow",
+              "text": "Three things that matter",
+              "title": "Tomorrow",
+              "hint": "The one thing I must do tomorrow is..."
+            },
+            {
+              "name": "Letter to myself",
+              "text": "Kind words for later",
+              "title": "Dear me,",
+              "hint": "What I want you to remember is..."
+            },
+            {
+              "name": "Today in five lines",
+              "text": "Quick and done",
+              "title": "Today in five lines",
+              "hint": "Morning... Afternoon... Evening... Best part... Hardest part..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Who a free online journal is good for",
+      "blocks": [
+        {
+          "p": "A notebook is lovely, but it is not always practical. An online journal you can open in seconds fits a lot of real lives."
+        },
+        {
+          "ul": [
+            "**Busy people.** You can write on a lunch break or on the bus, then close the tab.",
+            "**People who type faster than they write.** Your thoughts keep up with your fingers.",
+            "**Anyone who does not want another account.** No email, no password, nothing to remember.",
+            "**Beginners.** The prompt cards above give you a starting line, so the blank page is less scary.",
+            "**People who share a computer.** The PIN lock keeps the journal closed when someone else sits down.",
+            "**People who like paper in the end.** Print a page or a whole month and keep it in a binder."
+          ]
+        },
+        {
+          "p": "It is not the best fit if you need to read the same journal on several devices. There is no account, so nothing syncs. In that case, pick one main device, or choose an app with an account."
+        }
+      ]
+    },
+    {
+      "h2": "How this online journal works",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Start typing",
+              "text": "Click the lined page at the top and write. Add a title if you like. The word Saved appears a moment after you stop typing."
+            },
+            {
+              "name": "Start a new page",
+              "text": "Tap New page for a fresh entry. Each page gets today's date on its own."
+            },
+            {
+              "name": "Find old pages",
+              "text": "Tap My pages to see everything you have written on this site in this browser, newest first. Tap one to open it and keep writing, or tap Delete to remove it for good."
+            },
+            {
+              "name": "Lock it if you share the computer",
+              "text": "Tap Lock and choose a PIN of at least 4 digits. The journal will ask for it next time it opens in this browser."
+            },
+            {
+              "name": "Print or keep a PDF",
+              "text": "Tap Print to print only the page you are on. In the print window, choose Save as PDF to keep a copy as a file."
+            }
+          ]
+        },
+        {
+          "tip": "Your pages live in this browser. If you clear your browsing data, use a private window, or switch to another phone or computer, you will not see them. Save a PDF of pages you want to keep for good."
+        },
+        {
+          "p": "Want it to feel like an app? Install it on your phone or computer with its own icon. See [diary app](/diary-app/) for the steps."
+        }
+      ]
+    },
+    {
+      "h2": "Free online journal vs paper vs account apps",
+      "blocks": [
+        {
+          "p": "There are three common ways to keep a journal today. Each has a real trade off, so here is an honest side by side."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "This online journal",
+              "Paper notebook",
+              "Journal app with an account"
+            ],
+            "rows": [
+              [
+                "Cost",
+                "Free",
+                "Price of a notebook",
+                "Often free with paid extras"
+              ],
+              [
+                "Sign up",
+                "None",
+                "None",
+                "Email and password"
+              ],
+              [
+                "Where pages live",
+                "This browser on this device",
+                "On your desk",
+                "Usually on the company's servers"
+              ],
+              [
+                "Works on other devices",
+                "No, no syncing",
+                "Only if you carry it",
+                "Yes, if it syncs"
+              ],
+              [
+                "Lock",
+                "PIN lock, not encryption",
+                "A key or a hiding place",
+                "Varies by app"
+              ],
+              [
+                "Copy you can keep",
+                "Print or Save as PDF",
+                "The notebook itself",
+                "Export, if offered"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "If you want to write on many devices and read everything everywhere, an app that syncs to an account is the better fit. If you want to start in ten seconds without giving anyone your email, this page is made for that."
+        }
+      ]
+    },
+    {
+      "h2": "Where your online journal is stored",
+      "blocks": [
+        {
+          "p": "Privacy matters most in a journal, so here is exactly what happens to your words."
+        },
+        {
+          "ul": [
+            "**Saved in your browser.** Pages are kept in your browser's own storage on this device. We do not send them to a server, and we cannot read them.",
+            "**No account.** We never ask for your name, email or a password.",
+            "**No syncing.** A page you write on your laptop will not appear on your phone. Pick one device for your journal if you want everything in one place.",
+            "**PIN lock is a curtain, not a safe.** It keeps the journal closed when someone else uses the computer. It does not encrypt your words, so someone with technical skill and access to the device could still read them.",
+            "**You keep a copy by printing.** Print or Save as PDF is the way to back up pages or move them somewhere else."
+          ]
+        },
+        {
+          "p": "Want the lock first? See our [private diary with lock](/private-diary-with-lock/) for how the PIN works and what it can and cannot do."
+        }
+      ]
+    },
+    {
+      "h2": "How to write an online journal",
+      "blocks": [
+        {
+          "p": "An online journal is just a page you type on instead of write on. The habit is the same. Here is a simple way to start."
+        },
+        {
+          "ol": [
+            "**Pick one time.** After dinner, on the bus, or the last ten minutes before bed. Same time, same device.",
+            "**Write three to five sentences.** What happened, how you felt, and one thing you want to remember. That is a full entry.",
+            "**Use a question when you are stuck.** Our [daily journal](/daily-journal/) page has questions you can answer in a minute, and [journal prompts](/journal-prompts/) has hundreds more.",
+            "**Do not fix it.** Typos are fine. Nobody grades this.",
+            "**Read back once a month.** Open My pages and scroll. You will notice patterns you could not see day to day."
+          ]
+        },
+        {
+          "example": {
+            "label": "Online journal entry",
+            "date": "Thursday, October 9",
+            "title": "Long day, good ending",
+            "text": "Work ran late and I almost skipped the walk.\nWent anyway. The sky was pink over the parking lot.\nI felt better after ten minutes.\nNote to self: the walk is never the problem."
+          }
+        },
+        {
+          "p": "New to all of this? Read [how to start a journal](/how-to-start-a-journal/) for the full guide."
+        }
+      ]
+    },
+    {
+      "h2": "An online journal you can print",
+      "blocks": [
+        {
+          "p": "Every page here can become paper. Tap **Print** under the page and only that entry prints, with its date and title, on clean lined paper. Nothing else from the website comes with it."
+        },
+        {
+          "p": "To keep a file instead, pick **Save as PDF** as the printer. This works on most computers and phones. Many people save a PDF at the end of each month and keep them in a folder. It is the simplest way to back up an online journal that lives on one device."
+        },
+        {
+          "p": "Prefer a fill-in sheet? Try our [printable journal pages](/printable-journal-pages/) or a [journal template](/journal-template/)."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in online journaling websites",
+      "blocks": [
+        {
+          "p": "If you are comparing online journaling websites, these are the questions worth asking before you write anything personal."
+        },
+        {
+          "ul": [
+            "**Where are my words stored?** On my device, or on someone's server?",
+            "**Do I need an account?** If yes, what happens to my pages if I stop using it?",
+            "**Can I get my pages out?** Look for print, PDF or export.",
+            "**Is there a lock?** And is it a simple lock or real encryption? Both are fine, as long as the site is honest about which.",
+            "**Are there ads?** Ads next to private writing can feel wrong.",
+            "**Is it pleasant to write in?** You will only come back to a page you like."
+          ]
+        },
+        {
+          "p": "Our answers: on your device, no account, print and PDF, a PIN lock that is not encryption, and a page made to feel like paper."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a free online journal with no sign up?",
+      "a": "Yes. This page is a free online journal with no sign up and no account. Open it, start typing, and your words save in this browser on your device. You can come back later in the same browser and keep writing, print any page, or save it as a PDF."
+    },
+    {
+      "q": "Is an online journal private?",
+      "a": "It depends on the site. Here, your pages are stored in your own browser and are not sent to us, so we cannot read them. Anyone who uses your device could open them, which is why there is a PIN lock. The lock is not encryption, so keep your device itself protected with a passcode too."
+    },
+    {
+      "q": "Can I use my online journal on my phone and my computer?",
+      "a": "You can use this journal on any phone or computer, but each one keeps its own pages. There is no syncing between devices because there is no account. If you want everything in one place, choose one device for your journal and save PDFs as a backup."
+    },
+    {
+      "q": "Will I lose my journal if I clear my browser?",
+      "a": "Yes. Clearing your browsing data or site data for this website removes the pages, and private or incognito windows do not keep them at all. To be safe, print your favorite pages or save them as PDFs from time to time."
+    },
+    {
+      "q": "What should I write in an online journal?",
+      "a": "Write what happened today, how you felt about it, and one thing you want to remember. If that feels hard, answer one question, like what was the best part of today. Our journal prompts and daily journal questions give you plenty of ideas when your mind goes blank."
+    },
+    {
+      "q": "Can I delete a page from my online journal?",
+      "a": "Yes. Tap My pages, find the page, and tap Delete next to it. You will be asked to confirm, because a deleted page cannot be brought back. Deleting only removes that page from this browser. If you saved it as a PDF before, that file is still yours."
+    }
+  ]
+}

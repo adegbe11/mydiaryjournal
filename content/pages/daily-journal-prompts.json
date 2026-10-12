@@ -1,0 +1,202 @@
+{
+  "slug": "daily-journal-prompts",
+  "keyword": "daily journal prompts",
+  "type": "prompts",
+  "title": "Daily Journal Prompts: 84 Simple Questions for Every Day",
+  "description": "84 daily journal prompts with a theme for each day of the week, plus one line prompts of the day. Easy to answer in five minutes on a free private page.",
+  "h1": "Daily journal prompts for every day of the week",
+  "crumb": "Daily journal prompts",
+  "card": "A prompt for every day",
+  "eyebrow": "Journal prompts",
+  "intro": "Daily journal prompts are short questions you can answer in a few minutes each day to build a writing habit. The easiest way to use them is to give each day of the week a theme, so you never wonder what to write. Below are 84 prompts: ten or more for each day from Monday to Sunday, plus quick one line prompts of the day.",
+  "writer": {"title": "Today,", "hint": "Pick today's prompt and write a few lines...", "kind": "daily-journal-prompts"},
+  "sections": [
+    {
+      "h2": "How to use daily journal prompts",
+      "blocks": [
+        {"p": "Each day below has a theme. On Monday you plan, on Friday you count wins, on Sunday you rest and look back. Pick one prompt from today's list, or answer two or three in a few lines each."},
+        {"table": {
+          "head": ["Day", "Theme", "Good for"],
+          "rows": [
+            ["Monday", "Plans and fresh start", "Setting up the week"],
+            ["Tuesday", "People", "Noticing who matters"],
+            ["Wednesday", "Body and health", "A midweek check-in"],
+            ["Thursday", "Learning", "Curiosity and new ideas"],
+            ["Friday", "Wins", "Ending the work week well"],
+            ["Saturday", "Fun", "Play and rest"],
+            ["Sunday", "Rest and reflect", "Closing the week"]
+          ]
+        }},
+        {"starters": [
+          {"name": "Today in brief", "text": "Three lines about today", "title": "Today", "hint": "What happened... How I felt... What I want to remember..."},
+          {"name": "Prompt of the day", "text": "Answer one question", "title": "Prompt of the day", "hint": "Paste or type today's prompt, then answer it..."},
+          {"name": "Weekly wins", "text": "Count the good stuff", "title": "This week's wins", "hint": "Big or small, here is what went well..."}
+        ]}
+      ]
+    },
+    {
+      "h2": "Monday: prompts for a fresh start",
+      "blocks": [
+        {"prompts": [
+          "What would make this week feel successful by Friday night?",
+          "Which appointment or deadline this week needs the most attention?",
+          "What did I leave unfinished last week that I want to close out?",
+          "How full is my week on a scale of 1 to 10, and is that okay?",
+          "What is one thing I can remove from my calendar this week?",
+          "What is one fun thing I can put in this week so it is not all work?",
+          "How do I want to treat my body this week?",
+          "Who do I need to check in with this week?",
+          "What is my Monday mood, honestly?",
+          "What would I tell myself on Sunday night if I could reach back?",
+          "Which meals can I plan now to make the week easier?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Tuesday: journal prompts about people",
+      "blocks": [
+        {"prompts": [
+          "Who did I talk to today that I do not usually talk to?",
+          "Who do I owe a thank you note or message?",
+          "Which friend have I not heard from in a while, and why?",
+          "What is one thing I admire about a coworker or classmate?",
+          "Who made me laugh this week?",
+          "What is the nicest thing a stranger has ever done for me?",
+          "Who do I feel most relaxed around, and what do they do that helps?",
+          "Who would I like to invite over or meet up with soon?",
+          "What did I learn from someone today?",
+          "Who would I call first with good news?",
+          "Describe one conversation from today in a few lines. What was under the words?"
+        ], "start": 12}
+      ]
+    },
+    {
+      "h2": "Wednesday: body and health prompts",
+      "blocks": [
+        {"p": "A midweek check on how you are really doing. If you want to track this every day, try a [mood journal](/mood-journal/) or a [fitness journal](/fitness-journal/)."},
+        {"prompts": [
+          "How much water have I had today, and how do I feel?",
+          "What did my body enjoy today: a stretch, a walk, a nap, a good meal?",
+          "Where am I holding tension right now?",
+          "How did I sleep this week overall?",
+          "What food makes me feel strong, and when did I last eat it?",
+          "What kind of movement do I actually enjoy, not just put up with?",
+          "When did I last spend more than 20 minutes outside?",
+          "What would my doctor tell me to do more of? Less of?",
+          "How is my screen time affecting how I feel?",
+          "What is one health habit I want to try for the rest of this week?"
+        ], "start": 23}
+      ]
+    },
+    {
+      "h2": "Thursday: prompts for learning and curiosity",
+      "blocks": [
+        {"prompts": [
+          "What did I wonder about today?",
+          "What is a topic I could talk about for an hour?",
+          "What is a question I want answered this week?",
+          "What did I look up online today, and why?",
+          "What book, podcast or show taught me something lately?",
+          "What did I get wrong today, and what did it teach me?",
+          "If I could take a free class in anything, what would it be?",
+          "What is a skill I see someone else do that I would like to try?",
+          "What is one new word, fact or idea I picked up this week?",
+          "What surprised me about how something works?"
+        ], "start": 33}
+      ]
+    },
+    {
+      "h2": "Friday: daily prompts to count your wins",
+      "blocks": [
+        {"prompts": [
+          "What are three wins from this week, big or small?",
+          "What did I finish this week?",
+          "What got easier this week than it was last week?",
+          "Who helped me this week, and did I thank them?",
+          "Where did I show patience this week?",
+          "What problem did I solve this week?",
+          "What did I say no to this week that I am glad about?",
+          "What do I want to celebrate tonight, and how?",
+          "What compliment did I get or give this week?",
+          "What lesson from this week do I want to remember?"
+        ], "start": 43}
+      ]
+    },
+    {
+      "h2": "Saturday: fun journal prompts",
+      "blocks": [
+        {"prompts": [
+          "What would I do today if I had zero chores?",
+          "What is a free activity in my area I keep meaning to try?",
+          "What is a game, puzzle or craft I could do this afternoon just for fun?",
+          "What makes me lose track of time in a good way?",
+          "What would a perfect lazy afternoon look like?",
+          "What song is stuck in my head, and what does it remind me of?",
+          "What is something silly I did recently?",
+          "Plan a tiny adventure that costs under 20 dollars.",
+          "What is a hobby I gave up, and do I miss it?",
+          "Who would I like to spend a free day with?"
+        ], "start": 53}
+      ]
+    },
+    {
+      "h2": "Sunday: prompts to rest and reflect",
+      "blocks": [
+        {"p": "Sunday is a good day to look back. For deeper questions, see our [reflective journal prompts](/reflective-journal-prompts/)."},
+        {"prompts": [
+          "How did this week compare to how I planned it?",
+          "What did I need more of this week?",
+          "What am I bringing into next week, and what am I leaving here?",
+          "What part of this week felt most peaceful?",
+          "What did I learn about my limits this week?",
+          "Is my home ready for Monday? What one small task would help?",
+          "Which day this week was the hardest, and what got me through it?",
+          "What do I want next week to feel like?",
+          "What did I do this week that matched what matters to me?",
+          "How can I rest today without feeling guilty?"
+        ], "start": 63}
+      ]
+    },
+    {
+      "h2": "One line journal prompts of the day",
+      "blocks": [
+        {"p": "For the days when you only have a minute. These pair well with a [one line a day journal](/one-line-a-day-journal/)."},
+        {"prompts": [
+          "Today in one sentence.",
+          "The best part of today was...",
+          "Today I noticed...",
+          "Today I felt most like me when...",
+          "Something I want to remember from today.",
+          "Today I was annoyed by... and that is okay because...",
+          "Today I am grateful for this person:",
+          "One thing I would change about today.",
+          "Something I ate today that I loved.",
+          "Today's small win.",
+          "A question I have tonight.",
+          "Tomorrow I will try..."
+        ], "start": 73}
+      ]
+    },
+    {
+      "h2": "Tips for journaling every day",
+      "blocks": [
+        {"ul": [
+          "**Set a tiny goal.** Three sentences a day is enough. Small goals are easier to keep.",
+          "**Pick a set time.** Morning with coffee or night in bed both work. See our [morning journal prompts](/morning-journal-prompts/) and [journal prompts before bed](/journal-prompts-before-bed/).",
+          "**Do not break the chain twice.** Missing one day is normal. Try not to miss two in a row.",
+          "**Keep it in one place.** A single notebook or our [free online diary](/) means you always know where to write.",
+          "**Repeat favorite prompts.** Answering the same question every Friday shows you how your weeks change over time."
+        ]},
+        {"p": "For a simple dated format, try a [daily journal](/daily-journal/) page. For even more ideas, browse all our [journal prompts](/journal-prompts/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What should I write in a daily journal?", "a": "Write what happened, how you felt, and one thing you want to remember or do next. If that feels empty, answer a daily prompt instead. A theme for each day, like people on Tuesday or wins on Friday, makes it easier to start without staring at a blank page."},
+    {"q": "How long should daily journaling take?", "a": "Five to ten minutes is plenty for most people. Some days you will write one line, other days a full page. The habit matters more than the length. A short entry you write every day is more useful than a long one you only write once a month."},
+    {"q": "What is a good journal prompt of the day?", "a": "A good daily prompt is easy to answer in a few minutes and specific enough to spark a real memory. Try: What was the best ten minutes of today? What did I learn from someone today? What is today's small win? Pick from the lists above, or tap Write to answer one right now."},
+    {"q": "Is it okay to skip a day of journaling?", "a": "Yes. Skipping a day is normal and does not ruin the habit. Just come back the next day. Many people find it helps to have a few one line prompts ready for busy days, so the habit continues even when time is short."},
+    {"q": "Should I journal in the morning or at night?", "a": "Choose the time you can protect most days. Morning entries help you set intentions. Night entries help you look back and wind down. Some people do a quick line in the morning and a slightly longer entry at night."}
+  ],
+  "related": ["daily-journal", "morning-journal-prompts", "journal-prompts-before-bed", "one-line-a-day-journal", "journal-prompts", "daily-diary"]
+}

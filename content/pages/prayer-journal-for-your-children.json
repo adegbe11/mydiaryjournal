@@ -1,0 +1,159 @@
+{
+  "slug": "prayer-journal-for-your-children",
+  "keyword": "prayer journal for your children",
+  "type": "template",
+  "title": "Prayer Journal for Your Children: Free Page + Prompts",
+  "description": "A free prayer journal for your children: a fill-in page for each child, prayer points by age and area of life, and a filled example. Write online or print.",
+  "h1": "Prayer journal for your children",
+  "crumb": "Praying for your children",
+  "card": "One page for each child",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for your children is a page for each child where you write specific prayers for their faith, character, friends, health and future, and record how God answers as they grow. Fill in the page below for one child, then use the prayer points by area of life and by age to go deeper.",
+  "template": {
+    "key": "prayer-journal-for-your-children",
+    "name": "Praying for my child",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Child's name and age", "hint": "Name, age, what season they are in", "lines": 1},
+      {"label": "Verse I am praying over them", "hint": "Psalm 139:14, Isaiah 54:13...", "lines": 2},
+      {"label": "Thank You, Lord, for this child", "hint": "Three things I love about them", "lines": 2},
+      {"label": "Their faith", "hint": "Knowing Jesus, loving His Word", "lines": 2},
+      {"label": "Their heart and character", "hint": "Kindness, honesty, courage, self-control", "lines": 2},
+      {"label": "Friends, school and health", "hint": "Real names, real needs this week", "lines": 3},
+      {"label": "Help me as their parent", "hint": "Patience, wisdom, where I need to change", "lines": 2},
+      {"label": "Answered prayers", "hint": "What God did, and when", "lines": 2}
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why keep a prayer journal for your children",
+      "blocks": [
+        {"p": "You cannot be with your children every minute, but God can. A prayer journal for your children helps you bring each child to Him by name, with real needs, instead of a rushed bless the kids at bedtime."},
+        {"ul": [
+          "**It keeps prayers specific.** Each child gets their own page and their own needs.",
+          "**It calms your worry.** Writing a fear down and handing it to God is better than carrying it all day.",
+          "**It shows you God's faithfulness.** Years later you will see answers you had forgotten.",
+          "**It can become a legacy.** Many parents give these pages to a grown child on a graduation or wedding day."
+        ]},
+        {"verse": "3 John 1:4"}
+      ]
+    },
+    {
+      "h2": "Prayer points for your children by area of life",
+      "blocks": [
+        {"h3": "Their faith"},
+        {"ul": [
+          "That they would know Jesus for themselves at a young age.",
+          "That they would love God's Word and remember it.",
+          "That their faith would hold up when they face doubts and pressure.",
+          "That they would find a church and friends who help them grow."
+        ]},
+        {"h3": "Their character"},
+        {"ul": [
+          "For kindness, honesty and a teachable heart.",
+          "For courage to do right when others do not.",
+          "For self-control with their words, screens and anger.",
+          "For a humble heart that says sorry and forgives."
+        ]},
+        {"h3": "Their friendships"},
+        {"ul": [
+          "For one or two good friends who love them well.",
+          "For wisdom to walk away from friends who pull them down.",
+          "That they would be a kind friend to the lonely kid."
+        ]},
+        {"h3": "School and learning"},
+        {"ul": [
+          "For focus, a love of learning and good teachers.",
+          "For help in the subjects that are hard for them.",
+          "For protection from bullying, and courage to speak up."
+        ]},
+        {"h3": "Health and safety"},
+        {"ul": [
+          "For healthy bodies, good sleep and healing when they are sick.",
+          "For protection at school, on the road and online.",
+          "For peace in their minds and freedom from fear."
+        ]},
+        {"h3": "Their future"},
+        {"ul": [
+          "That they would find and use the gifts God gave them.",
+          "For wisdom in big choices: friends, school, work.",
+          "For their future spouse, if God has one for them.",
+          "That they would one day love and serve God with their own family."
+        ]},
+        {"verse": "Isaiah 54:13"}
+      ]
+    },
+    {
+      "h2": "Prayers for your children by age",
+      "blocks": [
+        {"table": {
+          "head": ["Age", "What they face", "What to pray"],
+          "rows": [
+            ["Babies and toddlers", "Sleep, health, learning to trust", "Good sleep, healthy growth, a secure and loving home"],
+            ["Ages 4 to 7", "School starts, first friends, fears", "Brave hearts, kind friends, a first simple faith"],
+            ["Ages 8 to 12", "Comparison, screens, bigger feelings", "Confidence in God, wise friends, honesty"],
+            ["Teens", "Identity, peer pressure, dating, doubts", "A faith of their own, purity, wisdom, safe choices"],
+            ["Grown children", "Work, marriage, moving away", "God's guidance, a good church, strong relationships"]
+          ]
+        }},
+        {"p": "Teens can also keep their own journal with the [prayer journal for teens](/prayer-journal-for-teens/), and younger kids can use the [prayer journal for kids](/prayer-journal-for-kids/)."}
+      ]
+    },
+    {
+      "h2": "How to use this prayer journal for your children",
+      "blocks": [
+        {"steps": [
+          {"name": "Make one page per child", "text": "Fill in the page above for one child, then print it or save it as a PDF and start a fresh page for the next. Each child deserves their own prayers."},
+          {"name": "Choose a verse for each child", "text": "Pick a verse that fits their season. Put their name into it as you pray."},
+          {"name": "Pray one area a day", "text": "Faith on Monday, character on Tuesday, friends on Wednesday, and so on."},
+          {"name": "Write real details", "text": "Their math test on Friday, the friend who moved away, the nightmare last night."},
+          {"name": "Look back every few months", "text": "Mark answers with a date. Share some with your child when they are old enough. It shows them God is real and listens."}
+        ]},
+        {"tip": "Have a husband to pray for too? See the [prayer journal for your husband](/prayer-journal-for-husband/). For your own daily prayers, use the [prayer journal template](/prayer-journal-template/)."}
+      ]
+    },
+    {
+      "h2": "A filled in example",
+      "blocks": [
+        {"example": {"label": "Praying for my child", "date": "Thursday, January 15", "title": "Lord, for Noah (8):", "text": "Verse: Joshua 1:9.\nThank You for his curious mind and big hugs.\nFaith: that he would ask more questions about You.\nHeart: patience with his little sister.\nFriends: a good friend in his new class. Math test Friday.\nMe: help me listen before I react.\nAnswered: he slept through the night all week (Jan 12)."}}
+      ]
+    },
+    {
+      "h2": "Prompts to write prayers for your children",
+      "blocks": [
+        {"ol": [
+          "What is this child carrying right now that they have not said out loud?",
+          "What do I see God doing in their heart this year?",
+          "Write a prayer for their hardest moment of the day.",
+          "What fear do I have for this child? Hand it to God in writing.",
+          "What gift do I see in them that I want God to grow?",
+          "Write a prayer for the person they will be at 25.",
+          "Where do I need to ask God to change me as their parent?",
+          "Write a prayer of thanks for the day they were born."
+        ]},
+        {"verse": "Psalm 127:3"}
+      ]
+    },
+    {
+      "h2": "Tips for praying for your kids",
+      "blocks": [
+        {"ul": [
+          "**Pray with them, not just for them.** Let them hear you pray their name.",
+          "**Ask them how to pray.** At bedtime, ask: what can I pray for you tomorrow?",
+          "**Keep pages in a binder.** One tab per child, with answers at the back.",
+          "**Do not give up on prodigals.** Some prayers take years. Keep writing and keep dating them.",
+          "**Pray with your spouse or a friend.** Swap pages once a month and pray for each other's children."
+        ]},
+        {"p": "Moms who want a guided prayer time can try the [Prayer Journal for Women](/prayer-journal-for-women/) Android app, coming soon on Google Play. It has a prayer list with a Pray now button, an answered prayers list, reminders and 52 weeks of Bible verses. See also the [prayer journal for moms](/prayer-journal-for-moms/) and [baby journal](/baby-journal/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "How do I pray for my children daily?", "a": "Pick one area of life each day, such as their faith, character, friends, school, health or future. Pray a verse over them with their name in it, and add one or two specific needs from this week. Writing it down in a prayer journal helps you stay consistent and see answers over time."},
+    {"q": "What Bible verses can I pray over my children?", "a": "Good choices include Psalm 139:13-14, Isaiah 54:13, Joshua 1:9, Proverbs 3:5-6, Psalm 121:7-8, Luke 2:52, Philippians 1:9-11 and 3 John 1:4. Put your child's name into the verse as you pray it and write the reference at the top of their page."},
+    {"q": "Should I keep a separate prayer journal for each child?", "a": "Many parents do, because it keeps each child's prayers and answers together. Others use one notebook with a tab for each child. Either works. The page on this site can be printed once per child and kept in a binder."},
+    {"q": "When should I give my child their prayer journal?", "a": "Some parents give it at a milestone like graduation, a wedding, or the birth of a grandchild. Others share small pieces along the way. Reading years of a parent's prayers can be a powerful gift and a reminder that God was always at work."},
+    {"q": "What if I do not see answers to my prayers for my children?", "a": "Keep praying and keep writing. Some answers come quickly and others take years. Some prayers are answered in ways you did not expect. Dating your entries helps you notice small answers you might miss, and it keeps your hope steady while you wait."}
+  ],
+  "related": ["prayer-journal-for-moms", "prayer-journal-for-husband", "prayer-journal-for-kids", "prayer-journal-for-teens", "prayer-journal-template", "baby-journal"]
+}

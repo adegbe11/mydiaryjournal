@@ -1,0 +1,117 @@
+{
+  "slug": "devotional-journal",
+  "keyword": "devotional journal",
+  "type": "template",
+  "title": "Devotional Journal: Free Template and What to Write",
+  "description": "What a devotional journal is, what to write in it each day, a free devotional journal template to fill in and print, a filled example, and simple tips.",
+  "h1": "Devotional journal: free template and what to write",
+  "crumb": "Devotional journal",
+  "card": "Your daily quiet time page",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "A **devotional journal** is where you write during your quiet time with God. Each day you note the Bible passage or devotional you read, what stood out, how it applies to your life, and a short prayer. Fill in the free template below, then print it or keep it here.",
+  "template": {
+    "key": "devotional-journal",
+    "name": "My devotional journal",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Today I read", "hint": "Passage or devotional title", "lines": 2},
+      {"label": "The line that stood out", "hint": "Copy the phrase that caught my attention", "lines": 2},
+      {"label": "What this shows me about God", "hint": "He is...", "lines": 3},
+      {"label": "How it applies to my life", "hint": "Today I will...", "lines": 3},
+      {"label": "My prayer", "hint": "Lord,", "lines": 4},
+      {"label": "Grateful for", "hint": "1.  2.  3.", "lines": 2}
+    ]
+  },
+  "related": ["devotional-journal-for-women", "how-to-journal-the-bible", "bible-journal", "prayer-journal-template", "faith-journal", "guided-journal"],
+  "sections": [
+    {
+      "h2": "What is a devotional journal?",
+      "blocks": [
+        {"p": "A devotional journal is a notebook, printed page or app you use during your daily devotions. Devotions, or quiet time, means a few minutes set apart to read the Bible, think about it and pray. The journal is where you capture what happened in that time."},
+        {"p": "It is a little different from other faith journals:"},
+        {"table": {
+          "head": ["", "Main focus", "Typical page"],
+          "rows": [
+            ["Devotional journal", "Your daily quiet time", "Reading, key line, application, prayer"],
+            ["[Prayer journal](/prayer-journal/)", "Talking to God", "Thanks, requests, answered prayers"],
+            ["[Bible journal](/bible-journal/)", "Studying Scripture", "Notes, questions, cross references, art"],
+            ["[Faith journal](/faith-journal/)", "Your walk with God over time", "Stories, lessons, doubts, milestones"]
+          ]
+        }},
+        {"p": "Many people blend all four. That is fine. The template on this page covers the most common daily pattern."},
+        {"verse": "Psalm 119:105"}
+      ]
+    },
+    {
+      "h2": "What to write in a devotional journal",
+      "blocks": [
+        {"p": "You do not need to write a lot. Most good devotional entries answer the same few questions:"},
+        {"ol": [
+          "**What did I read?** The reference, or the title of the devotional and its verse.",
+          "**What stood out?** One phrase or idea. Copy it word for word if it is short.",
+          "**What does it show me about God?** His character, His promises, how He treats people.",
+          "**What does it ask of me?** Something to believe, stop, start or remember.",
+          "**What do I want to say to God?** A short prayer in your own words.",
+          "**What am I thankful for?** One to three things from yesterday or today."
+        ]},
+        {"p": "On busy days, write just the reference and one sentence. On slow days, write more. For a fuller method with headings, see the SOAP method in [how to journal the Bible](/how-to-journal-the-bible/)."},
+        {"verse": "James 1:22"}
+      ]
+    },
+    {
+      "h2": "How to use this devotional journal template",
+      "blocks": [
+        {"steps": [
+          {"name": "Choose your reading", "text": "Use a reading plan, a book of devotions, or simply read one chapter of a gospel or one psalm each day."},
+          {"name": "Read slowly, twice", "text": "Read it once to understand it, then again to notice what stands out to you."},
+          {"name": "Fill in each box", "text": "Short answers are fine. Write in your own words, not the way you think you should sound."},
+          {"name": "End with prayer", "text": "Turn what you learned into a prayer. Then add a few lines of thanks."},
+          {"name": "Save or print", "text": "Your answers stay in this browser on this device. Use Print or Save as PDF to keep a copy. Print several blank pages for the week."}
+        ]}
+      ]
+    },
+    {
+      "h2": "Devotional journal example",
+      "blocks": [
+        {"example": {"label": "Devotional journal", "date": "Wednesday, October 8", "title": "Mark 4:35-41", "text": "Stood out: Jesus asking them why they were so afraid.\nAbout God: Jesus is in the boat, and He is not panicking.\nFor me: I keep acting like I am alone in my stress at work.\nToday I will pause before reacting and pray one line.\nLord, remind me You are with me when it gets loud.\nGrateful: my coffee, a calm drive, my sister's text."}},
+        {"p": "See more real looking pages in our [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    },
+    {
+      "h2": "Devotional journal ideas",
+      "blocks": [
+        {"ul": [
+          "**One book at a time.** Read a gospel a chapter a day and keep one page per chapter.",
+          "**A verse a week.** Read and journal on the same verse for seven days. You will see more each day.",
+          "**Sermon follow up.** On Monday, journal on Sunday's sermon passage.",
+          "**Psalm a day.** Write how the psalm writer felt and how you feel.",
+          "**Names of God.** Each week, study one name of God and journal on it.",
+          "**A question box.** Keep a list of questions you have about the Bible and look for answers over time.",
+          "**Answered prayers page.** Keep one page at the back for what God has done."
+        ]},
+        {"p": "Looking for questions to write about? Try our [Bible journal prompts](/bible-journal-prompts/) or [Christian journal prompts](/christian-journal-prompts/)."}
+      ]
+    },
+    {
+      "h2": "Tips to keep a daily devotional journal",
+      "blocks": [
+        {"ul": [
+          "Same time, same place. Morning works for many people, but bedtime is fine too.",
+          "Keep your Bible, pen and journal together so there is nothing to find.",
+          "Aim for five minutes. You can always stay longer.",
+          "Write the date on every page. Dates make your growth easy to see.",
+          "Do not compare your journal to anyone else's. Simple is beautiful.",
+          "Read last month's pages on the first of each month."
+        ]},
+        {"p": "Want guidance every week? Our Android app [Prayer Journal for Women](/prayer-journal-for-women/) gives you a Bible verse, the whole chapter, a short reflection with three questions, and a prayer page for 52 weeks. It is coming soon on Google Play."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a devotional journal?", "a": "A devotional journal is a notebook or page you use during your daily quiet time with God. You write what you read in the Bible or a devotional book, what stood out, what it means for your life, and a short prayer. Over time it becomes a record of how God has spoken to you."},
+    {"q": "What should I write in my devotional journal?", "a": "Write the passage you read, one line that stood out, what it shows you about God, how it applies to you today, and a short prayer. Add a few things you are thankful for. Even one or two sentences counts. The goal is to listen and respond, not to write a lot."},
+    {"q": "How is a devotional journal different from a prayer journal?", "a": "A devotional journal centers on what you read and learn during quiet time. A prayer journal centers on what you say to God, like thanks, requests and answered prayers. Many people combine them by reading first and then praying on the same page."},
+    {"q": "Do I need a devotional book to keep a devotional journal?", "a": "No. You can use only the Bible. Read a psalm or a chapter of a gospel each day and use the template above. A devotional book can help if you like a short reading and a thought to start with, but it is optional."},
+    {"q": "Is this devotional journal template free to print?", "a": "Yes. Fill it in or leave it blank, then press Print and choose your printer or Save as PDF. There is no sign up. Your answers save in your browser on this device only."}
+  ]
+}

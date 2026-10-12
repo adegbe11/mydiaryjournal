@@ -1,0 +1,253 @@
+{
+  "slug": "journal-prompts-values",
+  "keyword": "journal prompts values",
+  "type": "prompts",
+  "title": "Journal Prompts for Values: 71 Questions on What Matters",
+  "description": "71 journal prompts on values to find what matters most to you and live by it. Includes a values list, a simple exercise to pick your top five, and examples.",
+  "h1": "Journal prompts for values: find what matters most",
+  "crumb": "Values prompts",
+  "card": "Know what matters",
+  "eyebrow": "Journal prompts",
+  "intro": "Journal prompts for values are questions that help you name what matters most to you, like honesty, family, freedom or faith, and check whether your daily life matches it. Start by picking five values from the list below, then use the prompts to test them against real moments and choices. Here are 71 prompts to find, live and protect your values.",
+  "writer": {
+    "title": "What matters to me,",
+    "hint": "Pick a prompt and think about what you truly care about...",
+    "kind": "journal-prompts-values"
+  },
+  "sections": [
+    {
+      "h2": "Find your core values first",
+      "blocks": [
+        {
+          "p": "Values are the things you care about most. They guide your choices even when you do not notice. Knowing them makes decisions easier and helps you understand why some situations feel so wrong."
+        },
+        {
+          "h3": "A list of common values"
+        },
+        {
+          "p": "Honesty, kindness, family, faith, freedom, growth, fairness, courage, creativity, health, adventure, loyalty, security, respect, learning, humor, independence, community, peace, gratitude, service, simplicity, achievement, beauty, balance, responsibility, generosity, curiosity, justice, love."
+        },
+        {
+          "steps": [
+            {
+              "name": "Circle ten",
+              "text": "Read the list and write down every value that feels like you. Add your own if one is missing."
+            },
+            {
+              "name": "Cut to five",
+              "text": "Imagine you could only keep five. Which would you fight hardest to protect?"
+            },
+            {
+              "name": "Define each one",
+              "text": "Write one sentence for each value about what it means to you. Freedom means something different to everyone."
+            },
+            {
+              "name": "Test them",
+              "text": "Use the prompts below to check your values against real moments in your life."
+            }
+          ]
+        },
+        {
+          "example": {
+            "label": "My top five",
+            "date": "",
+            "title": "What matters to me",
+            "text": "Family: being there for the people at my table.\nHonesty: saying the true thing, kindly.\nGrowth: getting a little better each year.\nPeace: a calm home and a calm mind.\nGenerosity: giving time, not just money."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Journal prompts to discover your values",
+      "blocks": [
+        {
+          "prompts": [
+            "Think of a time I felt truly proud. Which value was I living out?",
+            "Think of a time I felt angry or disgusted. Which value was being stepped on?",
+            "Pick ten words from the values list that feel like me. Now cut the list to five.",
+            "Which value did I pick that surprised me?",
+            "Who do I admire most, and which values do they live by?",
+            "What did my parents value most? Which of those do I share?",
+            "What value do I claim to have but rarely act on?",
+            "What would people who know me well say I care about most?",
+            "If I could teach a child only three values, which would they be?",
+            "What makes me lose respect for someone?",
+            "What do I spend money on without guilt? What value does that show?",
+            "Which belief would I defend even if my friends disagreed?"
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Prompts about living your values every day",
+      "blocks": [
+        {
+          "prompts": [
+            "Look at my calendar for the past week. What values does it show?",
+            "Where did one of my values show up today?",
+            "What small action could I take tomorrow to live one value more fully?",
+            "Which of my values gets squeezed out when I am busy?",
+            "How does my home show what I care about?",
+            "What do I do on autopilot that goes against my values?",
+            "Which value gives me energy when I act on it?",
+            "How do my values show up in how I treat strangers?",
+            "Where does my screen time line up with my values, and where does it not?",
+            "What would a day lived fully by my top value look like?",
+            "Which value is easy for me to live? Which takes effort?"
+          ],
+          "start": 13
+        }
+      ]
+    },
+    {
+      "h2": "Journal prompts for values under pressure",
+      "blocks": [
+        {
+          "p": "Values are easy to keep on a calm day. These prompts look at the hard moments."
+        },
+        {
+          "prompts": [
+            "When did I go against a value to fit in? How did it feel afterward?",
+            "Which two of my values sometimes fight each other?",
+            "What would I do if my boss asked me to do something that felt wrong?",
+            "When have I stayed quiet when my values told me to speak?",
+            "What value do I hold onto even when I am exhausted?",
+            "When did someone test my honesty, and how did I respond?",
+            "What would it take for me to walk away from a job or friendship that clashed with my values?",
+            "Which value do I let go of first under stress?",
+            "What is a value I held as a teenager that I have let slip?",
+            "How do I want to act the next time my values are tested?"
+          ],
+          "start": 24
+        }
+      ]
+    },
+    {
+      "h2": "Prompts for making decisions with your values",
+      "blocks": [
+        {
+          "p": "When you are stuck on a choice, your values can act like a compass. For more on looking back at past choices, see our [reflective journal prompts](/reflective-journal-prompts/)."
+        },
+        {
+          "prompts": [
+            "What decision am I facing? Which of my top values does each option honor?",
+            "Which choice would I be proud to explain to someone I respect?",
+            "What would the version of me who lives by my values choose here?",
+            "Am I choosing from fear or from what matters to me?",
+            "What past decision was driven by values I no longer hold?",
+            "What decision felt hard at the time but right because of my values?",
+            "How much should money count in my next big choice compared to my other values?",
+            "Which option would I regret less at 80?",
+            "What value am I protecting by staying where I am?",
+            "What value would I grow into by making a change?"
+          ],
+          "start": 34
+        }
+      ]
+    },
+    {
+      "h2": "Values prompts about work and money",
+      "blocks": [
+        {
+          "prompts": [
+            "Does my job let me use the values I care about most?",
+            "What kind of company or boss do I respect, and why?",
+            "What would I never do for money?",
+            "What work have I done that felt deeply right?",
+            "What does enough money mean to me, based on my values?",
+            "How do I want my coworkers to remember me?",
+            "Where could I give time or money to something I believe in?",
+            "Which value would a dream job let me live out?",
+            "Is my ambition serving my values or crowding them out?",
+            "What would I change about my work if my values came first?"
+          ],
+          "start": 44
+        }
+      ]
+    },
+    {
+      "h2": "Prompts about values, people and community",
+      "blocks": [
+        {
+          "p": "For more on the people in your life, see our [journal prompts on relationships](/journal-prompts-on-relationships/)."
+        },
+        {
+          "prompts": [
+            "Which of my values matter most to me in a close friend?",
+            "Where do my values match the people I spend the most time with? Where do they clash?",
+            "What values do I want my family or household to share?",
+            "What do I want my community to be known for, and how can I add to it?",
+            "Which value do I want to model for kids or younger people in my life?",
+            "How do I respond when someone I love holds different values?",
+            "What cause do I care about enough to act on this year?",
+            "Who in my life brings out my best values?",
+            "What tradition shows something I truly value?",
+            "What does respect look like to me, in actions?"
+          ],
+          "start": 54
+        }
+      ]
+    },
+    {
+      "h2": "Prompts about your values over a lifetime",
+      "blocks": [
+        {
+          "prompts": [
+            "Which of my values have changed in the last ten years, and why?",
+            "What do I hope my values look like at 70?",
+            "What would I want said about my character, not my achievements?",
+            "Which life event changed what I care about most?",
+            "If I wrote my own short list of life rules, what would be on it?",
+            "What value do I want to grow into, even if I am not there yet?",
+            "What will matter to me at the end of my life that feels small now?",
+            "Write my top five values and one sentence on why each one matters."
+          ],
+          "start": 64
+        }
+      ]
+    },
+    {
+      "h2": "Tips for values journaling",
+      "blocks": [
+        {
+          "ul": [
+            "**Define words in your own way.** Two people can both value family and mean very different things.",
+            "**Look at actions, not wishes.** Your calendar and bank statement show your real values. Compare them to the ones you wrote down.",
+            "**Expect conflict.** Values like security and adventure can pull against each other. Writing about the tension helps you choose.",
+            "**Revisit once a year.** Values shift with life stages. A new year or a birthday is a good time to check. Try our [journal prompts for the new year](/journal-prompts-new-year/).",
+            "**Pair with growth work.** Once you know your values, use [journal prompts for self growth](/journal-prompts-for-self-growth/) to live them more fully."
+          ]
+        },
+        {
+          "p": "If faith is one of your values, a [faith journal](/faith-journal/) or [Christian journal prompts](/christian-journal-prompts/) can help you explore it. You can write any of these prompts in our [free online diary](/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I figure out my values?",
+      "a": "Start with a list of common values and circle the ones that feel like you. Cut it down to five. Then test them against real moments: times you felt proud usually show a value you lived out, and times you felt angry often show a value being stepped on. Write one sentence about what each value means to you."
+    },
+    {
+      "q": "What are examples of personal values?",
+      "a": "Common personal values include honesty, kindness, family, faith, freedom, growth, fairness, courage, creativity, health, adventure, loyalty, security, respect, learning, community, peace, gratitude and generosity. There is no right list. Your values are the few that matter most to you."
+    },
+    {
+      "q": "Why should I journal about my values?",
+      "a": "Writing about your values makes them clear and easier to act on. It helps you make decisions, understand why some situations upset you, and notice when your daily life has drifted from what matters. Looking at real moments on paper often shows the difference between what you say you value and what you actually do."
+    },
+    {
+      "q": "How many core values should I have?",
+      "a": "Most people find three to five core values easy to remember and use. A longer list is fine for brainstorming, but a short list makes decisions easier. If two values often clash, write about which one should win in different situations."
+    }
+  ],
+  "related": [
+    "journal-prompts-for-self-growth",
+    "reflective-journal-prompts",
+    "journal-prompts-for-self-discovery",
+    "journal-prompts-on-relationships",
+    "journal-prompts-new-year",
+    "journal-prompts"
+  ]
+}

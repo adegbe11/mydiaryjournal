@@ -1,0 +1,314 @@
+{
+  "slug": "mood-journal",
+  "keyword": "mood journal",
+  "type": "template",
+  "title": "Mood Journal (Mood Diary): Free Template and Example",
+  "description": "A free mood journal and mood diary template to fill in online or print. Track your mood, what happened and what helped, with a filled example and ideas.",
+  "h1": "Mood journal and mood diary: a free template",
+  "crumb": "Mood journal",
+  "card": "How am I, really?",
+  "eyebrow": "Journal types",
+  "intro": "A mood journal, often called a mood diary, is a simple daily record of how you feel, what was happening and what helped. Fill in the free mood journal template below, then print it or keep it saved in this browser. Over a few weeks, patterns start to show.",
+  "template": {
+    "key": "mood-journal",
+    "name": "My mood journal",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "My mood today (1 to 10)",
+        "hint": "1 = very low, 10 = great",
+        "lines": 1
+      },
+      {
+        "label": "Words for how I feel",
+        "hint": "Calm, irritable, flat, hopeful, tense...",
+        "lines": 2
+      },
+      {
+        "label": "What happened",
+        "hint": "Events, people, news, anything that stood out",
+        "lines": 3
+      },
+      {
+        "label": "In my body",
+        "hint": "Sleep, energy, tension, appetite",
+        "lines": 2
+      },
+      {
+        "label": "What helped",
+        "hint": "A walk, a call, music, rest",
+        "lines": 2
+      },
+      {
+        "label": "What made it harder",
+        "hint": "Too little sleep, a hard conversation...",
+        "lines": 2
+      },
+      {
+        "label": "One kind thing for tomorrow",
+        "hint": "Something small I can do for myself",
+        "lines": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a mood diary?",
+      "blocks": [
+        {
+          "p": "A mood diary, or mood journal, is a place to note how you feel each day and what was going on around it. Most mood diaries use a simple rating, like 1 to 10, plus a few words about the feeling and the day. Some also track sleep, food, exercise or energy."
+        },
+        {
+          "p": "The point is not to judge your feelings. It is to see them more clearly. When you look back over a few weeks, you may notice that bad sleep comes before low days, or that a walk at lunch tends to lift your mood. Those small discoveries can help you plan kinder days for yourself."
+        },
+        {
+          "p": "In the UK the term mood diary is common, and many health services and charities share printable versions. In the US people more often say mood journal or mood tracker. They all mean much the same thing."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a mood journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Name what you feel.** Putting a word to a feeling can make it feel a little more manageable.",
+            "**Spot patterns.** Days of the week, sleep, people, food or weather can all play a part.",
+            "**Learn what helps.** The \"what helped\" box slowly becomes your own list of things that work for you.",
+            "**Remember accurately.** Feelings are easy to misremember. A record helps you see the real picture.",
+            "**Share with a professional.** If you see a doctor or therapist, a mood diary can help you explain how things have been."
+          ]
+        },
+        {
+          "tip": "A mood journal can support your wellbeing, but it is not a replacement for professional care. If your mood is low for weeks, or you are worried about yourself, please talk to a doctor. If you are in crisis or thinking about harming yourself, contact local emergency services right away. In the US, call or text 988."
+        }
+      ]
+    },
+    {
+      "h2": "How to use this mood journal template",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Pick a regular time",
+              "text": "Evening works well because you can look back over the day. Some people check in twice, morning and night."
+            },
+            {
+              "name": "Rate your mood",
+              "text": "Use 1 to 10 for the day as a whole. Do not overthink it. Your first instinct is fine."
+            },
+            {
+              "name": "Find a few words",
+              "text": "Try to be specific. \"Restless\" or \"lonely\" tells you more than \"bad.\""
+            },
+            {
+              "name": "Note what happened",
+              "text": "A few lines about events, people and anything that stood out."
+            },
+            {
+              "name": "Check in with your body",
+              "text": "Sleep, energy and tension often link closely with mood."
+            },
+            {
+              "name": "Write what helped",
+              "text": "Even on a hard day, look for one thing that made it a little easier."
+            },
+            {
+              "name": "Look back weekly",
+              "text": "Once a week, read your entries. Circle anything that repeats."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Mood diary example",
+      "blocks": [
+        {
+          "p": "Here is a filled in page. It is short and honest, which is all a mood diary needs to be."
+        },
+        {
+          "example": {
+            "label": "Mood diary",
+            "date": "Wednesday, November 12",
+            "title": "Mood: 4 out of 10",
+            "text": "Feel: tired, tense, a bit flat.\nHappened: slept badly. Meeting ran over. Skipped lunch.\nBody: headache by 3 pm, shoulders tight.\nHelped: a 15 minute walk after work. Texting Sam.\nHarder: too much coffee, no proper food till 7.\nTomorrow: pack lunch and go to bed by 10:30."
+          }
+        },
+        {
+          "p": "Looking back over a week of pages like this, the link between skipped meals, poor sleep and low mood would be easy to see."
+        }
+      ]
+    },
+    {
+      "h2": "Mood journal ideas",
+      "blocks": [
+        {
+          "p": "There are many ways to set up a mood journal. Try one that fits how you like to work:"
+        },
+        {
+          "ul": [
+            "**Year in pixels.** A grid of 365 small squares, one per day, each colored by mood. Popular in [bullet journals](/bullet-journal-ideas/).",
+            "**Color key.** Pick five colors for five moods and shade each day on a calendar.",
+            "**Twice a day check in.** A quick rating in the morning and evening shows how your mood shifts.",
+            "**Feelings wheel.** Use a list of feeling words to name emotions more precisely.",
+            "**Mood plus habits.** Add small boxes for sleep, water, movement, time outside and screen time.",
+            "**One line a day.** Just the rating and one sentence. Our [one line a day journal](/one-line-a-day-journal/) is built for this.",
+            "**Weekly summary.** Every Sunday, write your average mood, best day, hardest day and what you learned."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Mood journal prompts for harder days",
+      "blocks": [
+        {
+          "p": "When you want to write more than a rating, these questions can help:"
+        },
+        {
+          "ol": [
+            "When did my mood change today, and what was happening right before?",
+            "What is the feeling underneath the feeling? Anger can sit on top of hurt or worry.",
+            "What does my body need right now?",
+            "What would I say to a friend who felt like this?",
+            "What is one thing in my control tonight?",
+            "Who could I reach out to this week?"
+          ]
+        },
+        {
+          "p": "For more, see our [journal prompts for anxiety](/journal-prompts-for-anxiety/), [journal prompts for mental health](/journal-prompts-for-mental-health/) and the guide on [how to journal for mental health](/how-to-journal-for-mental-health/)."
+        }
+      ]
+    },
+    {
+      "h2": "A simple mood scale you can use",
+      "blocks": [
+        {
+          "p": "Rating your mood is easier when each number means something. Here is a plain 1 to 10 scale. Change the words to fit you."
+        },
+        {
+          "table": {
+            "head": [
+              "Score",
+              "What it might feel like"
+            ],
+            "rows": [
+              [
+                "1 to 2",
+                "Very low. Hard to do everyday things. Reach out for support."
+              ],
+              [
+                "3 to 4",
+                "Low, flat or tense. Getting through the day takes effort."
+              ],
+              [
+                "5 to 6",
+                "Okay. Some ups and downs, nothing big."
+              ],
+              [
+                "7 to 8",
+                "Good. Energy and interest feel normal or better."
+              ],
+              [
+                "9 to 10",
+                "Great. Light, happy, full of energy. If this feels too high or racing, note it too."
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Some people track more than one score, such as mood, anxiety and energy, each from 1 to 10. Keep it to three at most so it stays quick."
+        }
+      ]
+    },
+    {
+      "h2": "Mood journal for kids and teens",
+      "blocks": [
+        {
+          "p": "Children can keep a mood diary too, with a few changes:"
+        },
+        {
+          "ul": [
+            "**Use faces or colors** instead of numbers. Happy, okay, sad, angry, worried.",
+            "**Ask one question.** \"What made you feel that way?\" is enough.",
+            "**Add a feelings word list** so they can find the right word.",
+            "**Talk about it together** without fixing or judging.",
+            "**Teens may want privacy.** A private page on their phone or our [online diary](/) can work better than a notebook on the shelf."
+          ]
+        },
+        {
+          "p": "If a child or teen seems low or worried for a long time, talk to their doctor or school counselor. Our [journal prompts for teens](/journal-prompts-for-teens/) and [journal prompts for kids](/journal-prompts-for-kids/) are gentle places to begin."
+        }
+      ]
+    },
+    {
+      "h2": "Weekly mood review",
+      "blocks": [
+        {
+          "p": "Once a week, read your pages and answer these questions. This is where a mood diary becomes really useful."
+        },
+        {
+          "ol": [
+            "What was my average mood this week?",
+            "Which day was best, and what was different about it?",
+            "Which day was hardest, and what came before it?",
+            "How did sleep line up with my mood?",
+            "What helped more than once?",
+            "What do I want to do more of next week, and less of?"
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a mood diary",
+      "blocks": [
+        {
+          "ul": [
+            "**Keep it quick.** A one minute entry you do every day beats a long one you skip.",
+            "**Be honest, not harsh.** Write what is true without blaming yourself.",
+            "**Write on good days too.** Good days show you what to protect.",
+            "**Do not chase a number.** The goal is awareness, not a perfect score.",
+            "**Keep it private.** Your pages here save only in this browser on this device. Print or save a PDF to keep a copy.",
+            "**Bring it to appointments.** If you see a doctor or counselor, your notes can make it easier to talk about the last few weeks."
+          ]
+        },
+        {
+          "p": "You can also use a [self care journal](/self-care-journal-prompts/) alongside your mood journal, or keep longer entries in a private [online diary](/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I write in a mood diary?",
+      "a": "Write your mood rating, a few words for the feeling, what happened that day, how your body felt, what helped and what made it harder. Some people also add sleep, food, exercise and energy. Keep entries short so the habit is easy to keep. Patterns show up after a few weeks."
+    },
+    {
+      "q": "How do I start a mood journal?",
+      "a": "Choose a time each day, often the evening. Rate your mood from 1 to 10, then add a few feeling words and a line about the day. Use the free template on this page, or copy its sections into a notebook. Look back once a week to see what repeats."
+    },
+    {
+      "q": "What is the difference between a mood journal and a mood tracker?",
+      "a": "A mood tracker is usually just a rating or a color for each day, often in a grid. A mood journal adds words: what happened, how you felt and what helped. Many people combine them, with a quick rating plus a few lines of notes."
+    },
+    {
+      "q": "Can a mood diary help with depression or anxiety?",
+      "a": "A mood diary can help you notice patterns and explain how you have been feeling to a doctor or therapist. It is not a treatment on its own. If you are struggling, please speak to a doctor. If you are in crisis, contact emergency services. In the US, call or text 988."
+    },
+    {
+      "q": "How often should I fill in a mood journal?",
+      "a": "Once a day is common and gives you enough information to see patterns. Some people check in morning and evening to see how mood changes during the day. If daily feels like too much, a few times a week is still useful."
+    },
+    {
+      "q": "What is a mood diary used for?",
+      "a": "A mood diary is used to notice how your mood changes over days and weeks, and what seems to affect it, such as sleep, food, activity or people. Some people use it for their own wellbeing. Others keep one to share with a doctor or therapist so they can talk about patterns more clearly."
+    }
+  ],
+  "related": [
+    "journal-prompts-for-mental-health",
+    "how-to-journal-for-mental-health",
+    "journal-prompts-for-anxiety",
+    "self-care-journal-prompts",
+    "one-line-a-day-journal",
+    "bullet-journal-ideas"
+  ]
+}

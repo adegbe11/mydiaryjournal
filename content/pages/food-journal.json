@@ -1,0 +1,345 @@
+{
+  "slug": "food-journal",
+  "keyword": "food journal",
+  "type": "template",
+  "title": "Food Journal: Free Food Diary Template and Example",
+  "description": "A free food journal and food diary template to fill in online or print. Log meals, times, hunger and how you felt, with a filled example and what to write.",
+  "h1": "Food journal: a free food diary template",
+  "crumb": "Food journal",
+  "card": "What I ate and how I felt",
+  "eyebrow": "Journal types",
+  "intro": "A food journal, or food diary, is a daily record of what you eat and drink, when, and how you felt before and after. Fill in the free food journal template below, then print it or save it as a PDF. Below you will find a filled example and tips on what to write.",
+  "template": {
+    "key": "food-journal",
+    "name": "My food journal",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Breakfast",
+        "hint": "Time, what I ate and drank, about how much",
+        "lines": 2
+      },
+      {
+        "label": "Lunch",
+        "hint": "Time, what I ate and drank, about how much",
+        "lines": 2
+      },
+      {
+        "label": "Dinner",
+        "hint": "Time, what I ate and drank, about how much",
+        "lines": 2
+      },
+      {
+        "label": "Snacks and drinks",
+        "hint": "Include coffee, water, sauces and bites in between",
+        "lines": 2
+      },
+      {
+        "label": "Hunger before and after (1 to 5)",
+        "hint": "Breakfast 4 / 2, lunch 3 / 2...",
+        "lines": 2
+      },
+      {
+        "label": "Where, with whom, and what I was doing",
+        "hint": "Desk, sofa with TV, family dinner...",
+        "lines": 2
+      },
+      {
+        "label": "How I felt",
+        "hint": "Energy, mood, fullness, anything I noticed",
+        "lines": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a food journal?",
+      "blocks": [
+        {
+          "p": "A food journal is a simple log of your eating and drinking. In the UK it is more often called a food diary. You write down each meal, snack and drink, the time, and a little about how you felt. Some people keep one for a week, some for months."
+        },
+        {
+          "p": "People keep food journals for lots of everyday reasons. You might want to eat more vegetables, notice why you snack in the afternoon, plan meals better, or simply be more mindful. A doctor or dietitian may also ask you to keep a food diary for a short time so they can see your usual habits."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a food diary",
+      "blocks": [
+        {
+          "ul": [
+            "**See what you really eat.** It is easy to forget snacks and drinks. Writing them down shows the full picture.",
+            "**Notice habits.** You may spot that you eat more when tired, rushed or watching TV.",
+            "**Link food and feelings.** Noting energy and mood after meals can show which meals leave you feeling good.",
+            "**Plan better.** A week of entries makes shopping lists and meal plans easier.",
+            "**Have notes to share.** If you see a doctor or dietitian, a food diary gives them clear information."
+          ]
+        },
+        {
+          "tip": "This page is for general wellbeing, not medical advice. If you have a health condition, food allergies, symptoms after eating, or worries about your weight or eating, please talk to a doctor or registered dietitian. If tracking food makes you anxious, it is fine to stop."
+        }
+      ]
+    },
+    {
+      "h2": "What to write in a food journal",
+      "blocks": [
+        {
+          "p": "The more specific you are, the more useful your food journal becomes. For each meal or snack, try to note:"
+        },
+        {
+          "table": {
+            "head": [
+              "Detail",
+              "Why it helps",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Time",
+                "Shows gaps and late eating",
+                "12:45 pm"
+              ],
+              [
+                "What you ate",
+                "Be specific, include sauces and toppings",
+                "Turkey sandwich, mayo, apple"
+              ],
+              [
+                "About how much",
+                "Rough amounts are fine",
+                "1 sandwich, 1 medium apple"
+              ],
+              [
+                "Drinks",
+                "Easy to forget, often matter",
+                "Large latte, 2 glasses of water"
+              ],
+              [
+                "Hunger before and after",
+                "Shows eating from hunger or habit",
+                "4 before, 2 after"
+              ],
+              [
+                "Where and with whom",
+                "Setting changes how we eat",
+                "At my desk, alone"
+              ],
+              [
+                "What you were doing",
+                "Distraction affects fullness",
+                "Answering emails"
+              ],
+              [
+                "How you felt",
+                "Energy and mood after eating",
+                "Sleepy by 3 pm"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "You do not need to weigh food or count anything unless a professional has asked you to. Rough notes are enough to see patterns."
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a food journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Decide why you are keeping it",
+              "text": "More energy, more vegetables, fewer late snacks, or notes for a dietitian. Your reason tells you which details matter most."
+            },
+            {
+              "name": "Write as you go",
+              "text": "Fill in each meal soon after you eat. By evening, small snacks are easy to forget."
+            },
+            {
+              "name": "Be honest and kind",
+              "text": "This is information, not a test. There are no good or bad entries."
+            },
+            {
+              "name": "Rate hunger before and after",
+              "text": "Use 1 for not hungry at all and 5 for very hungry. It helps you see if you eat from hunger, boredom or habit."
+            },
+            {
+              "name": "Note how you feel",
+              "text": "A word or two about energy and mood an hour or so after meals."
+            },
+            {
+              "name": "Review at the end of the week",
+              "text": "Look for repeats. Which meals kept you full? When did snacks happen? Pick one small change to try."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Food journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled food diary page for one day. Notice the hunger ratings and short feelings notes."
+        },
+        {
+          "example": {
+            "label": "Food journal",
+            "date": "Thursday, April 17",
+            "title": "Food diary",
+            "text": "7:30 Oatmeal with banana, coffee with milk. Hunger 4 / 2.\n12:45 Turkey sandwich, apple, water. At desk. Hunger 4 / 2.\n3:30 Cookies from the office kitchen (3). Hunger 2. Bored.\n7:15 Chicken stir fry with rice and broccoli. Family dinner.\nDrinks: 2 coffees, 4 glasses of water, 1 soda.\nFelt: sleepy at 3 pm, good energy after dinner.\nNote: try a snack from home for the afternoon."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Food journal ideas",
+      "blocks": [
+        {
+          "ul": [
+            "**Water tracker.** Add eight small circles and fill one in per glass.",
+            "**Fruit and veg count.** Tally servings at the bottom of each page.",
+            "**Meal plan page.** Plan the week on Sunday, then compare with what you really ate.",
+            "**Recipe notes.** Keep a list of meals you enjoyed and would make again.",
+            "**Mindful eating notes.** Write one line about taste, smell and texture at one meal a day.",
+            "**Symptom notes.** If you are noticing things like bloating, write the time and what you ate before, and share it with your doctor.",
+            "**Pair it with movement.** Many people keep a food journal next to a [fitness journal](/fitness-journal/)."
+          ]
+        },
+        {
+          "p": "For layout ideas, see [bullet journal ideas](/bullet-journal-ideas/) and our [journal page ideas](/journal-page-ideas/)."
+        },
+        {
+          "p": "Not sure where to begin? Start with just one meal a day for a week, usually the one you find hardest, such as lunch at work or late evening snacks. Once that feels easy, add the rest of the day."
+        }
+      ]
+    },
+    {
+      "h2": "Food diary for symptoms: notes for your doctor",
+      "blocks": [
+        {
+          "p": "Sometimes a doctor or dietitian asks you to keep a food diary to look for links between food and symptoms, like tummy trouble or headaches. If so, follow the exact details they ask for. In general, it can help to note:"
+        },
+        {
+          "ul": [
+            "The time you ate or drank and exactly what it was, including brands and ingredients when you know them.",
+            "The time any symptom started, how long it lasted, and how strong it was from 1 to 5.",
+            "Sleep, stress, exercise and any medicines you took that day.",
+            "For women, where you are in your cycle, if relevant."
+          ]
+        },
+        {
+          "tip": "Do not cut out foods or food groups on your own based on a food diary. Bring your notes to your doctor or a registered dietitian and decide next steps together."
+        }
+      ]
+    },
+    {
+      "h2": "Paper food journal or app?",
+      "blocks": [
+        {
+          "table": {
+            "head": [
+              "",
+              "Paper or printed",
+              "App or online"
+            ],
+            "rows": [
+              [
+                "Speed",
+                "Fast to scribble",
+                "Fast if you eat the same foods often"
+              ],
+              [
+                "Detail",
+                "Easy to add feelings and notes",
+                "Often focused on numbers"
+              ],
+              [
+                "Distraction",
+                "No notifications",
+                "Phone can pull you into other apps"
+              ],
+              [
+                "Sharing",
+                "Hand it over at an appointment",
+                "Export or show on screen"
+              ],
+              [
+                "Feel",
+                "Calmer for many people",
+                "Can feel like a score"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "The template on this page sits in between. You can type into it here, and print or save it as a PDF to share."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in a weekly review",
+      "blocks": [
+        {
+          "p": "At the end of each week, read your food journal and ask:"
+        },
+        {
+          "ol": [
+            "Which meals kept me full and steady for longest?",
+            "When did I eat when I was not really hungry? What was happening?",
+            "Did I drink enough water?",
+            "How often did I eat while distracted, like at a screen?",
+            "What one small change would I like to try next week?"
+          ]
+        },
+        {
+          "p": "Pick only one change at a time, such as adding a vegetable at lunch or packing an afternoon snack. Small steps are easier to keep."
+        }
+      ]
+    },
+    {
+      "h2": "Food diary template: print or save",
+      "blocks": [
+        {
+          "p": "Press **Print or save as PDF** on the template above. Choose Save as PDF for a digital food diary template, or print a week of blank pages and keep them on the fridge. Your typed answers stay saved in this browser on this device."
+        },
+        {
+          "p": "Want more space? Use our [daily journal](/daily-journal/) for longer notes, or browse more [journal templates](/journal-template/) and [printable journal pages](/printable-journal-pages/). Tracking how food affects your mood too? Try the [mood journal](/mood-journal/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should you write in a food journal?",
+      "a": "Write the time, what you ate and drank, roughly how much, and your hunger before and after. Adding where you were, who you were with and how you felt afterward makes it much more useful. Include drinks, sauces and small bites, since those are the things people most often forget."
+    },
+    {
+      "q": "What is the difference between a food journal and a food diary?",
+      "a": "There is no real difference. Food diary is the more common term in the UK, and food journal is more common in the US. Both mean a daily record of what you eat and drink, often with notes about hunger and how you felt."
+    },
+    {
+      "q": "How long should I keep a food diary?",
+      "a": "Even three to seven days can show useful patterns, especially if you include a weekend day. Some people keep one for longer to build new habits. If a doctor or dietitian asked you to keep one, follow their timeframe and the details they want."
+    },
+    {
+      "q": "Do I need to count calories in a food journal?",
+      "a": "No. Many people find it more helpful to note what they ate, roughly how much, and how they felt. Counting is only needed if a professional has asked for it. If tracking numbers makes you stressed or anxious, a simple notes based food journal is a gentler choice."
+    },
+    {
+      "q": "Is a paper or online food journal better?",
+      "a": "The best one is the one you will use. Paper is quick and easy to keep on the kitchen counter. Online is handy if you always have your phone. The template on this page works both ways, since you can fill it in here or print blank pages."
+    },
+    {
+      "q": "What is a food diary template?",
+      "a": "A food diary template is a ready made page with spaces for each meal, snacks, drinks, times, and notes on hunger and how you felt. It saves you from drawing your own table every day. The template on this page can be filled in online, printed blank, or saved as a PDF for free."
+    }
+  ],
+  "related": [
+    "fitness-journal",
+    "mood-journal",
+    "daily-journal",
+    "journal-template",
+    "bullet-journal-ideas",
+    "printable-journal-pages"
+  ]
+}

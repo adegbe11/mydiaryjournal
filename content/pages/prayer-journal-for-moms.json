@@ -1,0 +1,144 @@
+{
+  "slug": "prayer-journal-for-moms",
+  "keyword": "prayer journal for moms",
+  "type": "template",
+  "title": "Prayer Journal for Moms: Free 5 Minute Page",
+  "description": "A free prayer journal for moms: a 5 minute fill-in page, prompts for tired days, prayers for your kids and husband, and tips for praying in busy seasons.",
+  "h1": "Prayer journal for moms",
+  "crumb": "Prayer journal for moms",
+  "card": "Five quiet minutes with God",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for moms is a short, simple page where a busy mom can meet with God in five minutes: one verse, a few thank yous, prayers for her family, and a place to give Him what she is carrying. Fill in the page below now, then use the prompts for tired days, mom guilt, your kids and your marriage.",
+  "template": {
+    "key": "prayer-journal-for-moms",
+    "name": "Five minutes with God",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "One verse for today", "hint": "Isaiah 40:11, Psalm 46:1...", "lines": 1},
+      {"label": "Thank You, Lord, for", "hint": "Three small things from today", "lines": 2},
+      {"label": "Lord, I am carrying", "hint": "Tired, worried, stretched thin...", "lines": 3},
+      {"label": "Praying for my kids", "hint": "Each name, one need", "lines": 3},
+      {"label": "Praying for my husband and home", "hint": "Or for my support people", "lines": 2},
+      {"label": "Help me today with", "hint": "Patience, rest, one hard moment", "lines": 2},
+      {"label": "Answered prayers", "hint": "What God did, and when", "lines": 1}
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why moms need a short prayer journal",
+      "blocks": [
+        {"p": "Most moms do not have an hour of quiet. Some days you get five minutes in the car line or before the baby wakes up. A prayer journal for moms is built for that. It gives your scattered thoughts a place to land and turns worry about your kids into prayer for them."},
+        {"ul": [
+          "**It fits real life.** Five boxes, a few words each.",
+          "**It keeps your family's needs in one place.** No more forgetting what you promised to pray.",
+          "**It reminds you that you are cared for too.** There is a box just for what you are carrying.",
+          "**It shows God's faithfulness.** On hard days, read your answered prayers."
+        ]},
+        {"verse": "Isaiah 40:11"}
+      ]
+    },
+    {
+      "h2": "How to use this prayer journal for moms",
+      "blocks": [
+        {"steps": [
+          {"name": "Find your five minutes", "text": "Nap time, the car line, early morning coffee, or after bedtime. Same time each day helps."},
+          {"name": "Read one verse", "text": "Just one. Write the reference in the first box."},
+          {"name": "Fill in the boxes", "text": "A few words each is fine. Your answers save on this device."},
+          {"name": "Pray as you write", "text": "Talk to God as you fill each line. The writing is the prayer."},
+          {"name": "Print or keep going here", "text": "Print pages for a binder, or keep using this page every day."}
+        ]},
+        {"tip": "Want more room? The [prayer journal template](/prayer-journal-template/) has a longer layout, and the [prayer journal for your children](/prayer-journal-for-your-children/) gives each child their own page."}
+      ]
+    },
+    {
+      "h2": "Prayer prompts for moms by season",
+      "blocks": [
+        {"h3": "When you are exhausted"},
+        {"ul": [
+          "Lord, here is what I did today that no one saw. Thank You for seeing it.",
+          "What is one thing I can let go of this week?",
+          "Where can I find a few minutes of real rest? Ask God to show you.",
+          "Write a prayer for sleep, for you and your little ones."
+        ]},
+        {"h3": "When you feel mom guilt"},
+        {"ul": [
+          "What am I feeling guilty about? Bring it to God honestly.",
+          "Is this guilt about a real wrong, or about not being perfect? Ask Him to help you tell the difference.",
+          "If I need to say sorry to my child, ask God for the right words.",
+          "Write what God says about you as His daughter."
+        ]},
+        {"h3": "When you are worried about a child"},
+        {"ul": [
+          "Name the worry. Then write: I trust You with this child.",
+          "What is in my control here, and what is not?",
+          "Pray for wisdom: what does this child need from me this week?"
+        ]},
+        {"h3": "When you feel alone"},
+        {"ul": [
+          "Who could I call or text today? Ask God for a friend.",
+          "Thank God for one person who has helped you as a mom.",
+          "Pray for other moms you know who are lonely too."
+        ]},
+        {"h3": "When you feel joy"},
+        {"ul": [
+          "What made you laugh with your kids this week? Thank God for it in detail.",
+          "Write down a sweet thing your child said so you never forget it.",
+          "What has God grown in you since you became a mom?"
+        ]},
+        {"verse": "Matthew 11:28"}
+      ]
+    },
+    {
+      "h2": "Prayer points for your family",
+      "blocks": [
+        {"h3": "For your children"},
+        {"ul": [
+          "That they would know and love Jesus.",
+          "For kind hearts, good friends and safe days.",
+          "For their health, sleep and learning.",
+          "For their future, including the choices they will make when you are not there."
+        ]},
+        {"h3": "For your husband or support people"},
+        {"ul": [
+          "For his faith, work, health and peace of mind.",
+          "For your friendship and teamwork as parents.",
+          "If you are a single mom, for the people God has placed around you, and for strength and provision."
+        ]},
+        {"h3": "For your home"},
+        {"ul": [
+          "That your home would be a place of peace, laughter and grace.",
+          "For provision for bills, food and needs.",
+          "That people who walk through your door would feel welcome."
+        ]},
+        {"p": "For a full page of prayers for him, see the [prayer journal for your husband](/prayer-journal-for-husband/)."}
+      ]
+    },
+    {
+      "h2": "A filled in example",
+      "blocks": [
+        {"example": {"label": "Five minutes with God", "date": "Monday, February 9", "title": "Lord,", "text": "Verse: Isaiah 40:11.\nThank You for coffee, a warm house, Mia's first word.\nI am carrying: no sleep, worry about Leo at school.\nKids: Leo, a friend at recess. Mia, her ear infection.\nHome: Josh's long shifts. Help us be a team.\nHelp me: not yell at bath time tonight.\nAnswered: Leo was brave at the dentist!"}}
+      ]
+    },
+    {
+      "h2": "Tips for praying as a busy mom",
+      "blocks": [
+        {"ul": [
+          "**Lower the bar.** One line on a hard day still counts.",
+          "**Keep your journal where you are.** On the kitchen counter, in the diaper bag, or open on your phone.",
+          "**Pray with your kids.** Let them add a thank you to your page at breakfast.",
+          "**Use prompts.** Our [prayer journal prompts](/prayer-journal-prompts/) include a section just for women.",
+          "**Join other moms.** Swap prayer requests with a friend once a week."
+        ]},
+        {"p": "If you want a guided prayer journal on your phone, the [Prayer Journal for Women](/prayer-journal-for-women/) Android app was made with busy women in mind. It gives you 52 weeks of Bible verses with a short reflection and prayer, a prayer list with a Pray now button, an answered prayers list, daily pages and gentle reminders. No ads and no account. It is coming soon on Google Play. You might also like the [pregnancy journal](/pregnancy-journal/) and [devotional journal for women](/devotional-journal-for-women/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "How do busy moms find time to pray?", "a": "Attach prayer to something you already do: your first coffee, the car line, nap time or after bedtime. Keep it short, about five minutes, and keep your journal where you will see it. Short, honest prayers most days are better than waiting for a quiet hour that rarely comes."},
+    {"q": "What should a mom write in a prayer journal?", "a": "Write one verse, a few things you are thankful for, what you are carrying, a prayer for each child, a prayer for your husband or home, and one thing you need help with today. Add answered prayers with dates when they come."},
+    {"q": "What are good Bible verses for moms?", "a": "Isaiah 40:11, Matthew 11:28-30, Psalm 46:1, Lamentations 3:22-23, Proverbs 31:25-26, Philippians 4:6-7 and Isaiah 41:10 are favorites. Write one at the top of your page and pray it for the day."},
+    {"q": "Is there a prayer journal app for moms?", "a": "Yes. Prayer Journal for Women is an Android app coming soon on Google Play, with weekly Bible verses, reflection and prayer, a prayer list, answered prayers, daily pages and reminders. It has no ads and no account. You can also use the free page on this site in any browser."},
+    {"q": "Where does my prayer page save?", "a": "What you type on this page is saved in your browser on this device only. Nothing is sent to us. Use Print or Save as PDF to keep a copy before clearing your browser data."}
+  ],
+  "related": ["prayer-journal-for-your-children", "prayer-journal-for-husband", "prayer-journal-for-women", "prayer-journal-template", "prayer-journal-prompts", "devotional-journal-for-women"]
+}

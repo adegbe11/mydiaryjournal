@@ -1,0 +1,36 @@
+{
+  "slug": "journal",
+  "hub": "journal",
+  "type": "hub",
+  "title": "Journal: Prompts, Ideas, Templates and How to Journal",
+  "description": "Start journaling with hundreds of free journal prompts, journal ideas, printable templates, and simple guides on how to journal for mental health and growth.",
+  "h1": "Journal",
+  "crumb": "Journal",
+  "eyebrow": "Journaling",
+  "intro": "Journaling means writing to understand yourself. Here you will find journal prompts for every mood and season, ideas for your pages, printable templates, and plain guides on how to start and keep going.",
+  "card": "Prompts, ideas and templates",
+  "sections": [
+    {
+      "h2": "Where to start",
+      "blocks": [
+        {
+          "p": "If you are new, read [how to start a journal](/how-to-start-a-journal/), then pick one prompt from our [journal prompts](/journal-prompts/) list and write for five minutes. That is all it takes to begin."
+        },
+        {
+          "p": "Every prompt page has a writing page built in, so you can answer right away. Your writing stays in your browser on your own device."
+        }
+      ]
+    },
+    {
+      "h2": "Find the right kind of journal",
+      "blocks": [
+        {
+          "p": "There is no single right way to journal. A [gratitude journal](/gratitude-journal/) helps you notice good things. A [mood journal](/mood-journal/) helps you see patterns in how you feel. A [dream journal](/dream-journal/), [reading journal](/reading-journal/) or [travel journal](/travel-journal/) keeps the memories you would otherwise lose. If you like structure, try a [guided journal](/guided-journal/) or one of our printable [journal templates](/journal-template/)."
+        },
+        {
+          "p": "Journaling can also help on hard days. Our guides on [how to journal for mental health](/how-to-journal-for-mental-health/) and [journal prompts for anxiety](/journal-prompts-for-anxiety/) are gentle places to begin. Journaling is not a replacement for professional care, and anyone in crisis should contact local emergency services."
+        }
+      ]
+    }
+  ]
+}

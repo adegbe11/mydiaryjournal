@@ -1,0 +1,166 @@
+{
+  "slug": "diary-for-girls",
+  "keyword": "diary for girls",
+  "type": "article",
+  "title": "Diary for Girls: Free Private Diary, Ideas and Tips",
+  "description": "A free diary for girls to write in online with a PIN lock, plus how to pick a paper diary by age, 50 fun things to write about and tips to keep it private.",
+  "h1": "Diary for girls: a private place that is all yours",
+  "crumb": "Diary for girls",
+  "card": "Private, free and fun",
+  "eyebrow": "Diary for girls",
+  "intro": "A diary for girls is a private place to write about your day, your friends, your feelings and your dreams. Start writing right now in the free diary below, with no sign up and a PIN lock for shared computers. Or use this page to choose the right paper diary and find ideas to fill it.",
+  "writer": {"title": "Dear diary,", "hint": "So today...", "kind": "diary-for-girls"},
+  "related": ["diary-ideas-for-girls", "secret-diary", "diary-for-kids", "journal-prompts-for-teens", "private-diary-with-lock", "prayer-journal-for-teens"],
+  "sections": [
+    {
+      "h2": "A free online diary for girls",
+      "blocks": [
+        {"p": "The diary at the top of this page is free to use and very simple. Type a title, write your page, and it saves by itself."},
+        {"ul": [
+          "**No sign up.** No account, no email, no password to remember.",
+          "**Stays on your device.** Your pages are saved in this browser on this device. They are not posted anywhere and are not sent to us.",
+          "**PIN lock.** Set a PIN so the diary stays closed if someone else uses the computer or tablet. It is a simple lock, not encryption.",
+          "**Print or save as PDF.** Keep your favorite pages in a folder.",
+          "**Works on any device.** Use it in a browser on a phone, tablet or computer. You can add it to your home screen so it opens like an app."
+        ]},
+        {"p": "Pages do not sync between devices. If you write on your phone, your pages stay on your phone. Open the full [online diary](/) any time, or read about keeping a [private diary with a lock](/private-diary-with-lock/)."}
+      ]
+    },
+    {
+      "h2": "How to pick a paper diary for girls",
+      "blocks": [
+        {"p": "A paper diary feels special. If you are choosing one for yourself or as a gift, think about age and how she likes to write."},
+        {"table": {
+          "head": ["Age", "Look for", "Why"],
+          "rows": [
+            ["6 to 8", "Wide lines, room to draw, a short prompt on each page", "Writing is still new, and pictures help"],
+            ["8 to 11", "A lock and key, fun cover, undated pages", "Privacy starts to matter a lot"],
+            ["11 to 14", "Plain or dotted pages, a pocket, an elastic band", "Room for lists, doodles and keepsakes"],
+            ["14 and up", "A good notebook with thick paper, or a guided journal", "Space to write longer and decorate"]
+          ]
+        }},
+        {"h3": "Things that make a diary easier to keep"},
+        {"ul": [
+          "**Undated pages,** so missing a day does not leave an empty page.",
+          "**A ribbon bookmark** to find today's page fast.",
+          "**Thick paper** that works with gel pens and markers.",
+          "**A back pocket** for tickets, notes and photos.",
+          "**A size she will carry.** A smaller diary fits in a school bag."
+        ]},
+        {"tip": "A diary lock is mostly a sign that says \"private\". The real protection is a family agreement that diaries are not read without asking."}
+      ]
+    },
+    {
+      "h2": "How to start your diary",
+      "blocks": [
+        {"steps": [
+          {"name": "Write the date", "text": "Put today's date at the top of the page."},
+          {"name": "Introduce yourself", "text": "On the first page, tell your diary who you are: your name, age, your best friends, your favorite things right now."},
+          {"name": "Write about today", "text": "One thing that happened and how it made you feel."},
+          {"name": "Make it yours", "text": "Add a doodle, a sticker or a fun title. Online, give each page a title you like."},
+          {"name": "Pick a diary time", "text": "Bedtime works for most people. A few minutes is enough."}
+        ]},
+        {"example": {"label": "First page", "date": "Sunday, 6 September", "title": "Dear diary,", "text": "Hi! I am Mia and I am eleven.\nMy best friends are Hana and Chloe.\nRight now I love drawing, pasta and rainy days.\nToday we went to the library and I found a mystery series.\nI am excited to have somewhere to write everything down."}},
+        {"p": "For more on how it works, see [how to write a diary](/how-to-write-a-diary/)."}
+      ]
+    },
+    {
+      "h2": "Things to write in a diary for girls",
+      "blocks": [
+        {"p": "Press **Write** next to any idea to start a page. For 85 more, see [diary ideas for girls](/diary-ideas-for-girls/)."},
+        {"h3": "Every day"},
+        {"prompts": [
+          "The best and worst part of today.",
+          "Your mood today as a color, and why.",
+          "Something funny that happened.",
+          "What you wore today and how it made you feel.",
+          "A song you had on repeat today.",
+          "Something you learned today.",
+          "Something you are looking forward to.",
+          "A kind thing someone did today."
+        ], "start": 1},
+        {"h3": "Friends and family"},
+        {"prompts": [
+          "How you met your best friend.",
+          "An inside joke and the story behind it.",
+          "A time a friend really helped you.",
+          "A disagreement with a friend and how you sorted it out.",
+          "Your favorite family tradition.",
+          "Something you admire about your mom, dad or the person who cares for you.",
+          "A relative with great stories.",
+          "What makes someone a true friend?",
+          "A friend you would like to get to know better.",
+          "The best sleepover you ever had."
+        ], "start": 9},
+        {"h3": "Feelings"},
+        {"prompts": [
+          "Something that is worrying you, and one thing that might help.",
+          "A time you felt left out, and what you wish had happened.",
+          "A time you felt really proud.",
+          "What helps you feel better on a bad day?",
+          "Something you wish you could say to someone.",
+          "Three things you like about yourself.",
+          "A moment you felt brave.",
+          "Five things you are grateful for today."
+        ], "start": 19},
+        {"h3": "Dreams and plans"},
+        {"prompts": [
+          "What you want to be when you grow up, and why.",
+          "A place you dream of visiting.",
+          "A goal for this month.",
+          "Something you want to learn this year.",
+          "Your dream room, described in detail.",
+          "A letter to yourself to open next year.",
+          "A woman you look up to and what you have learned from her.",
+          "Your bucket list for this summer.",
+          "What you would do with one totally free day.",
+          "Something you want to be known for."
+        ], "start": 27},
+        {"h3": "Just for fun"},
+        {"prompts": [
+          "Your top five books, shows and songs right now.",
+          "Invent a new holiday and plan the party.",
+          "If you could have any superpower for a day, what would you pick?",
+          "Design an outfit for your favorite character.",
+          "If your cat or dog wrote in a diary, what would it say?",
+          "A story that begins with a mysterious letter under your door.",
+          "Would you rather live in a castle or a treehouse?",
+          "Make a playlist for a road trip with your best friend.",
+          "Describe your perfect cozy rainy day.",
+          "What would your own shop sell?",
+          "If you were in a band, what would it be called?",
+          "Draw or describe the view from your window right now.",
+          "Write a short poem about your best friend.",
+          "What would you do if you were principal for a day?"
+        ], "start": 37}
+      ]
+    },
+    {
+      "h2": "Keeping your diary private and safe",
+      "blocks": [
+        {"ul": [
+          "**Keep a paper diary somewhere only you know,** or one with a lock.",
+          "**Use a PIN** on an online diary if others share the device.",
+          "**Never post diary pages online.** Do not share your full name, school, address or photos of yourself with strangers.",
+          "**Talk to a trusted adult** if you write about something that is really worrying you or someone is hurting you. A diary is a great place to sort out feelings, but some things need a grown up's help.",
+          "**Ask your family to respect your diary.** Most parents are happy to agree that a diary is private."
+        ]},
+        {"p": "Want a diary that feels extra secret? See ideas for a [secret diary](/secret-diary/). Faith-filled girls may also enjoy a [prayer journal for teens](/prayer-journal-for-teens/)."}
+      ]
+    },
+    {
+      "h2": "Why girls love keeping a diary",
+      "blocks": [
+        {"p": "A diary listens without interrupting. It is a place to work out friend drama, plan big dreams, remember fun days and be completely yourself. Writing about feelings can help them make more sense. And years from now, your diary will be the best way to remember who you were at this age."},
+        {"p": "Older teens who want deeper questions can try [journal prompts for teens](/journal-prompts-for-teens/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a good diary for a girl?", "a": "A good diary for a girl matches her age. Younger girls like wide lines, space to draw and a prompt on each page. Girls 8 to 11 often love a lock and key. Teens may prefer a plain notebook with thick paper or a private online diary with a PIN."},
+    {"q": "What should a girl write in her diary?", "a": "She can write about her day, friends, family, feelings, favorite books and bands, goals and dreams. Fun lists, letters to her future self, doodles and stickers all belong too. The diary is hers, so anything that is on her mind is a good thing to write."},
+    {"q": "Is there a free online diary for girls?", "a": "Yes. The diary on this page is free with no sign up and no account. Pages are saved in the browser on your device and are not sent anywhere. You can lock it with a PIN on a shared computer and print any page."},
+    {"q": "How do I keep my diary secret from my siblings?", "a": "Use a diary with a lock, keep it in a hiding place, or use an online diary with a PIN. You can also write in a code or use initials instead of names. It also helps to ask your parents to set a family rule that diaries are private."},
+    {"q": "What age is a diary with a lock for?", "a": "Diaries with a lock and key are most popular with girls from about 7 to 12, when privacy starts to feel important. The lock is mostly for fun and a sign that says private. Older girls often switch to a plain journal or a private online diary."}
+  ]
+}

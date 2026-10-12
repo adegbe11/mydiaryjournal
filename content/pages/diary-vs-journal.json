@@ -1,0 +1,85 @@
+{
+  "slug": "diary-vs-journal",
+  "keyword": "diary vs journal",
+  "type": "article",
+  "title": "Diary vs Journal: What Is the Difference?",
+  "description": "Diary vs journal: a diary records what happened each day, a journal explores what you think and feel. See the difference, examples, and which one fits you.",
+  "h1": "Diary vs journal: what is the difference?",
+  "crumb": "Diary vs journal",
+  "card": "Which one should you keep?",
+  "eyebrow": "Diary guides",
+  "intro": "A **diary** is a daily record of what happened. A **journal** is a place to think on paper about your feelings, ideas and goals, and you do not have to write in it every day. Many people mix the two, and that is fine.",
+  "related": ["how-to-write-a-diary", "how-to-start-a-journal", "what-to-write-in-a-journal", "diary-entry-examples", "journal-prompts", "daily-diary"],
+  "sections": [
+    {
+      "h2": "The short answer",
+      "blocks": [
+        {"p": "Both words come from the idea of a day. Diary comes from the Latin word for a daily allowance, and journal comes from the French word for a day. Over time the two words drifted apart in how people use them."},
+        {"p": "Today most people use **diary** for a dated, private record of daily events and **journal** for any notebook where you reflect, plan or create. A diary answers \"what happened?\" A journal answers \"what do I think about it?\""}
+      ]
+    },
+    {
+      "h2": "Diary and journal side by side",
+      "blocks": [
+        {"table": {
+          "head": ["", "Diary", "Journal"],
+          "rows": [
+            ["Main question", "What happened today?", "What do I think and feel?"],
+            ["How often", "Usually every day", "Whenever you need it"],
+            ["Dates", "Every entry has a date", "Dates are optional"],
+            ["Style", "Events in order, like a log", "Free writing, lists, prompts, drawings"],
+            ["Privacy", "Almost always private", "Private or shared, like a bullet journal"],
+            ["Common types", "Daily diary, travel diary, food diary", "Gratitude, dream, prayer, bullet journal"],
+            ["Best for", "Remembering your life", "Understanding yourself and planning"]
+          ]
+        }},
+        {"tip": "There is no rule that says you must pick one. A diary entry can end with a few lines of reflection, and that is how most people really write."}
+      ]
+    },
+    {
+      "h2": "What a diary entry looks like",
+      "blocks": [
+        {"p": "A diary entry starts with the date and tells the day in order. It is often written to the diary itself, which is where **Dear diary** comes from."},
+        {"example": {"label": "Diary entry", "date": "Tuesday, March 4", "title": "Dear diary,", "text": "Rain all morning, so I took the bus instead of walking.\nMeeting with Sarah went better than I expected.\nCooked rice and beans and called Mum after dinner.\nTired but happy. Bed at ten."}},
+        {"p": "Notice how it is mostly facts. Years from now, a page like this helps you remember where you were and who was in your life. See more in our [diary entry examples](/diary-entry-examples/)."}
+      ]
+    },
+    {
+      "h2": "What a journal entry looks like",
+      "blocks": [
+        {"p": "A journal entry usually starts with a question or a feeling and goes deeper. It may not mention the day at all."},
+        {"example": {"label": "Journal entry", "date": "", "title": "Why the meeting scared me", "text": "I worried for a week about talking to Sarah.\nI think I was afraid she would say no.\nShe did not. Maybe I expect the worst too often.\nNext time: write down the worst that could happen, then the most likely."}},
+        {"p": "This is reflection. It turns an event into something you learn from. If you are not sure what to write, start with [journal prompts](/journal-prompts/)."}
+      ]
+    },
+    {
+      "h2": "Which one should you keep?",
+      "blocks": [
+        {"h3": "Keep a diary if you want to"},
+        {"ul": ["Remember your days, trips and the people you met", "Build a simple daily writing habit", "Track things over time, like sleep, moods or meals", "Have a private place to vent after a hard day"]},
+        {"h3": "Keep a journal if you want to"},
+        {"ul": ["Understand your feelings and patterns", "Work through a decision or a problem", "Practice gratitude, prayer or goal setting", "Write when you need it, not on a schedule"]},
+        {"p": "If you cannot decide, do both on one page: two or three lines about the day, then one question to think about. This is sometimes called a **diary journal**."}
+      ]
+    },
+    {
+      "h2": "How to start today",
+      "blocks": [
+        {"steps": [
+          {"name": "Pick where you will write", "text": "A paper notebook, a notes app or a private online diary. The best one is the one you will open again tomorrow."},
+          {"name": "Write the date", "text": "Even in a journal, a date helps you see how you have changed when you read back."},
+          {"name": "Start small", "text": "Three sentences is enough. Write what happened, how you felt, and one thing you want to remember."},
+          {"name": "Pick a regular time", "text": "Many people write at night before bed. Others prefer the morning with coffee. Tie it to something you already do."}
+        ]},
+        {"p": "Ready to try? Our [free online diary](/) works in your browser with no sign up, and pages stay on your own device."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Is a diary the same as a journal?", "a": "They are close but not the same. A diary is usually a dated record of daily events. A journal is a broader word for any notebook where you reflect, plan or create. In everyday speech many people use the words interchangeably."},
+    {"q": "Is it better to have a diary or a journal?", "a": "Neither is better. A diary is great for remembering your life and building a daily habit. A journal is better for working through feelings, ideas and goals. Many people combine them on the same page."},
+    {"q": "Do you have to write in a diary every day?", "a": "No. A diary is traditionally daily, but skipping days is normal. Writing a few lines most days is better than long entries once a month."},
+    {"q": "Why do people say dear diary?", "a": "Writing to the diary as if it were a friend makes it easier to be honest. It became popular through published diaries and children's books, and many people still start entries that way."},
+    {"q": "Is a planner a diary or a journal?", "a": "A planner looks forward and holds plans, appointments and to do lists. A diary looks back at what happened. A journal can do either. Bullet journals mix planning and journaling in one notebook."}
+  ]
+}

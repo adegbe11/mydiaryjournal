@@ -1,0 +1,109 @@
+{
+  "slug": "printable-journal-pages",
+  "keyword": "printable journal pages",
+  "type": "template",
+  "title": "Free Printable Journal Pages (Fill In, Print or PDF)",
+  "description": "Free printable journal pages: a weekly journal page you can fill in and print, plus 10 more page types with layouts, paper tips and how to bind them.",
+  "h1": "Free printable journal pages",
+  "crumb": "Printable journal pages",
+  "card": "Pages to print free",
+  "eyebrow": "Templates",
+  "intro": "Below is a free printable weekly journal page you can fill in here and print, or print blank to fill in by hand. Further down you will find 10 more printable journal page types with their layouts described, plus tips on paper, printing and turning loose pages into a journal.",
+  "template": {
+    "key": "printable-journal-pages",
+    "name": "My week",
+    "eyebrow": "Week of",
+    "fields": [
+      {"label": "Best moment this week", "hint": "What I want to remember", "lines": 3},
+      {"label": "Hardest moment", "hint": "What was tough and how I handled it", "lines": 3},
+      {"label": "Three things I am grateful for", "hint": "1.  2.  3.", "lines": 3},
+      {"label": "What I got done", "hint": "Big and small", "lines": 3},
+      {"label": "What I learned", "hint": "About myself, people or work", "lines": 2},
+      {"label": "My focus for next week", "hint": "One to three things", "lines": 3},
+      {"label": "Notes", "hint": "Anything else", "lines": 3}
+    ]
+  },
+  "related": ["journal-template", "diary-template", "journal-page-ideas", "bullet-journal-ideas", "diary-template-kids", "gratitude-journal"],
+  "sections": [
+    {
+      "h2": "Why a weekly page is the most useful printable",
+      "blocks": [
+        {"p": "Daily pages are great, but many people miss days and feel behind. A weekly journal page asks for one sit-down a week, usually on Sunday, and still captures the moments that matter. Fifty-two of them make a full year you can hold in one binder."},
+        {"p": "If you prefer a page for every day, use our daily [journal template](/journal-template/) or the classic [diary template](/diary-template/)."}
+      ]
+    },
+    {
+      "h2": "How to fill in and print your journal pages",
+      "blocks": [
+        {"steps": [
+          {"name": "Type the week", "text": "Fill in the Week of line at the top, for example \"March 3 to 9\"."},
+          {"name": "Fill it in or leave it blank", "text": "Type your answers here, or leave the boxes empty to write by hand after printing."},
+          {"name": "Print or save as PDF", "text": "Press the Print button. Choose a printer for paper, or Save as PDF for a digital copy."},
+          {"name": "Print a batch", "text": "Print four or five blank copies at once so you always have the next week ready."},
+          {"name": "Keep them together", "text": "Hole punch the pages and keep them in a binder, or clip them to a clipboard by your bed."}
+        ]},
+        {"tip": "Your typed answers save in this browser on this device. Press Clear to start a new week."}
+      ]
+    },
+    {
+      "h2": "A filled in weekly journal page",
+      "blocks": [
+        {"example": {"label": "Weekly journal", "date": "Week of June 2", "title": "My week", "text": "Best: beach day with the cousins. Ice cream everywhere.\nHardest: car repair cost more than I planned.\nGrateful: Dad's help, long evenings, a quiet Sunday.\nDone: tax forms, fixed the gate, read one book.\nLearned: ask for a quote before saying yes.\nNext week: meal plan, one early night, call Jo."}}
+      ]
+    },
+    {
+      "h2": "Free journal printables: 10 more page types",
+      "blocks": [
+        {"p": "Draw these on plain paper, or set them up once in a document and print as many as you need."},
+        {"ul": [
+          "**1. Daily reflection page.** Date, mood, what happened, grateful for, tomorrow. See the [journal template](/journal-template/).",
+          "**2. Gratitude page.** Three numbered lines for good things, one line for a person to thank, one for the best moment. More in our [gratitude journal](/gratitude-journal/) guide.",
+          "**3. Habit tracker.** Habits down the left, days 1 to 31 across the top, a box for each.",
+          "**4. Mood tracker.** A calendar grid of 31 boxes with a color key at the bottom. See the [mood journal](/mood-journal/).",
+          "**5. Monthly goals page.** Three goal boxes, each with why it matters and three small steps.",
+          "**6. Reading log.** Columns for title, author, date finished, stars and a one line review.",
+          "**7. Dream page.** Date, what I dreamed, how I felt when I woke up, and a box to sketch one scene.",
+          "**8. Brain dump page.** A large empty box with three small lines at the bottom for \"actions\".",
+          "**9. Prayer page.** Verse, thanks, requests and answered prayers. Use our [prayer journal template](/prayer-journal-template/).",
+          "**10. Kids diary page.** Big boxes and simple questions. Try the [diary template for kids](/diary-template-kids/)."
+        ]}
+      ]
+    },
+    {
+      "h2": "Printable journal paper: lined, dotted, grid and blank",
+      "blocks": [
+        {"table": {
+          "head": ["Paper", "Looks like", "Best for"],
+          "rows": [
+            ["Lined", "Horizontal lines", "Writing full entries"],
+            ["Dotted", "A grid of small dots", "Bullet journals and layouts"],
+            ["Grid", "Small squares", "Trackers, charts and neat lists"],
+            ["Blank", "No lines", "Drawing, collage and art journals"],
+            ["Half lined", "Blank top, lines below", "Kids diaries and sketch plus write"]
+          ]
+        }},
+        {"p": "For bullet journal style spreads, see [bullet journal ideas](/bullet-journal-ideas/). For more layouts on any paper, browse [journal page ideas](/journal-page-ideas/)."}
+      ]
+    },
+    {
+      "h2": "Tips for printing and binding journal pages",
+      "blocks": [
+        {"ul": [
+          "**Paper weight.** Normal printer paper is fine for pen. Use thicker paper or card stock if you use markers.",
+          "**Double sided.** Print the daily page on both sides to save paper and make a thinner binder.",
+          "**Binder.** A small ring binder lets you add pages any time. Add tabbed dividers for each month.",
+          "**Disc binding.** Disc binders let you move pages around like a notebook.",
+          "**Staple a booklet.** Fold a stack of pages in half and staple the fold for a simple monthly journal.",
+          "**Keep a cover page.** Print a plain sheet with your name and the year on it for the front."
+        ]}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Are these printable journal pages free?", "a": "Yes. You can fill in the weekly page online, print it and save it as a PDF for free. No sign up and no email needed. You can print as many copies as you like for personal use."},
+    {"q": "How do I print journal pages?", "a": "Press the Print button on the page. Choose your printer to get paper copies, or choose Save as PDF to keep a digital file. Print several blank copies at once so you always have one ready."},
+    {"q": "What paper is best for printable journal pages?", "a": "Standard printer paper works for pens and pencils. If you use markers, highlighters or paint, a heavier paper or light card stock stops ink from bleeding through."},
+    {"q": "How do I turn printable pages into a journal?", "a": "The easiest way is a ring binder with tabbed dividers. You can also use a disc binding system, staple a folded stack into a booklet, or take pages to a print shop for spiral binding."},
+    {"q": "What should I put on a printable journal page?", "a": "A date and four to seven simple questions, such as best moment, hardest moment, gratitude, what I learned and next week's focus. Keep the boxes big enough to write a few lines in each."}
+  ]
+}

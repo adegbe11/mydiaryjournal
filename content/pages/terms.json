@@ -1,0 +1,60 @@
+{
+  "slug": "terms",
+  "type": "plain",
+  "title": "Terms of Use · My Diary Journal",
+  "description": "The terms for using My Diary Journal, a free online diary with journal prompts, templates and guides. Simple, plain rules for using the site.",
+  "h1": "Terms of use",
+  "crumb": "Terms",
+  "eyebrow": "Effective October 11, 2026",
+  "intro": "By using My Diary Journal you agree to these simple terms.",
+  "sections": [
+    {
+      "h2": "Using the site",
+      "blocks": [
+        {
+          "p": "You may use the diary, prompts and templates for free for personal use, and print pages for yourself, your family, your class or your church group."
+        }
+      ]
+    },
+    {
+      "h2": "Your writing",
+      "blocks": [
+        {
+          "p": "What you write belongs to you and stays on your device. Because we never receive it, we cannot recover it if your browser data is cleared. Keep copies of anything important."
+        }
+      ]
+    },
+    {
+      "h2": "Our content",
+      "blocks": [
+        {
+          "p": "The guides, prompts and templates on this site are ours. Please do not copy them to another website. Bible verses are from the King James Version, which is in the public domain."
+        }
+      ]
+    },
+    {
+      "h2": "Not professional advice",
+      "blocks": [
+        {
+          "p": "Our journaling guides are for general wellbeing. They are not medical, mental health or legal advice. If you are struggling, please talk to a doctor, counselor or someone you trust. In an emergency, call your local emergency number."
+        }
+      ]
+    },
+    {
+      "h2": "No warranty",
+      "blocks": [
+        {
+          "p": "The site is provided as it is, without any warranty. We are not liable for any loss of data or other harm from using it."
+        }
+      ]
+    },
+    {
+      "h2": "Contact",
+      "blocks": [
+        {
+          "p": "AseinCollins@gmail.com"
+        }
+      ]
+    }
+  ]
+}

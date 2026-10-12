@@ -1,0 +1,134 @@
+{
+  "slug": "prayer-journal-for-men",
+  "keyword": "prayer journal for men",
+  "type": "template",
+  "title": "Prayer Journal for Men: Free Template and Prompts",
+  "description": "A free prayer journal for men: a simple fill-in page plus prayer prompts for faith, family, work, purpose and temptation. Write online or print it.",
+  "h1": "Prayer journal for men",
+  "crumb": "Prayer journal for men",
+  "card": "Simple pages, real prayers",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for men is a simple place to write down what you are reading in the Bible, what you are thankful for, and what you are asking God for, in your own plain words. Use the free page below to write today's prayer, then use the prompts by area of life when you are not sure where to start.",
+  "template": {
+    "key": "prayer-journal-for-men",
+    "name": "Today with God",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "What I read", "hint": "Book, chapter, verse", "lines": 2},
+      {"label": "What it says to me", "hint": "One thing to act on today", "lines": 2},
+      {"label": "Thank You for", "hint": "Three things", "lines": 2},
+      {"label": "I need to confess", "hint": "Be honest. He already knows.", "lines": 2},
+      {"label": "Praying for my family and friends", "hint": "Names and needs", "lines": 3},
+      {"label": "Praying for my work and calling", "hint": "Decisions, people, provision", "lines": 2},
+      {"label": "One step of obedience today", "hint": "Call, apologize, give, serve...", "lines": 1}
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why a prayer journal helps men pray",
+      "blocks": [
+        {"p": "Many men find it hard to pray for more than a minute. The mind drifts to work, bills or the game. Writing slows you down. It keeps your prayer on track and gives you a record of what God has done."},
+        {"ul": [
+          "**It is concrete.** You write a name and a need. You can see it on the page.",
+          "**It keeps you honest.** Confession on paper is harder to dodge.",
+          "**It builds a track record.** When God answers, you write it down. Over the years that page becomes proof of His faithfulness.",
+          "**It is short.** Ten minutes before work is enough."
+        ]},
+        {"verse": "1 Corinthians 16:13"}
+      ]
+    },
+    {
+      "h2": "How to use this prayer journal for men",
+      "blocks": [
+        {"steps": [
+          {"name": "Pick a time and stick to it", "text": "Before the house wakes up, in the truck before work, or on your lunch break. Same time every day makes it a habit."},
+          {"name": "Read first", "text": "One chapter of Proverbs, a psalm, or a few verses from a gospel. Write the reference in the first box."},
+          {"name": "Fill in each box", "text": "Keep it short. A few words per line is fine."},
+          {"name": "Do the one step", "text": "The last box is an action. Prayer and obedience go together."},
+          {"name": "Review on Sunday", "text": "Read the week's pages and mark answered prayers. Your entries save on this device, or you can print them."}
+        ]},
+        {"tip": "Want a different setup? The [ACTS prayer journal](/prayer-journal-acts/) and the general [prayer journal template](/prayer-journal-template/) also work well."}
+      ]
+    },
+    {
+      "h2": "Prayer prompts for men by area of life",
+      "blocks": [
+        {"h3": "Your walk with God"},
+        {"ul": [
+          "Where have I been running my life without asking God?",
+          "What is one sin I keep coming back to? Ask for strength and someone to tell.",
+          "Lord, make me hungry for Your Word again.",
+          "What would it look like to follow Jesus fully at work this week?"
+        ]},
+        {"h3": "Your marriage or future marriage"},
+        {"ul": [
+          "Pray for your wife by name: her health, her heart, her friendships, her walk with God.",
+          "Ask God to show you one way to serve her this week without being asked.",
+          "Confess any way you have been harsh, distant or distracted at home.",
+          "If you are single, pray for your future wife and for the man you are becoming."
+        ]},
+        {"h3": "Your children"},
+        {"ul": [
+          "Pray for each child by name and for one thing they are facing right now.",
+          "Ask God to make you a father they can trust and come to.",
+          "Pray that they would know Jesus for themselves, not just because you do.",
+          "Ask for patience in the moments you are most likely to lose it."
+        ]},
+        {"h3": "Work, money and provision"},
+        {"ul": [
+          "Thank God for your job, or ask Him for one if you are looking.",
+          "Pray for your boss, coworkers or customers by name.",
+          "Ask for integrity when no one is checking.",
+          "Bring your money worries to Him plainly: debt, bills, a big decision."
+        ]},
+        {"h3": "Purpose and leadership"},
+        {"ul": [
+          "What has God put in front of me to lead: a family, a team, a small group, a younger man?",
+          "Ask for wisdom on a decision you have been putting off.",
+          "Pray for courage to speak up when something is wrong."
+        ]},
+        {"h3": "Temptation, anger and the mind"},
+        {"ul": [
+          "Name the temptation that is strongest right now. Ask God for a way out and a plan.",
+          "Where did anger show up this week? What was underneath it?",
+          "Pray for a clean mind and for guard rails on your phone and screens."
+        ]},
+        {"h3": "Brothers and friends"},
+        {"ul": [
+          "Pray for the men in your life by name. Who is struggling?",
+          "Ask God for one friend who will be honest with you.",
+          "Pray for a man you can encourage or mentor."
+        ]},
+        {"verse": "Proverbs 27:17"}
+      ]
+    },
+    {
+      "h2": "A filled in example",
+      "blocks": [
+        {"p": "Here is what one page might look like. Short is fine."},
+        {"example": {"label": "Today with God", "date": "Tuesday, May 6", "title": "Lord,", "text": "Read: Proverbs 15. Verse 1 hit me hard.\nTo me: stop raising my voice at the kids.\nThank You for work, for Sarah, for my truck starting.\nConfess: I was proud in the meeting yesterday.\nPraying for: Sarah's mom, Jake's ankle, Tom's job hunt.\nWork: wisdom on the Henderson bid.\nStep: call Tom tonight."}}
+      ]
+    },
+    {
+      "h2": "Tips for keeping it going",
+      "blocks": [
+        {"ul": [
+          "**Keep it simple.** No need for colored pens or long paragraphs.",
+          "**Pair it with a plan.** Read one chapter of Proverbs a day, matching the date. That gives you a full month of reading.",
+          "**Pray with your wife or a friend once a week.** Share one page if you are comfortable.",
+          "**Start again after a miss.** Missing a day is not failing. Just write today's date and go.",
+          "**Use prompts when you are stuck.** See our list of [prayer journal prompts](/prayer-journal-prompts/)."
+        ]},
+        {"p": "Want more on the basics? Read [how to start a prayer journal](/how-to-start-a-prayer-journal/) or see some [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "Do men keep prayer journals?", "a": "Yes. Many men in Scripture and church history wrote down their prayers and what God was teaching them. Journaling is not a women's habit. It is a tool for anyone who wants to pray with more focus. Many men like it because it is practical and gives them a clear record of answered prayer."},
+    {"q": "What should a man write in a prayer journal?", "a": "Start with what you read in the Bible and one thing it says to you. Then write thanks, any confession, and prayers for your wife, children, friends and work. Add one step of obedience for the day. The page above gives you boxes for each part."},
+    {"q": "How long should a man spend journaling his prayers?", "a": "Five to fifteen minutes is enough for most men. The goal is to meet with God regularly, not to fill pages. A short, daily habit will do more than a long session once a month."},
+    {"q": "What is a good Bible book for men to journal through?", "a": "Proverbs is a great start because it has 31 chapters, one for each day of the month, and it speaks to work, money, anger, friendship and wisdom. The gospel of Mark and the book of James are also short and practical."},
+    {"q": "Is my prayer journal page private?", "a": "Yes. What you type on this page is saved in your browser on this device only. Nothing is sent to us and there is no account. Print or save a PDF if you want to keep a copy."}
+  ],
+  "related": ["prayer-journal-template", "prayer-journal-prompts", "prayer-journal-acts", "how-to-start-a-prayer-journal", "prayer-journal-for-your-children", "bible-journal"]
+}

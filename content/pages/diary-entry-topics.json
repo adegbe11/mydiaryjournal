@@ -1,0 +1,243 @@
+{
+  "slug": "diary-entry-topics",
+  "keyword": "diary entry topics",
+  "type": "prompts",
+  "title": "Diary Entry Topics: 120 Ideas by Class and Theme",
+  "description": "120 diary entry topics grouped by age and class (including class 6), school life, family, festivals, nature and imagination. Pick one and write it right here.",
+  "h1": "Diary entry topics: 120 ideas by class and theme",
+  "crumb": "Diary entry topics",
+  "card": "120 topics for any class",
+  "eyebrow": "Diary guides",
+  "intro": "Good diary entry topics are about one event with a clear feeling, like winning a race, a rainy day, a fight with a friend or a school trip. Below are 120 diary entry topics sorted by age and school level first, then by theme. Press **Write** next to a topic to practice it in the diary at the top.",
+  "writer": {"title": "Dear Diary,", "hint": "Pick a topic and write your diary entry", "kind": "diary-entry-topics"},
+  "related": ["diary-entry-examples", "how-to-write-a-diary-entry", "diary-entry-format", "diary-ideas", "journal-prompts-for-kids", "journal-prompts-for-teens"],
+  "sections": [
+    {
+      "h2": "How to choose a diary entry topic",
+      "blocks": [
+        {"p": "If your teacher gives you a topic, use that one. If you can choose, pick a topic where something **happened** and you **felt** something about it. Those make the strongest entries, because a diary entry is about your experience and your emotions."},
+        {"ul": [
+          "**Pick something real** if you can. Real memories give you real details.",
+          "**Pick one event,** not a whole week.",
+          "**Pick a clear feeling:** proud, scared, embarrassed, grateful, guilty, excited.",
+          "**Check the format.** Date, day and time, Dear Diary, body, closing, signature. See the [diary entry format](/diary-entry-format/)."
+        ]},
+        {"starters": [
+          {"name": "A proud moment", "text": "A time you did something you did not think you could.", "title": "The day I surprised myself", "hint": "Today I finally..."},
+          {"name": "A school event", "text": "Sports day, a trip, a play or a science fair.", "title": "Our school event", "hint": "Today our school held..."},
+          {"name": "A lesson learned", "text": "A mistake and what it taught you.", "title": "What I learned today", "hint": "I made a mistake today..."}
+        ]}
+      ]
+    },
+    {
+      "h2": "Diary entry topics for young children (ages 6 to 8)",
+      "blocks": [
+        {"p": "Short, simple topics about everyday things. Five to eight sentences is plenty."},
+        {"prompts": [
+          "My first day at school this year.",
+          "A day at the park.",
+          "My birthday party.",
+          "My favorite toy.",
+          "The day I lost my first tooth.",
+          "A rainy day at home.",
+          "My pet and what it did today.",
+          "Playing with my best friend.",
+          "A visit to Grandma and Grandpa.",
+          "The day I learned to ride a bike.",
+          "My favorite food and who made it.",
+          "A trip to the zoo.",
+          "The day I helped Mom or Dad at home.",
+          "A fun day at the beach.",
+          "What I did on the weekend."
+        ], "start": 1}
+      ]
+    },
+    {
+      "h2": "Diary entry topics for ages 8 to 11 (upper primary)",
+      "blocks": [
+        {"p": "A bit more detail, a clear feeling, and a closing thought. About 80 to 120 words."},
+        {"prompts": [
+          "The day I won a prize at school.",
+          "My school picnic.",
+          "The day I got lost in a shopping mall.",
+          "A visit to a museum.",
+          "The day my friend moved away.",
+          "My first time on a plane or a train.",
+          "A day I was sick and stayed home.",
+          "Our class play or concert.",
+          "The day our new puppy or kitten came home.",
+          "A time I told the truth even though it was hard.",
+          "My favorite festival and how we celebrated it.",
+          "A day the power went out.",
+          "Cooking something new with my family.",
+          "The day I made a new friend.",
+          "A storm I will never forget."
+        ], "start": 16}
+      ]
+    },
+    {
+      "h2": "Diary entry topics for class 6, 7 and 8",
+      "blocks": [
+        {"p": "These topics are the kind often set in middle school English classes, including diary entry topics for class 6. Aim for about 100 to 150 words and include your feelings and what you learned. Follow your teacher's word limit."},
+        {"prompts": [
+          "You won the inter school quiz competition.",
+          "Your first day in a new school after moving to a new city.",
+          "A school trip to a historical monument.",
+          "The day you were made class monitor.",
+          "Your experience of planting a tree on Environment Day.",
+          "A day you were scolded unfairly.",
+          "Your visit to an orphanage or old age home.",
+          "The annual sports day at your school.",
+          "Your feelings on the last day of summer vacation.",
+          "A science exhibition where you presented a project.",
+          "The day you broke something precious at home.",
+          "Your experience of helping an injured animal.",
+          "A family wedding you attended.",
+          "Your first time staying away from home overnight.",
+          "Your feelings after a disappointing exam result.",
+          "A day spent without your phone or TV.",
+          "The day you stood up for a classmate who was being teased.",
+          "Your experience at a book fair.",
+          "A visit to a farm or a village.",
+          "The day you met someone you admire."
+        ], "start": 31}
+      ]
+    },
+    {
+      "h2": "Diary entry topics for high school (class 9 to 12)",
+      "blocks": [
+        {"p": "Older students are usually expected to reflect more deeply. Show how the event changed your thinking, not just what happened."},
+        {"prompts": [
+          "The night before your board exams.",
+          "The day your results were announced.",
+          "Choosing your stream or subjects, and the pressure you felt.",
+          "Your farewell day at school.",
+          "Volunteering for a cleanliness or charity drive.",
+          "Your experience of a power cut during exam preparation.",
+          "A debate or speech competition where you represented your school.",
+          "Your thoughts after watching a documentary on climate change.",
+          "A day you saw an accident and helped the victims.",
+          "Your first part time job or internship.",
+          "A disagreement with your parents about your future.",
+          "Learning that a close friend was going through a hard time.",
+          "The day you failed at something and what it taught you.",
+          "Your experience of a natural disaster, such as a flood or earthquake.",
+          "Your feelings about leaving school and starting a new chapter."
+        ], "start": 51}
+      ]
+    },
+    {
+      "h2": "Diary entry topics about school life",
+      "blocks": [
+        {"prompts": [
+          "A teacher who changed how you feel about a subject.",
+          "A group project that went wrong.",
+          "The funniest thing that happened in class this year.",
+          "Your school's annual day function.",
+          "A field trip that did not go as planned.",
+          "Your first time speaking on stage in the assembly.",
+          "The day a new student joined your class.",
+          "Getting detention, and what led to it.",
+          "Winning or losing an inter house match.",
+          "The last day before the winter break.",
+          "Your school library and a book you found there."
+        ], "start": 66}
+      ]
+    },
+    {
+      "h2": "Diary entry topics about family and friends",
+      "blocks": [
+        {"prompts": [
+          "A fight with your best friend and how you made up.",
+          "The day a new baby joined your family.",
+          "A grandparent's stories about the old days.",
+          "A family movie night.",
+          "The day your sibling helped you out.",
+          "A surprise party you planned for someone.",
+          "Missing a family member who lives far away.",
+          "A friend who stood by you when you needed it.",
+          "Your parents' anniversary and how you celebrated.",
+          "A day you spent with a cousin you had not seen in years.",
+          "Feeling left out by your friends."
+        ], "start": 77}
+      ]
+    },
+    {
+      "h2": "Diary entry topics about special days and festivals",
+      "blocks": [
+        {"prompts": [
+          "Your favorite festival this year, such as Diwali, Eid, Christmas, Lunar New Year or Thanksgiving.",
+          "New Year's Eve and your resolutions.",
+          "Independence Day at your school.",
+          "The best day of your life.",
+          "Your most memorable birthday.",
+          "The day your family moved to a new house.",
+          "A day when everything went wrong.",
+          "A happy surprise you did not expect.",
+          "Your first day of summer vacation.",
+          "A day you helped someone in need.",
+          "The day you received an award."
+        ], "start": 88}
+      ]
+    },
+    {
+      "h2": "Diary entry topics about nature and the weather",
+      "blocks": [
+        {"prompts": [
+          "A rainy day and how you spent it.",
+          "The first snowfall of the year.",
+          "A very hot summer day.",
+          "Watching the sunrise or sunset.",
+          "A walk in the forest or hills.",
+          "A visit to a zoo or wildlife park.",
+          "A thunderstorm at night.",
+          "A day at a river, lake or waterfall.",
+          "Seeing a rainbow.",
+          "Spending a night camping under the stars.",
+          "A day spent gardening."
+        ], "start": 99}
+      ]
+    },
+    {
+      "h2": "Diary entry topics for imagination and any topic",
+      "blocks": [
+        {"p": "Some teachers set a \"diary entry on any topic\" task. These make fun choices, or use any topic from this page."},
+        {"prompts": [
+          "A day when you woke up as your teacher.",
+          "You found a secret door in your house.",
+          "You traveled back in time for one day.",
+          "Your pet could talk for an hour.",
+          "A day as the leader of your country.",
+          "You spent a day on the moon.",
+          "You became invisible after school.",
+          "A day in the life of your school bag.",
+          "You met your future self.",
+          "You were stuck in a lift for two hours.",
+          "You won a ticket to visit any country in the world."
+        ], "start": 110},
+        {"tip": "Imaginary topics still use the normal format. Write as if it really happened to you, with a date, Dear Diary, your feelings and a closing thought."}
+      ]
+    },
+    {
+      "h2": "Tips for writing on any diary entry topic",
+      "blocks": [
+        {"ol": [
+          "**Plan for one minute.** Jot down what happened, two details and the main feeling.",
+          "**Open with your mood.** \"I have never felt so nervous in my life.\"",
+          "**Tell it in order** using the past tense.",
+          "**Show feelings** with specific words and small details.",
+          "**End with a thought** or a plan for the future.",
+          "**Check the format and word count** before you finish."
+        ]},
+        {"p": "See full sample answers in [how to write a diary entry](/how-to-write-a-diary-entry/) and our [diary entry examples](/diary-entry-examples/). Some topics above have their own example pages, like the [diary entry about a rainy day](/diary-entry-about-rainy-day/), the [diary entry about summer vacation](/diary-entry-about-summer-vacation/) and the [diary entry about helping someone in need](/diary-entry-helping-someone-in-need/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What are some good diary entry topics?", "a": "Good topics are single events with a strong feeling, such as winning a competition, a school trip, a rainy day, a birthday, a fight with a friend, exam results, helping someone in need or the first day at a new school. They give you something to describe and something to reflect on."},
+    {"q": "What are diary entry topics for class 6?", "a": "Common class 6 topics include winning a quiz, a school picnic, sports day, your first day at a new school, a visit to a historical place, planting a tree, a family wedding and your feelings on the last day of vacation. Aim for about 100 to 150 words."},
+    {"q": "How do I write a diary entry on any topic?", "a": "Pick an event with a clear feeling. Write the date, day and time, then Dear Diary. Open with your mood, tell what happened in the past tense, describe how you felt and why, and end with a closing thought and your name. Keep to the word limit."},
+    {"q": "Can a diary entry be imaginary?", "a": "Yes. Teachers sometimes ask for imaginary diary entries, like a day on the moon or a day as your teacher. Use the normal format and write as if it really happened, with feelings and details, so it reads like a real diary entry."},
+    {"q": "How long should a diary entry be for school?", "a": "Younger children often write five to eight sentences. Middle school students usually write around 100 to 150 words, and older students 150 to 200. These are typical ranges, so always follow the word limit in your question or from your teacher."}
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "slug": "daily-journal",
+  "keyword": "daily journal",
+  "type": "tool",
+  "title": "Daily Journal: Free Online, With 50 Daily Questions",
+  "description": "Keep a free daily journal online with no sign up. Write here, use 50 daily journal questions to ask yourself, and follow a simple 5 minute routine.",
+  "h1": "Daily journal",
+  "crumb": "Daily journal",
+  "card": "50 daily questions",
+  "eyebrow": "Write online",
+  "intro": "A **daily journal** is a few minutes each day spent writing about how you are, what happened and what you want next. Write in the free journal below with no sign up, or tap Write next to any of the 50 daily journal questions on this page to start with one. Pages save on this device.",
+  "writer": {
+    "title": "Today's check-in",
+    "hint": "How am I, really? Or tap Write next to a question below.",
+    "kind": "daily-journal"
+  },
+  "related": [
+    "daily-journal-prompts",
+    "daily-diary",
+    "morning-journal-prompts",
+    "journal-prompts-before-bed",
+    "reflective-journal",
+    "online-journal-free"
+  ],
+  "sections": [
+    {
+      "h2": "What is a daily journal and why keep one?",
+      "blocks": [
+        {
+          "p": "A daily journal is a short check-in with yourself, written most days. It is different from a [daily diary](/daily-diary/), which mostly records events. A daily journal asks questions: How am I? What matters today? What did I learn?"
+        },
+        {
+          "p": "Research on expressive writing has found that putting thoughts and feelings into words can help some people handle stress and think more clearly. You do not need a long session to get something out of it. A few honest minutes most days is enough for many people."
+        },
+        {
+          "ul": [
+            "**Clearer head.** Worries on paper feel smaller than worries in your head.",
+            "**Better days.** A morning question helps you choose what matters.",
+            "**Self-knowledge.** Over weeks you see what drains you and what lifts you.",
+            "**A record of growth.** Rereading old entries shows how far you have come."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A simple daily journal routine",
+      "blocks": [
+        {
+          "p": "Pick one of these three formats and use it every day. Same questions each day make it easy to start and easy to compare later."
+        },
+        {
+          "starters": [
+            {
+              "name": "Morning three",
+              "text": "Set up the day",
+              "title": "Morning",
+              "hint": "I feel... Today I want to... One thing I am looking forward to..."
+            },
+            {
+              "name": "Evening three",
+              "text": "Close the day",
+              "title": "Evening",
+              "hint": "Best part of today... What I learned... What I will do tomorrow..."
+            },
+            {
+              "name": "One minute",
+              "text": "For busy days",
+              "title": "Today in a sentence",
+              "hint": "One sentence about today..."
+            }
+          ]
+        },
+        {
+          "steps": [
+            {
+              "name": "Choose morning or evening",
+              "text": "Morning journaling sets your intention. Evening journaling helps you let the day go. Either works."
+            },
+            {
+              "name": "Answer the same three questions",
+              "text": "Use a starter card above, or pick three questions from the lists below and keep them."
+            },
+            {
+              "name": "Add one free line",
+              "text": "After your questions, write anything else on your mind."
+            },
+            {
+              "name": "Stop at five minutes",
+              "text": "Short sessions are easier to repeat. You can always write more on good days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "A daily journal page layout you can copy",
+      "blocks": [
+        {
+          "p": "If you like structure, use the same layout every day. Here is a simple one that takes about five minutes."
+        },
+        {
+          "example": {
+            "label": "Daily journal",
+            "date": "Thursday, October 9",
+            "title": "Daily check-in",
+            "text": "Mood: 6 out of 10, a bit tired.\nGrateful for: warm socks, Dee's text, a quiet bus.\nMost important today: finish the budget.\nOne worry: the car noise. I will call the shop.\nTonight: best part was dinner with no phones."
+          }
+        },
+        {
+          "p": "Want a fill-in version you can print? Try our [journal template](/journal-template/) or [printable journal pages](/printable-journal-pages/)."
+        }
+      ]
+    },
+    {
+      "h2": "Daily journal questions to ask yourself in the morning",
+      "blocks": [
+        {
+          "prompts": [
+            "How did I sleep, and how does my body feel right now?",
+            "What is the one thing that would make today a good day?",
+            "What am I looking forward to today, even something small?",
+            "What might get in my way today, and how will I handle it?",
+            "Who could I make a little happier today?",
+            "What am I worried about, and is it something I can control?",
+            "What do I want to say no to today?",
+            "How do I want to feel at the end of today?",
+            "What is one kind thing I can do for myself today?",
+            "If today were the only day this week I got to work on my goal, what would I do?"
+          ],
+          "start": 1
+        }
+      ]
+    },
+    {
+      "h2": "Evening daily journal questions",
+      "blocks": [
+        {
+          "prompts": [
+            "What was the best moment of today?",
+            "What was the hardest moment, and how did I get through it?",
+            "What did I do today that I am proud of?",
+            "What did I learn today, about anything?",
+            "Who did I talk to today, and how did it make me feel?",
+            "What drained my energy today? What gave me energy?",
+            "Is there anything I need to let go of before I sleep?",
+            "What would I do differently if I lived today again?",
+            "What made me laugh or smile?",
+            "What is one thing I want to remember from today in a year?"
+          ],
+          "start": 11
+        }
+      ]
+    },
+    {
+      "h2": "Daily journal questions for feelings",
+      "blocks": [
+        {
+          "prompts": [
+            "What emotion did I feel most today, and where did I feel it in my body?",
+            "What triggered a strong reaction in me today?",
+            "What am I avoiding thinking about?",
+            "What do I need right now that I am not getting?",
+            "When did I feel most like myself today?",
+            "What would I tell a friend who had my exact day?",
+            "What am I carrying that is not mine to carry?",
+            "What is one feeling I can name without judging it?",
+            "Who do I miss right now, and why?",
+            "What helped me feel calm today?"
+          ],
+          "start": 21
+        },
+        {
+          "tip": "A daily journal can help you notice your feelings, but it is not a replacement for professional care. If you are in crisis, contact local emergency services. In the US, call or text 988."
+        }
+      ]
+    },
+    {
+      "h2": "Daily journal questions for growth and goals",
+      "blocks": [
+        {
+          "prompts": [
+            "What small step did I take toward a goal today?",
+            "What habit am I building, and did I do it today?",
+            "What excuse did I hear myself make today?",
+            "What did I spend time on that does not matter to me?",
+            "What is one thing I can do tomorrow to make life easier for future me?",
+            "What did I try today that was new or a little scary?",
+            "Where did I keep a promise to myself today?",
+            "What would I do this week if I were not afraid of failing?",
+            "Who inspired me lately, and what can I learn from them?",
+            "What does a great week look like for me right now?"
+          ],
+          "start": 31
+        }
+      ]
+    },
+    {
+      "h2": "Daily journal questions for gratitude",
+      "blocks": [
+        {
+          "prompts": [
+            "What are three specific things I am grateful for today?",
+            "Who made my day better, and did I tell them?",
+            "What simple thing do I usually take for granted?",
+            "What part of my home am I thankful for today?",
+            "What did my body let me do today?",
+            "What problem did I not have today?",
+            "What memory from this week do I want to keep?",
+            "What small comfort did I enjoy today?",
+            "What is going better now than a year ago?",
+            "What made today different from yesterday?"
+          ],
+          "start": 41
+        },
+        {
+          "p": "Want a whole page on this? See our [gratitude journal](/gratitude-journal/) and [gratitude journal prompts](/gratitude-journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "Keep your daily journal here",
+      "blocks": [
+        {
+          "ul": [
+            "**Free and no sign up.** No account, no email.",
+            "**Saved on this device.** Entries stay in this browser. We never see them.",
+            "**All your days in one place.** Tap My pages to read past entries, or tap Delete to remove one.",
+            "**PIN lock.** Keeps the journal closed on a shared device. It is not encryption.",
+            "**Print or Save as PDF.** Keep copies of your favorite entries.",
+            "**No syncing.** Each device keeps its own entries. Pick one device for your journal.",
+            "**Home screen icon.** Add the site to your home screen and it opens like an app."
+          ]
+        },
+        {
+          "p": "Prefer more variety? Try [daily journal prompts](/daily-journal-prompts/), [morning journal prompts](/morning-journal-prompts/) or [journal prompts before bed](/journal-prompts-before-bed/)."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for a daily journal habit",
+      "blocks": [
+        {
+          "ol": [
+            "**Keep the same questions for a month.** Then you can see how your answers change.",
+            "**Write before your phone.** Morning journaling works best before you check messages.",
+            "**Be honest, not impressive.** This is for you.",
+            "**Small is fine.** One line counts as a daily journal entry.",
+            "**Read last week's entries on Sunday.** You will notice patterns quickly."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I write in a daily journal?",
+      "a": "Write how you feel, what happened, and what you want next. A simple way is to answer the same three questions each day, such as what was the best part of today, what did I learn, and what will I do tomorrow. Add any other thoughts after that."
+    },
+    {
+      "q": "What are good daily journal questions to ask yourself?",
+      "a": "Good daily questions are short and honest. Try: What would make today good? What am I worried about? What was the best moment today? What did I learn? What am I grateful for? Keep the same few questions for a while so you can see how your answers change."
+    },
+    {
+      "q": "How long should I journal each day?",
+      "a": "Five to ten minutes is enough for most people. Short sessions are easier to keep doing every day. On busy days one sentence still counts. On good days you can write as much as you want."
+    },
+    {
+      "q": "Is it better to journal in the morning or at night?",
+      "a": "Both work. Morning journaling helps you plan and set a mood for the day. Evening journaling helps you reflect and let go before sleep. Choose the time you can protect most often. Some people do a quick line in the morning and a longer entry at night."
+    },
+    {
+      "q": "Can I keep a daily journal online for free?",
+      "a": "Yes. This page is a free daily journal with no sign up. Entries save in your browser on this device. You can lock it with a PIN, read past entries in My pages, and print or save pages as PDFs. Entries do not sync between devices."
+    }
+  ]
+}

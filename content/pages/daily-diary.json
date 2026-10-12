@@ -1,0 +1,333 @@
+{
+  "slug": "daily-diary",
+  "keyword": "daily diary",
+  "type": "tool",
+  "title": "Daily Diary Online: Free, Private, With Examples",
+  "description": "Keep a daily diary online for free, with no sign up. Write today's page here, see daily diary writing examples, and learn a simple 5 minute routine.",
+  "h1": "Daily diary online",
+  "crumb": "Daily diary",
+  "card": "Write today's page",
+  "eyebrow": "Write online",
+  "intro": "A **daily diary** is a short, dated record of each day: what happened, who you saw and how you felt. You can keep one free right here, with no sign up. Write today's page below, and come back tomorrow for a new one. Your pages stay in this browser on this device.",
+  "writer": {
+    "title": "Dear diary,",
+    "hint": "What happened today? Start with the morning.",
+    "kind": "daily-diary"
+  },
+  "related": [
+    "daily-journal",
+    "one-line-a-day-journal",
+    "how-to-write-a-diary-entry",
+    "diary-entry-examples",
+    "diary-entry-format",
+    "online-journal-free"
+  ],
+  "sections": [
+    {
+      "h2": "Ways to start today's page",
+      "blocks": [
+        {
+          "p": "Tap a card to open a new page in the daily diary above with a title and a hint."
+        },
+        {
+          "starters": [
+            {
+              "name": "Morning to night",
+              "text": "Tell the day in order",
+              "title": "Dear diary,",
+              "hint": "This morning... In the afternoon... Tonight..."
+            },
+            {
+              "name": "Best and hardest",
+              "text": "Two moments that mattered",
+              "title": "Today",
+              "hint": "The best part of today was... The hardest part was..."
+            },
+            {
+              "name": "Quick five",
+              "text": "Five lines and done",
+              "title": "Today in five lines",
+              "hint": "Weather... Saw... Ate... Felt... Remember..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a daily diary",
+      "blocks": [
+        {
+          "p": "A daily diary works best when it is small enough to do every day. Five minutes is plenty."
+        },
+        {
+          "steps": [
+            {
+              "name": "Pick your time",
+              "text": "Most people write at night, when the day is complete. Others write the next morning with coffee. Pick one and keep it."
+            },
+            {
+              "name": "Write the date",
+              "text": "The diary above adds it for you. Dates are what make a diary a diary."
+            },
+            {
+              "name": "Tell the day in order",
+              "text": "Morning, afternoon, evening. Two or three sentences each is enough."
+            },
+            {
+              "name": "Add one feeling",
+              "text": "How did today feel overall? One word or one line."
+            },
+            {
+              "name": "Save one detail",
+              "text": "A smell, a joke, a sentence someone said. Details are what you will love rereading."
+            }
+          ]
+        },
+        {
+          "tip": "Missed a day? Do not go back and fill it in. Just write today. A daily diary with gaps is still a diary."
+        },
+        {
+          "p": "For the full layout, see [diary entry format](/diary-entry-format/) and [how to write a diary entry](/how-to-write-a-diary-entry/)."
+        }
+      ]
+    },
+    {
+      "h2": "Daily diary writing examples",
+      "blocks": [
+        {
+          "p": "Here are real-life style daily diary examples for different people and days. Notice how short they are."
+        },
+        {
+          "example": {
+            "label": "Work day",
+            "date": "Monday, October 6",
+            "title": "Dear diary,",
+            "text": "Alarm did not go off. Ran for the bus and made it.\nBig meeting moved to Thursday, which is a relief.\nPasta for dinner. Called Grandma. She sounded tired.\nFeeling: a bit worried about her."
+          }
+        },
+        {
+          "example": {
+            "label": "Weekend",
+            "date": "Saturday, October 11",
+            "title": "Dear diary,",
+            "text": "Slept until nine. Pancakes with blueberries.\nTook the kids to the park. Sam finally rode without help.\nHe yelled LOOK AT ME the whole way round.\nI want to remember that sound forever."
+          }
+        },
+        {
+          "example": {
+            "label": "Student",
+            "date": "Wednesday, October 8",
+            "title": "Dear diary,",
+            "text": "Math test today. I think I passed, maybe.\nLunch with Priya. We laughed at the new teacher's socks.\nBasketball practice was hard. My legs hurt.\nTomorrow: finish the science project."
+          }
+        },
+        {
+          "example": {
+            "label": "Hard day",
+            "date": "Thursday, October 9",
+            "title": "Dear diary,",
+            "text": "Did not get the job.\nCried in the car for a bit, then felt lighter.\nMade tea and watched an old movie.\nTomorrow I will apply for two more."
+          }
+        },
+        {
+          "example": {
+            "label": "Parent",
+            "date": "Tuesday, October 7",
+            "title": "Dear diary,",
+            "text": "Baby Rose stood up holding the couch for the first time.\nShe looked so proud, then sat down hard and laughed.\nI was too tired to cook, so we had cereal for dinner.\nWorth it."
+          }
+        },
+        {
+          "example": {
+            "label": "Travel day",
+            "date": "Friday, October 3",
+            "title": "Dear diary,",
+            "text": "Train to the coast at seven. Fog over the fields.\nFound a tiny bakery with warm cinnamon buns.\nWalked the pier until my nose went numb.\nBest seafood soup of my life. Back tomorrow."
+          }
+        },
+        {
+          "example": {
+            "label": "Gratitude style",
+            "date": "Sunday, October 12",
+            "title": "Dear diary,",
+            "text": "Quiet Sunday. Church, then lunch at Aunt Mel's.\nThankful for: her lemon cake, a long nap,\nand a call from Kim, who just got good news.\nGoing to bed early and happy."
+          }
+        },
+        {
+          "p": "See many more in [diary entry examples](/diary-entry-examples/), plus topic ideas like a [rainy day](/diary-entry-about-rainy-day/) or a [birthday](/diary-entry-birthday/)."
+        }
+      ]
+    },
+    {
+      "h2": "5 styles of daily diary entry",
+      "blocks": [
+        {
+          "p": "A daily diary does not have to sound the same every day. Switch between these styles to keep it fresh."
+        },
+        {
+          "table": {
+            "head": [
+              "Style",
+              "What you write",
+              "Try it when"
+            ],
+            "rows": [
+              [
+                "Story",
+                "The day in order, with details",
+                "Something happened"
+              ],
+              [
+                "Feelings",
+                "How you felt and why",
+                "The day was emotional"
+              ],
+              [
+                "Gratitude",
+                "Three things you are thankful for",
+                "You feel flat or low"
+              ],
+              [
+                "List",
+                "Ate, saw, read, heard, felt",
+                "You are tired"
+              ],
+              [
+                "Plan",
+                "What is next and one goal",
+                "Tomorrow feels busy"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Daily diary prompts for when your mind is blank",
+      "blocks": [
+        {
+          "p": "Tap **Write** on any question to start a page with it."
+        },
+        {
+          "prompts": [
+            "What is the first thing you remember about today?",
+            "Who did you talk to most today, and what about?",
+            "What was the best thing you ate or drank today?",
+            "What made you laugh or smile today?",
+            "What was the hardest moment of today?",
+            "What did you learn today, big or small?",
+            "What did you see on the way somewhere today?",
+            "What are you looking forward to tomorrow?",
+            "What is one thing from today you want to remember in ten years?",
+            "If today had a title, what would it be?"
+          ],
+          "start": 1
+        },
+        {
+          "p": "For many more, see [diary entry topics](/diary-entry-topics/) and [daily journal prompts](/daily-journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "Daily diary vs daily diary journal",
+      "blocks": [
+        {
+          "p": "A daily diary records what happened. A daily journal explores what you think. A **daily diary journal** does a little of both: a few lines about the day, then one question to reflect on."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Daily diary",
+              "Daily diary journal"
+            ],
+            "rows": [
+              [
+                "Focus",
+                "Events of the day",
+                "Events plus thoughts"
+              ],
+              [
+                "Length",
+                "3 to 8 lines",
+                "Half a page"
+              ],
+              [
+                "Ends with",
+                "A feeling or detail",
+                "A question or lesson"
+              ],
+              [
+                "Best for",
+                "Remembering your life",
+                "Remembering and growing"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Want questions to add? Our [daily journal](/daily-journal/) page has a list of daily questions to ask yourself."
+        }
+      ]
+    },
+    {
+      "h2": "Keep your daily diary online, privately",
+      "blocks": [
+        {
+          "ul": [
+            "**Free, no sign up.** Open this page and write. There is no account.",
+            "**Saved on this device.** Pages live in your browser. We never see them.",
+            "**Every day in one list.** Tap My pages to scroll back through your days, or tap Delete to remove a page.",
+            "**PIN lock.** Tap Lock to keep the diary closed on a shared computer. It is not encryption.",
+            "**Print or PDF.** Tap Print for one page, or choose Save as PDF to keep a copy.",
+            "**No syncing.** Pages written on one device stay on that device. Use the same one each day."
+          ]
+        },
+        {
+          "p": "Like an app on your phone? Add this site to your home screen and it gets its own icon. See [diary app](/diary-app/) for the steps."
+        }
+      ]
+    },
+    {
+      "h2": "Tips to write a daily diary every day",
+      "blocks": [
+        {
+          "ol": [
+            "**Make it tiny.** On busy days, write one line. Try a [one line a day journal](/one-line-a-day-journal/).",
+            "**Link it to a habit.** Write right after brushing your teeth at night.",
+            "**Keep it where you see it.** Put the diary on your phone's home screen.",
+            "**Write facts first.** Facts are easy. Feelings often follow on their own.",
+            "**Reread on Sundays.** Looking back at the week makes you want to keep going.",
+            "**Back up monthly.** Save a PDF of each month's best pages."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you write in a daily diary?",
+      "a": "Write the date, what happened in the morning, afternoon and evening, how you felt, and one detail you want to remember. A daily diary does not need to be long. Three to eight lines is plenty for most days, and a single line is fine on busy ones."
+    },
+    {
+      "q": "Can I keep a daily diary online for free?",
+      "a": "Yes. This page is a free daily diary online with no sign up or account. Write today's page above and tap New page tomorrow. Pages save in this browser on this device, and you can lock the diary with a PIN or print pages and save them as PDFs."
+    },
+    {
+      "q": "How long should a daily diary entry be?",
+      "a": "As long as you like, but short is easier to keep up. Most daily diary entries are three to eight sentences. Writing a little every day is better than writing a lot once in a while. If you only have a minute, one good sentence is enough."
+    },
+    {
+      "q": "When is the best time to write a daily diary?",
+      "a": "At night is most common, because the day is finished and you can see it all. Some people prefer the next morning, when they feel calmer. The best time is the one you can keep, so tie it to something you already do every day."
+    },
+    {
+      "q": "What if I miss a day in my daily diary?",
+      "a": "Just write today. There is no need to catch up or feel bad. Gaps are normal, and a diary with gaps still holds a lot of memories. If you miss often, make your entries smaller so they fit into even your busiest days."
+    },
+    {
+      "q": "What is a daily diary used for?",
+      "a": "A daily diary is used to remember your life, notice how you feel over time, and clear your head at the end of the day. Some people also use one to track sleep, meals, health or work. Reading back months later shows you patterns and memories you would otherwise forget."
+    }
+  ]
+}

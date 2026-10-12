@@ -1,0 +1,178 @@
+{
+  "slug": "bible-journal-questions-for-kids",
+  "keyword": "bible journal questions for kids",
+  "type": "prompts",
+  "title": "Bible Journal Questions for Kids: 75 Easy Questions",
+  "description": "75 Bible journal questions for kids, sorted by age and by Bible story, with tips for parents and teachers and a page kids can write or draw on. Free.",
+  "h1": "75 Bible journal questions for kids",
+  "crumb": "Bible questions for kids",
+  "card": "75 easy questions for kids",
+  "eyebrow": "Journal prompts",
+  "intro": "These **Bible journal questions for kids** are short, simple questions children can answer after reading a Bible story or verse. Younger kids can answer out loud or draw a picture, and older kids can write. Pick a question, press **Write**, and use the page below.",
+  "writer": {"title": "My Bible journal", "hint": "Today I read about...", "kind": "bible-journal-questions-for-kids"},
+  "related": ["prayer-journal-for-kids", "bible-journal-prompts", "bible-journal", "journal-prompts-for-kids", "how-to-journal-the-bible", "diary-for-kids"],
+  "sections": [
+    {
+      "h2": "How to use these Bible questions with kids",
+      "blocks": [
+        {"p": "Read a short Bible story or a few verses together. A children's Bible works well for little ones. Then ask one to three questions from this page. Let your child answer in their own words. There are no wrong answers when they are sharing what they noticed or felt."},
+        {"ul": [
+          "**Ages 4 to 6:** Ask one question. Let them draw the answer and tell you about it. You can write down their words.",
+          "**Ages 7 to 9:** Ask two questions. They can write a sentence or two and add a drawing.",
+          "**Ages 10 to 12:** Ask three questions, including one about how the story fits their own life."
+        ]},
+        {"starters": [
+          {"name": "Draw the story", "text": "A picture and one sentence", "title": "My Bible story picture", "hint": "Draw it on paper, then write one sentence here about it..."},
+          {"name": "Talk to God", "text": "A short letter to God", "title": "Dear God,", "hint": "Thank You for... Please help me..."},
+          {"name": "My verse", "text": "A verse to remember", "title": "My verse this week:", "hint": "Write the verse, then what it means..."}
+        ]},
+        {"verse": "Matthew 19:14"}
+      ]
+    },
+    {
+      "h2": "Easy Bible journal questions for any story",
+      "blocks": [
+        {"prompts": [
+          "Who is this story about?",
+          "Where does the story happen? Draw the place.",
+          "What is the most important thing that happens?",
+          "What is your favorite part of the story?",
+          "Was anyone in the story scared? What helped them?",
+          "What did God do in this story?",
+          "Who was brave in this story?",
+          "Who made a good choice? Who made a bad choice?",
+          "How do you think the people in the story felt?",
+          "What would you have done if you were there?",
+          "Draw a picture of the best part.",
+          "Tell the story in three sentences: beginning, middle and end."
+        ]}
+      ]
+    },
+    {
+      "h2": "Questions about God and Jesus",
+      "blocks": [
+        {"prompts": [
+          "What does this story teach us about God?",
+          "What is one word that describes God after this story?",
+          "How did Jesus help someone today in the story?",
+          "How does God show He loves people in this story?",
+          "What do you think Jesus' voice sounded like?",
+          "If you could ask Jesus one question, what would it be?",
+          "How is God like a good shepherd, a loving dad or a strong rock?",
+          "What is something God made that you love?",
+          "When do you feel close to God?",
+          "Why do you think Jesus told stories to teach people?",
+          "What does it mean that God is always with you?",
+          "Write or draw a thank you card to Jesus."
+        ], "start": 13}
+      ]
+    },
+    {
+      "h2": "Questions to help kids live it out",
+      "blocks": [
+        {"prompts": [
+          "What can you do this week because of this story?",
+          "Who can you be kind to tomorrow?",
+          "Is there someone you need to say sorry to?",
+          "How can you help at home this week without being asked?",
+          "When is it hard for you to be brave? What can you pray?",
+          "How can you share something with a friend?",
+          "Who can you tell about this Bible story?",
+          "What is one way you can obey your parents this week?",
+          "How can you show love to someone who is not nice to you?",
+          "What is one thing you can thank God for every morning?",
+          "How can you be a good friend like the people in this story?",
+          "What do you want to remember from this story when you go to school?"
+        ], "start": 25},
+        {"verse": "Ephesians 4:32"}
+      ]
+    },
+    {
+      "h2": "Bible journal questions for kids about favorite Bible stories",
+      "blocks": [
+        {"prompts": [
+          "**Creation (Genesis 1):** What would you have liked to see God make? Draw it.",
+          "**Noah's ark (Genesis 6 to 9):** How do you think Noah felt waiting in the ark? What did God promise with the rainbow?",
+          "**Joseph (Genesis 37 to 45):** How did Joseph forgive his brothers? Is there someone you can forgive?",
+          "**Baby Moses (Exodus 2):** Who helped keep baby Moses safe? Who keeps you safe?",
+          "**David and Goliath (1 Samuel 17):** What made David brave? What feels like a giant to you?",
+          "**Daniel and the lions (Daniel 6):** Why did Daniel keep praying? When do you pray?",
+          "**Jonah (Jonah 1 to 3):** Why did Jonah run away? What happened when he obeyed?",
+          "**Baby Jesus (Luke 2):** Who came to visit baby Jesus? What gift would you bring Him?",
+          "**Jesus calms the storm (Mark 4):** What scares you? How can Jesus help?",
+          "**Feeding 5,000 (John 6):** The boy shared his lunch. What can you share?",
+          "**The good Samaritan (Luke 10):** Who was a good neighbor? How can you be one?",
+          "**The lost sheep (Luke 15):** How does the shepherd feel when he finds the sheep? How does God feel about you?",
+          "**Zacchaeus (Luke 19):** How did Zacchaeus change after meeting Jesus?",
+          "**Easter (Luke 24):** How did Jesus' friends feel when they found out He was alive?",
+          "**Jesus and the children (Mark 10):** What would you say if you could sit with Jesus?"
+        ], "start": 37}
+      ]
+    },
+    {
+      "h2": "Bible verse questions for kids",
+      "blocks": [
+        {"p": "Use these when you read one verse instead of a whole story. Good first verses: Psalm 23:1, Psalm 56:3, Proverbs 3:5, John 3:16, Ephesians 4:32 and Philippians 4:13."},
+        {"prompts": [
+          "Write the verse in your best handwriting.",
+          "Circle the most important word. Why did you pick it?",
+          "Say the verse in your own words.",
+          "When could this verse help you?",
+          "Draw a picture that shows what the verse means.",
+          "Can you say the verse from memory three days in a row?",
+          "Who could you teach this verse to?",
+          "What does this verse tell you about God?",
+          "Make up hand motions for the verse and practice them.",
+          "Write a short prayer using the words of the verse."
+        ], "start": 52},
+        {"verse": "Psalm 56:3"}
+      ]
+    },
+    {
+      "h2": "Prayer journal questions for kids",
+      "blocks": [
+        {"prompts": [
+          "What are three things you are thankful for today?",
+          "Who do you want to pray for? Write their names.",
+          "Is anyone you know sick or sad? What can you ask God?",
+          "What are you worried about? Tell God about it.",
+          "What do you want to say sorry to God for?",
+          "What happy thing happened this week? Say thank you to God.",
+          "What do you hope God will help you with tomorrow?",
+          "Did God answer a prayer for you? Write what happened.",
+          "Write a prayer for your family.",
+          "Write a prayer for your school, your teacher and your friends.",
+          "What do you love about God? Tell Him.",
+          "Write a short bedtime prayer.",
+          "Who helped you today? Ask God to bless them.",
+          "Draw a picture of something God gave you today, then say thank you."
+        ], "start": 62},
+        {"p": "For more, see the [prayer journal for kids](/prayer-journal-for-kids/) and our [journal prompts for kids](/journal-prompts-for-kids/)."}
+      ]
+    },
+    {
+      "h2": "Tips for parents and teachers",
+      "blocks": [
+        {"ul": [
+          "**Keep it short.** Five to ten minutes is plenty for most kids.",
+          "**Let them draw.** Drawing is real journaling, especially for young children.",
+          "**Read together first.** Use a children's Bible for little ones and a simple translation for older kids.",
+          "**Listen more than you teach.** Ask, wait, and enjoy what they notice.",
+          "**Make it special.** Let kids decorate their journal cover with stickers or washi tape.",
+          "**Be consistent.** Same time each day, like after breakfast or at bedtime.",
+          "**Write with them.** Kids love seeing a parent or teacher journal too.",
+          "**Celebrate answered prayers.** Look back each month and thank God together."
+        ]},
+        {"tip": "This page saves writing in the browser on this device only. There is no account and nothing is shared. A grown-up can print pages or save them as a PDF to keep in a binder. Kids should use it with a parent or teacher nearby."},
+        {"p": "Grown-ups can find their own questions in [Bible journal prompts](/bible-journal-prompts/) and a simple study page in the [Bible journal](/bible-journal/) template."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What are good Bible journal questions for kids?", "a": "Simple questions work best. Who is the story about? What did God do? How did the people feel? What would you have done? What can you do this week because of this story? Young kids can answer by drawing, and older kids can write a few sentences."},
+    {"q": "How do I start a Bible journal with my child?", "a": "Get a notebook your child can decorate. Read a short Bible story together, then ask one or two questions from this page. Let them draw or write their answer, and finish with a short prayer. Try to do it at the same time each day, even for just five minutes."},
+    {"q": "What age can kids start Bible journaling?", "a": "Kids as young as four can start by drawing a picture of a Bible story while a parent writes down what they say. By seven or eight, most kids can write a sentence or two. By ten to twelve, they can answer deeper questions about how the story fits their life."},
+    {"q": "Which Bible stories are best for kids to journal about?", "a": "Creation, Noah's ark, David and Goliath, Daniel and the lions, Jonah, the birth of Jesus, Jesus calming the storm, the feeding of the 5,000, the lost sheep, Zacchaeus and Easter are all great. Each one has a clear lesson about God's love and care."},
+    {"q": "Should I correct my child's answers?", "a": "Gently, and only when it matters. If they get a fact of the story wrong, you can read that part again together. When they share how they feel or what they noticed, just listen and encourage them. The goal is to help them love God's Word."}
+  ]
+}

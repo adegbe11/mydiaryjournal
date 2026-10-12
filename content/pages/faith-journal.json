@@ -1,0 +1,144 @@
+{
+  "slug": "faith-journal",
+  "keyword": "faith journal",
+  "type": "template",
+  "title": "Faith Journal: Free Page, Ideas and 30 Prompts",
+  "description": "What a faith journal is, a free faith journal page to fill in and print, 30 faith journal prompts, 10 ideas, an example, and tips to keep writing.",
+  "h1": "Faith journal: free page, ideas and prompts",
+  "crumb": "Faith journal",
+  "card": "Remember what God has done",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "A **faith journal** is a notebook where you record your walk with God: what you are learning, what you are struggling with, what you are trusting Him for, and the ways He has been faithful. Use the free page below to write today's entry, then print it or keep it on this device.",
+  "template": {
+    "key": "faith-journal",
+    "name": "My faith journal",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "Where I am with God today", "hint": "Close, far, unsure, grateful...", "lines": 2},
+      {"label": "A verse I am holding onto", "hint": "Reference and why", "lines": 2},
+      {"label": "What I am learning", "hint": "From the Bible, church, a hard day", "lines": 3},
+      {"label": "What I am trusting God for", "hint": "The thing I cannot fix myself", "lines": 3},
+      {"label": "A question or doubt I bring to Him", "hint": "It is okay to ask", "lines": 2},
+      {"label": "God was faithful when", "hint": "A memory or something from this week", "lines": 3}
+    ]
+  },
+  "related": ["christian-journal-prompts", "devotional-journal", "bible-journal", "prayer-journal-ideas", "what-is-a-prayer-journal", "gratitude-journal"],
+  "sections": [
+    {
+      "h2": "What is a faith journal?",
+      "blocks": [
+        {"p": "A faith journal is a written record of your relationship with God over time. Where a [prayer journal](/prayer-journal/) holds mostly prayers and a [Bible journal](/bible-journal/) holds mostly study notes, a faith journal holds your story: the moments you felt close to God, the seasons you felt far away, the questions you wrestled with, and the answers that came."},
+        {"p": "Think of it as a memory book for your faith. In the Bible, God's people often set up stones or wrote things down so they would not forget what He had done. A faith journal does the same thing on paper."},
+        {"verse": "Joshua 4:6-7"}
+      ]
+    },
+    {
+      "h2": "How to use the faith journal page",
+      "blocks": [
+        {"steps": [
+          {"name": "Start with where you are", "text": "Write one honest line about how things are between you and God. No need to sound spiritual."},
+          {"name": "Add a verse", "text": "Pick one verse that is meaningful this week. Write the reference and a few words on why it matters."},
+          {"name": "Write what you are learning", "text": "It might come from Scripture, a sermon, a friend or a hard moment."},
+          {"name": "Name what you are trusting Him for", "text": "This is your faith in action. Write the date so you can come back to it."},
+          {"name": "Bring your questions", "text": "Doubts and questions belong in a faith journal. The Psalms are full of them."},
+          {"name": "Remember His faithfulness", "text": "End with one way God has come through, past or present. Then print the page or keep it here."}
+        ]},
+        {"verse": "Hebrews 11:1"}
+      ]
+    },
+    {
+      "h2": "Faith journal prompts",
+      "blocks": [
+        {"h3": "Your story with God"},
+        {"ol": [
+          "When did I first know God was real to me? Write the place, the time and who was there.",
+          "Which season of my life tested my faith the most?",
+          "Who has helped my faith grow, and what did they do?",
+          "What did I believe about God as a child that has changed?",
+          "Write about a church, camp or small group that shaped me.",
+          "What is a moment I knew God was with me, even though nothing changed outside?"
+        ]},
+        {"h3": "Trust and waiting"},
+        {"ol": [
+          "What am I waiting on God for right now? How long has it been?",
+          "What is hard about trusting Him with this?",
+          "What would I do differently if I fully believed He is good?",
+          "Which promise in Scripture fits this season?",
+          "Where have I tried to take control back after giving something to God?",
+          "Write a prayer of trust for the thing I fear most."
+        ]},
+        {"h3": "Questions and doubts"},
+        {"ol": [
+          "What question about God keeps coming back to me?",
+          "Is there a time I felt let down by God? Write it honestly.",
+          "Which Bible story confuses me, and what do I want to understand about it?",
+          "What would I ask Jesus if He sat across the table from me?",
+          "Who could I talk to about my doubts without feeling judged?",
+          "What do I still believe on my worst days?"
+        ]},
+        {"h3": "Growth and obedience"},
+        {"ol": [
+          "Where is God asking me to grow this year?",
+          "Which habit is pulling me away from Him?",
+          "What fruit of the Spirit do I most want more of: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness or self-control?",
+          "Where did I choose to obey this week when it was hard?",
+          "What gift has God given me that I could use to serve others?",
+          "What does it look like to love my neighbor on my street?"
+        ]},
+        {"h3": "Remembering His faithfulness"},
+        {"ol": [
+          "List ten times God provided for me.",
+          "Which answered prayer still amazes me?",
+          "What hard thing did God bring good out of?",
+          "Write a thank you letter to God for this year so far.",
+          "What would I want my children or friends to know about God's faithfulness to me?",
+          "If I set up a stone of remembrance today, what would it mark?"
+        ]},
+        {"p": "For a long list with a place to write each one, see [Christian journal prompts](/christian-journal-prompts/) and [Bible journal prompts](/bible-journal-prompts/)."}
+      ]
+    },
+    {
+      "h2": "Faith journal ideas",
+      "blocks": [
+        {"ul": [
+          "**A faithfulness timeline.** Draw a line across two pages and mark the big moments of your faith life.",
+          "**Stones of remembrance page.** Each time God answers a prayer, draw a small stone and write the date inside.",
+          "**Verse of the month.** Write one verse at the start of each month and journal on it every week.",
+          "**Sermon notes.** Write three lines after each Sunday: the passage, the main point and your response.",
+          "**Letters to God.** Some days, skip the questions and write a plain letter.",
+          "**Questions page.** Keep a running list of questions about faith and write answers as you find them.",
+          "**Testimony draft.** Write your story of faith in under one page so you are ready to share it.",
+          "**Gratitude list.** Number your thanks and keep counting all year. See [gratitude journal](/gratitude-journal/).",
+          "**Prayer list with dates.** Write the date asked and the date answered.",
+          "**Family faith page.** Write what God did for your family this year to read together at the holidays."
+        ]}
+      ]
+    },
+    {
+      "h2": "Faith journal example",
+      "blocks": [
+        {"example": {"label": "Faith journal", "date": "Thursday, October 9", "title": "Where I am", "text": "A little far. I have been busy and skipping church.\nVerse: Isaiah 40:31. I am tired and need new strength.\nLearning: rest is not lazy. God rested too.\nTrusting Him for: the lease renewal and my job hours.\nQuestion: why does He feel quiet when I need Him most?\nFaithful: last winter the heater broke and Dan fixed it free."}}
+      ]
+    },
+    {
+      "h2": "Tips for keeping a faith journal",
+      "blocks": [
+        {"ul": [
+          "Write even when you do not feel close to God. Those pages matter most later.",
+          "Date every entry, especially prayers and answers.",
+          "Read your journal once a month and once at the end of the year.",
+          "Keep it private if that helps you be honest. Share parts only if you want to.",
+          "Do not worry about skipped weeks. Start again today."
+        ]},
+        {"p": "If you prefer to write on your phone, our Android app [Prayer Journal for Women](/prayer-journal-for-women/) keeps answered prayers in one place so you can look back on all God has done. It is coming soon on Google Play."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is a faith journal?", "a": "A faith journal is a notebook where you record your relationship with God over time. You write what you are learning, what you are trusting Him for, your questions, and the ways He has been faithful. It works like a memory book for your faith that you can read back in hard seasons."},
+    {"q": "What do you write in a faith journal?", "a": "Write where you are with God today, a verse you are holding onto, what you are learning, what you are trusting Him for, any questions or doubts, and one way He has been faithful. Short entries are fine. The free page above has a box for each."},
+    {"q": "Is a faith journal the same as a prayer journal?", "a": "They overlap. A prayer journal mostly holds your prayers and answered prayers. A faith journal is broader and holds your whole walk with God: lessons, doubts, milestones and stories. Many people keep one notebook that does both."},
+    {"q": "Is it okay to write doubts in a faith journal?", "a": "Yes. Many psalms are honest questions brought to God. Writing your doubts down helps you look at them clearly and bring them to Him in prayer. It can also help to talk them through with a pastor or a trusted Christian friend."},
+    {"q": "How often should I write in a faith journal?", "a": "Write whenever you can. Some people write a few lines daily, others once a week. A weekly entry with a monthly look back is an easy rhythm for most people to keep."}
+  ]
+}

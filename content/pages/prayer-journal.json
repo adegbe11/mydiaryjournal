@@ -1,0 +1,39 @@
+{
+  "slug": "prayer-journal",
+  "hub": "prayer-journal",
+  "type": "hub",
+  "title": "Prayer Journal: Prompts, Templates and How to Start",
+  "description": "Start a prayer journal with free prayer journal prompts, printable templates, examples, Bible journaling ideas and our Prayer Journal for Women app.",
+  "h1": "Prayer journal",
+  "crumb": "Prayer journal",
+  "eyebrow": "Prayer and Bible journaling",
+  "intro": "A prayer journal is a place to write your prayers, the verses that speak to you, and the ways God answers. Start with a free template, a list of prompts, or a guide for your season of life.",
+  "card": "Prompts, templates and guides",
+  "sections": [
+    {
+      "h2": "Why write your prayers",
+      "blocks": [
+        {
+          "p": "Writing slows your thoughts down so you can actually pray them. It keeps your mind from wandering, gives you a list of people to remember, and leaves a record of answered prayers that builds your faith when you read it back."
+        },
+        {
+          "p": "Begin with the [prayer journal template](/prayer-journal-template/) or read [how to start a prayer journal](/how-to-start-a-prayer-journal/)."
+        },
+        {
+          "verse": "Psalm 62:8"
+        }
+      ]
+    },
+    {
+      "h2": "Ways to keep a prayer journal",
+      "blocks": [
+        {
+          "p": "Some people follow a simple pattern like [ACTS](/prayer-journal-acts/) (adoration, confession, thanksgiving, supplication). Others start in Scripture with the SOAP method in [how to journal the Bible](/how-to-journal-the-bible/). You can also keep a prayer list by person, with pages for your [husband](/prayer-journal-for-husband/), your [children](/prayer-journal-for-your-children/) or your [future husband](/prayer-journal-for-your-future-husband/)."
+        },
+        {
+          "p": "If you want a guided year, our [Prayer Journal for Women](/prayer-journal-for-women/) app gives you a verse, a reflection and a prayer page every week, with a prayer list and a record of answered prayers."
+        }
+      ]
+    }
+  ]
+}

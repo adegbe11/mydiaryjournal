@@ -1,0 +1,192 @@
+{
+  "slug": "bible-journal-prompts",
+  "keyword": "bible journal prompts",
+  "type": "prompts",
+  "title": "Bible Journal Prompts: 85 Questions for Any Passage",
+  "description": "85 Bible journal prompts and questions for any passage, Bible stories, the Psalms, the Gospels and women, with a private page to write on. Free, no sign up.",
+  "h1": "85 Bible journal prompts and questions",
+  "crumb": "Bible journal prompts",
+  "card": "85 questions for any passage",
+  "eyebrow": "Journal prompts",
+  "intro": "These **Bible journal prompts** are questions you can ask of any passage to understand it, see God in it and live it out. Read a few verses, pick a prompt, press **Write**, and answer on the private page below. Your writing saves on this device with no sign up.",
+  "writer": {"title": "Today I read", "hint": "Write the passage, then answer a prompt below...", "kind": "bible-journal-prompts"},
+  "related": ["bible-journal", "how-to-journal-the-bible", "christian-journal-prompts", "bible-journal-questions-for-kids", "devotional-journal", "prayer-journal-prompts"],
+  "sections": [
+    {
+      "h2": "How to use these Bible journal questions",
+      "blocks": [
+        {"p": "Read a short passage twice. Then answer two or three prompts: one to understand it, one to see God in it, and one to apply it. That simple pattern works for any part of the Bible. If you want a full method, see [how to journal the Bible](/how-to-journal-the-bible/) for SOAP and other simple methods."},
+        {"starters": [
+          {"name": "SOAP page", "text": "Scripture, Observation, Application, Prayer", "title": "SOAP:", "hint": "S: the verse. O: what I notice. A: what I will do. P: my prayer..."},
+          {"name": "One verse", "text": "Go deep on a single verse", "title": "Verse of the day:", "hint": "Write the reference, key words and what they mean..."},
+          {"name": "Story notes", "text": "Who, what, where, why", "title": "Bible story:", "hint": "Who is in it? What happens? What does it show about God?"}
+        ]},
+        {"verse": "Joshua 1:8"}
+      ]
+    },
+    {
+      "h2": "Bible journal prompts to understand any passage",
+      "blocks": [
+        {"prompts": [
+          "Summarize this passage in three plain sentences, as if explaining it to a friend.",
+          "Who wrote this book, and who was it first written to?",
+          "What happened just before this passage? How does that change what it means?",
+          "Which words or phrases repeat? Why might the writer repeat them?",
+          "Is there a word I do not understand? Look it up and write the meaning.",
+          "What is the main point the writer wants the first readers to get?",
+          "Are there any contrasts here, like light and dark, or old and new?",
+          "What questions does this passage raise for me?",
+          "Is there a cross reference in my Bible? What does that verse add?",
+          "What would be lost if this passage were not in the Bible?",
+          "Divide the passage into two or three parts. Give each part a short title.",
+          "What feelings do the people in this passage seem to have?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts to see God in the passage",
+      "blocks": [
+        {"prompts": [
+          "What does this passage show about who God is?",
+          "What is God doing in this passage, even in the background?",
+          "Is there a promise from God here? Who is it for?",
+          "How does this passage point to Jesus or show His heart?",
+          "What does this teach about how God treats people who fail?",
+          "Where do I see God's patience, power or kindness here?",
+          "If I only had this passage, what would I know about God?",
+          "How does God respond to fear, doubt or sin in this passage?",
+          "What does the Holy Spirit do or show here?",
+          "Which word would I use to describe God after reading this?",
+          "Write a short prayer of praise using what this passage says about God."
+        ], "start": 13}
+      ]
+    },
+    {
+      "h2": "Prompts to apply the Bible to your life",
+      "blocks": [
+        {"prompts": [
+          "Is there a command here I need to obey this week? Write one practical step.",
+          "Is there a sin to avoid or a habit to stop?",
+          "Is there an example to follow, or one not to follow?",
+          "Where does this passage touch my life right now: home, work, friendships, worry?",
+          "What would change if I really believed this?",
+          "Who in my life needs to hear the truth in this passage?",
+          "How can I live this out before I read again tomorrow?",
+          "What attitude does this passage ask me to change?",
+          "What does this passage say to me in my current season?",
+          "Which verse here should I memorize, and where will I put it so I see it?",
+          "Turn this passage into a prayer for myself, using its words and ideas."
+        ], "start": 24},
+        {"verse": "James 1:22"}
+      ]
+    },
+    {
+      "h2": "Bible journal prompts for the Psalms",
+      "blocks": [
+        {"prompts": [
+          "How is the psalm writer feeling at the start? How about at the end?",
+          "What does the writer ask God for?",
+          "Where does the writer turn from complaint to trust? What changed?",
+          "Which line sounds most like my own heart today?",
+          "What images of God does this psalm use, like shepherd, rock or shield?",
+          "Rewrite this psalm in my own words as my own prayer.",
+          "What does this psalm teach me about being honest with God?",
+          "What reasons for praise does the writer give?",
+          "If I wrote a psalm about this week, how would it start?",
+          "What would it look like to wait on God the way this writer does?"
+        ], "start": 35}
+      ]
+    },
+    {
+      "h2": "Bible journal prompts for the Gospels",
+      "blocks": [
+        {"prompts": [
+          "Who comes to Jesus in this passage, and what do they want?",
+          "How does Jesus treat the people others ignore?",
+          "What question does Jesus ask, and how would I answer it?",
+          "What does Jesus' miracle here show about His power and His care?",
+          "How do the disciples misunderstand Jesus? Do I do the same?",
+          "What does this parable mean in one sentence?",
+          "Where do I see myself in this scene, as a disciple, the crowd or the person in need?",
+          "What surprises me about how Jesus acts here?",
+          "What does Jesus say about the kingdom of God in this passage?",
+          "What would it have been like to stand in the crowd that day?",
+          "What one thing from Jesus' words here will I practice this week?"
+        ], "start": 45}
+      ]
+    },
+    {
+      "h2": "Bible journal prompts for women",
+      "blocks": [
+        {"prompts": [
+          "Which woman in this passage, or in the Bible, do I relate to right now? Why?",
+          "How does Jesus speak to women in the Gospels, and what does that tell me about how He sees me?",
+          "What does Ruth's story teach me about loyalty and God's quiet care?",
+          "What can I learn from Hannah about bringing my deepest desire to God?",
+          "How did Mary respond to news that changed her whole life? How do I respond to change?",
+          "What does Proverbs 31 show me about strength and wisdom, apart from busyness?",
+          "Where am I like Martha, and where do I want to be like Mary?",
+          "What does Esther's courage ask of me in my own place and time?",
+          "Which verse speaks to my worth as a woman made in God's image?",
+          "What would I tell a younger woman about this passage?",
+          "Write a prayer for the women in my life using this passage."
+        ], "start": 56},
+        {"p": "If you want a guided plan, our Android app [Prayer Journal for Women](/prayer-journal-for-women/) gives you a weekly verse with the whole chapter, a reflection with three questions and a prayer page. It is coming soon on Google Play."}
+      ]
+    },
+    {
+      "h2": "Bible journal prompts for a deeper study",
+      "blocks": [
+        {"prompts": [
+          "Read the passage in two translations. What differences do I notice?",
+          "Trace one key word through the whole book. Where else does it show up?",
+          "Map the places mentioned. How far apart are they?",
+          "What was daily life like for the people in this passage?",
+          "How does this passage connect to the Old Testament or the New Testament?",
+          "What would a skeptic ask about this passage, and how would I answer?",
+          "Write a list of everything this passage says about faith.",
+          "What does this passage teach about prayer?",
+          "Find one verse in another book that says something similar. What does it add?",
+          "What is the big story of the Bible, and where does this passage fit?",
+          "Write a one paragraph summary of everything I learned this week."
+        ], "start": 67}
+      ]
+    },
+    {
+      "h2": "Bible journal questions to end a week of study",
+      "blocks": [
+        {"prompts": [
+          "What do I want to study next because of this passage?",
+          "Choose one word from this passage and journal on it every day this week.",
+          "Write a short letter to God about what this study has meant to me.",
+          "What would I teach a small group from this passage in five minutes?",
+          "Which verse from this week will I write on a card and carry with me?",
+          "What did I expect this passage to say, and what surprised me?",
+          "Looking back at my notes, what is God teaching me again and again?",
+          "What one question do I still have, and who could help me answer it?"
+        ], "start": 78}
+      ]
+    },
+    {
+      "h2": "Tips for using Bible journal prompts",
+      "blocks": [
+        {"ul": [
+          "**Read the context.** Always read the chapter around a verse before you write about it.",
+          "**Mix your questions.** One to understand, one about God, one to apply.",
+          "**Keep a question list.** Questions you cannot answer today are worth keeping.",
+          "**Use a study Bible or dictionary** for hard words and history.",
+          "**Be consistent, not perfect.** Five minutes most days beats an hour once a month.",
+          "**Read your old entries.** Notice what God has been teaching you over time."
+        ]},
+        {"p": "Your page above saves in this browser on this device only, with no account. Print or save it as a PDF to keep a copy. For a fill-in page, use our [Bible journal template](/bible-journal/). For children, see [Bible journal questions for kids](/bible-journal-questions-for-kids/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What are good Bible journal questions?", "a": "Good Bible journal questions help you understand the passage, see God in it and apply it. For example: What does this passage say in plain words? What does it show about God? Is there a command, promise or example? What will I do differently this week because of it?"},
+    {"q": "How do you use Bible journal prompts?", "a": "Read a short passage twice. Choose two or three prompts, such as one about meaning, one about God and one about your life. Write your answers, then end with a short prayer. Repeat with the next passage tomorrow."},
+    {"q": "What are some Bible journal prompts for women?", "a": "Try: Which woman in the Bible do I relate to right now? How does Jesus treat women in the Gospels, and what does that show me? Where am I like Martha, and where do I want to be like Mary? See the full section for women on this page."},
+    {"q": "What book of the Bible is best to start journaling?", "a": "Short, clear books work best. Mark is a fast moving gospel. James is practical. Philippians is warm and encouraging. Psalms are great for prayer journaling. Read a few verses a day and journal on them."},
+    {"q": "How long should a Bible journal entry be?", "a": "There is no set length. A few lines that answer one good question is a real entry. On days with more time, you can do a longer study with several prompts. Consistency matters more than length."}
+  ]
+}

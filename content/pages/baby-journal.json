@@ -1,0 +1,340 @@
+{
+  "slug": "baby-journal",
+  "keyword": "baby journal",
+  "type": "template",
+  "title": "Baby Journal: Free Page, Ideas, Prompts and Questions",
+  "description": "A free baby journal page to fill in online or print, for firsts, growth and little moments. Plus a filled example, baby journal ideas, prompts and questions.",
+  "h1": "Baby journal: a free page for firsts and little moments",
+  "crumb": "Baby journal",
+  "card": "Firsts and little moments",
+  "eyebrow": "Journal types",
+  "intro": "A baby journal is a place to record your baby's firsts, how they are growing and the small everyday moments you want to remember. Fill in the free baby journal page below, then print it or keep it saved in this browser. You will also find an example, ideas, prompts and questions.",
+  "template": {
+    "key": "baby-journal",
+    "name": "My baby journal",
+    "eyebrow": "Age and date",
+    "fields": [
+      {
+        "label": "This week you are",
+        "hint": "Weight, length, size of clothes, new teeth",
+        "lines": 2
+      },
+      {
+        "label": "Firsts",
+        "hint": "First smile, first laugh, rolled over, first food",
+        "lines": 2
+      },
+      {
+        "label": "Things you love right now",
+        "hint": "Songs, toys, faces, being held a certain way",
+        "lines": 2
+      },
+      {
+        "label": "Sleep, feeding and little routines",
+        "hint": "Nap times, bath time, favorite bedtime book",
+        "lines": 2
+      },
+      {
+        "label": "A moment I want to remember",
+        "hint": "The funny, sweet or tiring moment from this week",
+        "lines": 3
+      },
+      {
+        "label": "A note to you",
+        "hint": "Dear little one,",
+        "lines": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a baby journal?",
+      "blocks": [
+        {
+          "p": "A baby journal is a diary about your child's first months and years. It holds milestones like the first smile and first steps, but also the small things: the face they make in the bath, the song that stops the crying, the way they hold your finger."
+        },
+        {
+          "p": "Baby books with fixed pages can feel stressful if you miss a box. A baby journal is looser. You write what happened, when you can, in your own words. Parents, grandparents, foster and adoptive families, and other caregivers all keep them."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a baby journal",
+      "blocks": [
+        {
+          "ul": [
+            "**The early days blur.** With little sleep, weeks run together. A few lines help you hold onto them.",
+            "**Photos miss the story.** A picture shows the first bite of banana. Your journal says what happened next.",
+            "**A gift for later.** Many children love reading what they were like as babies.",
+            "**A place to process.** Early parenting is joyful and hard. Writing can help you notice how you are doing too.",
+            "**Handy notes.** Dates of firsts and changes are easy to find when someone asks."
+          ]
+        },
+        {
+          "tip": "For questions about your baby's health, feeding, sleep or development, talk to your doctor, midwife or health visitor. And if you are feeling very low, anxious or not like yourself after having a baby, please reach out to them. You deserve support too."
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a baby journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Make it easy to reach",
+              "text": "Keep a notebook by the changing table or bookmark this page on your phone. Feeding time is often the best time to jot a line."
+            },
+            {
+              "name": "Pick a loose rhythm",
+              "text": "Weekly for the first months, then monthly. Or simply write when something happens."
+            },
+            {
+              "name": "Use the page above",
+              "text": "Fill in growth, firsts, favorites, routines, a moment to remember and a note to your child."
+            },
+            {
+              "name": "Date everything",
+              "text": "Write the date and your baby's age, like \"4 months, 2 weeks.\""
+            },
+            {
+              "name": "Let others add pages",
+              "text": "Partners, grandparents and siblings can write their own notes."
+            },
+            {
+              "name": "Print and keep",
+              "text": "Press Print or save as PDF, and keep the pages in a binder with photos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Baby journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled page from one week. It is short, which is just right for busy days."
+        },
+        {
+          "example": {
+            "label": "Baby journal",
+            "date": "5 months, Saturday, September 6",
+            "title": "This week,",
+            "text": "You are in 6 to 9 month clothes already!\nFirst: you laughed out loud when the dog sneezed.\nYou love: the crinkly giraffe and blowing raspberries.\nRoutine: two long naps, bath, then the moon book.\nMoment: you fell asleep on my chest at 2 am\nand I did not want to move.\nDear little one, you make the long nights worth it."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Baby journal ideas",
+      "blocks": [
+        {
+          "ul": [
+            "**Monthly photo page.** A photo in the same spot each month with a few lines.",
+            "**Firsts list.** One page listing every first with the date.",
+            "**Letters to your child.** A letter on each birthday, or each month in the first year.",
+            "**Family tree page.** Names and photos of the people who love them.",
+            "**The world when you were born.** Prices, songs, news, what the weather was like.",
+            "**Visitors page.** Who came to meet the baby and what they brought.",
+            "**Handprints and footprints.** Add a print every few months to see growth.",
+            "**Funny moments.** The strange sounds, faces and mishaps you will laugh about later.",
+            "**Birth story.** If you kept a [pregnancy journal](/pregnancy-journal/), start your baby journal with the story of the day they arrived."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Baby journal prompts and questions",
+      "blocks": [
+        {
+          "p": "Use these baby journal prompts and questions on days when you want to write but do not know where to start:"
+        },
+        {
+          "ol": [
+            "What was the first thing I noticed about you?",
+            "How did we choose your name?",
+            "Who held you first after me, and how did they react?",
+            "What sound do you make when you are happy?",
+            "What calms you down when nothing else works?",
+            "What does your little hand feel like holding mine?",
+            "What is a normal day with you like right now?",
+            "Which family member do you look like this month?",
+            "What do I sing to you?",
+            "What surprised me most about being your parent?",
+            "What was our hardest day so far, and how did we get through it?",
+            "What made me laugh this week?",
+            "What do I hope you will know about how much you are loved?",
+            "What is something I want to tell you when you are older?",
+            "What are your big brother or sister's thoughts about you?"
+          ]
+        },
+        {
+          "p": "For more ideas, see our [journal prompts for women](/journal-prompts-for-women/) and [gratitude journal](/gratitude-journal/) pages. Families of faith may also like the [prayer journal for your children](/prayer-journal-for-your-children/)."
+        }
+      ]
+    },
+    {
+      "h2": "Keepsake journal or care log?",
+      "blocks": [
+        {
+          "p": "There are two main kinds of baby journal, and many families keep both."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Keepsake baby journal",
+              "Baby care log"
+            ],
+            "rows": [
+              [
+                "Purpose",
+                "Memories to keep and share",
+                "Day to day care notes"
+              ],
+              [
+                "What goes in",
+                "Firsts, letters, photos, stories",
+                "Feeds, sleep, diapers, medicines"
+              ],
+              [
+                "How often",
+                "Weekly or monthly",
+                "Several times a day"
+              ],
+              [
+                "Who uses it",
+                "Family, and your child one day",
+                "Parents, sitters, daycare, doctor visits"
+              ],
+              [
+                "How long",
+                "Years",
+                "Usually the first months"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "The page at the top of this page is a keepsake page. For a simple care log, use a notebook or the [daily journal](/daily-journal/) and write the time, feed, sleep and diaper changes in short lines. Bring it along if your doctor or health visitor asks about feeding or sleep."
+        }
+      ]
+    },
+    {
+      "h2": "First year baby journal ideas, month by month",
+      "blocks": [
+        {
+          "table": {
+            "head": [
+              "Month",
+              "Ideas to write about"
+            ],
+            "rows": [
+              [
+                "Newborn",
+                "Birth story, first visitors, coming home, first night"
+              ],
+              [
+                "1 to 2 months",
+                "First real smile, favorite way to be held, sleepy routines"
+              ],
+              [
+                "3 to 4 months",
+                "Laughing, grabbing toys, discovering hands and feet"
+              ],
+              [
+                "5 to 6 months",
+                "Rolling, first tastes of food if you have started, new sounds"
+              ],
+              [
+                "7 to 8 months",
+                "Sitting, playing peekaboo, favorite people"
+              ],
+              [
+                "9 to 10 months",
+                "Crawling or scooting, pulling up, waving"
+              ],
+              [
+                "11 to 12 months",
+                "First words, first steps if they come, first birthday"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Every baby grows at their own pace, so these are just ideas for what to look out for. Write what your baby is doing, not what a chart says. Questions about development are best taken to your doctor or health visitor."
+        }
+      ]
+    },
+    {
+      "h2": "A few pages for you",
+      "blocks": [
+        {
+          "p": "A baby journal is about your child, but your experience matters too. Add a line now and then about you:"
+        },
+        {
+          "ul": [
+            "How I am sleeping and feeling this week.",
+            "Who has helped me, and how.",
+            "One thing I did for myself.",
+            "What I have learned about being a parent.",
+            "What I am proud of."
+          ]
+        },
+        {
+          "p": "Looking back, many parents are glad they recorded their own side of the story. Our [self care journal prompts](/self-care-journal-prompts/) can help on tired days."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for a baby diary you will keep",
+      "blocks": [
+        {
+          "ul": [
+            "**Short is fine.** One line a day or one paragraph a month is plenty.",
+            "**Skip the guilt.** Missed months are normal. Pick it up again anytime.",
+            "**Keep a running note on your phone.** Copy it into the journal once a week.",
+            "**Write the hard bits gently.** Honest pages can mean a lot later, but you decide what to keep.",
+            "**Save copies.** Pages here are saved only in this browser on this device, so print or save a PDF regularly."
+          ]
+        },
+        {
+          "p": "A [one line a day journal](/one-line-a-day-journal/) is a lovely way to keep going after the first year. For more layouts, see our [journal template](/journal-template/) page."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do you write in a baby journal?",
+      "a": "Write your baby's firsts, how they are growing, what they love right now, their little routines, and moments you want to remember. Adding a short note to your child on each page makes it extra special. Photos, handprints and a birth story are lovely extras."
+    },
+    {
+      "q": "When should I start a baby journal?",
+      "a": "You can start during pregnancy, on the day your baby arrives, or months later. If you start late, write a page about the early days from memory first. There is no wrong time to begin, and even a few pages will mean a lot later."
+    },
+    {
+      "q": "What is the difference between a baby book and a baby journal?",
+      "a": "A baby book usually has fixed pages with boxes to fill, like first tooth or first word. A baby journal is more open. You write what happened in your own words, when you can. Many families use both, or use a journal when they fall behind on the book."
+    },
+    {
+      "q": "How often should I write in a baby journal?",
+      "a": "Weekly in the first few months works well, since babies change so fast. After that, monthly is common. You can also write only when something special happens, like a first word. One or two lines is enough on busy days, and missed weeks are completely normal."
+    },
+    {
+      "q": "What questions can family members answer in a baby journal?",
+      "a": "Ask them what they first thought when they met the baby, who they think the baby looks like, a wish for the baby's future, and a favorite memory from their own childhood. Their answers make a warm keepsake from many voices."
+    },
+    {
+      "q": "What are good baby journal questions to ask family?",
+      "a": "Ask family and friends: What did you think when you first held the baby? Who do you think the baby looks like? What is your wish for their future? What advice would you give them as they grow up? What is a favorite memory from your own childhood? Collect the answers on a shared page."
+    }
+  ],
+  "related": [
+    "pregnancy-journal",
+    "one-line-a-day-journal",
+    "gratitude-journal",
+    "prayer-journal-for-your-children",
+    "journal-prompts-for-women",
+    "journal-template"
+  ]
+}

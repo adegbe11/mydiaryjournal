@@ -1,0 +1,60 @@
+{
+  "slug": "privacy",
+  "type": "plain",
+  "title": "Privacy Policy · My Diary Journal",
+  "description": "How My Diary Journal handles your information. Your diary pages stay in your browser on your device. We do not collect, sell or read what you write.",
+  "h1": "Privacy policy",
+  "crumb": "Privacy",
+  "eyebrow": "Effective October 11, 2026",
+  "intro": "The short version: what you write stays in your browser on your own device. We never receive it.",
+  "sections": [
+    {
+      "h2": "What you write",
+      "blocks": [
+        {
+          "p": "Diary pages, template answers and your PIN setting are saved in your browser's local storage on the device you are using. They are not sent to us or to anyone else. If you clear your browser data, use a private window, or switch devices, those pages will not be there. Print or save a PDF of anything you want to keep."
+        }
+      ]
+    },
+    {
+      "h2": "Your PIN",
+      "blocks": [
+        {
+          "p": "If you set a PIN, only a scrambled version of it (a hash) is kept in your browser. The PIN keeps the diary closed on a shared computer. It does not encrypt your pages, so anyone with full access to your device and browser could still reach them."
+        }
+      ]
+    },
+    {
+      "h2": "What we collect",
+      "blocks": [
+        {
+          "p": "We do not use accounts, ads or tracking cookies. Our web host may keep standard server logs, such as IP address and pages requested, for security and to keep the site running. We do not use these to identify you."
+        }
+      ]
+    },
+    {
+      "h2": "Children",
+      "blocks": [
+        {
+          "p": "The site does not collect personal information from anyone, including children."
+        }
+      ]
+    },
+    {
+      "h2": "Changes",
+      "blocks": [
+        {
+          "p": "If this ever changes, we will update this page and the date above first."
+        }
+      ]
+    },
+    {
+      "h2": "Contact",
+      "blocks": [
+        {
+          "p": "AseinCollins@gmail.com"
+        }
+      ]
+    }
+  ]
+}

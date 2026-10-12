@@ -1,0 +1,396 @@
+{
+  "slug": "what-to-write-in-a-work-journal",
+  "keyword": "what to write in a work journal",
+  "type": "template",
+  "title": "What to Write in a Work Journal (Free Template + Ideas)",
+  "description": "Not sure what to write in a work journal? Use this free daily template for tasks, wins, decisions and lessons, see an example, and get 40 work prompts.",
+  "h1": "What to write in a work journal, with a free template",
+  "crumb": "Work journal",
+  "card": "Wins, lessons, next steps",
+  "eyebrow": "Journal types",
+  "intro": "In a work journal, write what you worked on, your wins, decisions and why you made them, problems and what you learned, and your next steps. A few lines at the end of each day is enough. Use the free work journal template below, then print it or keep it saved in this browser.",
+  "template": {
+    "key": "work-journal",
+    "name": "My work journal",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "What I worked on",
+        "hint": "Tasks, projects, meetings",
+        "lines": 3
+      },
+      {
+        "label": "Wins and progress",
+        "hint": "Big or small, including praise from others",
+        "lines": 2
+      },
+      {
+        "label": "Decisions and why",
+        "hint": "We chose A over B because...",
+        "lines": 2
+      },
+      {
+        "label": "Problems and blockers",
+        "hint": "What slowed me down, who I need to talk to",
+        "lines": 2
+      },
+      {
+        "label": "What I learned",
+        "hint": "A skill, a shortcut, a lesson about people",
+        "lines": 2
+      },
+      {
+        "label": "Energy and focus (1 to 5)",
+        "hint": "When was I sharpest today?",
+        "lines": 1
+      },
+      {
+        "label": "Tomorrow's top three",
+        "hint": "1.  2.  3.",
+        "lines": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a work journal?",
+      "blocks": [
+        {
+          "p": "A work journal is a short, regular record of your working life. It is part to do list, part diary and part learning log. Instead of only listing tasks, you also write why you made choices, what went well, what went wrong and what you learned."
+        },
+        {
+          "p": "People keep them in every kind of job: nurses, teachers, engineers, designers, managers, freelancers and students on placement. It works just as well for remote work, shift work or running your own business."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a work journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Remember your wins.** When review time comes, you have real examples instead of trying to remember a whole year.",
+            "**Learn faster.** Writing what went wrong and why helps you avoid repeating it.",
+            "**Keep a record of decisions.** Months later, you can see why a choice was made.",
+            "**Clear your head.** Writing tomorrow's plan before you log off helps many people switch off in the evening.",
+            "**Spot patterns.** You may find your best focus hours, or the meetings that drain you.",
+            "**Have notes if something goes wrong.** A dated note of important conversations can be useful if a problem at work comes up later."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What to write in a work journal: the main parts",
+      "blocks": [
+        {
+          "p": "Each part of the template above has a job. Here is what to put in each one."
+        },
+        {
+          "table": {
+            "head": [
+              "Section",
+              "What to write",
+              "Example"
+            ],
+            "rows": [
+              [
+                "What I worked on",
+                "The main tasks and meetings, briefly",
+                "Finished Q3 report draft, 1:1 with Priya"
+              ],
+              [
+                "Wins and progress",
+                "Anything that moved forward or went well",
+                "Client approved the new design"
+              ],
+              [
+                "Decisions and why",
+                "Choices you made and your reasons",
+                "Delayed launch a week to fix checkout bug"
+              ],
+              [
+                "Problems and blockers",
+                "What got in the way and who can help",
+                "Waiting on data from finance"
+              ],
+              [
+                "What I learned",
+                "A lesson, skill or insight",
+                "Sending an agenda first made the meeting half as long"
+              ],
+              [
+                "Energy and focus",
+                "A quick rating and when you felt best",
+                "4, best before 11 am"
+              ],
+              [
+                "Tomorrow's top three",
+                "The three things that matter most next",
+                "Send report, book review, plan sprint"
+              ]
+            ]
+          }
+        },
+        {
+          "tip": "The difference between a task list and a work journal is the word \"why.\" \"Finished report\" is a log. \"Finished report early by splitting it into three parts, which worked well\" is a journal entry you can learn from."
+        }
+      ]
+    },
+    {
+      "h2": "How to keep a work journal",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Pick a time",
+              "text": "The last ten minutes of the workday works for most people. Some prefer five minutes at the start of the day instead."
+            },
+            {
+              "name": "Use the same format",
+              "text": "Fill in the same sections every day so entries are easy to compare."
+            },
+            {
+              "name": "Keep it short",
+              "text": "Bullet points are fine. Aim for five to ten minutes, not an essay."
+            },
+            {
+              "name": "Write facts and feelings",
+              "text": "Note what happened, and add one line on how it felt. Both are useful later."
+            },
+            {
+              "name": "Review every Friday",
+              "text": "Read the week's entries. Copy your best wins to a running list for reviews and your resume."
+            },
+            {
+              "name": "Keep it private and sensible",
+              "text": "Do not store passwords, customer data or confidential details in a personal journal. Check your workplace rules if unsure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Work journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled work journal entry for one day."
+        },
+        {
+          "example": {
+            "label": "Work journal",
+            "date": "Thursday, October 2",
+            "title": "Work log",
+            "text": "Worked on: budget slides, call with vendor, inbox cleanup.\nWin: manager said the slides were the clearest yet.\nDecision: moved the vendor deadline to the 15th so QA\nhas time. Agreed with Sam on the call.\nBlocker: still no numbers from sales. Ask Jo tomorrow.\nLearned: a 5 minute outline first saved an hour later.\nEnergy: 3. Best focus 9 to 11 am, slump after lunch.\nTomorrow: 1. sales numbers 2. finish deck 3. book 1:1."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Work journal prompts",
+      "blocks": [
+        {
+          "p": "On days when the template feels too routine, answer one or two of these work journal prompts instead."
+        },
+        {
+          "h3": "Daily reflection"
+        },
+        {
+          "ol": [
+            "What was the most useful thing I did today?",
+            "What took longer than I expected, and why?",
+            "What did I say yes to that I should have said no to?",
+            "Who helped me today, and have I thanked them?",
+            "What did I put off, and what is really stopping me?",
+            "When did I feel most focused?",
+            "What question do I need answered tomorrow?",
+            "What would I do differently if I could redo today?",
+            "What small thing made work easier today?",
+            "What am I worried about, and what is one step I can take?"
+          ]
+        },
+        {
+          "h3": "Weekly review"
+        },
+        {
+          "ol": [
+            "What were my three biggest wins this week?",
+            "What were my two main stresses this week?",
+            "Which meeting was worth it, and which was not?",
+            "What did I learn that I want to remember?",
+            "What feedback did I get, and what will I do with it?",
+            "Where did my time actually go?",
+            "What is the one thing that would make next week better?",
+            "Did I take real breaks this week?",
+            "Which task gave me energy, and which drained me?",
+            "What can I hand off, drop or simplify?"
+          ]
+        },
+        {
+          "h3": "Growth and career"
+        },
+        {
+          "ol": [
+            "What skill do I want to be known for in a year?",
+            "What part of my job do I enjoy most, and how could I do more of it?",
+            "What feedback keeps coming up?",
+            "Who at work could I learn from?",
+            "What problem at work am I quietly good at solving?",
+            "What would I change about my role if I could?",
+            "What did I do this month that I would be proud to put on my resume?",
+            "Where do I want to be in three years, and what is one step toward it?",
+            "What is one boundary I need to set at work?",
+            "What does a good workday look like for me?"
+          ]
+        },
+        {
+          "h3": "After a hard day"
+        },
+        {
+          "ol": [
+            "What exactly happened, in plain facts?",
+            "What part of it was in my control?",
+            "What would I tell a coworker who had this day?",
+            "What do I need to let go of tonight?",
+            "Is there a conversation I need to have, and how will I start it?",
+            "What is one thing that still went right today?",
+            "What will help me rest tonight?",
+            "What will I do first tomorrow to feel back on track?",
+            "What did today teach me about my limits?",
+            "Who can I talk to about this?"
+          ]
+        },
+        {
+          "p": "For more reflection questions, see [reflective journal prompts](/reflective-journal-prompts/) and [journal prompts for self growth](/journal-prompts-for-self-growth/)."
+        }
+      ]
+    },
+    {
+      "h2": "Work journal examples for different jobs",
+      "blocks": [
+        {
+          "p": "The basic sections stay the same, but what you write in them changes with your work. Here are short ideas for a few common roles."
+        },
+        {
+          "table": {
+            "head": [
+              "Role",
+              "Useful things to note"
+            ],
+            "rows": [
+              [
+                "Teacher",
+                "Lessons that worked, students to check on, ideas for next time"
+              ],
+              [
+                "Nurse or carer",
+                "What you learned on shift, how you are coping, questions for training (never patient details)"
+              ],
+              [
+                "Software developer",
+                "Bugs fixed, decisions and tradeoffs, things to look up"
+              ],
+              [
+                "Manager",
+                "Team wins, feedback given, people to follow up with"
+              ],
+              [
+                "Sales",
+                "Calls made, objections heard, what worked"
+              ],
+              [
+                "Freelancer",
+                "Hours, clients, invoices sent, ideas for your business"
+              ],
+              [
+                "Student on placement",
+                "Tasks, skills learned, feedback, reflections for your report"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Students writing a placement log may also like our guide to the [reflective journal](/reflective-journal/) and [journal examples for students](/journal-examples-for-students/)."
+        }
+      ]
+    },
+    {
+      "h2": "Formats for a work journal",
+      "blocks": [
+        {
+          "ul": [
+            "**A paper notebook on your desk.** Easy, no notifications, and great for quick sketches.",
+            "**A digital page.** Searchable later. The template here saves in this browser, and our [online journal](/online-journal-free/) gives you free pages.",
+            "**A bullet journal.** Quick symbols for tasks, notes and wins. See [bullet journal ideas](/bullet-journal-ideas/).",
+            "**A voice note on the way home.** Speak your three wins and one lesson, then type them up weekly.",
+            "**A shared team log.** Some teams keep a shared doc of decisions. Keep your personal reflections separate."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Common work journal mistakes",
+      "blocks": [
+        {
+          "ul": [
+            "**Only listing tasks.** Add why, what went well and what you learned.",
+            "**Writing only on bad days.** Then your journal reads like a list of complaints. Good days teach you just as much.",
+            "**Writing too much.** Long entries are hard to keep up. Five to ten minutes is plenty.",
+            "**Never rereading.** The value comes from patterns you only see when you look back.",
+            "**Including private information.** Leave out passwords, client details and anything confidential."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips for a work journal that lasts",
+      "blocks": [
+        {
+          "ul": [
+            "**Put it on your calendar.** A 10 minute slot at the end of the day protects the habit.",
+            "**Do not rewrite your task manager.** Keep the journal for why, wins and lessons.",
+            "**Avoid venting spirals.** On rough days, write the facts, one feeling and one next step, then close the page.",
+            "**Keep a brag list.** A separate page of wins makes reviews and job hunting much easier.",
+            "**Look back each month.** The patterns only show up when you reread.",
+            "**Keep a copy.** Pages here save in this browser on this device. Print or save a PDF of anything you want to keep."
+          ]
+        },
+        {
+          "p": "Want more on the basics? Read [what to write in a journal](/what-to-write-in-a-journal/) and [how to journal](/how-to-journal/). For a learning focused version, see our guide to the [reflective journal](/reflective-journal/), or try a quick [daily journal](/daily-journal/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I write in a work journal?",
+      "a": "Write what you worked on, your wins, decisions and the reasons behind them, problems or blockers, what you learned, and your top three tasks for tomorrow. Adding a quick note on your energy and focus helps you spot patterns. Keep each entry to about five to ten minutes."
+    },
+    {
+      "q": "How often should I write in a work journal?",
+      "a": "Daily is ideal because details are fresh, and a short entry at the end of each workday is easy to keep up. If that feels like too much, a weekly review on Friday still captures your wins, lessons and plans. Choose a rhythm you can stick with."
+    },
+    {
+      "q": "Is a work journal the same as a to do list?",
+      "a": "No. A to do list tracks what you need to do. A work journal records what happened, why you made choices, what went well and what you learned. Many people end their journal entry with tomorrow's top three tasks, which links the two together."
+    },
+    {
+      "q": "Should I keep my work journal on a work computer?",
+      "a": "It depends on what you write. Work notes about projects can live in work tools. Personal reflections, feelings and career plans are often better kept in a private journal you control. Never store passwords or confidential customer data in a personal journal, and follow your company rules."
+    },
+    {
+      "q": "How does a work journal help with performance reviews?",
+      "a": "When review time comes, you can scroll back through months of dated wins, feedback and projects instead of relying on memory. Many people copy their best moments to a separate list each week, which makes writing a self review, updating a resume or asking for a raise much easier."
+    },
+    {
+      "q": "What is the difference between a work journal and a work diary?",
+      "a": "They are very similar. A work diary often means a dated record of hours, tasks and events, sometimes kept for legal or employment reasons. A work journal usually adds reflection: why you made decisions, what you learned and how you felt. Many people combine both in one daily entry."
+    }
+  ],
+  "related": [
+    "what-to-write-in-a-journal",
+    "reflective-journal",
+    "journal-prompts-for-self-growth",
+    "daily-journal",
+    "how-to-journal",
+    "reflective-journal-prompts"
+  ]
+}

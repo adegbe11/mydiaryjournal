@@ -1,0 +1,261 @@
+{
+  "slug": "journal-prompts-may",
+  "keyword": "journal prompts may",
+  "type": "prompts",
+  "title": "May Journal Prompts: 31 Days of Bloom and Gratitude",
+  "description": "31 May journal prompts for every day, plus Mother's Day, mental health and graduation prompts. Answer them in a free, private online diary.",
+  "h1": "May journal prompts: a prompt for every day",
+  "crumb": "May prompts",
+  "card": "Moms, blooms and big finishes",
+  "eyebrow": "Journal prompts",
+  "intro": "May journal prompts help you write about the people who raised you, the things you are finishing, and the summer that is almost here. You get a prompt for each of May's 31 days, plus extra sets for Mother's Day, Mental Health Awareness Month and graduation season. Tap Write on any prompt to answer it above.",
+  "writer": {
+    "title": "My May pages",
+    "hint": "Answer today's prompt, or write how you are really doing",
+    "kind": "journal-prompts-may"
+  },
+  "sections": [
+    {
+      "h2": "How to use these May journal prompts",
+      "blocks": [
+        {
+          "p": "May is busy. School years end, gardens fill in, and calendars fill up. Keep entries short and pick the prompt for today's date, or use a themed set when it fits the week. Mother's Day can be joyful or painful, so the prompts in that set leave room for both."
+        },
+        {
+          "example": {
+            "label": "Journal entry",
+            "date": "Tuesday, May 5",
+            "title": "Day 5: almost done",
+            "text": "The last week of my night class.\nTwelve weeks of Tuesdays and Thursdays.\nI want to feel proud, not just relieved.\nPlan: take myself out for pancakes after the final."
+          }
+        },
+        {
+          "starters": [
+            {
+              "name": "Dear Mom",
+              "text": "A letter you may or may not send",
+              "title": "Dear Mom,",
+              "hint": "Something I never told you..."
+            },
+            {
+              "name": "Honest check-in",
+              "text": "How you are really doing",
+              "title": "How I'm really doing",
+              "hint": "Today I feel... because..."
+            },
+            {
+              "name": "Summer plans",
+              "text": "Dream up the months ahead",
+              "title": "Summer plans",
+              "hint": "This summer I want to..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "31 May journal prompts: one for each day",
+      "blocks": [
+        {
+          "p": "Each number matches the date in May. Mother's Day and Memorial Day move each year, so use those prompts on the right day if you like."
+        },
+        {
+          "h3": "Days 1 to 7"
+        },
+        {
+          "prompts": [
+            "It is May Day, an old spring festival. How would you celebrate the start of May if you could plan the whole day?",
+            "What is one thing you want to finish before summer starts?",
+            "Write a thank you note to a teacher, coach or boss who pushed you to be better.",
+            "What does your ideal summer look like this year? Be specific.",
+            "What is one thing you are finishing this month? How do you want to feel when it is done?",
+            "Describe the flowers you see on your way to work, school or the store.",
+            "What is something your mother, or a mother figure, taught you without words?"
+          ],
+          "start": 1
+        },
+        {
+          "h3": "Days 8 to 14"
+        },
+        {
+          "prompts": [
+            "Write about a meal that someone cooked for you with love.",
+            "What qualities do you admire in the mothers you know?",
+            "Who mothered you when you needed it, even if they were not your mom?",
+            "Write about a time you took care of someone. What did it ask of you?",
+            "What is one way you could take better care of your mind this month?",
+            "When do you feel calmest during the day? How could you have more of those moments?",
+            "What has been weighing on you lately? Write it out without trying to fix it."
+          ],
+          "start": 8
+        },
+        {
+          "h3": "Days 15 to 21"
+        },
+        {
+          "prompts": [
+            "You are halfway through May. What has made you happiest so far this month?",
+            "Write about a time you asked for help. What happened?",
+            "What are you looking forward to this summer, even in a small way?",
+            "Describe your favorite outdoor spot in late spring.",
+            "What is something you finished this year that you almost quit?",
+            "Which song is the soundtrack of your May? Why?",
+            "What does balance look like in your life right now?"
+          ],
+          "start": 15
+        },
+        {
+          "h3": "Days 22 to 28"
+        },
+        {
+          "prompts": [
+            "Write about a big moment you celebrated: a graduation, a new job, a move.",
+            "What is one piece of advice you would give someone about to graduate?",
+            "What is something new you would like to try before the end of summer?",
+            "Memorial Day honors those who died serving in the US military. Write about someone you remember, or what sacrifice means to you.",
+            "What traditions mark the start of summer for your family?",
+            "Write about a chapter of your life that is closing. What do you want to remember about it?",
+            "What made you laugh this week?"
+          ],
+          "start": 22
+        },
+        {
+          "h3": "Days 29 to 31"
+        },
+        {
+          "prompts": [
+            "What would you like to do differently next school year or work season?",
+            "Write about a friendship that started in a classroom, office or team.",
+            "Look back at May. What grew, what ended, and what are you ready for in June?"
+          ],
+          "start": 29
+        }
+      ]
+    },
+    {
+      "h2": "Mother's Day journal prompts",
+      "blocks": [
+        {
+          "p": "For moms, for children, and for anyone with a complicated or grieving heart this Mother's Day. Moms who pray can also try our [prayer journal for moms](/prayer-journal-for-moms/)."
+        },
+        {
+          "prompts": [
+            "Describe your mom, or the woman who raised you, in five words. Explain each one.",
+            "What is your earliest memory of your mother?",
+            "Write about a time you saw your mom as a person, not just a parent.",
+            "Which of her sayings do you catch yourself repeating?",
+            "If you are a mom, what is one moment of motherhood you want to remember forever?",
+            "If you are a mom, what do you wish someone had told you in your first year?",
+            "If Mother's Day is hard for you, write about what you are missing and what you need today.",
+            "Write a letter to your mom that you do not have to send. Say what you have never said.",
+            "Which recipe, scent or object reminds you of your mother?",
+            "How do you want your own children, or the young people in your life, to remember you?"
+          ],
+          "start": 32
+        }
+      ]
+    },
+    {
+      "h2": "Mental health journal prompts for May",
+      "blocks": [
+        {
+          "p": "May is Mental Health Awareness Month in the US. For a longer list, see our [journal prompts for mental health](/journal-prompts-for-mental-health/)."
+        },
+        {
+          "tip": "Journaling can help you sort out your thoughts, but it is not a replacement for professional care. If you are in crisis, contact local emergency services. In the US, you can call or text 988."
+        },
+        {
+          "prompts": [
+            "Rate your stress from 1 to 10 today. What is pushing the number up, and what is pulling it down?",
+            "What are three things that reliably help you feel steadier?",
+            "Write about a time you got through something you thought you could not.",
+            "What does your inner voice say when you make a mistake? Rewrite it in a kinder voice.",
+            "Who in your life makes you feel safe? What do they do?",
+            "What early warning signs tell you that you need rest?",
+            "List five things you can do in under ten minutes when you feel overwhelmed.",
+            "What is one thing you would like to talk to a friend or a professional about?",
+            "Describe your mind today as if it were a room. Is it tidy, crowded, quiet or noisy?",
+            "What would it look like to treat your mental health as seriously as your physical health?"
+          ],
+          "start": 42
+        }
+      ]
+    },
+    {
+      "h2": "Graduation and end of school year prompts",
+      "blocks": [
+        {
+          "prompts": [
+            "Write about your own graduation day, or one you watched. What do you remember?",
+            "What is the most useful thing you learned this year that was not on any test?",
+            "If you are a parent, how has your child changed since last September?",
+            "What are you most proud of from this school year?",
+            "Write a note to the person you were on the first day of this school year.",
+            "Who are the people from this year you want to stay in touch with?",
+            "What scares you about the next step, and what excites you?",
+            "Five years ago, what did you think your life would look like by now?",
+            "Describe the last day of school from a past year you remember well.",
+            "What do you want to leave behind with this school year?"
+          ],
+          "start": 52
+        }
+      ]
+    },
+    {
+      "h2": "More May journal ideas",
+      "blocks": [
+        {
+          "ul": [
+            "Write a Mother's Day letter in your journal first, then copy the best lines into a card.",
+            "Keep a one word mood check each evening for all of May in a [mood journal](/mood-journal/).",
+            "Make a summer bucket list page with ten things you want to do.",
+            "Save notes and photos from graduations and end of year events.",
+            "Use [self-care journal prompts](/self-care-journal-prompts/) on your busiest days."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips for journaling in May",
+      "blocks": [
+        {
+          "ul": [
+            "**One sentence counts.** On packed days, answer the prompt in a single line.",
+            "**You choose the topic.** If a prompt about family is too painful, skip it.",
+            "**Write before your phone.** Two minutes of writing before you check messages can set the tone for the day.",
+            "**Keep going in June.** When May ends, continue with [June journal prompts](/journal-prompts-june/)."
+          ]
+        },
+        {
+          "tip": "In the southern hemisphere, May is late autumn. Try the gratitude and late fall prompts in our [November journal prompts](/journal-prompts-november/) for your season."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I journal about in May?",
+      "a": "May is a month of finishing and celebrating. Write about the mothers and mother figures in your life, what you are wrapping up before summer, and how your mind is doing during Mental Health Awareness Month. Graduations, Memorial Day and the first warm weekends also give you plenty to write about."
+    },
+    {
+      "q": "What should I write in a Mother's Day journal?",
+      "a": "Write about your earliest memory of your mom, the things she taught you without words, and the sayings you now repeat. If you are a mom, write about moments you want to keep. If the day is hard because of loss or a difficult relationship, write honestly about what you miss and what you need."
+    },
+    {
+      "q": "Can journaling help my mental health?",
+      "a": "For many people, yes. Writing can help you name your feelings, notice patterns and calm a busy mind. Research on expressive writing has found it can help some people process stress. But journaling is not a replacement for professional care. If you are struggling, talk to a doctor or counselor, and if you are in crisis in the US, call or text 988."
+    },
+    {
+      "q": "What are good journal prompts for graduates?",
+      "a": "Graduates can write about what they learned that was not on any test, who they want to stay in touch with, and what scares and excites them about the next step. A note to their younger self on the first day of school, and a list of hopes for the next year, make good pages to keep."
+    }
+  ],
+  "related": [
+    "journal-prompts-april",
+    "journal-prompts-june",
+    "journal-prompts-for-mental-health",
+    "prayer-journal-for-moms",
+    "self-care-journal-prompts",
+    "journal-prompts-for-women"
+  ]
+}

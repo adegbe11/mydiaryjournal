@@ -1,0 +1,312 @@
+{
+  "slug": "fitness-journal",
+  "keyword": "fitness journal",
+  "type": "template",
+  "title": "Fitness Journal: Free Workout Template and Example",
+  "description": "A free fitness journal template to log workouts, sets, reps and how you felt. Fill it in online or print it, with a filled example and fitness journal ideas.",
+  "h1": "Fitness journal: a free workout log template",
+  "crumb": "Fitness journal",
+  "card": "Log it, see the progress",
+  "eyebrow": "Journal types",
+  "intro": "A fitness journal is a log of your workouts and how you felt doing them, so you can see progress and plan your next session. Fill in the free fitness journal template below with your goal, the workout, and how your body felt. Then print it or keep it saved in this browser.",
+  "template": {
+    "key": "fitness-journal",
+    "name": "My fitness journal",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Today's goal",
+        "hint": "Run 3 miles, upper body strength, stretch for 20 minutes...",
+        "lines": 1
+      },
+      {
+        "label": "Workout",
+        "hint": "Exercise, sets x reps, weight, or distance and time",
+        "lines": 5
+      },
+      {
+        "label": "Warm up and cool down",
+        "hint": "5 minute walk, stretches...",
+        "lines": 1
+      },
+      {
+        "label": "Energy before and after (1 to 5)",
+        "hint": "Before 3, after 4",
+        "lines": 1
+      },
+      {
+        "label": "How my body felt",
+        "hint": "Strong, stiff, tired legs, any aches",
+        "lines": 2
+      },
+      {
+        "label": "Sleep, water and food today",
+        "hint": "7 hours, 6 glasses, good breakfast",
+        "lines": 2
+      },
+      {
+        "label": "A win and next time",
+        "hint": "What went well, what I will try next",
+        "lines": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "h2": "What is a fitness journal?",
+      "blocks": [
+        {
+          "p": "A fitness journal is a notebook or page where you record your exercise. At its simplest it is a workout log: what you did, how many sets and reps, how far or how long. A good fitness journal goes a bit further and adds how you felt, how you slept and what you want to try next time."
+        },
+        {
+          "p": "It works for any kind of movement. Lifting, running, walking, swimming, yoga, dance classes, cycling or a home workout video all count. You do not need to be an athlete to keep one."
+        }
+      ]
+    },
+    {
+      "h2": "Why keep a fitness journal",
+      "blocks": [
+        {
+          "ul": [
+            "**See real progress.** Strength and stamina grow slowly. Your log shows the change you might not feel day to day.",
+            "**Plan the next session.** Knowing exactly what you lifted or ran last time makes it easy to add a little more.",
+            "**Stay consistent.** Many people find a written record helps them keep showing up.",
+            "**Notice what affects you.** Sleep, food, stress and time of day can all change how a workout feels.",
+            "**Spot when to rest.** Notes about soreness and low energy can be a sign you need a lighter day."
+          ]
+        },
+        {
+          "tip": "This page is about general fitness and wellbeing. If you are new to exercise, pregnant, recovering from an injury, or have a health condition, check with a doctor before starting a new routine. Stop if you feel pain, dizziness or chest discomfort, and get medical advice."
+        }
+      ]
+    },
+    {
+      "h2": "How to use this fitness journal template",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Set a small goal",
+              "text": "Write one clear goal for the session. \"Walk 30 minutes\" or \"3 sets of squats\" is better than \"get fit.\""
+            },
+            {
+              "name": "Log the workout",
+              "text": "For strength, write the exercise, sets, reps and weight. For cardio, write distance, time and effort. For classes, the name and length."
+            },
+            {
+              "name": "Rate your energy",
+              "text": "Score your energy from 1 to 5 before and after. Over time you will see which workouts lift you up."
+            },
+            {
+              "name": "Note how your body felt",
+              "text": "Strong, stiff, tired, sore. Keep it short and honest."
+            },
+            {
+              "name": "Add sleep, water and food",
+              "text": "A quick line is enough. These often explain good and bad sessions."
+            },
+            {
+              "name": "Write one win and one next step",
+              "text": "End on something that went well, and one thing you will try next time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Fitness journal example",
+      "blocks": [
+        {
+          "p": "Here is a filled page for a strength day. A running or walking day would list distance and time instead."
+        },
+        {
+          "example": {
+            "label": "Fitness journal",
+            "date": "Monday, January 20",
+            "title": "Goal: lower body strength",
+            "text": "Warm up: 5 min bike, leg swings.\nSquats: 3 x 10 at 40 lb. Last set was hard.\nLunges: 3 x 8 each leg, bodyweight.\nGlute bridges: 3 x 12.\nCool down: 10 min stretching.\nEnergy: before 2, after 4. Legs shaky but good.\nSlept 6 hours, need more. Drank 5 glasses of water.\nWin: no rest break mid set. Next: squats at 45 lb."
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Fitness journal ideas",
+      "blocks": [
+        {
+          "p": "Make your fitness journal your own with a few extra pages:"
+        },
+        {
+          "ul": [
+            "**Weekly plan.** Map out which days are strength, cardio, rest and stretching.",
+            "**Personal best page.** Record your best times, heaviest lifts and longest walks with dates.",
+            "**Habit tracker.** Small boxes for steps, water, stretching and sleep. See [bullet journal ideas](/bullet-journal-ideas/) for layouts.",
+            "**Monthly check in.** How do your clothes fit, how do stairs feel, how is your mood?",
+            "**Motivation list.** Your reasons for moving. Read it on low days.",
+            "**Race or event log.** Note fun runs, hikes or classes with a few lines about each.",
+            "**Pair it with food.** A [food journal](/food-journal/) next to your workouts can show how meals affect energy.",
+            "**Mood notes.** Many people feel calmer after moving. A line in a [mood journal](/mood-journal/) can show it."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Fitness journal prompts",
+      "blocks": [
+        {
+          "p": "On rest days, use these questions to reflect:"
+        },
+        {
+          "ol": [
+            "What kind of movement do I actually enjoy?",
+            "What got in the way of exercising this week, and how could I plan around it?",
+            "What can my body do now that it could not do a month ago?",
+            "When do I feel strongest: morning, lunch or evening?",
+            "What would a kind, realistic goal look like for next month?",
+            "How do I want to feel when I am 70, and what helps me get there?"
+          ]
+        },
+        {
+          "p": "For more reflection ideas, see [journal prompts for self growth](/journal-prompts-for-self-growth/) and [self care journal prompts](/self-care-journal-prompts/)."
+        }
+      ]
+    },
+    {
+      "h2": "What to log for different kinds of exercise",
+      "blocks": [
+        {
+          "p": "A fitness journal looks a bit different depending on how you move. Use this table to decide what to write in the workout box."
+        },
+        {
+          "table": {
+            "head": [
+              "Activity",
+              "What to log",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Strength training",
+                "Exercise, sets, reps, weight, rest",
+                "Deadlift 3 x 5 at 95 lb"
+              ],
+              [
+                "Running",
+                "Distance, time, route, how it felt",
+                "3 miles, 31 min, park loop, easy"
+              ],
+              [
+                "Walking",
+                "Minutes or steps, where, with whom",
+                "40 min by the river with Dad"
+              ],
+              [
+                "Cycling",
+                "Distance, time, hills, indoor or out",
+                "12 miles, 50 min, one big hill"
+              ],
+              [
+                "Swimming",
+                "Laps or distance, stroke, time",
+                "20 laps freestyle, 25 min"
+              ],
+              [
+                "Yoga or stretching",
+                "Class or video, length, poses that felt good",
+                "30 min flow, hips felt open"
+              ],
+              [
+                "Classes and sports",
+                "Name, length, effort 1 to 5",
+                "Dance class, 45 min, effort 4"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "Workout tracker vs fitness journal",
+      "blocks": [
+        {
+          "p": "A tracker records what you did. A journal also records why and how it felt. Both are useful, and the template above does both."
+        },
+        {
+          "p": "The \"how it felt\" part matters more than people expect. Over a few weeks, you may notice you feel your best after morning walks, or that you always skip workouts on days you sleep badly. That kind of pattern is easy to miss in numbers alone. Writing a line about your mood before and after also shows how movement affects your day."
+        }
+      ]
+    },
+    {
+      "h2": "Monthly fitness check in",
+      "blocks": [
+        {
+          "p": "Once a month, look back over your pages and answer these questions:"
+        },
+        {
+          "ol": [
+            "How many days did I move this month?",
+            "What is one thing that got easier?",
+            "Did I make progress on my goal, and what helped?",
+            "What kept getting in the way?",
+            "How did I feel overall: energy, sleep, mood?",
+            "What is my goal for next month?"
+          ]
+        },
+        {
+          "p": "Write your monthly goal at the top of your next page so you see it every day. Celebrating progress you can see on paper is a great motivator."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a workout journal",
+      "blocks": [
+        {
+          "ul": [
+            "**Write it right after.** You will forget weights and reps by evening.",
+            "**Keep the format the same.** The same layout every day makes it easy to compare.",
+            "**Celebrate small wins.** One more rep or one more minute is progress.",
+            "**Do not compare.** Compare yourself only with your own earlier pages.",
+            "**Log rest days.** Rest is part of training. Write how you recovered.",
+            "**Print a stack.** Press Print or save as PDF on the template and keep blank pages in your gym bag."
+          ]
+        },
+        {
+          "p": "Prefer typing? The template saves in this browser, or use our [online journal](/online-journal-free/). For more page layouts, browse [printable journal pages](/printable-journal-pages/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I write in a fitness journal?",
+      "a": "Write the date, your goal, and what you did: exercises with sets, reps and weight, or distance and time. Add your energy before and after, how your body felt, and a quick note on sleep, water and food. Finish with one win and one thing to try next time."
+    },
+    {
+      "q": "How do I start a fitness journal?",
+      "a": "Pick a notebook, an app or the free template on this page. Write a simple goal for the next four weeks, then log every session right after you finish. Keep the same layout each time so it is easy to compare. Review your pages once a week."
+    },
+    {
+      "q": "Does a workout journal help you make progress?",
+      "a": "It can. When you know exactly what you did last time, it is easier to add a little more weight, time or distance. Many people also find that a written record keeps them consistent. Progress still depends on regular training, rest, sleep and food."
+    },
+    {
+      "q": "Should I track rest days in my fitness journal?",
+      "a": "Yes. Write a short note on rest days about how your body feels, how you slept and any stretching or walking you did. This helps you see if you are recovering well or need more rest before your next hard session."
+    },
+    {
+      "q": "What is the difference between a fitness journal and a fitness tracker?",
+      "a": "A fitness tracker, like a watch, measures numbers such as steps and heart rate. A fitness journal holds what the tracker cannot: what you lifted, how hard it felt, your mood, your goals and your notes. Many people use both together."
+    },
+    {
+      "q": "What is the best way to set fitness goals in a journal?",
+      "a": "Make them small, clear and time based, like walking 20 minutes four days a week this month, or adding five pounds to your squat by the end of the month. Write the goal at the top of each page. Review it monthly and adjust it if it was too easy or too hard."
+    }
+  ],
+  "related": [
+    "food-journal",
+    "mood-journal",
+    "bullet-journal-ideas",
+    "journal-prompts-for-self-growth",
+    "journal-template",
+    "daily-journal"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "prayer-journal-for-kids",
+  "keyword": "prayer journal for kids",
+  "type": "prompts",
+  "title": "Prayer Journal for Kids: 70 Prompts and a Free Page",
+  "description": "A free prayer journal for kids with 70 simple prayer prompts, a page to write on, and tips for parents. Easy words for ages 5 to 12. Write online or print.",
+  "h1": "Prayer journal for kids: 70 prompts and a page to write on",
+  "crumb": "Prayer journal for kids",
+  "card": "Easy prayers for kids",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for kids is a notebook or page where children write or draw their prayers to God. Below is a page your child can write on right now, plus 70 easy prayer journal prompts for kids sorted by theme, and simple tips for parents to help them get started.",
+  "writer": {"title": "Dear God,", "hint": "Pick a prompt below, or tell God about your day.", "kind": "prayer-journal-for-kids", "rows": 7},
+  "sections": [
+    {
+      "h2": "How kids can use this prayer journal",
+      "blocks": [
+        {"p": "Praying is just talking to God. He loves to hear from you, and you can tell Him anything. Writing it down helps you remember what you prayed and see how God answers."},
+        {"steps": [
+          {"name": "Start with Dear God", "text": "Like writing a letter to someone who loves you very much."},
+          {"name": "Pick one prompt", "text": "Tap Write next to a prompt below and it will show up on your page."},
+          {"name": "Write a few lines or draw", "text": "Short is fine. If you are little, a grown up can write while you talk."},
+          {"name": "Say Amen", "text": "Amen means I agree, or so be it. It is a nice way to finish."},
+          {"name": "Look back later", "text": "When God answers a prayer, put a star next to it."}
+        ]},
+        {"starters": [
+          {"name": "Thank You, God", "text": "Three good things", "title": "Thank You, God, for", "hint": "1. 2. 3."},
+          {"name": "Help me, God", "text": "Something hard", "title": "God, please help me with", "hint": "What is hard for me today is..."},
+          {"name": "Please bless", "text": "Pray for someone", "title": "God, please bless", "hint": "Their name and what they need"}
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts to say thank you",
+      "blocks": [
+        {"prompts": [
+          "What is the best thing that happened today? Thank God for it.",
+          "Thank God for three people who love you.",
+          "What food are you thankful for? Tell God why you like it.",
+          "Thank God for your favorite animal. What do you love about it?",
+          "Thank God for something you can see out your window.",
+          "Who made you laugh today? Thank God for them.",
+          "Thank God for your home and your bed.",
+          "What is something your body can do that you are thankful for? Run, jump, sing?",
+          "Thank God for a friend at school or church.",
+          "Thank God for a time He helped you."
+        ]}
+      ]
+    },
+    {
+      "h2": "Prompts about who God is",
+      "blocks": [
+        {"prompts": [
+          "God made everything. What is the coolest thing He made?",
+          "God is always with you. Where do you want to remember that this week?",
+          "Write about a Bible story you like. Why do you like it?",
+          "God is bigger than anything. What big thing do you want to tell Him about?",
+          "Jesus loves kids. How does it feel to know Jesus loves you?",
+          "What do you think heaven will be like?",
+          "God never sleeps. Is there anything you want Him to watch over tonight?",
+          "If you could ask God one question, what would it be?",
+          "Draw or write about what you think God's love is like."
+        ], "start": 11},
+        {"verse": "Matthew 19:14"}
+      ]
+    },
+    {
+      "h2": "Prompts for when I feel sad, scared or mad",
+      "blocks": [
+        {"prompts": [
+          "What made you feel sad today? Tell God about it.",
+          "Is there anything you are scared of? Ask God to help you be brave.",
+          "Did someone hurt your feelings? Tell God what happened.",
+          "When you feel mad, what helps you calm down? Ask God to help you next time.",
+          "Is something worrying you about school? Write it down and give it to God.",
+          "Ask God to help you sleep well and have good dreams.",
+          "Write about a time God helped you feel better.",
+          "Is someone you love sick or far away? Pray for them.",
+          "What do you want God to help you with tomorrow?",
+          "Ask God to give you a happy heart."
+        ], "start": 20},
+        {"tip": "Parents: if your child writes about something that worries you, like being hurt, bullied or very sad for a long time, gently talk with them, and reach out to their teacher, pastor, doctor or a counselor."}
+      ]
+    },
+    {
+      "h2": "Prompts for saying sorry",
+      "blocks": [
+        {"prompts": [
+          "Did you do something today you wish you had not done? Tell God you are sorry.",
+          "Is there someone you need to say sorry to? Ask God to help you.",
+          "Ask God to help you tell the truth even when it is hard.",
+          "Ask God to help you share and take turns.",
+          "Ask God to help you be kind to your brother or sister.",
+          "Ask God to help you listen to your mom, dad or teacher.",
+          "God always forgives when we are sorry. Thank Him for that.",
+          "Is there someone you need to forgive? Ask God to help you."
+        ], "start": 30}
+      ]
+    },
+    {
+      "h2": "Prompts for praying for others",
+      "blocks": [
+        {"prompts": [
+          "Pray for your mom or dad. What do they need help with?",
+          "Pray for your brothers, sisters or cousins by name.",
+          "Pray for your grandparents.",
+          "Pray for your teacher.",
+          "Pray for a friend who is having a hard time.",
+          "Pray for a kid at school who seems lonely.",
+          "Pray for your pastor or Sunday school teacher.",
+          "Pray for kids around the world who do not have enough food.",
+          "Pray for doctors, nurses, police and firefighters.",
+          "Pray for someone who does not know Jesus yet.",
+          "Pray for your neighbors.",
+          "Pray for your pet."
+        ], "start": 38}
+      ]
+    },
+    {
+      "h2": "Prompts about me and my day",
+      "blocks": [
+        {"prompts": [
+          "What is something you are good at? Thank God for it.",
+          "What do you want to be when you grow up? Ask God to help you.",
+          "What is something hard you want to learn? Ask God for help.",
+          "How can you be kind to someone tomorrow?",
+          "What made today a good day or a hard day?",
+          "What are you excited about this week?",
+          "Ask God to help you be a good friend.",
+          "Write about your favorite place. Thank God for it.",
+          "Ask God to help you do your best at school.",
+          "What do you want to tell God that you have never told anyone?",
+          "Ask God to help you love Him more.",
+          "Write a short prayer for your family to say at dinner."
+        ], "start": 50}
+      ]
+    },
+    {
+      "h2": "Bible verse prompts for kids",
+      "blocks": [
+        {"p": "Ask a grown up to help you read the verse, then write your prayer."},
+        {"prompts": [
+          "Read Psalm 23:1. Write a prayer thanking God for taking care of you like a shepherd.",
+          "Read Joshua 1:9. What do you need to be brave about?",
+          "Read Psalm 56:3. Write about a time you were scared and trusted God.",
+          "Read John 3:16. Thank God for sending Jesus.",
+          "Read Psalm 139:14. Thank God for making you just the way you are.",
+          "Read Ephesians 4:32. Who can you be kind to this week?",
+          "Read Proverbs 3:5. What do you want to trust God with?",
+          "Read Psalm 4:8. Write a bedtime prayer.",
+          "Read Philippians 4:6. Write down one worry and turn it into a prayer."
+        ], "start": 62},
+        {"p": "For more, try these [Bible journal questions for kids](/bible-journal-questions-for-kids/)."}
+      ]
+    },
+    {
+      "h2": "Tips for parents",
+      "blocks": [
+        {"ul": [
+          "**Keep it short.** Five minutes at bedtime is plenty for young kids.",
+          "**Let them draw.** Kids under seven can draw their prayer and tell you what it means. You can write a caption.",
+          "**Pray alongside them.** Keep your own journal next to theirs. Kids copy what they see.",
+          "**Never grade it.** Spelling and neat writing do not matter here. Honesty does.",
+          "**Celebrate answers.** Add a star or sticker when God answers a prayer, and talk about it together.",
+          "**Respect privacy.** Ask before reading your child's journal, especially as they get older.",
+          "**Print a few pages.** Use Print to make paper pages for a binder or a road trip."
+        ]},
+        {"p": "Older kids may be ready for the [prayer journal for teens](/prayer-journal-for-teens/). Parents who want to pray for their children can use the [prayer journal for your children](/prayer-journal-for-your-children/). For a general diary, see our [diary for kids](/diary-for-kids/) and [journal prompts for kids](/journal-prompts-for-kids/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What age can a child start a prayer journal?", "a": "Children can start as soon as they can talk about their day, around age four or five, with a parent writing for them or drawing pictures together. By seven or eight, most kids can write a few sentences on their own. The prompts on this page work best for ages five to twelve."},
+    {"q": "What should kids write in a prayer journal?", "a": "Kids can write thank yous, things that make them sad or scared, people they want to pray for, and things they are sorry for. They can also write about a Bible story or verse. Drawing a picture of the prayer is also a great choice for younger kids."},
+    {"q": "How do I teach my child to pray in a journal?", "a": "Show them first. Write a short prayer in your own journal while they watch. Then give them one simple prompt, like thank You God for, and let them finish it. Keep it short, praise their effort, and make it part of a daily routine like bedtime."},
+    {"q": "Is this prayer journal for kids safe to use online?", "a": "Yes. There are no ads, no sign up and no account. What your child writes is saved in the browser on this device only and is not sent to us. A parent can print or save the page as a PDF to keep it."},
+    {"q": "Should I read my child's prayer journal?", "a": "With young children, it is natural to read it together. As they grow, ask before you read. Kids pray more honestly when they know their journal is respected. Let them choose what to share with you."}
+  ],
+  "related": ["prayer-journal-for-teens", "bible-journal-questions-for-kids", "prayer-journal-for-your-children", "prayer-journal-prompts", "journal-prompts-for-kids", "diary-for-kids"]
+}

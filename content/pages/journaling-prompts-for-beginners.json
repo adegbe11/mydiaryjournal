@@ -1,0 +1,162 @@
+{
+  "slug": "journaling-prompts-for-beginners",
+  "keyword": "journaling prompts for beginners",
+  "type": "prompts",
+  "title": "Journaling Prompts for Beginners: 67 Easy Ideas",
+  "description": "67 easy journaling prompts for beginners, from two minute warm ups to simple lists and memories. Plus a step by step way to start and a free page to write on.",
+  "h1": "Journaling prompts for beginners",
+  "crumb": "Prompts for beginners",
+  "card": "Easy first prompts",
+  "eyebrow": "Journal prompts",
+  "intro": "Journaling prompts for beginners are easy, low pressure questions that help you start writing without staring at a blank page. The best first prompts are about simple, concrete things, like what you see, what you ate or a favorite memory. Start with one warm up prompt, write for five minutes, and build from there. Here are 67 easy ideas to get you going.",
+  "writer": {"title": "My first page,", "hint": "Pick an easy prompt and just start...", "kind": "journaling-prompts-for-beginners"},
+  "sections": [
+    {
+      "h2": "How to start journaling as a beginner",
+      "blocks": [
+        {"p": "The hardest part of journaling is the first line. These steps make it easy. For a full guide, read [how to start a journal](/how-to-start-a-journal/)."},
+        {"steps": [
+          {"name": "Choose where to write", "text": "Any notebook works, or use our [free online diary](/) in your browser. No sign up, and pages stay on your device."},
+          {"name": "Set a five minute timer", "text": "A short timer takes the pressure off. You only have to write until it rings."},
+          {"name": "Pick an easy prompt", "text": "Start with the warm ups below. They ask about simple things, so the words come easily."},
+          {"name": "Do not edit", "text": "Spelling, grammar and neat handwriting do not matter. Just keep going."},
+          {"name": "Come back tomorrow", "text": "Write at about the same time each day. It becomes a habit in a few weeks."}
+        ]},
+        {"tip": "There is no wrong way to journal. Lists, single sentences, doodles and bullet points all count."}
+      ]
+    },
+    {
+      "h2": "Easy warm up prompts",
+      "blocks": [
+        {"p": "These take two minutes and need zero deep thinking. They are perfect for your very first entry."},
+        {"prompts": [
+          "Describe where I am sitting right now using all five senses.",
+          "What did I have for lunch, and would I eat it again?",
+          "What is the weather like, and how does it make me feel?",
+          "Write down three things I can see from where I am.",
+          "What song have I heard most this week?",
+          "What is on my to do list that I keep skipping?",
+          "What is the last thing that made me laugh out loud?",
+          "Describe my favorite mug, sweater or blanket.",
+          "What is one thing I bought recently, and do I like it?",
+          "What was the last text I sent, and who was it to?",
+          "Write about my favorite season and why I love it.",
+          "What did I do last weekend?"
+        ]}
+      ]
+    },
+    {
+      "h2": "Journal ideas for beginners: all about me",
+      "blocks": [
+        {"prompts": [
+          "Write a short introduction to myself as if I were meeting a new friend.",
+          "What are three things I am good at?",
+          "What is my favorite way to spend an evening?",
+          "What was I like as a child?",
+          "What is a food I loved as a kid and still love now?",
+          "What is my favorite place in my town?",
+          "Describe my perfect day from start to finish.",
+          "What is something most people do not know about me?",
+          "What are my comfort movies, books or shows?",
+          "What hobby would I try if I had more time?",
+          "What is a smell that brings back a memory?",
+          "What is one thing I would like to get better at?"
+        ], "start": 13}
+      ]
+    },
+    {
+      "h2": "Simple list prompts",
+      "blocks": [
+        {"p": "Lists are the easiest way to journal. No full sentences needed."},
+        {"prompts": [
+          "10 things that make me happy.",
+          "5 places I want to visit.",
+          "Songs that remind me of a certain year.",
+          "Books or shows I want to try next.",
+          "Small things I can do when I am bored.",
+          "People I am glad I met.",
+          "Foods I want to learn to cook.",
+          "Things I have done that I was nervous about at first.",
+          "My favorite smells.",
+          "Things I would put in my dream house.",
+          "Little things that make a day better.",
+          "Questions I would ask my grandparents."
+        ], "start": 25}
+      ]
+    },
+    {
+      "h2": "Beginner prompts about memories",
+      "blocks": [
+        {"prompts": [
+          "Write about a birthday I remember well.",
+          "What was my first job or chore, and what did I learn?",
+          "Describe a favorite holiday memory.",
+          "Who was my favorite teacher, and why?",
+          "Write about a trip, even a short one, that I loved.",
+          "What is the first home I remember living in?",
+          "What was my favorite game growing up?",
+          "Describe a day when everything went right.",
+          "What is a family story that gets told again and again?",
+          "Write about the first time I did something on my own.",
+          "What did summer feel like when I was ten?"
+        ], "start": 37}
+      ]
+    },
+    {
+      "h2": "Easy prompts about feelings",
+      "blocks": [
+        {"p": "Once you are comfortable, try writing a little about how you feel. Keep it simple."},
+        {"prompts": [
+          "How am I feeling right now, in one word? Now explain that word.",
+          "What is one thing that annoyed me this week? Why did it bother me?",
+          "When did I feel calm recently?",
+          "What do I do when I feel bored, and does it help?",
+          "What is something I am nervous about?",
+          "Who do I miss right now?",
+          "What is a small thing that made me feel cared for?",
+          "What does a good day feel like to me?",
+          "What helps me feel better after a bad day?",
+          "What is something I am excited to try?"
+        ], "start": 48}
+      ]
+    },
+    {
+      "h2": "Simple prompts about the future",
+      "blocks": [
+        {"prompts": [
+          "What is one thing I want to do this month?",
+          "Where do I see myself living in a few years?",
+          "What is a small habit I would like to start?",
+          "What is one goal I could reach by the end of the week?",
+          "What would I like to learn next?",
+          "What kind of trip do I want to take next?",
+          "What is something I want to buy or save up for?",
+          "Who do I want to spend more time with?",
+          "What do I want to remember about this year?",
+          "What would make next week a little better than this one?"
+        ], "start": 58}
+      ]
+    },
+    {
+      "h2": "Tips for new journal writers",
+      "blocks": [
+        {"ul": [
+          "**Start with five minutes.** Short sessions are easier to keep up than long ones.",
+          "**Tie it to a habit.** Write right after your morning coffee or right before bed.",
+          "**Do not wait to feel inspired.** A prompt does the thinking for you. Just answer it.",
+          "**Try different styles.** A [one line a day journal](/one-line-a-day-journal/), a [gratitude journal](/gratitude-journal/) or a [bullet journal](/bullet-journal-ideas/) might fit you better than long entries.",
+          "**Read back after a month.** You will be surprised what you remember and how you have changed."
+        ]},
+        {"p": "Still not sure what to write? See [what to write in a journal](/what-to-write-in-a-journal/), browse our [daily journal prompts](/daily-journal-prompts/), or look at [journal examples](/journal-examples/) to see real entries."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "How should a beginner start journaling?", "a": "Pick a notebook or app, set a timer for five minutes, and answer one easy prompt, like describing where you are sitting or what you ate for lunch. Do not worry about spelling or neatness. Write at the same time each day, and after a few weeks it starts to feel natural."},
+    {"q": "What should I write in my journal for the first time?", "a": "Something simple and concrete. Introduce yourself as if meeting a new friend, write about your day, or make a list of ten things that make you happy. Your first entry does not need to be deep. It just needs to exist."},
+    {"q": "How long should a beginner journal for?", "a": "Five to ten minutes is perfect. Short sessions keep it easy and make it more likely you will come back tomorrow. As you get comfortable, you can write longer on days when you have more to say."},
+    {"q": "What if I do not know what to write?", "a": "Use a prompt. Prompts give you a question to answer so you never face a blank page. You can also write I do not know what to write and keep going. Usually something real shows up after a few lines."},
+    {"q": "Do I need a special notebook to start journaling?", "a": "No. Any notebook, a notes app or a free online diary works fine. Some people love a nice notebook because it makes writing feel special. Others prefer typing because it is faster. Use whatever you will actually open again tomorrow."}
+  ],
+  "related": ["how-to-start-a-journal", "what-to-write-in-a-journal", "journal-ideas-easy", "daily-journal-prompts", "journal-prompts", "online-journal-free"]
+}

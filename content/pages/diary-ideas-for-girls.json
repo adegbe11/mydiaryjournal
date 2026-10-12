@@ -1,0 +1,260 @@
+{
+  "slug": "diary-ideas-for-girls",
+  "keyword": "diary ideas for girls",
+  "type": "prompts",
+  "title": "Diary Ideas for Girls: 85 Easy and Aesthetic Ideas",
+  "description": "85 diary ideas for girls: easy things to write about, friends, feelings, dreams, fun pages and aesthetic page ideas. Write one now in a free private diary.",
+  "h1": "Diary ideas for girls: 85 easy and aesthetic ideas",
+  "crumb": "Diary ideas for girls",
+  "card": "Easy and cute ideas",
+  "eyebrow": "Diary ideas",
+  "intro": "Here are 85 diary ideas for girls, from easy everyday questions to fun lists and aesthetic page ideas. They cover school, friends, family, feelings and big dreams. Tap **Write** next to any idea to start a page in the private diary above.",
+  "writer": {
+    "title": "Dear diary,",
+    "hint": "Pick an idea, or tell your diary about today",
+    "kind": "diary-ideas-for-girls"
+  },
+  "related": [
+    "diary-for-girls",
+    "diary-ideas",
+    "secret-diary",
+    "journal-ideas-aesthetic",
+    "journal-prompts-for-teens",
+    "diary-entry-topics"
+  ],
+  "sections": [
+    {
+      "h2": "How to use these diary ideas",
+      "blocks": [
+        {
+          "p": "Pick one idea that feels fun or that you have a feeling about. Write a few lines, or a whole page. There are no wrong answers and nobody is checking your spelling."
+        },
+        {
+          "p": "Your diary is yours. Write the way you talk. If an idea does not fit today, skip it and pick another."
+        },
+        {
+          "starters": [
+            {
+              "name": "Today in emojis",
+              "text": "Describe your day with three emojis, then explain each one.",
+              "title": "Today in three emojis",
+              "hint": "1.\n2.\n3."
+            },
+            {
+              "name": "My top five",
+              "text": "Top five songs, snacks or shows right now.",
+              "title": "My top five right now",
+              "hint": "1.\n2.\n3.\n4.\n5."
+            },
+            {
+              "name": "Dear future me",
+              "text": "A letter to open in one year.",
+              "title": "Dear future me,",
+              "hint": "Right now I am..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Easy diary ideas for every day",
+      "blocks": [
+        {
+          "prompts": [
+            "The best part of today and the not so great part.",
+            "What you wore today and why you picked it.",
+            "Something that made you giggle today.",
+            "What you had for lunch. Rate it out of ten.",
+            "A song stuck in your head right now.",
+            "Something new you learned today, at school or anywhere.",
+            "Your mood today as a weather report: sunny, cloudy, stormy?",
+            "Something kind you did today, or something kind someone did for you.",
+            "What you are looking forward to tomorrow.",
+            "Three things you can see from where you are sitting right now.",
+            "The last photo on your camera roll and the story behind it.",
+            "If today had a title like a book, what would it be?"
+          ],
+          "start": 1
+        }
+      ]
+    },
+    {
+      "h2": "Diary ideas about friends and family",
+      "blocks": [
+        {
+          "prompts": [
+            "How you met your best friend. Tell the whole story.",
+            "Your favorite memory with your best friend so far.",
+            "Something you and your friends always laugh about.",
+            "A time a friend made you feel really cared for.",
+            "A small fight with a friend. What happened and how did you fix it?",
+            "Your mom, dad or the person who looks after you: one thing you love about them.",
+            "A family tradition you love, like a holiday, a meal or a movie night.",
+            "A brother, sister or cousin who drives you crazy, and one nice thing about them.",
+            "Your grandparents or an older relative. What stories do they tell?",
+            "What makes a good friend? Make a list.",
+            "A friend you miss and what you would do together if you saw them today.",
+            "A person you would like to get to know better."
+          ],
+          "start": 13
+        }
+      ]
+    },
+    {
+      "h2": "All about me diary ideas",
+      "blocks": [
+        {
+          "prompts": [
+            "An all about me page: name, age, favorite color, food, animal, song and show.",
+            "Three things you love about yourself.",
+            "Something you are really good at, and how you got good at it.",
+            "Something you are still learning and want to get better at.",
+            "Your room right now. What would you change if you could?",
+            "Your perfect weekend, from waking up to bedtime.",
+            "Your comfort things: the snack, show, outfit and place that make you feel better.",
+            "A time you were brave.",
+            "What makes you different from everyone else in your class.",
+            "Your favorite thing to do when you are alone.",
+            "Something you wish people knew about you.",
+            "Your style in five words."
+          ],
+          "start": 25
+        }
+      ]
+    },
+    {
+      "h2": "Diary ideas about feelings",
+      "blocks": [
+        {
+          "p": "Writing your feelings down can help them feel smaller and clearer. If something is really worrying you, it is also a good idea to talk to a parent, teacher or another adult you trust."
+        },
+        {
+          "prompts": [
+            "Something that made you happy this week, big or small.",
+            "A time you felt left out. What would have helped?",
+            "Something you are nervous about right now. Then write the best thing that could happen.",
+            "A time you felt really proud of yourself.",
+            "What you do when you feel sad. What helps the most?",
+            "Something you wish you had said to someone.",
+            "A moment you felt embarrassed that is funny now.",
+            "What calm feels like to you. Where are you, and what can you hear?",
+            "A worry you can let go of today.",
+            "Five things you are thankful for right now."
+          ],
+          "start": 37
+        }
+      ]
+    },
+    {
+      "h2": "Dreams and goals",
+      "blocks": [
+        {
+          "prompts": [
+            "What you want to be when you grow up, and three jobs you would also love to try.",
+            "A place in the world you dream of visiting. What would you do first?",
+            "A goal for this month and the first small step.",
+            "Something you want to learn, like an instrument, a language or a sport.",
+            "Your dream bedroom. Describe every corner.",
+            "A letter to yourself to open on your next birthday.",
+            "If you could start any club at school, what would it be?",
+            "Ten things on your bucket list.",
+            "A woman or girl you look up to, real or from a book, and why.",
+            "What you hope people say about you when you are older."
+          ],
+          "start": 47
+        }
+      ]
+    },
+    {
+      "h2": "Fun and silly diary ideas",
+      "blocks": [
+        {
+          "prompts": [
+            "If you had a magic power for one day, what would you do with it?",
+            "Invent a new ice cream flavor and describe it.",
+            "If your pet could talk, what would it say about you?",
+            "Design your dream outfit for a party.",
+            "Write a story that starts with \"The door was open just a crack...\"",
+            "If you could swap lives with a character from a book or movie for one day, who would it be?",
+            "Your dream sleepover. Who is there, what do you eat, what do you watch?",
+            "A day where everything is upside down. What happens?",
+            "Make up a new holiday and plan how to celebrate it.",
+            "Would you rather live by the ocean or in the mountains? Why?",
+            "Write a short poem about your favorite season.",
+            "If you opened a shop, what would it sell?"
+          ],
+          "start": 57
+        }
+      ]
+    },
+    {
+      "h2": "Aesthetic diary ideas for your pages",
+      "blocks": [
+        {
+          "p": "Aesthetic diary pages are about how the page looks as much as what it says. Try these when you want to get creative. For more looks, see [aesthetic journal ideas](/journal-ideas-aesthetic/)."
+        },
+        {
+          "prompts": [
+            "A mood tracker for the month: one small square or heart for each day, colored by mood.",
+            "A color palette page: five colors you love right now with a word for each.",
+            "A favorite quote written big in your best handwriting, with doodles around it.",
+            "A \"currently\" page: reading, watching, listening to, loving, wishing.",
+            "A seasonal page with pressed leaves, flowers or drawings from outside.",
+            "A ticket and wrapper page: stick in little things from a fun day out.",
+            "A playlist page drawn like an album cover.",
+            "A doodle of your desk or bedside table.",
+            "A vision page with cut out words and pictures of things you want.",
+            "A gratitude jar drawing, with each thing you are thankful for on a paper star.",
+            "A week at a glance page with a cute header and a small drawing for each day.",
+            "A sky page: draw or describe the sky every evening for a week.",
+            "A \"things that made me smile\" page with washi tape borders.",
+            "A friendship page with your friends' handwriting and their favorite things.",
+            "A cozy page about your favorite rainy day activities.",
+            "A memory page from your last trip or holiday, with a small map you draw yourself.",
+            "A page of doodled flowers, hearts and stars to use when you do not want to write words."
+          ],
+          "start": 69
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping your diary private and fun",
+      "blocks": [
+        {
+          "ul": [
+            "**Keep it simple.** A few lines a day is enough. You do not have to fill a page.",
+            "**Make it yours.** Use stickers, colored pens and drawings in a paper diary. Online, try a fun title for each page.",
+            "**Keep it private.** A diary with a lock, a hidden spot, or an online diary with a PIN helps. Read about a [secret diary](/secret-diary/) for ideas.",
+            "**Stay safe online.** Do not post diary pages with your full name, school or address. Your diary is just for you.",
+            "**Be kind to yourself.** Write about mistakes like you would talk to your best friend."
+          ]
+        },
+        {
+          "tip": "Looking for a diary to buy or use? See our guide to a [diary for girls](/diary-for-girls/). Want more ideas? Try [diary ideas](/diary-ideas/) for everyone or [journal prompts for teens](/journal-prompts-for-teens/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a girl write in her diary?",
+      "a": "Anything that is on her mind: what happened today, friends, family, school, feelings, dreams, favorite things and fun lists. A diary is a private space, so there are no rules. Many girls like to mix writing with drawings, stickers and quotes to make the pages feel special."
+    },
+    {
+      "q": "What are some easy diary ideas?",
+      "a": "Easy diary ideas include the best part of your day, what you ate for lunch, a song stuck in your head, your mood as a weather report, three things you are thankful for, and a top five list of your favorite things right now. Each one takes just a few minutes."
+    },
+    {
+      "q": "How do I make my diary aesthetic?",
+      "a": "Pick a small color palette and stick with it, use one or two nice pens, and add washi tape, stickers or doodles. Try page ideas like a mood tracker, a currently page, a quote page or a playlist page. Leave some white space so the page feels calm."
+    },
+    {
+      "q": "How can I keep my diary private?",
+      "a": "Use a diary with a lock or keep it somewhere only you know about. An online diary with a PIN works too on a shared computer. Most of all, ask your family to respect that your diary is private, and do not share pages online."
+    },
+    {
+      "q": "What age is good to start a diary?",
+      "a": "Any age that you can write a few sentences. Many girls start around 7 or 8 years old, often with a diary gift. Younger children can draw pictures and write one line. There is no age that is too late to start."
+    }
+  ]
+}

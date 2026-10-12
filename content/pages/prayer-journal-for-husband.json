@@ -1,0 +1,152 @@
+{
+  "slug": "prayer-journal-for-husband",
+  "keyword": "prayer journal for husband",
+  "type": "template",
+  "title": "Prayer Journal for Husband: Free Page and Prompts",
+  "description": "A free prayer journal for your husband: a fill-in page plus prayer points for his faith, work, health, mind, leadership and your marriage. Write or print.",
+  "h1": "Prayer journal for your husband",
+  "crumb": "Prayer journal for husband",
+  "card": "Pray for him by name",
+  "eyebrow": "Prayer journal",
+  "intro": "A prayer journal for your husband is a page where you write specific prayers for him, area by area, and record how God answers over time. Fill in the page below for this week, then use the prayer points for his faith, work, health, mind and your marriage when you want to go deeper.",
+  "template": {
+    "key": "prayer-journal-for-husband",
+    "name": "Praying for my husband",
+    "eyebrow": "Week of",
+    "fields": [
+      {"label": "Verse I am praying over him", "hint": "Psalm 1:1-3, Colossians 3:23...", "lines": 2},
+      {"label": "Thank You, Lord, for him", "hint": "Three things I love about him this week", "lines": 3},
+      {"label": "His walk with God", "hint": "Faith, time in the Word, wisdom", "lines": 2},
+      {"label": "His work and provision", "hint": "Job, boss, decisions, money", "lines": 2},
+      {"label": "His health, mind and heart", "hint": "Sleep, stress, temptation, joy", "lines": 2},
+      {"label": "Our marriage", "hint": "Friendship, talking, intimacy, unity", "lines": 2},
+      {"label": "Help me be a good wife to him", "hint": "Where I need to change or forgive", "lines": 2},
+      {"label": "Answered prayers", "hint": "What God did, and when", "lines": 2}
+    ]
+  },
+  "sections": [
+    {
+      "h2": "Why keep a prayer journal for your husband",
+      "blocks": [
+        {"p": "Praying for your husband is one of the kindest things you can do for him, and he may never know how often you do it. Writing your prayers down makes them specific, helps you remember what you asked, and lets you see God at work in his life over months and years."},
+        {"ul": [
+          "**It turns worry into prayer.** Instead of stewing about his job or his health, you bring it to God.",
+          "**It softens your own heart.** It is hard to stay angry at someone you pray for every day.",
+          "**It builds a record.** On hard days in marriage, reading old answered prayers reminds you that God is faithful.",
+          "**It can become a gift.** Some wives give their husband a copy of their prayers on an anniversary."
+        ]},
+        {"verse": "Ecclesiastes 4:12"}
+      ]
+    },
+    {
+      "h2": "Prayer points for your husband by area of life",
+      "blocks": [
+        {"p": "Pick one area each day so your prayers stay fresh. Write his name into the prayer as you go."},
+        {"h3": "His relationship with God"},
+        {"ul": [
+          "That he would love God with all his heart and want time in His Word.",
+          "That he would hear God clearly and follow Him quickly.",
+          "That he would have wisdom for the choices in front of him.",
+          "That he would find a strong church family and godly friends."
+        ]},
+        {"h3": "His work and provision"},
+        {"ul": [
+          "That he would work with integrity and be respected for it.",
+          "For favor with his boss, coworkers or clients.",
+          "For wisdom with money and peace about provision.",
+          "That he would find meaning in his work and not tie his worth to it."
+        ]},
+        {"h3": "His health and body"},
+        {"ul": [
+          "For good sleep, healthy habits and energy for the day.",
+          "For healing in any sickness or pain he is carrying.",
+          "For safety when he drives, travels or works with his hands."
+        ]},
+        {"h3": "His mind and emotions"},
+        {"ul": [
+          "For peace when he is stressed or carrying too much.",
+          "That he would not hide his struggles but share them with God and with you.",
+          "For joy and a sense of humor that lasts through hard seasons.",
+          "For freedom from shame, fear or old wounds."
+        ]},
+        {"h3": "Temptation and purity"},
+        {"ul": [
+          "For a clean mind and strong guard rails.",
+          "For strength to walk away from anything that would harm your marriage.",
+          "For honest friends who will help him stay on track."
+        ]},
+        {"h3": "As a father and leader"},
+        {"ul": [
+          "That he would lead your home with love, humility and patience.",
+          "That your children would see Jesus in him.",
+          "For wisdom in discipline and tenderness in daily life."
+        ]},
+        {"h3": "Your marriage"},
+        {"ul": [
+          "That you would be best friends and enjoy each other.",
+          "For kind words and quick forgiveness.",
+          "For time together, even in busy seasons.",
+          "That God would protect your marriage from anything that would divide it."
+        ]},
+        {"verse": "Ephesians 5:25"}
+      ]
+    },
+    {
+      "h2": "How to use this prayer journal for your husband",
+      "blocks": [
+        {"steps": [
+          {"name": "Choose a verse for the week", "text": "Pick one passage to pray over him. Psalm 1, Psalm 112, or Colossians 3 are good places to start."},
+          {"name": "Start with thanks", "text": "Write three things you appreciate about him. This sets the tone for the rest of your prayer."},
+          {"name": "Pray area by area", "text": "Fill in each box with one specific request. Use real details: his meeting on Tuesday, his back pain, the project he is stressed about."},
+          {"name": "Pray for yourself too", "text": "Ask God where you need to grow as a wife. This keeps your prayers humble."},
+          {"name": "Record answers", "text": "Your page saves on this device, or print it. When God answers, write it down with the date."}
+        ]},
+        {"tip": "Want a general page for your own prayers too? Use the [prayer journal template](/prayer-journal-template/) alongside this one."}
+      ]
+    },
+    {
+      "h2": "A filled in example",
+      "blocks": [
+        {"example": {"label": "Praying for my husband", "date": "Week of June 2", "title": "Lord, for James:", "text": "Verse: Psalm 1:1-3.\nThank You for his laugh, his patience with Ava, his hard work.\nFaith: that he would want to read with me again.\nWork: peace about the layoffs, favor with his new manager.\nHealth: his knee, and better sleep.\nUs: a real date night this month.\nMe: help me stop correcting him in front of the kids.\nAnswered: he got the transfer he prayed for (May 28)."}}
+      ]
+    },
+    {
+      "h2": "Prayer prompts to write about your husband",
+      "blocks": [
+        {"p": "When you want to write more than a list, use one of these."},
+        {"ol": [
+          "What is one quality God has grown in him since you met? Thank God for it.",
+          "What is he carrying right now that he has not talked much about?",
+          "Write a prayer for him on his hardest day of the week.",
+          "What would you want him to know about how God sees him?",
+          "Where do the two of you keep getting stuck? Ask God for a new way forward.",
+          "Write about a moment you saw him at his best. Pray for more of that.",
+          "What dream does he have? Pray for it as if it were your own.",
+          "Write a prayer for your marriage ten years from now."
+        ]},
+        {"p": "For more ideas, see the full list of [prayer journal prompts](/prayer-journal-prompts/) and these [journal prompts on relationships](/journal-prompts-on-relationships/)."}
+      ]
+    },
+    {
+      "h2": "Tips for praying for your husband",
+      "blocks": [
+        {"ul": [
+          "**Pray one area per day.** Monday faith, Tuesday work, Wednesday health and so on.",
+          "**Pray for him, not at him.** Your journal is not a list of things you wish he would change. Bring your frustrations to God, then ask God to work in both of you.",
+          "**Ask him how to pray.** Once a week, ask him what is on his mind. Write it down.",
+          "**Keep praying in hard seasons.** If your marriage is struggling, keep writing. If you are not safe, reach out to a trusted pastor, counselor or local emergency services.",
+          "**Look back on your anniversary.** Read your pages from the past year and thank God for what He did."
+        ]},
+        {"p": "If you want a guided year of prayer on your phone, the [Prayer Journal for Women](/prayer-journal-for-women/) Android app has a prayer list with a Pray now button, an answered prayers list, reminders, and a Bible verse with reflection every week. It is coming soon on Google Play, with no ads and no account. Moms may also like the [prayer journal for moms](/prayer-journal-for-moms/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "How do I start a prayer journal for my husband?", "a": "Use a notebook or the page above. Pick a verse to pray over him for the week, write three things you are thankful for about him, then pray one specific request in each area of his life: faith, work, health, mind and your marriage. Date it and come back to add answers."},
+    {"q": "What should I pray for my husband daily?", "a": "Pray that he would grow close to God, have wisdom for his decisions, find meaning and integrity in his work, stay healthy and safe, have peace in his mind, resist temptation, and love your family well. Pray for your marriage and for your own heart too."},
+    {"q": "What Bible verses can I pray over my husband?", "a": "Psalm 1:1-3, Psalm 112:1-3, Joshua 1:9, Proverbs 3:5-6, Colossians 3:23, Ephesians 3:16-19 and Philippians 4:6-7 are good choices. Put his name into the verse as you pray it, and write the reference at the top of your page."},
+    {"q": "Should I tell my husband I keep a prayer journal for him?", "a": "That is up to you. Some wives keep it private. Others share a page now and then or give the journal as a gift on an anniversary. Many husbands are encouraged to learn they have been prayed for so faithfully."},
+    {"q": "Can I print this prayer journal page?", "a": "Yes. Fill it in or leave it blank, then press Print or save it as a PDF. Print one page for each week and keep them in a folder. Your answers also save in this browser on this device."}
+  ],
+  "related": ["prayer-journal-for-your-future-husband", "prayer-journal-for-your-children", "prayer-journal-for-moms", "prayer-journal-template", "prayer-journal-for-women", "journal-prompts-on-relationships"]
+}

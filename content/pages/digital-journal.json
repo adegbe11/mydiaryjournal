@@ -1,0 +1,333 @@
+{
+  "slug": "digital-journal",
+  "keyword": "digital journal",
+  "type": "tool",
+  "title": "Digital Journal: Free to Use, Ideas and Examples",
+  "description": "Keep a free digital journal right here, with no sign up. Learn what a digital journal is, see examples, and get 30 digital journal ideas to fill your pages.",
+  "h1": "Digital journal: write yours free, plus ideas and examples",
+  "crumb": "Digital journal",
+  "card": "Ideas, examples, free page",
+  "eyebrow": "Write online",
+  "intro": "A **digital journal** is a journal you keep on a phone, tablet or computer instead of in a paper notebook. You can start one free on this page right now, with no sign up. Your entries save in your browser on this device, and you can print them or save them as PDFs.",
+  "writer": {
+    "title": "My digital journal",
+    "hint": "Start with today. What happened, and how did it feel?",
+    "kind": "digital-journal"
+  },
+  "related": [
+    "journal-app",
+    "online-journal-free",
+    "diary-app",
+    "journal-ideas",
+    "journal-examples",
+    "printable-journal-pages"
+  ],
+  "sections": [
+    {
+      "h2": "What is a digital journal?",
+      "blocks": [
+        {
+          "p": "A digital journal is any journal you type instead of write by hand. It can be a notes file, a document, a journaling website like this one, or an app. The purpose is the same as paper: a private place to record your days, sort out your thoughts and remember your life."
+        },
+        {
+          "p": "The difference is how it fits into your day. Your phone is always with you, typing is fast for most people, and a digital page never runs out of room."
+        },
+        {
+          "table": {
+            "head": [
+              "",
+              "Digital journal",
+              "Paper journal"
+            ],
+            "rows": [
+              [
+                "Speed",
+                "Fast to type",
+                "Slower, more thoughtful"
+              ],
+              [
+                "Always with you",
+                "Yes, on your phone",
+                "Only if you carry it"
+              ],
+              [
+                "Easy to reread",
+                "Scroll through your pages",
+                "Flip through the book"
+              ],
+              [
+                "Feel",
+                "Clean and simple",
+                "Personal, handwritten"
+              ],
+              [
+                "Privacy",
+                "Depends on the tool and device lock",
+                "Depends on where you hide it"
+              ],
+              [
+                "Backup",
+                "PDF or export",
+                "Photocopies or photos"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "Many people use both: a digital journal for daily notes and a paper one for special things. See [diary vs journal](/diary-vs-journal/) if you are still choosing a style."
+        }
+      ]
+    },
+    {
+      "h2": "Ways to keep a digital journal",
+      "blocks": [
+        {
+          "p": "There is no single right tool. Here are the four common ways people keep a digital journal, with the honest pros and cons."
+        },
+        {
+          "table": {
+            "head": [
+              "Tool",
+              "Good",
+              "Watch out for"
+            ],
+            "rows": [
+              [
+                "Notes app",
+                "Already on your phone",
+                "Entries get mixed with shopping lists"
+              ],
+              [
+                "Word document",
+                "Easy to back up as a file",
+                "One long file gets slow and hard to scroll"
+              ],
+              [
+                "Journal website like this",
+                "No install, made for journaling, prompts built in",
+                "Pages stay in one browser, no sync"
+              ],
+              [
+                "Journal app with an account",
+                "Sync, photos, search",
+                "Your words are stored on a company's servers"
+              ]
+            ]
+          }
+        },
+        {
+          "p": "If you are just starting, use the page at the top of this one. It takes ten seconds and costs nothing. You can always move to another tool later by saving your pages as PDFs."
+        }
+      ]
+    },
+    {
+      "h2": "A digital journal free to use here",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Write on the page above",
+              "text": "Click the lines and type. Today's date is added for you."
+            },
+            {
+              "name": "Let it save",
+              "text": "Your page saves itself a moment after you stop typing."
+            },
+            {
+              "name": "Start new entries",
+              "text": "Tap New page for each new day or topic. Tap My pages to see all of them, and Delete to remove one."
+            },
+            {
+              "name": "Lock it",
+              "text": "Tap Lock and set a PIN if others use this device. It is a privacy screen, not encryption."
+            },
+            {
+              "name": "Print or save as PDF",
+              "text": "Tap Print to print an entry or keep it as a PDF file."
+            }
+          ]
+        },
+        {
+          "tip": "This digital journal keeps your pages in this browser on this device. There is no account and no syncing, so pages on your laptop will not show up on your phone. Save PDFs as a backup."
+        }
+      ]
+    },
+    {
+      "h2": "How to start a digital journal in 5 steps",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Decide what it is for",
+              "text": "Memories, feelings, goals, gratitude or prayer. One main purpose makes it easier to write."
+            },
+            {
+              "name": "Choose one device",
+              "text": "The one you use most at the time you plan to write. For most people that is a phone."
+            },
+            {
+              "name": "Put it one tap away",
+              "text": "Add this site to your home screen so it opens like an app with its own icon."
+            },
+            {
+              "name": "Pick a daily time and a tiny goal",
+              "text": "For example, three lines after dinner. Small goals are the ones people keep."
+            },
+            {
+              "name": "Plan your backup",
+              "text": "At the end of each month, print or save your best pages as PDFs. Delete pages you do not want to keep."
+            }
+          ]
+        },
+        {
+          "p": "Need a push for your first page? See [how to start a journal](/how-to-start-a-journal/) and [journaling prompts for beginners](/journaling-prompts-for-beginners/)."
+        }
+      ]
+    },
+    {
+      "h2": "Digital journal ideas",
+      "blocks": [
+        {
+          "p": "A blank page is easier with a plan. Here are 30 digital journal ideas, grouped by what you want from your journal."
+        },
+        {
+          "h3": "For remembering your days"
+        },
+        {
+          "ol": [
+            "Three lines about today: morning, afternoon, evening.",
+            "The best thing you ate this week and who you ate it with.",
+            "A list of songs stuck in your head this month.",
+            "Something a friend or child said that made you laugh.",
+            "One sentence a day, every day, like a [one line a day journal](/one-line-a-day-journal/).",
+            "A short review of every book or show you finish."
+          ]
+        },
+        {
+          "h3": "For feeling calmer"
+        },
+        {
+          "ol": [
+            "A brain dump of everything on your mind before bed.",
+            "Three specific things you are grateful for today.",
+            "One worry, then one small thing you can do about it.",
+            "A note to your future self for a hard day.",
+            "Your mood in one word, then why.",
+            "A list of things that always help when you feel low."
+          ]
+        },
+        {
+          "h3": "For goals and growth"
+        },
+        {
+          "ol": [
+            "Your top three goals for this month and one step for each.",
+            "A weekly review: what worked, what did not, what to change.",
+            "Habits you want to start, with a check each day.",
+            "Things you learned this week, big or small.",
+            "A letter to yourself one year from now.",
+            "A list of times you were braver than you expected."
+          ]
+        },
+        {
+          "h3": "For fun and creativity"
+        },
+        {
+          "ol": [
+            "Describe the view from your window in detail.",
+            "Write about a dream you had last night.",
+            "Make a bucket list for this season.",
+            "List your favorite small luxuries.",
+            "Write the story of your day as if it were a movie scene.",
+            "Plan your perfect lazy Sunday, hour by hour."
+          ]
+        },
+        {
+          "h3": "For special topics"
+        },
+        {
+          "ol": [
+            "A [travel journal](/travel-journal/) page for each trip.",
+            "A [gratitude journal](/gratitude-journal/) entry each evening.",
+            "A [food journal](/food-journal/) for meals and how they made you feel.",
+            "A [prayer journal](/prayer-journal/) with requests and answered prayers.",
+            "A reading log of quotes you want to keep.",
+            "A [dream journal](/dream-journal/) by your bed."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Digital journal examples",
+      "blocks": [
+        {
+          "p": "Here are three short examples to show how different a digital journal can look. None of them is long. Each takes under five minutes."
+        },
+        {
+          "example": {
+            "label": "Daily log",
+            "date": "Tuesday, October 7",
+            "title": "Today",
+            "text": "Morning: dentist, no cavities.\nAfternoon: finished the slides early.\nEvening: tacos with Mia, then a long call with Mom.\nGood day."
+          }
+        },
+        {
+          "example": {
+            "label": "Feelings entry",
+            "date": "Friday, October 10",
+            "title": "Why I am tired",
+            "text": "It is not the work. It is saying yes to everything.\nThis week I said yes five times when I meant no.\nNext week: wait one hour before I answer."
+          }
+        },
+        {
+          "example": {
+            "label": "Gratitude list",
+            "date": "Sunday, October 12",
+            "title": "Thankful for",
+            "text": "1. The neighbor who brought back my lost cat.\n2. Hot soup on a cold night.\n3. A text from an old friend, out of nowhere."
+          }
+        },
+        {
+          "p": "Want more? See our [journal examples](/journal-examples/) and [diary entry examples](/diary-entry-examples/)."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a digital journal",
+      "blocks": [
+        {
+          "ol": [
+            "**Use one place.** Notes scattered across apps are hard to find later.",
+            "**Make it easy to open.** Add this site to your home screen. It installs with its own icon.",
+            "**Protect your device.** A passcode on your phone or computer is the strongest lock you have.",
+            "**Back up regularly.** Save your favorite pages as PDFs each month.",
+            "**Avoid private browsing for journaling.** Pages written in a private window are gone when you close it.",
+            "**Write a little, often.** A few lines a day becomes a full year of memories."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a digital journal?",
+      "a": "A digital journal is a journal you keep on a phone, tablet or computer instead of on paper. You type your entries in an app, a document or a journaling website. People use digital journals for daily notes, gratitude, goals, feelings and memories, just like a paper journal."
+    },
+    {
+      "q": "Is there a free digital journal?",
+      "a": "Yes. This page is a free digital journal with no sign up. Write in your browser, and your entries save on your device. You can lock it with a PIN and print entries or save them as PDFs. There is no syncing between devices, so use the same device each time."
+    },
+    {
+      "q": "What do you put in a digital journal?",
+      "a": "Anything you would put in a paper journal: what happened today, how you feel, things you are grateful for, goals, lists, dreams, prayers and notes to yourself. If you are stuck, pick one of the digital journal ideas above or answer a journal prompt."
+    },
+    {
+      "q": "Is a digital journal better than a paper journal?",
+      "a": "Neither is better for everyone. A digital journal is faster, always with you and easy to search through by scrolling. A paper journal feels personal and keeps you off screens. Choose the one you will use most, or use both for different things."
+    },
+    {
+      "q": "How do I keep my digital journal private?",
+      "a": "Use a passcode on your device, choose a journal that is clear about where it stores your writing, and use a lock if others share the device. Here, entries stay in your browser and are not sent to us. The PIN lock hides them on shared devices but is not encryption."
+    }
+  ]
+}

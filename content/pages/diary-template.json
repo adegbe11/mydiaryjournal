@@ -1,0 +1,228 @@
+{
+  "slug": "diary-template",
+  "keyword": "diary template",
+  "type": "template",
+  "title": "Free Diary Template (Fill In Online, Print or PDF)",
+  "description": "A free diary template with a dated page, Dear diary space and highlights. Fill it in online, print it or save as PDF. Includes a diary entry template guide.",
+  "h1": "Free diary template: a classic dated diary page",
+  "crumb": "Diary template",
+  "card": "Classic dated diary page",
+  "eyebrow": "Templates",
+  "intro": "This free diary template is a classic dated diary page: the date, the weather, a big Dear diary space to write about your day, and two short boxes for the best part and something to remember. Fill it in here, then print it or save it as a PDF.",
+  "template": {
+    "key": "diary-template",
+    "name": "Dear diary",
+    "eyebrow": "Date",
+    "fields": [
+      {
+        "label": "Weather and where I am",
+        "hint": "Sunny, at home...",
+        "lines": 1
+      },
+      {
+        "label": "Dear diary,",
+        "hint": "Today I...",
+        "lines": 10
+      },
+      {
+        "label": "Best part of today",
+        "hint": "One moment",
+        "lines": 2
+      },
+      {
+        "label": "Something I want to remember",
+        "hint": "A word, a joke, a face",
+        "lines": 2
+      }
+    ]
+  },
+  "related": [
+    "journal-template",
+    "diary-template-kids",
+    "how-to-write-a-diary-entry",
+    "diary-entry-format",
+    "diary-entry-examples",
+    "printable-journal-pages"
+  ],
+  "sections": [
+    {
+      "h2": "What is in this diary template",
+      "blocks": [
+        {
+          "ul": [
+            "**Date.** Every diary page starts with one. It is what lets you find a day years later.",
+            "**Weather and where I am.** A tiny detail that brings the memory back when you read it again.",
+            "**Dear diary.** The main space. Write about your day in order, the way you would tell a close friend.",
+            "**Best part of today.** One highlight, so even a hard day has something good on record.",
+            "**Something I want to remember.** A funny line, a smell, a face, a small detail that would otherwise be lost."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How to use the diary template",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Write the date",
+              "text": "Include the day of the week, for example \"Saturday, July 12\"."
+            },
+            {
+              "name": "Note the weather and place",
+              "text": "Just a few words."
+            },
+            {
+              "name": "Write your entry",
+              "text": "Start with Dear diary and tell the day: what happened, who you saw, how you felt. Write the way you talk."
+            },
+            {
+              "name": "Pick a highlight",
+              "text": "Fill in the best part and one thing to remember."
+            },
+            {
+              "name": "Print or save as PDF",
+              "text": "Press Print or save as PDF. Your typed words also save in this browser on this device until you press Clear."
+            }
+          ]
+        },
+        {
+          "tip": "Want to keep a diary every day without printing? Our [free online diary](/) keeps all your pages on your device with no sign up."
+        }
+      ]
+    },
+    {
+      "h2": "A filled in diary page example",
+      "blocks": [
+        {
+          "example": {
+            "label": "Diary",
+            "date": "Saturday, July 12",
+            "title": "Dear diary,",
+            "text": "Hot and sunny. At Grandma's house.\nWe picked strawberries this morning and ate half of them.\nAfter lunch Grandma showed me photos of Mum as a kid.\nShe had the same gap in her teeth as me!\nI felt happy and a bit sleepy all afternoon.\nBest part: the photos.\nRemember: Grandma's laugh when the dog stole a strawberry."
+          }
+        },
+        {
+          "p": "See more [diary entry examples](/diary-entry-examples/) for different ages and days."
+        }
+      ]
+    },
+    {
+      "h2": "Diary entry template for school",
+      "blocks": [
+        {
+          "p": "Teachers often ask students to write a diary entry, sometimes as a character from a book or history. This simple frame covers what most teachers look for."
+        },
+        {
+          "table": {
+            "head": [
+              "Part",
+              "What to write",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Date",
+                "Day and date at the top",
+                "Monday, 3rd March"
+              ],
+              [
+                "Greeting",
+                "Speak to the diary",
+                "Dear diary,"
+              ],
+              [
+                "Opening",
+                "Say what kind of day it was",
+                "Today was the strangest day of my life."
+              ],
+              [
+                "Events",
+                "What happened, in time order, past tense",
+                "First... then... later..."
+              ],
+              [
+                "Feelings",
+                "How you felt and why",
+                "I was nervous because..."
+              ],
+              [
+                "Ending",
+                "Thoughts about tomorrow",
+                "I hope tomorrow is calmer."
+              ],
+              [
+                "Sign off",
+                "Close like a letter",
+                "Love, Maya"
+              ]
+            ]
+          }
+        },
+        {
+          "ul": [
+            "Write in the **first person** (I, me, my).",
+            "Use the **past tense** for what happened today.",
+            "Use **time words** like first, next, after that, finally.",
+            "Show **feelings**, not just events."
+          ]
+        },
+        {
+          "p": "Our guides on [how to write a diary entry](/how-to-write-a-diary-entry/) and the [diary entry format](/diary-entry-format/) go step by step. For younger children, use the [diary template for kids](/diary-template-kids/)."
+        }
+      ]
+    },
+    {
+      "h2": "Diary template PDF and Google Docs",
+      "blocks": [
+        {
+          "p": "There is no separate file to download. This page is the template."
+        },
+        {
+          "ul": [
+            "**PDF.** Press Print or save as PDF and choose Save as PDF. Save it blank to print many copies, or save each filled page.",
+            "**Google Docs.** Make a new doc with the date, Weather and where I am, Dear diary, Best part of today and Something I want to remember as headings. Add a new section each day at the top.",
+            "**Word.** The same layout works in Word. Save it as a template so each new day opens a fresh page."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Tips for keeping a diary",
+      "blocks": [
+        {
+          "ul": [
+            "Write at the same time each day, like just before bed.",
+            "Short is fine. Five lines is a full entry.",
+            "Include small details: what you ate, what someone said, a song on the radio. They bring memories back best.",
+            "Be honest. A diary is private, so you can write what you really think.",
+            "Stuck? Try our [diary entry topics](/diary-entry-topics/) or [diary ideas](/diary-ideas/)."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this diary template free?",
+      "a": "Yes. Fill it in online, print it or save it as a PDF for free. There is no sign up. Your typed answers save only in your browser on this device."
+    },
+    {
+      "q": "What should a diary page include?",
+      "a": "A date, a greeting like Dear diary, what happened in the day, how you felt about it, and anything you want to remember. Many people also add the weather and the best part of the day."
+    },
+    {
+      "q": "How do you start a diary entry?",
+      "a": "Write the date at the top, then Dear diary. Start with one sentence that sums up the day, like \"Today was busy but fun.\" Then tell what happened in order and how you felt."
+    },
+    {
+      "q": "What is the format of a diary entry?",
+      "a": "Date at the top, a greeting, the events of the day in time order written in the first person and past tense, your feelings and thoughts, then a closing line or sign off. See our full [diary entry format](/diary-entry-format/) guide."
+    },
+    {
+      "q": "How do I make a diary template in Google Docs?",
+      "a": "Open a new Google Doc, type the date and a few headings like Dear diary, Best part of today and Something to remember, with space under each. Copy that block to the top of the doc each day and fill it in."
+    }
+  ],
+  "hub": "diary"
+}

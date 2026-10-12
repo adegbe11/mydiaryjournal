@@ -1,0 +1,306 @@
+{
+  "slug": "diary-for-kids",
+  "keyword": "diary for kids",
+  "type": "article",
+  "title": "Diary for Kids: Free Online Diary, Ideas and Tips",
+  "description": "A free diary for kids to write in online, plus how to write a diary for kids, what to look for in a paper diary, 50 fun ideas and simple tips for parents.",
+  "h1": "Diary for kids: write, learn and have fun",
+  "crumb": "Diary for kids",
+  "card": "Free diary and fun ideas",
+  "eyebrow": "Diary for kids",
+  "intro": "A diary for kids is a private place where children write or draw about their day, their feelings and the things they love. You can start right now with the free diary below, no sign up needed, or use this page to choose a paper diary and find fun ideas to write about.",
+  "writer": {
+    "title": "Dear diary,",
+    "hint": "Today I...",
+    "kind": "diary-for-kids"
+  },
+  "related": [
+    "diary-template-kids",
+    "journal-prompts-for-kids",
+    "diary-ideas",
+    "diary-entry-topics",
+    "secret-diary",
+    "prayer-journal-for-kids"
+  ],
+  "sections": [
+    {
+      "h2": "How to write a diary for kids",
+      "blocks": [
+        {
+          "p": "Writing a diary is easy. Here is how to do it, one step at a time."
+        },
+        {
+          "steps": [
+            {
+              "name": "Write the date",
+              "text": "Put today's date at the top, like Monday, May 4. Now you will always know when it happened."
+            },
+            {
+              "name": "Say hello",
+              "text": "Write **Dear diary,** like you are talking to a friend. You can even give your diary a name."
+            },
+            {
+              "name": "Tell what happened",
+              "text": "Write about one thing you did today. Who was there? Where were you?"
+            },
+            {
+              "name": "Say how you felt",
+              "text": "Happy, silly, sad, excited, brave? Write why you felt that way."
+            },
+            {
+              "name": "Add a drawing",
+              "text": "If you are writing on paper, draw a small picture of your day. Pictures count too."
+            },
+            {
+              "name": "Say goodbye",
+              "text": "End with goodnight, see you tomorrow, or your name."
+            }
+          ]
+        },
+        {
+          "example": {
+            "label": "A kid's diary",
+            "date": "Saturday, May 9",
+            "title": "Dear diary,",
+            "text": "Today we baked cookies with Grandma.\nI cracked the eggs all by myself.\nOne egg fell on the floor and the dog ate it!\nThe cookies were warm and gooey.\nI felt proud and happy.\nGoodnight, Leo"
+          }
+        },
+        {
+          "tip": "Kids who are just learning to write can draw a picture and write one sentence. That is a real diary entry."
+        }
+      ]
+    },
+    {
+      "h2": "Our free online diary for kids",
+      "blocks": [
+        {
+          "p": "The diary at the top of this page is free and simple. Kids type, and their page saves by itself in the browser on that device. There is no sign up, no account and no email."
+        },
+        {
+          "ul": [
+            "**Private.** Pages stay on your device. They are not posted anywhere or sent to us.",
+            "**PIN lock.** A PIN keeps the diary closed on a shared family computer. It is a simple lock, not encryption.",
+            "**Print it.** Print any page or save it as a PDF to keep in a folder.",
+            "**Works anywhere.** Use it in any browser on a computer, tablet or phone. There is no app to download, but you can add it to the home screen."
+          ]
+        },
+        {
+          "p": "Pages are saved on one device only and do not sync, so if a child writes on the family tablet, the pages stay on that tablet. Open the full [online diary](/) any time."
+        }
+      ]
+    },
+    {
+      "h2": "What to look for in a paper diary for kids",
+      "blocks": [
+        {
+          "p": "Many children love a real diary they can hold. If you are buying one, these things matter more than the cover."
+        },
+        {
+          "table": {
+            "head": [
+              "Feature",
+              "Why it helps",
+              "Best for"
+            ],
+            "rows": [
+              [
+                "Wide lines",
+                "Easier for growing handwriting",
+                "Ages 5 to 8"
+              ],
+              [
+                "Half blank, half lined pages",
+                "Room to draw and write",
+                "Ages 5 to 9"
+              ],
+              [
+                "Prompts on each page",
+                "Helps when they do not know what to write",
+                "Reluctant writers"
+              ],
+              [
+                "Undated pages",
+                "No guilt about skipped days",
+                "Most kids"
+              ],
+              [
+                "A lock and key",
+                "Feels special and private",
+                "Ages 7 to 12"
+              ],
+              [
+                "A sturdy cover",
+                "Survives backpacks",
+                "School age kids"
+              ],
+              [
+                "Thick paper",
+                "Markers do not bleed through",
+                "Kids who draw"
+              ]
+            ]
+          }
+        },
+        {
+          "tip": "A lock on a kids' diary is more about feeling special than real security. The best protection is a family rule that diaries are private."
+        },
+        {
+          "p": "Want to print pages instead? Our [diary template for kids](/diary-template-kids/) has simple lined pages with a box for a drawing."
+        }
+      ]
+    },
+    {
+      "h2": "Fun diary ideas for kids",
+      "blocks": [
+        {
+          "p": "Not sure what to write? Pick one of these and press **Write**."
+        },
+        {
+          "h3": "About my day"
+        },
+        {
+          "prompts": [
+            "What was the best part of today?",
+            "What did you eat for lunch? Did you like it?",
+            "Who did you play with today, and what did you play?",
+            "What made you laugh today?",
+            "What new thing did you learn today?",
+            "What was the weather like? Draw it too.",
+            "Did anything surprise you today?",
+            "What are you excited about for tomorrow?"
+          ],
+          "start": 1
+        },
+        {
+          "h3": "All about me"
+        },
+        {
+          "prompts": [
+            "What is your favorite color, food and animal?",
+            "What are you really good at?",
+            "What makes you feel happy inside?",
+            "If you could try any job for one day, which would you pick and why?",
+            "If you could have any pet, what would it be? What would you name it?",
+            "What is your favorite book or movie, and why?",
+            "What is something brave you did?",
+            "What do you love about your family?",
+            "Who is your best friend and what do you like about them?",
+            "What is your favorite game to play?"
+          ],
+          "start": 9
+        },
+        {
+          "h3": "Imagine"
+        },
+        {
+          "prompts": [
+            "If you could fly for one day, where would you go?",
+            "If your toys came alive at night, what would they do?",
+            "Invent a new animal. What does it look like and what does it eat?",
+            "If you were the teacher for a day, what would you teach?",
+            "Design your dream treehouse.",
+            "If you could talk to animals, which one would you talk to first?",
+            "What would you do if you were invisible for one hour?",
+            "Make up a new ice cream flavor.",
+            "If you had a robot helper, what jobs would it do?",
+            "Write a story about a dragon who is scared of the dark."
+          ],
+          "start": 19
+        },
+        {
+          "h3": "Feelings"
+        },
+        {
+          "prompts": [
+            "What makes you feel calm?",
+            "What do you do when you feel sad?",
+            "When did you feel proud this week?",
+            "What is something that worries you? Who can you tell about it?",
+            "What is a kind thing someone did for you?",
+            "What is a kind thing you did for someone else?",
+            "Write three things you are thankful for.",
+            "When did you feel brave?",
+            "Who do you talk to when you have a problem?",
+            "When did you feel grown up?"
+          ],
+          "start": 29
+        },
+        {
+          "h3": "Special days"
+        },
+        {
+          "prompts": [
+            "Write about your last birthday.",
+            "What is your favorite holiday and how does your family celebrate it?",
+            "Write about a trip to the park, the beach or the zoo.",
+            "What did you do on a rainy day?",
+            "Write about your first day of school this year.",
+            "What do you love about summer vacation?",
+            "Write about a time you lost a tooth.",
+            "Write about a day you helped someone.",
+            "What is the best day you can remember?",
+            "Write about a visit to someone you love.",
+            "What was the best present you ever got?",
+            "Write about a snow day, or what you would do on one."
+          ],
+          "start": 39
+        },
+        {
+          "p": "Find many more on our pages of [journal prompts for kids](/journal-prompts-for-kids/) and [diary entry topics](/diary-entry-topics/)."
+        }
+      ]
+    },
+    {
+      "h2": "Tips for parents and teachers",
+      "blocks": [
+        {
+          "ul": [
+            "**Respect privacy.** Kids write more honestly when they trust that their diary will not be read without asking. Agree on this as a family.",
+            "**Keep it short.** Five minutes at bedtime is plenty. Small and often builds the habit.",
+            "**Write together at first.** Younger kids can tell you their day while you write it, then add their own drawing.",
+            "**Do not correct spelling.** A diary is not homework. Let them enjoy writing.",
+            "**Model it.** Kids copy what they see. Keep your own diary or journal.",
+            "**Make it fun.** Stickers, colored pens and a special pencil case make diary time feel like a treat.",
+            "**Stay safe online.** Remind kids not to share diary pages or personal details online."
+          ]
+        },
+        {
+          "p": "For school writing, the [diary entry format](/diary-entry-format/) page shows the layout teachers expect, with a simple version for younger children."
+        }
+      ]
+    },
+    {
+      "h2": "Why a diary is good for kids",
+      "blocks": [
+        {
+          "p": "A diary gives kids a quiet place that is all theirs. It is practice for reading and writing without the pressure of a grade. It helps them name their feelings, which can make big feelings easier to handle. And it becomes a lovely record of childhood that they can read when they are older."
+        },
+        {
+          "p": "Faith families might also like our ideas for a [prayer journal for kids](/prayer-journal-for-kids/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What age should a child start a diary?",
+      "a": "Many children start around 6 to 8 years old, once they can write a few sentences. Younger kids can keep a picture diary, drawing their day and saying one sentence for a grown up to write down. There is no wrong age to begin."
+    },
+    {
+      "q": "What should kids write in a diary?",
+      "a": "Kids can write about what they did today, what made them happy or sad, their friends, their family, their favorite things, and things they imagine. Drawings, lists and short stories all count. Prompts like What was the best part of today help when they get stuck."
+    },
+    {
+      "q": "How do you write a diary for kids?",
+      "a": "Write the date, then Dear diary. Tell one thing that happened today and how it made you feel. Add a drawing if you like, and end with goodnight or your name. Keep it short and fun. A few sentences is a great diary entry."
+    },
+    {
+      "q": "Is this online diary safe for kids?",
+      "a": "Our online diary has no sign up, no account and no sharing. Pages are saved only in the browser on that device and are not sent to us. A PIN can keep it closed on a shared computer. Parents should still talk with kids about keeping personal details offline."
+    },
+    {
+      "q": "What is a good diary to buy for a child?",
+      "a": "Look for wide lines, some blank space for drawing, undated pages, thick paper and a sturdy cover. A lock and key makes it feel special for ages 7 to 12. Diaries with a short prompt on each page help children who do not know what to write."
+    }
+  ]
+}

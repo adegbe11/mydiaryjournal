@@ -1,0 +1,278 @@
+{
+  "slug": "diary-template-kids",
+  "keyword": "diary template kids",
+  "type": "template",
+  "title": "Diary Template for Kids (Free Printable, KS1 and KS2)",
+  "description": "A free diary template for kids ages 5 to 10. Big, friendly boxes for feelings, the best part of the day and tomorrow. Fill in, print or save as PDF.",
+  "h1": "Diary template for kids: free and printable",
+  "crumb": "Diary template for kids",
+  "card": "Kids diary page",
+  "eyebrow": "Templates",
+  "intro": "This free diary template for kids has big, simple boxes that children ages 5 to 10 can fill in: how I felt today, the best part of my day, something I learned and what I want to do tomorrow. Fill it in on screen, or print it blank for writing and drawing by hand. It works well for KS1 and KS2 diary writing too.",
+  "template": {
+    "key": "diary-template-kids",
+    "name": "My diary",
+    "eyebrow": "Today is",
+    "fields": [
+      {
+        "label": "Today I felt",
+        "hint": "happy, tired, excited, cross...",
+        "lines": 2
+      },
+      {
+        "label": "The best part of my day",
+        "hint": "My favorite thing was...",
+        "lines": 3
+      },
+      {
+        "label": "Something tricky today",
+        "hint": "It was hard when...",
+        "lines": 2
+      },
+      {
+        "label": "I learned",
+        "hint": "Today I found out...",
+        "lines": 2
+      },
+      {
+        "label": "I am thankful for",
+        "hint": "A person, a pet, a snack...",
+        "lines": 2
+      },
+      {
+        "label": "Tomorrow I want to",
+        "hint": "I hope I can...",
+        "lines": 2
+      }
+    ]
+  },
+  "related": [
+    "diary-for-kids",
+    "journal-prompts-for-kids",
+    "diary-template",
+    "how-to-write-a-diary-entry",
+    "diary-entry-about-first-day-at-school",
+    "prayer-journal-for-kids"
+  ],
+  "sections": [
+    {
+      "h2": "What is on this kids diary page",
+      "blocks": [
+        {
+          "p": "Each box asks one easy question. Young children can answer with one word or a picture. Older children can write full sentences."
+        },
+        {
+          "ul": [
+            "**Today I felt.** Naming a feeling helps kids understand it.",
+            "**The best part of my day.** Every day has one, even a rainy one.",
+            "**Something tricky today.** A safe place to say what was hard.",
+            "**I learned.** Something from school, home or the park.",
+            "**I am thankful for.** A small habit of noticing good things.",
+            "**Tomorrow I want to.** Something to look forward to."
+          ]
+        },
+        {
+          "h3": "Feeling words to help"
+        },
+        {
+          "table": {
+            "head": [
+              "Good feelings",
+              "Hard feelings",
+              "In between"
+            ],
+            "rows": [
+              [
+                "happy, proud, excited",
+                "sad, cross, worried",
+                "tired, bored, okay"
+              ],
+              [
+                "calm, silly, loved",
+                "scared, lonely, grumpy",
+                "surprised, curious, quiet"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "h2": "How to use the diary template with kids",
+      "blocks": [
+        {
+          "steps": [
+            {
+              "name": "Print a few blank pages",
+              "text": "Press Print or save as PDF. Printing blank lets children write and draw by hand."
+            },
+            {
+              "name": "Pick a cozy time",
+              "text": "After dinner or just before bed works well. Five to ten minutes is enough."
+            },
+            {
+              "name": "Write the date together",
+              "text": "Younger children can copy it from a calendar. It is good practice."
+            },
+            {
+              "name": "Talk first, then write",
+              "text": "Ask the questions out loud. For ages 5 and 6, an adult can write while the child talks, then the child adds a drawing."
+            },
+            {
+              "name": "Draw in the margins",
+              "text": "A picture of the best part of the day counts as writing for little ones."
+            },
+            {
+              "name": "Keep the pages together",
+              "text": "Put them in a folder or binder. Kids love reading old pages."
+            }
+          ]
+        },
+        {
+          "tip": "A diary should feel safe. Ask before reading your child's diary, and thank them when they share it with you."
+        }
+      ]
+    },
+    {
+      "h2": "A filled in kids diary example",
+      "blocks": [
+        {
+          "example": {
+            "label": "My diary",
+            "date": "Today is Friday, May 9",
+            "title": "My diary",
+            "text": "Today I felt: happy and a bit tired.\nBest part: we found a frog in the school pond!\nSomething tricky: I lost my water bottle.\nI learned: frogs can breathe through their skin.\nI am thankful for: Mrs. Patel who found my bottle.\nTomorrow I want to: go to the park with Dad."
+          }
+        },
+        {
+          "p": "For a younger child, the same page might just say \"happy\", \"frog\", \"bottle\", with a big drawing of a frog. Both are great."
+        }
+      ]
+    },
+    {
+      "h2": "Diary template KS1 (ages 5 to 7)",
+      "blocks": [
+        {
+          "p": "In KS1, children start writing simple recounts of things that happened to them. A diary is a perfect way to practice."
+        },
+        {
+          "ul": [
+            "Use the template as it is, with one word or short sentence answers.",
+            "Practice the date, capital letters and full stops in each box.",
+            "Use time words out loud first: first, next, then, last.",
+            "Let children draw first and write a caption under the picture.",
+            "Good topics: a trip to the park, a birthday, a lost tooth, a new pet."
+          ]
+        },
+        {
+          "p": "Our [diary for kids](/diary-for-kids/) page has more ideas for young writers."
+        }
+      ]
+    },
+    {
+      "h2": "Diary template KS2 (ages 7 to 11)",
+      "blocks": [
+        {
+          "p": "In KS2, children write longer diary entries, often as a character from a story or history. They use the same parts every time."
+        },
+        {
+          "table": {
+            "head": [
+              "Part",
+              "What to write",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Date",
+                "Day and date",
+                "Tuesday 14th October"
+              ],
+              [
+                "Greeting",
+                "Talk to the diary",
+                "Dear diary,"
+              ],
+              [
+                "Opening",
+                "One sentence about the day",
+                "What a day I have had!"
+              ],
+              [
+                "Middle",
+                "Events in order, past tense, first person",
+                "First... After that... Later..."
+              ],
+              [
+                "Feelings",
+                "How I felt and why",
+                "My heart was pounding because..."
+              ],
+              [
+                "Ending",
+                "Thoughts about tomorrow",
+                "I hope tomorrow is calmer."
+              ]
+            ]
+          }
+        },
+        {
+          "ul": [
+            "Write as \"I\" (first person).",
+            "Use the past tense for what happened today.",
+            "Show feelings with details, like a pounding heart or shaky hands.",
+            "Use time words like meanwhile, eventually and the next morning."
+          ]
+        },
+        {
+          "p": "Try a topic like [my first day at school](/diary-entry-about-first-day-at-school/) or [a rainy day](/diary-entry-about-rainy-day/). For step by step help, see [how to write a diary entry](/how-to-write-a-diary-entry/)."
+        }
+      ]
+    },
+    {
+      "h2": "Ideas for what kids can write about",
+      "blocks": [
+        {
+          "ul": [
+            "The funniest thing that happened today",
+            "A game I played and who won",
+            "What I had for lunch and if I liked it",
+            "Something kind someone did for me",
+            "Something kind I did for someone",
+            "A dream I had last night",
+            "My favorite toy and why",
+            "If I could have any pet, it would be...",
+            "The best day I ever had",
+            "What I want to be when I grow up"
+          ]
+        },
+        {
+          "p": "There are many more in our [journal prompts for kids](/journal-prompts-for-kids/)."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this kids diary template free?",
+      "a": "Yes. You can fill it in on screen, print it or save it as a PDF for free. No sign up is needed. Anything typed is saved only in the browser on this device."
+    },
+    {
+      "q": "What age is this diary template for?",
+      "a": "It is made for children ages 5 to 10. Younger children can answer with one word and a drawing, with an adult helping to write. Older children can write full sentences in each box."
+    },
+    {
+      "q": "What should a child write in a diary?",
+      "a": "How they felt, the best part of the day, something tricky, something they learned and what they want to do tomorrow. Funny moments, games, food, friends and pets are all great topics."
+    },
+    {
+      "q": "What are the features of a diary entry for KS2?",
+      "a": "A date, a greeting like Dear diary, events in time order, written in the first person and past tense, with feelings and thoughts, time words, and an ending that looks ahead. Many teachers also ask for an informal, chatty tone."
+    },
+    {
+      "q": "How do I get my child to keep a diary?",
+      "a": "Keep it short and fun. Pick a regular time like bedtime, let them draw, and talk about the day before they write. Never correct spelling in their private diary. Praise them for writing anything at all."
+    }
+  ],
+  "hub": "diary"
+}

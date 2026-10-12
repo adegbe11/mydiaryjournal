@@ -1,0 +1,164 @@
+{
+  "slug": "diary-for-women",
+  "keyword": "diary for women",
+  "type": "article",
+  "title": "Diary for Women: Free Private Diary, Ideas and Tips",
+  "description": "A free private diary for women to write in online, plus how to choose a paper diary, the best kinds of diaries for women, 50 prompts and tips for busy days.",
+  "h1": "Diary for women: a few quiet minutes that are yours",
+  "crumb": "Diary for women",
+  "card": "A private page for you",
+  "eyebrow": "Diary for women",
+  "intro": "A diary for women is a private place to put down your day, your thoughts and the things you want to remember, without anyone else's opinion. Start now in the free diary below with no sign up, or use this page to choose a paper diary that fits your life and find prompts for the days you do not know what to write.",
+  "writer": {"title": "Dear diary,", "hint": "What is on my mind today?", "kind": "diary-for-women"},
+  "related": ["journal-prompts-for-women", "self-love-journal-prompts", "one-line-a-day-journal", "gratitude-journal", "prayer-journal-for-women", "how-to-write-a-diary"],
+  "sections": [
+    {
+      "h2": "A free private diary for women",
+      "blocks": [
+        {"p": "The diary at the top of this page is free and private. Open it, write, and close the tab. It saves as you type."},
+        {"ul": [
+          "**No sign up and no account.** No email list, no password to remember.",
+          "**Your pages stay with you.** They are saved in this browser on this device and are not sent to us.",
+          "**PIN lock** to keep it closed on a shared family computer. It keeps pages out of sight, but it is not encryption.",
+          "**Print or save as PDF** to keep a copy of the pages that matter.",
+          "**Any browser, any device.** No app to install. Add it to your phone's home screen and it opens like one."
+        ]},
+        {"p": "There is no sync between devices, so pick the one you write on most. Open the full [online diary](/) any time."}
+      ]
+    },
+    {
+      "h2": "How to choose a paper diary for women",
+      "blocks": [
+        {"p": "If you love pen and paper, the right diary is the one that fits how you actually live. Think about these before you buy."},
+        {"table": {
+          "head": ["Type", "Good for", "Watch out for"],
+          "rows": [
+            ["Dated daily diary", "A fixed page each day, great for routine", "Blank pages if you miss days"],
+            ["Undated notebook", "Writing when you want, at any length", "No structure on blank days"],
+            ["Five year or one line a day diary", "Busy women who want a tiny daily habit", "Very little space per day"],
+            ["Guided journal", "Prompts on every page", "Prompts may not fit your life"],
+            ["Diary planner", "Plans and notes in one book", "Plans can crowd out reflection"],
+            ["Lockable diary", "Privacy at home", "Locks are more symbolic than secure"]
+          ]
+        }},
+        {"h3": "Small details that make a big difference"},
+        {"ul": [
+          "**Size.** A5 fits a handbag and still gives room to write. Larger feels luxurious at home.",
+          "**Paper weight.** Thicker paper (around 100 gsm or more) stops ink showing through.",
+          "**Lay flat binding** so you can write without holding the page down.",
+          "**Ribbon marker and pocket** for today's page and small keepsakes.",
+          "**A cover you like touching.** You are more likely to open something that feels good in your hand."
+        ]},
+        {"p": "If you want just a few lines a day, a [one line a day journal](/one-line-a-day-journal/) may suit you better than a full page diary."}
+      ]
+    },
+    {
+      "h2": "Kinds of diaries women keep",
+      "blocks": [
+        {"p": "Your diary does not have to be one thing. Many women mix two or three of these."},
+        {"ul": [
+          "**Daily diary.** What happened today and how it felt. See [daily diary](/daily-diary/).",
+          "**Gratitude diary.** Three good things a day. See [gratitude journal](/gratitude-journal/).",
+          "**Prayer journal.** Verses, prayers and answered prayers. See [prayer journal for women](/prayer-journal-for-women/).",
+          "**Pregnancy or baby diary.** Notes, firsts and feelings to keep for your child. See [pregnancy journal](/pregnancy-journal/).",
+          "**Health and mood diary.** Sleep, energy, cycle, mood and symptoms, useful to bring to a doctor. See [mood journal](/mood-journal/).",
+          "**Travel diary.** Places, meals and people from each trip."
+        ]},
+        {"tip": "If faith is part of your life, our Android app **Prayer Journal for Women** gives you 52 weeks of Bible verses, reflection and prayer, a prayer list and a page for every day, with no ads and no account. It is coming soon on Google Play. Learn more on the [Prayer Journal for Women](/prayer-journal-for-women/) page."}
+      ]
+    },
+    {
+      "h2": "Diary prompts for women",
+      "blocks": [
+        {"p": "Press **Write** next to any prompt to open it in your diary above."},
+        {"h3": "Your day"},
+        {"prompts": [
+          "What took most of your energy today, and was it worth it?",
+          "A moment today that you want to remember.",
+          "Something you did today just for you.",
+          "A conversation that stayed with you.",
+          "What you would drop from today if you could.",
+          "Something small that went right.",
+          "How your body feels tonight: rested, tense, sore, light?",
+          "What you said yes to today that you wanted to say no to."
+        ], "start": 1},
+        {"h3": "You"},
+        {"prompts": [
+          "Three things you like about the woman you are becoming.",
+          "What you need more of this month: rest, fun, company, quiet?",
+          "A belief about yourself you are ready to let go of.",
+          "What you would do with a whole free day and no one to look after.",
+          "The last time you felt completely like yourself.",
+          "Something you are proud of that nobody thanked you for.",
+          "What you wish you had known at twenty.",
+          "A dream you put on hold. Is it still yours?",
+          "What does taking care of yourself look like this week, really?",
+          "Write yourself the note you would leave for a tired friend."
+        ], "start": 9},
+        {"h3": "Relationships"},
+        {"prompts": [
+          "A friend who always makes things lighter. Write what she means to you.",
+          "Something you want to say to your partner, mother or sister.",
+          "A relationship that drains you, and one small boundary that would help.",
+          "A woman who shaped you, and what she taught you without saying it.",
+          "How your friendships have changed in the last five years.",
+          "Someone you want to reconnect with.",
+          "What you need from the people closest to you right now.",
+          "A time you felt deeply understood."
+        ], "start": 19},
+        {"h3": "Gratitude and joy"},
+        {"prompts": [
+          "Five ordinary things you would miss if they were gone.",
+          "A smell, a song and a taste that make you happy.",
+          "The best part of this season of your life.",
+          "Something beautiful you noticed this week.",
+          "A tiny luxury you can give yourself tomorrow.",
+          "A memory that still makes you laugh.",
+          "Someone who helped you this month without being asked.",
+          "Where you feel most at peace."
+        ], "start": 27},
+        {"h3": "Looking ahead"},
+        {"prompts": [
+          "What you want this year to feel like, in three words.",
+          "One habit to start and one to stop.",
+          "A place you want to go and the first step toward it.",
+          "A skill you want to learn just for fun.",
+          "What would make next week ten percent easier?",
+          "A letter to yourself one year from now.",
+          "What you want your life to look like on an ordinary Tuesday five years from today.",
+          "Something brave you will do this month.",
+          "What you want your children, nieces or younger friends to learn from you.",
+          "What you are ready to begin.",
+          "What you are ready to finish.",
+          "What you want to remember about this year when you are eighty.",
+          "A small promise to yourself for tomorrow.",
+          "What success means to you now, not to anyone else.",
+          "What you hope to say about this year next December.",
+          "The one thing that would help you most right now."
+        ], "start": 35},
+        {"p": "For more, see [journal prompts for women](/journal-prompts-for-women/) and [self love journal prompts](/self-love-journal-prompts/)."}
+      ]
+    },
+    {
+      "h2": "Tips for keeping a diary when life is busy",
+      "blocks": [
+        {"ol": [
+          "**Shrink it.** Three lines: what happened, how you felt, what you are grateful for.",
+          "**Attach it to something you already do.** Morning coffee, the school run wait, or right before you turn the light off.",
+          "**Keep it where you are.** A diary on your bedside table or a diary bookmarked on your phone gets used.",
+          "**Let go of perfect.** Messy handwriting and unfinished sentences are fine.",
+          "**Write the hard days too.** Some of the most useful pages to read back are the ones written on bad days.",
+          "**Read back monthly.** You will notice patterns in your energy, mood and relationships."
+        ]},
+        {"tip": "A diary can be a good place to untangle stress, but it does not replace professional care. If you are struggling for a long time, talk to a doctor or counselor. If you are in crisis, contact local emergency services. In the US, call or text 988."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What is the best diary for women?", "a": "The best diary is one that fits your life. If you are busy, a one line a day or five year diary works well. If you like to write longer, an undated notebook with thick paper is ideal. If you want privacy and ease, a free online diary with a PIN works on any device."},
+    {"q": "What should a woman write in her diary?", "a": "Write what happened today and how it felt, what you are grateful for, what is worrying you, and what you hope for. You can also write about relationships, health, work, faith and goals. Prompts help on days when you do not know where to start."},
+    {"q": "Is there a free private diary for women online?", "a": "Yes. The diary on this page is free with no sign up and no account. Pages are saved in the browser on your device and are not sent to us. You can set a PIN to keep it closed on a shared computer, and print any page."},
+    {"q": "How do I find time to keep a diary?", "a": "Make it small and tie it to something you already do, like your morning coffee or getting into bed. Three lines takes two minutes. Keep your diary within reach, and on busy days write one sentence. A short habit is easier to keep than a long one."},
+    {"q": "Is a diary or a journal better for women?", "a": "Neither is better. A diary records what happened each day, and a journal is a place to reflect, plan or pray. Many women do both on the same page: a few lines about the day, then a thought or a prayer. See our diary vs journal guide for more."}
+  ]
+}

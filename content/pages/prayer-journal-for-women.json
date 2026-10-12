@@ -1,0 +1,183 @@
+{
+  "slug": "prayer-journal-for-women",
+  "keyword": "prayer journal for women",
+  "type": "article",
+  "app": true,
+  "title": "Prayer Journal for Women: Free Page, Prompts and App",
+  "description": "A prayer journal for women: what to write, a simple weekly flow, 30 prompts, a free page to fill in now, and our private Android app with 52 weeks of verses.",
+  "h1": "Prayer journal for women",
+  "crumb": "Prayer journal for women",
+  "card": "A year of weekly prayer",
+  "eyebrow": "Prayer journal",
+  "intro": "A **prayer journal for women** is a notebook or app where you write to God: the verse you read, what you are thankful for, what you are carrying, who you are praying for, and how He answers. Use the free page below today, then try the weekly flow and prompts on this page.",
+  "template": {
+    "key": "prayer-journal-for-women",
+    "name": "My prayer page",
+    "eyebrow": "Date",
+    "fields": [
+      {"label": "The verse I read", "hint": "Psalm 62:8, Isaiah 41:10...", "lines": 2},
+      {"label": "How my heart is today", "hint": "Tired, hopeful, a little worried...", "lines": 2},
+      {"label": "Thank You, Lord, for", "hint": "1.  2.  3.", "lines": 3},
+      {"label": "I am praying for", "hint": "Names and what they need", "lines": 4},
+      {"label": "Lord, help me with", "hint": "What I am carrying this week", "lines": 3},
+      {"label": "I will trust You with", "hint": "The thing I am handing over", "lines": 2},
+      {"label": "Answered prayers", "hint": "What God did, and the date", "lines": 2}
+    ]
+  },
+  "related": ["prayer-journal-prompts", "prayer-journal-template", "how-to-start-a-prayer-journal", "devotional-journal-for-women", "prayer-journal-acts", "journal-prompts-for-women"],
+  "sections": [
+    {
+      "h2": "What is a prayer journal for women?",
+      "blocks": [
+        {"p": "It is a place to pray in writing. Some women use a paper notebook, some use printed pages in a binder, and some use a prayer journal app on their phone. The format matters less than the habit: you sit with God for a few minutes, you read a little Scripture, and you write to Him the way you would talk to a close friend."},
+        {"p": "A prayer journal made for women often has room for the things that fill a woman's prayers: a husband or a future husband, children, aging parents, friends, work, church, health and her own heart. It usually gives a verse to start with and a few questions so you are never staring at a blank page."},
+        {"p": "Writing your prayers down does three simple things. It slows your mind so you can focus. It gives you a record of what you asked. And later, it shows you how God answered, which is the part most women say they treasure. If you are new to this, read [what a prayer journal is](/what-is-a-prayer-journal/) and [how to start one](/how-to-start-a-prayer-journal/)."},
+        {"verse": "Psalm 62:8"}
+      ]
+    },
+    {
+      "h2": "What to look for in a prayer journal",
+      "blocks": [
+        {"p": "There are three main kinds. Each one suits a different kind of week."},
+        {"table": {
+          "head": ["", "Paper notebook or book", "Printable pages", "Prayer journal app"],
+          "rows": [
+            ["Cost", "Usually paid", "Free to print", "Varies"],
+            ["Guided verses", "Some have them", "You choose your own", "Some have a plan"],
+            ["Prayer list", "You rewrite it by hand", "One page per list", "Can remind you by day"],
+            ["Answered prayers", "Flip back through pages", "Keep them in a binder", "Collected in one place"],
+            ["Privacy", "Anyone who finds it can read it", "Same as paper", "Depends on the app, check if it needs an account"],
+            ["Best for", "Women who love pen and paper", "Trying it out for free", "Praying on busy days, anywhere"]
+          ]
+        }},
+        {"h3": "A short checklist"},
+        {"ul": [
+          "**A verse to start with.** A weekly or daily verse means you never have to hunt for where to read.",
+          "**Room to write freely.** Small boxes feel nice at first but get crowded on hard weeks.",
+          "**A prayer list.** A place to keep names and needs so you do not forget people.",
+          "**An answered prayers page.** This is what builds your faith over the years.",
+          "**A pace you can keep.** Weekly guides are easier to finish than daily ones for most busy women.",
+          "**Privacy you trust.** Prayers are personal. Paper can be locked away. An app should not show ads or ask you to make an account."
+        ]}
+      ]
+    },
+    {
+      "h2": "A simple weekly prayer journal flow",
+      "blocks": [
+        {"p": "This flow takes about ten minutes a day. It follows one verse through the whole week, so the verse has time to sink in."},
+        {"steps": [
+          {"name": "Sunday: pick the verse", "text": "Choose one verse for the week. Write the reference at the top of the page and read the whole chapter around it."},
+          {"name": "Monday: write what it says", "text": "In your own words, what does the verse say about God? Keep it to two or three lines."},
+          {"name": "Tuesday: write your prayer list", "text": "List the people and needs on your heart this week. Put one name or need per line."},
+          {"name": "Wednesday: be honest", "text": "Write what you are struggling with or sorry for. Confess it plainly, then write that you are forgiven."},
+          {"name": "Thursday: give thanks", "text": "Write three to five things you are thankful for, including one small thing from today."},
+          {"name": "Friday: hand it over", "text": "Pick one worry from your list and write a prayer that gives it to God. End with one line about trusting Him."},
+          {"name": "Saturday: look back", "text": "Read the week's pages. Mark any answered prayers with the date. Write one sentence about what God taught you."}
+        ]},
+        {"tip": "Miss a day? Just pick up where you are. A prayer journal is not a test. If you want more ways to set up your pages, see [prayer journal ideas](/prayer-journal-ideas/)."}
+      ]
+    },
+    {
+      "h2": "Prayer journal prompts for women",
+      "blocks": [
+        {"p": "Use one prompt a day. Write the prompt at the top of the page above, or in your own notebook. There are many more in our full list of [prayer journal prompts](/prayer-journal-prompts/)."},
+        {"h3": "Your heart"},
+        {"ul": [
+          "Lord, this is what I have been carrying quietly that nobody knows about.",
+          "Where did I feel most like myself this week, and did I thank You for it?",
+          "What am I trying to control that I need to give back to You?",
+          "Which lie about myself keeps showing up, and what does Your Word say instead?",
+          "What would rest look like for me this week, in real, practical terms?",
+          "When did I last feel close to You? What was I doing?"
+        ]},
+        {"h3": "Your home and family"},
+        {"ul": [
+          "Name each person in my home and write one thing they need from You this week.",
+          "Where do I need patience with someone I love, and what is making it hard?",
+          "Lord, help me speak kindly in this situation at home.",
+          "Which family member have I not prayed for in a while?",
+          "What is one way I can show love at home tomorrow that costs me something?",
+          "What do I hope my children, nieces, nephews or the young people around me learn about You from me?"
+        ]},
+        {"h3": "Friends, work and church"},
+        {"ul": [
+          "Which friend is going through something hard right now? What would I ask You to do for her?",
+          "Where do I feel pressure at work, and what would trusting You look like there?",
+          "Who at church or in my town is lonely and needs to be seen?",
+          "Is there someone I need to forgive? Write her or his name and start the prayer.",
+          "How could I use my gifts to serve someone this month?",
+          "Who has been kind to me lately that I should thank, and thank You for?"
+        ]},
+        {"h3": "Trust and thanks"},
+        {"ul": [
+          "List five ways You provided for me this year that I almost forgot.",
+          "What prayer have You answered in a way I did not expect?",
+          "What am I waiting for, and how can I wait with hope instead of worry?",
+          "Write a short thank you letter to God about this season of my life.",
+          "What promise in the Bible do I need to hold onto this week?",
+          "Finish this sentence ten times: Lord, You are..."
+        ]}
+      ]
+    },
+    {
+      "h2": "Prayer journal example",
+      "blocks": [
+        {"p": "Here is one page from a week built on one verse. Yours can be shorter, messier or longer. It only needs to be honest."},
+        {"example": {"label": "Prayer journal", "date": "Friday, October 10", "title": "Dear Lord,", "text": "Verse this week: Isaiah 41:10\nMy heart: tired, and nervous about Mom's test results.\nThank You for a slow morning, for Jess, for warm soup.\nPraying for: Mom. Kayla's new baby. Our pastor's family.\nHelp me with: snapping at the kids when I am worn out.\nI trust You with: Mom's results. You are holding her.\nAnswered: the car repair cost half what I feared. (Oct 8)"}},
+        {"p": "See more pages like this in our [prayer journal examples](/prayer-journal-examples/)."}
+      ]
+    },
+    {
+      "h2": "Our prayer journal app for women",
+      "blocks": [
+        {"p": "If you would like your prayer journal on your phone, we made **Prayer Journal for Women**, an Android app that looks and feels like a paper journal. It is coming soon on Google Play. It is Android only for now, so it is not on the App Store or iPhone."},
+        {"h3": "Every week"},
+        {"ul": [
+          "A Bible verse to read and hold onto, in the KJV or the WEB",
+          "The whole chapter around it, so you read the verse in context",
+          "A short reflection and three questions to write about",
+          "A prayer page: thank Him, confess, ask and trust Him",
+          "A look back at the end of the week, and one flower in your year for each week you finish"
+        ]},
+        {"h3": "Your prayer list"},
+        {"ul": [
+          "Write who and what you are praying for, and choose which days to pray for each one",
+          "**Pray now** goes through today's prayers one card at a time",
+          "Pin the most important ones to the top and set a reminder to pray for someone",
+          "When God answers, write how, and look back on all He has done"
+        ]},
+        {"h3": "Every day and more"},
+        {"ul": [
+          "Today's page: how your heart is, three things you are thankful for, and a short prayer",
+          "A calendar of your days, and verses for how you feel, like anxious, tired, lonely or grateful",
+          "Ready made pages: SOAP Bible study, ACTS prayer, sermon notes, letter to God, prayers for your husband, children, family and friends, and a praise report",
+          "Lock it with your fingerprint or screen lock, save a backup file to Google Drive, and print or save pages as a PDF"
+        ]},
+        {"tip": "No ads. No account. The app has no internet access, so what you write stays on your phone. When the 52 weeks are done, you can start a new year with 52 new weeks of verses."}
+      ]
+    },
+    {
+      "h2": "Tips to keep your prayer journal going",
+      "blocks": [
+        {"ul": [
+          "**Keep it where you will see it.** On your nightstand, next to the coffee maker, or on your phone's home screen.",
+          "**Set a small goal.** Five minutes, four days a week, is a strong start.",
+          "**Write like you talk.** God does not need perfect words. Short, plain sentences are fine.",
+          "**Use the same verse all week.** You will notice something new each day.",
+          "**Date every answered prayer.** On hard days, read that list first.",
+          "**Pray for others by name.** It turns a worry list into an act of love.",
+          "**Do not start over every January.** Just keep going from today."
+        ]},
+        {"p": "Want a different structure? Try the four part [ACTS prayer journal](/prayer-journal-acts/), a [devotional journal for women](/devotional-journal-for-women/), or a printable [prayer journal template](/prayer-journal-template/)."}
+      ]
+    }
+  ],
+  "faq": [
+    {"q": "What do you write in a prayer journal for women?", "a": "Start with a verse and the date. Then write how your heart is, what you are thankful for, who you are praying for and what you need help with. Close by handing one worry to God. When a prayer is answered, write what happened and the date. Over time this becomes a record of God's faithfulness in your life."},
+    {"q": "Is there a prayer journal app for women?", "a": "Yes. Our app, Prayer Journal for Women, gives you 52 weeks of Bible verses with reflection and a prayer page, plus a prayer list, answered prayers and a page for every day. It is coming soon on Google Play for Android. It has no ads, needs no account, and has no internet access, so your writing stays on your phone."},
+    {"q": "Can I keep a prayer journal online for free?", "a": "Yes. The fill-in page at the top of this page is free. It saves in your browser on this device, with no sign up. You can print it or save it as a PDF to keep in a binder. If you clear your browser data the page will be removed, so print the pages you want to keep."},
+    {"q": "Is there a paper version of the app?", "a": "No. The app is for Android phones only. If you prefer paper, print the free page above as many times as you like, or use our printable prayer journal template. Many women do both: a phone for praying on the go and a printed page or notebook for quiet mornings."},
+    {"q": "How long should I spend on my prayer journal each day?", "a": "Five to fifteen minutes is plenty. A short time you keep is better than a long time you skip. Some women write a few lines each morning and a longer entry on the weekend. Pick what fits your season, and change it when your season changes."},
+    {"q": "Which Bible translation should I use for prayer journaling?", "a": "Use the one you understand and enjoy reading. The King James Version is loved for its beauty. The World English Bible is a modern, public domain translation that is easier for many readers. Our app lets you choose either one."}
+  ]
+}
